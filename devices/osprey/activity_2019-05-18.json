@@ -1,0 +1,43 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [
+      "mikeNG",
+      "bgcngm",
+      "tytso",
+      "ebiggers",
+      "JianyuZhan",
+      "sultanqasim",
+      "bwiegand",
+      "borntraeger",
+      "Alberto97",
+      "dt-moore"
+    ],
+    "n_commits": 82,
+    "n_contributors": 10
+  },
+  "365": {
+    "contributors": [
+      "mikeNG",
+      "0x36",
+      "LiJinyue",
+      "ebiggers",
+      "xairy",
+      "AlanStern",
+      "morbidrsa",
+      "Rashed97",
+      "dtor",
+      "sultanqasim",
+      "vgarodia",
+      "DroidFreak32",
+      "ummakynes",
+      "congwang"
+    ],
+    "n_commits": 82,
+    "n_contributors": 14
+  }
+}

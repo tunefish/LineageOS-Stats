@@ -1,0 +1,66 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [
+      "bgcngm",
+      "eladwexler",
+      "theimpulson",
+      "toddkjos",
+      "minchank",
+      "haggertk",
+      "johnstultz-work",
+      "brauner",
+      "MSF-Jarvis",
+      "dev-harsh1998",
+      "ericrannaud",
+      "tiwai",
+      "javelinanddart",
+      "mikeNG",
+      "gnehzuil",
+      "amluto",
+      "aymende7",
+      "gregkh",
+      "GustavoARSilva",
+      "weivincewang",
+      "torvalds",
+      "djbw",
+      "samitolvanen",
+      "borntraeger",
+      "roml",
+      "daniel-thompson",
+      "intervigilium",
+      "luca020400"
+    ],
+    "n_commits": 88,
+    "n_contributors": 28
+  },
+  "365": {
+    "contributors": [
+      "bgcngm",
+      "ishubhamsingh",
+      "theimpulson",
+      "haggertk",
+      "mg712702",
+      "crpalmer",
+      "dev-harsh1998",
+      "cryptomilk",
+      "deadlyindian",
+      "redking12",
+      "AdrianDC",
+      "Planet-X",
+      "diegowilson",
+      "Demon000",
+      "chil360",
+      "shakalaca",
+      "Srijith2001",
+      "DroidFreak32",
+      "Alberto97"
+    ],
+    "n_commits": 60,
+    "n_contributors": 19
+  }
+}

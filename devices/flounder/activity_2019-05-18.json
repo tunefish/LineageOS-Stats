@@ -1,0 +1,23 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": [
+      "weivincewang",
+      "bgcngm",
+      "HashBang173",
+      "mathieuchartier",
+      "javelinanddart"
+    ],
+    "n_commits": 11,
+    "n_contributors": 5
+  }
+}

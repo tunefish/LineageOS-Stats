@@ -1,0 +1,57 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [
+      "bgcngm",
+      "ivanmeler",
+      "luk1337",
+      "Usaamah99",
+      "jrizzoli",
+      "raymanfx",
+      "dianlujitao",
+      "Harinus",
+      "elektroschmock",
+      "haggertk",
+      "javelinanddart",
+      "mikeNG",
+      "basilgello",
+      "Lukas0610",
+      "BadDaemon",
+      "Stricted",
+      "intervigilium",
+      "Sekilsgs2"
+    ],
+    "n_commits": 72,
+    "n_contributors": 18
+  },
+  "365": {
+    "contributors": [
+      "airend",
+      "bgcngm",
+      "ivanmeler",
+      "luk1337",
+      "HashBang173",
+      "micky387",
+      "raymanfx",
+      "haggertk",
+      "hanssonatgoogle",
+      "javelinanddart",
+      "Ziyann",
+      "freak97",
+      "mikeNG",
+      "smore-lore",
+      "vahempio",
+      "tomm1e",
+      "fourkbomb",
+      "fitittome",
+      "Stricted",
+      "Sekilsgs2"
+    ],
+    "n_commits": 82,
+    "n_contributors": 20
+  }
+}

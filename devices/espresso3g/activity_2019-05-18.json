@@ -1,0 +1,37 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [
+      "Ziyann",
+      "invisiblek",
+      "andi34"
+    ],
+    "n_commits": 6,
+    "n_contributors": 3
+  },
+  "365": {
+    "contributors": [
+      "lrg-ti",
+      "jhrycay",
+      "airend",
+      "basilgello",
+      "andi34",
+      "kumajaya",
+      "faux123",
+      "Hashcode",
+      "cyanogen",
+      "bwalle",
+      "roml",
+      "arve-android",
+      "Ziyann",
+      "mpagano",
+      "Blystad"
+    ],
+    "n_commits": 44,
+    "n_contributors": 15
+  }
+}

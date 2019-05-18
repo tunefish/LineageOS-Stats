@@ -1,0 +1,44 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [
+      "mikeNG",
+      "bgcngm"
+    ],
+    "n_commits": 2,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": [
+      "LiJinyue",
+      "luk1337",
+      "kerneltoast",
+      "arndb",
+      "ftonello",
+      "kees",
+      "morbidrsa",
+      "Rashed97",
+      "elektroschmock",
+      "jaedon",
+      "tomratbert",
+      "groeck",
+      "herbertx",
+      "mjamaloney",
+      "lxin",
+      "ebiggers",
+      "redking12",
+      "AlanStern",
+      "agners",
+      "kkamagui",
+      "BtbN",
+      "weivincewang",
+      "Alberto97"
+    ],
+    "n_commits": 92,
+    "n_contributors": 23
+  }
+}

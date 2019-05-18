@@ -1,0 +1,51 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [
+      "mikeNG",
+      "bgcngm",
+      "ivanmeler",
+      "luk1337",
+      "basilgello",
+      "Usaamah99",
+      "Lukas0610",
+      "raymanfx",
+      "BadDaemon",
+      "Harinus",
+      "haggertk",
+      "javelinanddart",
+      "Stricted",
+      "Sekilsgs2"
+    ],
+    "n_commits": 31,
+    "n_contributors": 14
+  },
+  "365": {
+    "contributors": [
+      "bgcngm",
+      "ivanmeler",
+      "luk1337",
+      "micky387",
+      "raymanfx",
+      "haggertk",
+      "hanssonatgoogle",
+      "rINanDO",
+      "javelinanddart",
+      "freak97",
+      "mikeNG",
+      "smore-lore",
+      "vahempio",
+      "fourkbomb",
+      "sam3000",
+      "Stricted",
+      "Sekilsgs2",
+      "admin@android-rsap.com"
+    ],
+    "n_commits": 38,
+    "n_contributors": 18
+  }
+}
