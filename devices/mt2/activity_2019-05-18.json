@@ -7,23 +7,23 @@
   "180": {
     "contributors": [
       "mikeNG",
+      "BadDaemon",
       "bgcngm",
-      "jrizzoli",
-      "BadDaemon"
+      "jrizzoli"
     ],
     "n_commits": 8,
     "n_contributors": 4
   },
   "365": {
     "contributors": [
+      "crpalmer",
       "mikeNG",
       "bgcngm",
-      "tdm",
       "hanssonatgoogle",
-      "crpalmer",
+      "Florin9doi",
+      "tdm",
       "jrior001",
-      "mdmower",
-      "Florin9doi"
+      "mdmower"
     ],
     "n_commits": 21,
     "n_contributors": 8

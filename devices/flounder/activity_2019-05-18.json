@@ -11,11 +11,11 @@
   },
   "365": {
     "contributors": [
-      "weivincewang",
-      "bgcngm",
       "HashBang173",
+      "weivincewang",
       "mathieuchartier",
-      "javelinanddart"
+      "javelinanddart",
+      "bgcngm"
     ],
     "n_commits": 11,
     "n_contributors": 5

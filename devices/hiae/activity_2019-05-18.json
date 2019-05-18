@@ -8,36 +8,36 @@
   },
   "180": {
     "contributors": [
-      "mikeNG",
-      "bgcngm",
-      "jrizzoli",
       "intervigilium",
-      "BadDaemon"
+      "jrizzoli",
+      "BadDaemon",
+      "bgcngm",
+      "mikeNG"
     ],
     "n_commits": 22,
     "n_contributors": 5
   },
   "365": {
     "contributors": [
-      "wildea01",
-      "sandeepqualcomm",
-      "bgcngm",
-      "hanssonatgoogle",
-      "javelinanddart",
       "nocry22",
-      "ericrannaud",
-      "Florin9doi",
-      "mikeNG",
-      "gnehzuil",
-      "amluto",
-      "jeffvanderstoep",
-      "shawnguo2",
-      "torvalds",
       "borntraeger",
       "andresoportus",
-      "spfetsch",
+      "sandeepqualcomm",
+      "javelinanddart",
       "intervigilium",
-      "jrior001"
+      "shawnguo2",
+      "Florin9doi",
+      "wildea01",
+      "bgcngm",
+      "jrior001",
+      "ericrannaud",
+      "torvalds",
+      "amluto",
+      "mikeNG",
+      "gnehzuil",
+      "hanssonatgoogle",
+      "spfetsch",
+      "jeffvanderstoep"
     ],
     "n_commits": 243,
     "n_contributors": 19

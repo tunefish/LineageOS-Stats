@@ -6,15 +6,15 @@
   },
   "180": {
     "contributors": [
-      "mikeNG",
-      "bgcngm",
-      "tytso",
-      "ebiggers",
-      "JianyuZhan",
-      "sultanqasim",
-      "bwiegand",
       "borntraeger",
+      "ebiggers",
+      "sultanqasim",
+      "mikeNG",
+      "JianyuZhan",
+      "tytso",
+      "bwiegand",
       "Alberto97",
+      "bgcngm",
       "dt-moore"
     ],
     "n_commits": 82,
@@ -22,19 +22,19 @@
   },
   "365": {
     "contributors": [
-      "mikeNG",
-      "0x36",
-      "LiJinyue",
+      "congwang",
+      "dtor",
+      "morbidrsa",
       "ebiggers",
       "xairy",
-      "AlanStern",
-      "morbidrsa",
-      "Rashed97",
-      "dtor",
       "sultanqasim",
+      "LiJinyue",
+      "mikeNG",
       "vgarodia",
       "ummakynes",
-      "congwang"
+      "AlanStern",
+      "0x36",
+      "Rashed97"
     ],
     "n_commits": 81,
     "n_contributors": 13

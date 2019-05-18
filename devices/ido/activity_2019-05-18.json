@@ -6,22 +6,22 @@
   },
   "180": {
     "contributors": [
-      "mikeNG",
-      "bgcngm"
+      "bgcngm",
+      "mikeNG"
     ],
     "n_commits": 2,
     "n_contributors": 2
   },
   "365": {
     "contributors": [
-      "mikeNG",
-      "bgcngm",
-      "jeffvanderstoep",
-      "dianlujitao",
-      "raymanfx",
-      "BadDaemon",
       "zwliew",
-      "Anik1199"
+      "dianlujitao",
+      "Anik1199",
+      "mikeNG",
+      "jeffvanderstoep",
+      "BadDaemon",
+      "bgcngm",
+      "raymanfx"
     ],
     "n_commits": 19,
     "n_contributors": 8

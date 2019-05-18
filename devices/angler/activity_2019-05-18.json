@@ -13,17 +13,17 @@
   },
   "365": {
     "contributors": [
-      "drosen@google.com",
-      "wildea01",
-      "danw",
-      "siqilin@google.com",
-      "kees",
-      "sivaa@codeaurora.org",
-      "cpaasch",
       "razorloves",
-      "tbhardwa@codeaurora.org",
+      "siqilin@google.com",
       "dtwlin",
-      "joaodias@google.com"
+      "cpaasch",
+      "joaodias@google.com",
+      "sivaa@codeaurora.org",
+      "kees",
+      "drosen@google.com",
+      "tbhardwa@codeaurora.org",
+      "danw",
+      "wildea01"
     ],
     "n_commits": 52,
     "n_contributors": 11

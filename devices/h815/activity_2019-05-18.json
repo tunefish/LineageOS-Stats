@@ -7,26 +7,26 @@
   "180": {
     "contributors": [
       "mikeNG",
+      "BadDaemon",
       "bgcngm",
-      "jrizzoli",
-      "BadDaemon"
+      "jrizzoli"
     ],
     "n_commits": 8,
     "n_contributors": 4
   },
   "365": {
     "contributors": [
-      "mikeNG",
-      "bgcngm",
-      "luk1337",
-      "jerpelea",
-      "ThePiGuy0",
-      "bmc08gt",
       "alviteri",
-      "hanssonatgoogle",
+      "bmc08gt",
+      "bgcngm",
+      "mikeNG",
       "intervigilium",
+      "hanssonatgoogle",
+      "ThePiGuy0",
+      "luk1337",
+      "Florin9doi",
       "jrior001",
-      "Florin9doi"
+      "jerpelea"
     ],
     "n_commits": 16,
     "n_contributors": 11

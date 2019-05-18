@@ -6,35 +6,35 @@
   },
   "180": {
     "contributors": [
+      "thestinger",
       "aagit",
-      "luk1337",
-      "bgcngm",
-      "tdm",
-      "Flex1911",
+      "ajs1984",
       "mathieuchartier",
       "ezio84",
-      "jrizzoli",
-      "maniac103",
-      "akhilnarang",
-      "thestinger",
       "javelinanddart",
-      "ajs1984"
+      "Flex1911",
+      "akhilnarang",
+      "luk1337",
+      "maniac103",
+      "tdm",
+      "bgcngm",
+      "jrizzoli"
     ],
     "n_commits": 113,
     "n_contributors": 13
   },
   "365": {
     "contributors": [
-      "bgcngm",
-      "luk1337",
-      "Flex1911",
       "Vachounet",
-      "Rashed97",
-      "chrmhoffmann",
-      "jesec",
-      "phhusson",
       "javelinanddart",
-      "luca020400"
+      "Flex1911",
+      "jesec",
+      "chrmhoffmann",
+      "phhusson",
+      "luk1337",
+      "luca020400",
+      "bgcngm",
+      "Rashed97"
     ],
     "n_commits": 44,
     "n_contributors": 10

@@ -7,20 +7,20 @@
   "180": {
     "contributors": [
       "mikeNG",
-      "bgcngm",
       "BadDaemon",
-      "aviraxp"
+      "aviraxp",
+      "bgcngm"
     ],
     "n_commits": 7,
     "n_contributors": 4
   },
   "365": {
     "contributors": [
-      "mikeNG",
+      "intervigilium",
       "hanssonatgoogle",
-      "YumeMichi",
       "codeworkx",
-      "intervigilium"
+      "mikeNG",
+      "YumeMichi"
     ],
     "n_commits": 4,
     "n_contributors": 5
