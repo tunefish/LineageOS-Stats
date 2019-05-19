@@ -3,13 +3,10 @@
     "contributors": [
       "codeworkx",
       "dianlujitao",
-      "dtwlin",
-      "jb-essential",
-      "neobuddy89",
-      "whoknowswhoiam"
+      "neobuddy89"
     ],
-    "n_commits": 28,
-    "n_contributors": 6
+    "n_commits": 24,
+    "n_contributors": 3
   },
   "180": {
     "contributors": [
@@ -33,6 +30,7 @@
       "codeworkx",
       "dianlujitao",
       "drosen@google.com",
+      "dtwlin",
       "evenka@codeaurora.org",
       "gaolez@codeaurora.org",
       "harya@codeaurora.org",
@@ -40,6 +38,7 @@
       "hkpatel@codeaurora.org",
       "intervigilium",
       "jackp@codeaurora.org",
+      "jb-essential",
       "jmberg",
       "joshuous",
       "jrizzoli",
@@ -73,12 +72,13 @@
       "tytso",
       "vskrishn@codeaurora.org",
       "weivincewang",
+      "whoknowswhoiam",
       "wight554",
       "xingrz",
       "zzam"
     ],
-    "n_commits": 406,
-    "n_contributors": 63
+    "n_commits": 410,
+    "n_contributors": 66
   },
   "365": {
     "contributors": [
