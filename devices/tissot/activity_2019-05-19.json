@@ -140,7 +140,6 @@
       "tyhicks",
       "ukernel",
       "ummakynes",
-      "vballa@codeaurora.org",
       "vijayakumar-durai1",
       "vinodkoul",
       "virtuoso",
@@ -155,8 +154,8 @@
       "zenczykowski",
       "zonque"
     ],
-    "n_commits": 503,
-    "n_contributors": 153
+    "n_commits": 501,
+    "n_contributors": 152
   },
   "180": {
     "contributors": [
@@ -842,7 +841,7 @@
       "zx2c4",
       "zzam"
     ],
-    "n_commits": 5030,
+    "n_commits": 5032,
     "n_contributors": 681
   },
   "365": {
@@ -1882,7 +1881,7 @@
       "zonque",
       "zumengchen"
     ],
-    "n_commits": 12507,
+    "n_commits": 12505,
     "n_contributors": 1034
   }
 }
