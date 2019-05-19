@@ -11,12 +11,12 @@
   },
   "365": {
     "contributors": [
-      "luk1337",
       "alviteri",
-      "mjsir911",
-      "jerpelea"
+      "jerpelea",
+      "luk1337",
+      "mjsir911"
     ],
-    "n_commits": 4,
+    "n_commits": 5,
     "n_contributors": 4
   }
 }

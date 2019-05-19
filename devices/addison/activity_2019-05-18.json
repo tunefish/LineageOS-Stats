@@ -6,39 +6,40 @@
   },
   "180": {
     "contributors": [
+      "BadDaemon",
       "bgcngm",
       "mikeNG"
     ],
-    "n_commits": 2,
-    "n_contributors": 2
+    "n_commits": 3,
+    "n_contributors": 3
   },
   "365": {
     "contributors": [
-      "agners",
-      "BtbN",
-      "arndb",
-      "morbidrsa",
-      "ebiggers",
-      "kkamagui",
-      "jaedon",
-      "weivincewang",
-      "lxin",
       "AlanStern",
-      "tomratbert",
-      "kerneltoast",
-      "elektroschmock",
-      "mjamaloney",
-      "redking12",
-      "LiJinyue",
-      "kees",
-      "ftonello",
-      "luk1337",
-      "groeck",
       "Alberto97",
+      "BtbN",
+      "LiJinyue",
       "Rashed97",
-      "herbertx"
+      "agners",
+      "arndb",
+      "ebiggers",
+      "elektroschmock",
+      "ftonello",
+      "groeck",
+      "herbertx",
+      "jaedon",
+      "kees",
+      "kerneltoast",
+      "kkamagui",
+      "luk1337",
+      "lxin",
+      "mjamaloney",
+      "morbidrsa",
+      "redking12",
+      "tomratbert",
+      "weivincewang"
     ],
-    "n_commits": 92,
+    "n_commits": 94,
     "n_contributors": 23
   }
 }

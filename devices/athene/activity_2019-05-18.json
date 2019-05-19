@@ -6,18 +6,19 @@
   },
   "180": {
     "contributors": [
+      "BadDaemon",
       "bgcngm",
       "mikeNG"
     ],
-    "n_commits": 2,
-    "n_contributors": 2
+    "n_commits": 3,
+    "n_contributors": 3
   },
   "365": {
     "contributors": [
-      "rajatgupta1998",
-      "Rashed97"
+      "Rashed97",
+      "rajatgupta1998"
     ],
-    "n_commits": 3,
+    "n_commits": 5,
     "n_contributors": 2
   }
 }

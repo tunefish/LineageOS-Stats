@@ -10,8 +10,19 @@
     "n_contributors": 0
   },
   "365": {
-    "contributors": [],
-    "n_commits": 0,
-    "n_contributors": 0
+    "contributors": [
+      "OrpheeGT",
+      "basilgello",
+      "deadman96385",
+      "haggertk",
+      "ljzyal",
+      "raymanfx",
+      "ssehovic",
+      "thompatry",
+      "tincho5588",
+      "zakooz"
+    ],
+    "n_commits": 54,
+    "n_contributors": 10
   }
 }

@@ -6,31 +6,32 @@
   },
   "180": {
     "contributors": [
-      "andi34",
       "Ziyann",
-      "invisiblek"
+      "andi34",
+      "invisiblek",
+      "kumajaya"
     ],
-    "n_commits": 6,
-    "n_contributors": 3
+    "n_commits": 13,
+    "n_contributors": 4
   },
   "365": {
     "contributors": [
-      "andi34",
-      "Ziyann",
       "Blystad",
-      "faux123",
       "Hashcode",
+      "Ziyann",
       "airend",
-      "jhrycay",
-      "mpagano",
+      "andi34",
       "arve-android",
-      "lrg-ti",
       "bwalle",
-      "kumajaya",
       "cyanogen",
+      "faux123",
+      "jhrycay",
+      "kumajaya",
+      "lrg-ti",
+      "mpagano",
       "roml"
     ],
-    "n_commits": 42,
+    "n_commits": 84,
     "n_contributors": 14
   }
 }

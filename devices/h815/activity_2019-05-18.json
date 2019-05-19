@@ -6,29 +6,30 @@
   },
   "180": {
     "contributors": [
-      "mikeNG",
       "BadDaemon",
       "bgcngm",
-      "jrizzoli"
+      "jrior001",
+      "jrizzoli",
+      "mikeNG"
     ],
-    "n_commits": 8,
-    "n_contributors": 4
+    "n_commits": 15,
+    "n_contributors": 5
   },
   "365": {
     "contributors": [
-      "alviteri",
-      "bmc08gt",
-      "bgcngm",
-      "mikeNG",
-      "intervigilium",
-      "hanssonatgoogle",
-      "ThePiGuy0",
-      "luk1337",
       "Florin9doi",
+      "ThePiGuy0",
+      "alviteri",
+      "bgcngm",
+      "bmc08gt",
+      "hanssonatgoogle",
+      "intervigilium",
+      "jerpelea",
       "jrior001",
-      "jerpelea"
+      "luk1337",
+      "mikeNG"
     ],
-    "n_commits": 16,
+    "n_commits": 28,
     "n_contributors": 11
   }
 }
