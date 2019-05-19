@@ -1,0 +1,72 @@
+{
+  "30": {
+    "contributors": [
+      "AdrianDC",
+      "arco",
+      "aviraxp",
+      "cyberwalkman",
+      "daedroza",
+      "jeffvanderstoep",
+      "luk1337",
+      "maniac103"
+    ],
+    "n_commits": 13,
+    "n_contributors": 8
+  },
+  "180": {
+    "contributors": [
+      "AdrianDC",
+      "BadDaemon",
+      "Chippa-a",
+      "Ziyann",
+      "bgcngm",
+      "cyberwalkman",
+      "maniac103",
+      "mikeNG"
+    ],
+    "n_commits": 8,
+    "n_contributors": 8
+  },
+  "365": {
+    "contributors": [
+      "AdrianDC",
+      "AgentFabulous",
+      "Chippa-a",
+      "Flex1911",
+      "LiJinyue",
+      "Rashed97",
+      "Ziyann",
+      "airend",
+      "arco",
+      "bgcngm",
+      "borntraeger",
+      "bwhacks",
+      "cyberwalkman",
+      "daedroza",
+      "github-cygwin",
+      "greghackmann",
+      "haggertk",
+      "hanssonatgoogle",
+      "herbertx",
+      "javelinanddart",
+      "jeffvanderstoep",
+      "jianqiangzhao",
+      "jmtrivi",
+      "lxin",
+      "mita",
+      "nickdesaulniers",
+      "nona-google",
+      "npjohnson",
+      "pattjin",
+      "rostedt",
+      "rustyrussell",
+      "shawnguo2",
+      "tincho5588",
+      "torvalds",
+      "tytso",
+      "wdebruij"
+    ],
+    "n_commits": 194,
+    "n_contributors": 36
+  }
+}

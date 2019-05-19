@@ -1,0 +1,60 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [
+      "BadDaemon",
+      "bgcngm",
+      "mikeNG"
+    ],
+    "n_commits": 3,
+    "n_contributors": 3
+  },
+  "365": {
+    "contributors": [
+      "Adarsh-MR",
+      "Alberto97",
+      "Demon000",
+      "HighwayStar",
+      "Quallenauge",
+      "Rashed97",
+      "SagarMakhar",
+      "ThEMarD",
+      "TheScarastic",
+      "Vachounet",
+      "aagit",
+      "bgcngm",
+      "codeworkx",
+      "critsec",
+      "datawolf",
+      "dianlujitao",
+      "ezio84",
+      "greghackmann",
+      "hdeller",
+      "intervigilium",
+      "invisiblek",
+      "jsharkey",
+      "ldts",
+      "luk1337",
+      "maniac103",
+      "mikeNG",
+      "mthomos",
+      "nathanchance",
+      "nocry22",
+      "npjohnson",
+      "pattjin",
+      "paulmck",
+      "renjian2",
+      "rk779",
+      "rmcc",
+      "tdm",
+      "vladimiroltean",
+      "weivincewang"
+    ],
+    "n_commits": 320,
+    "n_contributors": 38
+  }
+}

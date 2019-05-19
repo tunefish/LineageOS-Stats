@@ -1,0 +1,28 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [
+      "BadDaemon",
+      "aviraxp",
+      "bgcngm",
+      "mikeNG"
+    ],
+    "n_commits": 12,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": [
+      "YumeMichi",
+      "codeworkx",
+      "hanssonatgoogle",
+      "intervigilium",
+      "mikeNG"
+    ],
+    "n_commits": 7,
+    "n_contributors": 5
+  }
+}
