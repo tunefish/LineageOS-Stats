@@ -189,7 +189,6 @@
       "0xAX",
       "1ace",
       "2005songliwei",
-      "Algodev-github",
       "Anson-Huang",
       "ArvindYadavCs",
       "CHKDSK88",
@@ -207,7 +206,6 @@
       "JunPiaoHW",
       "KanjiMonster",
       "Kevin-WangTao",
-      "LeeTibbert",
       "LennySzubowicz",
       "LorenzoBianconi",
       "MSF-Jarvis",
@@ -229,7 +227,6 @@
       "WOnder93",
       "XNUBIA",
       "ZhouyangJia",
-      "aagit",
       "abattersby",
       "abavanar@codeaurora.org",
       "abhikuma@codeaurora.org",
@@ -436,7 +433,6 @@
       "igaw",
       "ij1",
       "intervigilium",
-      "invisiblek",
       "ipylypiv",
       "isaacm@codeaurora.org",
       "j-c-h",
@@ -564,7 +560,6 @@
       "matnyman",
       "mator",
       "maurizio-lombardi",
-      "mcfrisk",
       "mchehab",
       "meelisroos",
       "mhiramat",
@@ -616,7 +611,6 @@
       "osandov",
       "ozbenh",
       "panicking",
-      "paolo-github",
       "paulburton",
       "paulmenzel",
       "paulusmack",
@@ -730,7 +724,6 @@
       "tbhardwa@codeaurora.org",
       "tdas@codeaurora.org",
       "tdixit@codeaurora.org",
-      "tdm",
       "tehcaster",
       "tejaswit@codeaurora.org",
       "tengfei@codeaurora.org",
@@ -840,7 +833,7 @@
       "zonque",
       "ztu@codeaurora.org"
     ],
-    "n_commits": 7057,
-    "n_contributors": 654
+    "n_commits": 6837,
+    "n_contributors": 647
   }
 }

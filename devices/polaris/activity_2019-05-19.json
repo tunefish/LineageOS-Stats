@@ -837,7 +837,6 @@
       "annamraj@codeaurora.org",
       "anssih",
       "anthonywong",
-      "antonyantony",
       "aotchere",
       "aparmar@codeaurora.org",
       "aparri",
@@ -951,7 +950,6 @@
       "darssr@codeaurora.org",
       "davem330",
       "davidhildenbrand",
-      "dbavatar",
       "dcagle@codeaurora.org",
       "dcaratti",
       "dcui",
@@ -1233,7 +1231,6 @@
       "labbott",
       "languitar",
       "larsclausen",
-      "lasalvavida",
       "lategoodbye",
       "lbai@codeaurora.org",
       "lbmeng",
@@ -1485,7 +1482,6 @@
       "raven-au",
       "raymanfx",
       "rbindra@codeaurora.org",
-      "rdna",
       "reid-p",
       "renzhengeek",
       "rgbriggs",
@@ -1690,7 +1686,6 @@
       "vaibhav92",
       "varar@codeaurora.org",
       "varunreddy.yeturu@codeaurora.org",
-      "vaverin",
       "vbadigan@codeaurora.org",
       "vbucha@codeaurora.org",
       "vbuslov",
@@ -1789,7 +1784,7 @@
       "zonque",
       "zumengchen"
     ],
-    "n_commits": 13096,
-    "n_contributors": 1085
+    "n_commits": 13024,
+    "n_contributors": 1080
   }
 }
