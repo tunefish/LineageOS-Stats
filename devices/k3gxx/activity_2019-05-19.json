@@ -9,11 +9,14 @@
       "BadDaemon",
       "Harinus",
       "Lukas0610",
+      "McFy49",
       "Sekilsgs2",
       "Stricted",
       "Usaamah99",
       "basilgello",
       "bgcngm",
+      "deadman96385",
+      "fourkbomb",
       "haggertk",
       "ivanmeler",
       "javelinanddart",
@@ -21,8 +24,8 @@
       "mikeNG",
       "raymanfx"
     ],
-    "n_commits": 63,
-    "n_contributors": 14
+    "n_commits": 68,
+    "n_contributors": 17
   },
   "365": {
     "contributors": [
@@ -52,7 +55,7 @@
       "smore-lore",
       "vahempio"
     ],
-    "n_commits": 89,
+    "n_commits": 84,
     "n_contributors": 25
   }
 }

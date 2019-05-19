@@ -10,6 +10,7 @@
   "180": {
     "contributors": [
       "BadDaemon",
+      "YoDevil",
       "amluto",
       "arco",
       "arndb",
@@ -23,6 +24,7 @@
       "gnehzuil",
       "gregkh",
       "haggertk",
+      "intervigilium",
       "jankara",
       "jrior001",
       "jrizzoli",
@@ -38,8 +40,8 @@
       "torvalds",
       "xypron"
     ],
-    "n_commits": 165,
-    "n_contributors": 28
+    "n_commits": 168,
+    "n_contributors": 30
   },
   "365": {
     "contributors": [
@@ -49,7 +51,6 @@
       "Florin9doi",
       "HSchill",
       "HashBang173",
-      "YoDevil",
       "arco",
       "aviraxp",
       "bgcngm",
@@ -84,7 +85,7 @@
       "ummakynes",
       "xemul"
     ],
-    "n_commits": 216,
-    "n_contributors": 40
+    "n_commits": 213,
+    "n_contributors": 39
   }
 }

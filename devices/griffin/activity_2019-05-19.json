@@ -65,6 +65,7 @@
       "pkurapat@codeaurora.org",
       "ppvk@codeaurora.org",
       "puneet@codeaurora.org",
+      "rahulsnair",
       "rambad@codeaurora.org",
       "raymanfx",
       "rohkkumar",
@@ -83,8 +84,8 @@
       "xsang@codeaurora.org",
       "zchaoli@codeaurora.org"
     ],
-    "n_commits": 237,
-    "n_contributors": 74
+    "n_commits": 241,
+    "n_contributors": 75
   },
   "365": {
     "contributors": [
@@ -547,7 +548,7 @@
       "zkong@codeaurora.org",
       "zonque"
     ],
-    "n_commits": 2016,
+    "n_commits": 2012,
     "n_contributors": 458
   }
 }

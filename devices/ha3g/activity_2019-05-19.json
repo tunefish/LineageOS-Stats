@@ -14,6 +14,7 @@
       "Harinus",
       "KNnut",
       "Lukas0610",
+      "McFy49",
       "Noctis-AKM",
       "Sekilsgs2",
       "Stricted",
@@ -21,9 +22,11 @@
       "basilgello",
       "bgcngm",
       "cpaasch",
+      "deadman96385",
       "derfelot",
       "ebiggers",
       "fabled",
+      "fourkbomb",
       "guaneryu",
       "haggertk",
       "holtmann",
@@ -36,12 +39,14 @@
       "pranjas",
       "raymanfx",
       "rezaf28",
+      "thompatry",
+      "tincho5588",
       "torvalds",
       "tytso",
       "zzam"
     ],
-    "n_commits": 99,
-    "n_contributors": 30
+    "n_commits": 107,
+    "n_contributors": 35
   },
   "365": {
     "contributors": [
@@ -476,7 +481,7 @@
       "zonque",
       "zx2c4"
     ],
-    "n_commits": 2085,
+    "n_commits": 2077,
     "n_contributors": 430
   }
 }

@@ -54,6 +54,7 @@
       "kees",
       "kelvie",
       "krkumar",
+      "lczerner",
       "luk1337",
       "lxerandrew",
       "mikeNG",
@@ -69,8 +70,8 @@
       "weivincewang",
       "xypron"
     ],
-    "n_commits": 315,
-    "n_contributors": 51
+    "n_commits": 318,
+    "n_contributors": 52
   },
   "365": {
     "contributors": [
@@ -149,7 +150,7 @@
       "xemul",
       "zhangjerry@google.com"
     ],
-    "n_commits": 345,
+    "n_commits": 342,
     "n_contributors": 74
   }
 }

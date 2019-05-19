@@ -34,6 +34,7 @@
       "ffourcot",
       "gregkh",
       "haggertk",
+      "hanssonatgoogle",
       "intervigilium",
       "ivanmeler",
       "javelinanddart",
@@ -58,8 +59,8 @@
       "ummakynes",
       "xemul"
     ],
-    "n_commits": 340,
-    "n_contributors": 48
+    "n_commits": 342,
+    "n_contributors": 49
   },
   "365": {
     "contributors": [
@@ -123,7 +124,7 @@
       "vahempio",
       "wdebruij"
     ],
-    "n_commits": 467,
+    "n_commits": 465,
     "n_contributors": 59
   }
 }

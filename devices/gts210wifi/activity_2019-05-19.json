@@ -11,11 +11,14 @@
       "KoffieNu",
       "Lukas0610",
       "MSe1969",
+      "McFy49",
       "Sekilsgs2",
       "Stricted",
       "Usaamah99",
       "basilgello",
       "bgcngm",
+      "deadman96385",
+      "fourkbomb",
       "haggertk",
       "ivanmeler",
       "javelinanddart",
@@ -24,8 +27,8 @@
       "raymanfx",
       "skulldronite"
     ],
-    "n_commits": 63,
-    "n_contributors": 17
+    "n_commits": 69,
+    "n_contributors": 20
   },
   "365": {
     "contributors": [
@@ -97,7 +100,7 @@
       "wdebruij",
       "xairy"
     ],
-    "n_commits": 193,
+    "n_commits": 187,
     "n_contributors": 67
   }
 }

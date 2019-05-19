@@ -9,20 +9,20 @@
       "BadDaemon",
       "aviraxp",
       "bgcngm",
+      "intervigilium",
       "mikeNG"
     ],
-    "n_commits": 12,
-    "n_contributors": 4
+    "n_commits": 13,
+    "n_contributors": 5
   },
   "365": {
     "contributors": [
       "YumeMichi",
       "codeworkx",
       "hanssonatgoogle",
-      "intervigilium",
       "mikeNG"
     ],
-    "n_commits": 7,
-    "n_contributors": 5
+    "n_commits": 6,
+    "n_contributors": 4
   }
 }

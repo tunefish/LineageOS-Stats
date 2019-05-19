@@ -35,6 +35,7 @@
       "nona-google",
       "npjohnson",
       "regit",
+      "ripee",
       "sashalevin",
       "shemminger",
       "torvalds",
@@ -42,8 +43,8 @@
       "vladimiroltean",
       "xypron"
     ],
-    "n_commits": 204,
-    "n_contributors": 35
+    "n_commits": 206,
+    "n_contributors": 36
   },
   "365": {
     "contributors": [
@@ -59,10 +60,9 @@
       "nickdesaulniers",
       "npjohnson",
       "rdeva31",
-      "ripee",
       "xemul"
     ],
-    "n_commits": 187,
-    "n_contributors": 14
+    "n_commits": 185,
+    "n_contributors": 13
   }
 }

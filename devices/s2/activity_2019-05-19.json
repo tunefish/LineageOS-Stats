@@ -8,10 +8,12 @@
     "contributors": [
       "BadDaemon",
       "bgcngm",
-      "mikeNG"
+      "mikeNG",
+      "rk779",
+      "vladimiroltean"
     ],
-    "n_commits": 3,
-    "n_contributors": 3
+    "n_commits": 7,
+    "n_contributors": 5
   },
   "365": {
     "contributors": [
@@ -54,7 +56,7 @@
       "vladimiroltean",
       "weivincewang"
     ],
-    "n_commits": 320,
+    "n_commits": 316,
     "n_contributors": 38
   }
 }

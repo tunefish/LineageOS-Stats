@@ -17,6 +17,7 @@
       "dianlujitao",
       "elektroschmock",
       "haggertk",
+      "hanssonatgoogle",
       "intervigilium",
       "ivanmeler",
       "javelinanddart",
@@ -25,8 +26,8 @@
       "mikeNG",
       "raymanfx"
     ],
-    "n_commits": 104,
-    "n_contributors": 18
+    "n_commits": 105,
+    "n_contributors": 19
   },
   "365": {
     "contributors": [
@@ -55,7 +56,7 @@
       "tomm1e",
       "vahempio"
     ],
-    "n_commits": 137,
+    "n_commits": 136,
     "n_contributors": 24
   }
 }

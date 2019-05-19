@@ -8,16 +8,15 @@
     "contributors": [
       "BadDaemon",
       "bgcngm",
-      "mikeNG"
-    ],
-    "n_commits": 3,
-    "n_contributors": 3
-  },
-  "365": {
-    "contributors": [
+      "mikeNG",
       "tdm"
     ],
-    "n_commits": 1,
-    "n_contributors": 1
+    "n_commits": 4,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
   }
 }

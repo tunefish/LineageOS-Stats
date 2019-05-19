@@ -8,11 +8,12 @@
     "contributors": [
       "Ziyann",
       "andi34",
+      "basilgello",
       "invisiblek",
       "kumajaya"
     ],
-    "n_commits": 13,
-    "n_contributors": 4
+    "n_commits": 17,
+    "n_contributors": 5
   },
   "365": {
     "contributors": [
@@ -32,7 +33,7 @@
       "mpagano",
       "roml"
     ],
-    "n_commits": 86,
+    "n_commits": 82,
     "n_contributors": 15
   }
 }

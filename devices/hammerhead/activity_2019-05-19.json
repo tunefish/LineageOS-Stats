@@ -8,6 +8,7 @@
     "contributors": [
       "0x36",
       "AlanStern",
+      "Ziyann",
       "djwong",
       "dtor",
       "ebiggers",
@@ -27,8 +28,8 @@
       "torvalds",
       "tytso"
     ],
-    "n_commits": 42,
-    "n_contributors": 20
+    "n_commits": 47,
+    "n_contributors": 21
   },
   "365": {
     "contributors": [
@@ -94,7 +95,7 @@
       "xiw",
       "zwliew"
     ],
-    "n_commits": 651,
+    "n_commits": 646,
     "n_contributors": 61
   }
 }

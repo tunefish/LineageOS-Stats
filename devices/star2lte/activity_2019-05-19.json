@@ -17,12 +17,13 @@
       "haggertk",
       "ivanmeler",
       "javelinanddart",
+      "jesec",
       "luk1337",
       "mikeNG",
       "raymanfx"
     ],
-    "n_commits": 58,
-    "n_contributors": 14
+    "n_commits": 61,
+    "n_contributors": 15
   },
   "365": {
     "contributors": [
@@ -602,7 +603,7 @@
       "zonque",
       "zumengchen"
     ],
-    "n_commits": 2370,
+    "n_commits": 2367,
     "n_contributors": 575
   }
 }

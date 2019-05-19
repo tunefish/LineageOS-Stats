@@ -5,9 +5,11 @@
     "n_contributors": 0
   },
   "180": {
-    "contributors": [],
-    "n_commits": 0,
-    "n_contributors": 0
+    "contributors": [
+      "basilgello"
+    ],
+    "n_commits": 1,
+    "n_contributors": 1
   },
   "365": {
     "contributors": [
@@ -22,7 +24,7 @@
       "tincho5588",
       "zakooz"
     ],
-    "n_commits": 54,
+    "n_commits": 53,
     "n_contributors": 10
   }
 }

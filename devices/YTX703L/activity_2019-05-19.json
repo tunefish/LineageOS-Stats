@@ -14,13 +14,14 @@
       "ericrannaud",
       "gnehzuil",
       "javelinanddart",
+      "jerpelea",
       "luk1337",
       "mathieuchartier",
       "mikeNG",
       "vladimiroltean"
     ],
-    "n_commits": 78,
-    "n_contributors": 12
+    "n_commits": 84,
+    "n_contributors": 13
   },
   "365": {
     "contributors": [
@@ -51,7 +52,7 @@
       "vladimiroltean",
       "wildea01"
     ],
-    "n_commits": 685,
+    "n_commits": 679,
     "n_contributors": 26
   }
 }

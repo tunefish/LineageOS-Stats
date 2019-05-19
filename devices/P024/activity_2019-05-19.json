@@ -5,15 +5,15 @@
     "n_contributors": 0
   },
   "180": {
-    "contributors": [],
-    "n_commits": 0,
-    "n_contributors": 0
-  },
-  "365": {
     "contributors": [
       "vm03"
     ],
     "n_commits": 1,
     "n_contributors": 1
+  },
+  "365": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
   }
 }

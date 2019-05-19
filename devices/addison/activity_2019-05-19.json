@@ -7,11 +7,14 @@
   "180": {
     "contributors": [
       "BadDaemon",
+      "BtbN",
+      "Rashed97",
       "bgcngm",
+      "kkamagui",
       "mikeNG"
     ],
-    "n_commits": 3,
-    "n_contributors": 3
+    "n_commits": 7,
+    "n_contributors": 6
   },
   "365": {
     "contributors": [
@@ -30,7 +33,6 @@
       "jaedon",
       "kees",
       "kerneltoast",
-      "kkamagui",
       "luk1337",
       "lxin",
       "mjamaloney",
@@ -39,7 +41,7 @@
       "tomratbert",
       "weivincewang"
     ],
-    "n_commits": 94,
-    "n_contributors": 23
+    "n_commits": 90,
+    "n_contributors": 22
   }
 }

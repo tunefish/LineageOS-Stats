@@ -72,6 +72,7 @@
       "nicstange",
       "npjohnson",
       "ramosian-glider",
+      "raymanfx",
       "regit",
       "riandrews",
       "rydberg",
@@ -89,8 +90,8 @@
       "wdebruij",
       "xypron"
     ],
-    "n_commits": 493,
-    "n_contributors": 82
+    "n_commits": 494,
+    "n_contributors": 83
   },
   "365": {
     "contributors": [
@@ -114,10 +115,9 @@
       "mikeNG",
       "nona-google",
       "npjohnson",
-      "raymanfx",
       "xemul"
     ],
-    "n_commits": 98,
-    "n_contributors": 22
+    "n_commits": 97,
+    "n_contributors": 21
   }
 }

@@ -6,12 +6,15 @@
   },
   "180": {
     "contributors": [
+      "Rashed97",
+      "bgcngm",
+      "bmc08gt",
       "ehem",
       "intervigilium",
       "x86cpu"
     ],
-    "n_commits": 7,
-    "n_contributors": 3
+    "n_commits": 12,
+    "n_contributors": 6
   },
   "365": {
     "contributors": [
@@ -212,7 +215,7 @@
       "yelenaKr",
       "yhuang-intel"
     ],
-    "n_commits": 2080,
+    "n_commits": 2075,
     "n_contributors": 196
   }
 }

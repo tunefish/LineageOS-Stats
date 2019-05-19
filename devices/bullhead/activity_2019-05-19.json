@@ -6,20 +6,21 @@
   },
   "180": {
     "contributors": [
-      "haggertk",
-      "razorloves"
-    ],
-    "n_commits": 2,
-    "n_contributors": 2
-  },
-  "365": {
-    "contributors": [
       "danw",
       "haggertk",
       "raymanfx",
       "razorloves"
     ],
-    "n_commits": 14,
+    "n_commits": 4,
     "n_contributors": 4
+  },
+  "365": {
+    "contributors": [
+      "haggertk",
+      "raymanfx",
+      "razorloves"
+    ],
+    "n_commits": 12,
+    "n_contributors": 3
   }
 }

@@ -8,12 +8,13 @@
     "contributors": [
       "BadDaemon",
       "bgcngm",
+      "intervigilium",
       "jrior001",
       "jrizzoli",
       "mikeNG"
     ],
-    "n_commits": 15,
-    "n_contributors": 5
+    "n_commits": 17,
+    "n_contributors": 6
   },
   "365": {
     "contributors": [
@@ -72,7 +73,7 @@
       "vegard",
       "vireshk"
     ],
-    "n_commits": 671,
+    "n_commits": 669,
     "n_contributors": 54
   }
 }

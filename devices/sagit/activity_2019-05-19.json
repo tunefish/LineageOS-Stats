@@ -91,7 +91,6 @@
       "carck",
       "chaseyu",
       "chiaweic@codeaurora.org",
-      "chinagar@codeaurora.org",
       "code-review@localhost",
       "deesin@codeaurora.org",
       "dianlujitao",
@@ -149,6 +148,7 @@
       "rohkkumar",
       "rostedt",
       "rsirasan@codeaurora.org",
+      "sam3000",
       "sandsing@codeaurora.org",
       "sgoud@codeaurora.org",
       "shebala@codeaurora.org",
@@ -159,7 +159,6 @@
       "spuligil@codeaurora.org",
       "stranche@codeaurora.org",
       "sunilkh@codeaurora.org",
-      "tejaswit@codeaurora.org",
       "tengfei@codeaurora.org",
       "tfyu@codeaurora.org",
       "thejh",
@@ -181,8 +180,8 @@
       "xyyx",
       "ysriramg@codeaurora.org"
     ],
-    "n_commits": 1187,
-    "n_contributors": 129
+    "n_commits": 1188,
+    "n_contributors": 128
   },
   "365": {
     "contributors": [
@@ -326,6 +325,7 @@
       "chganesh@codeaurora.org",
       "chiaweic@codeaurora.org",
       "chien-intel",
+      "chinagar@codeaurora.org",
       "chleroy",
       "chrisnovakovic",
       "chunkeey",
@@ -840,7 +840,7 @@
       "zonque",
       "ztu@codeaurora.org"
     ],
-    "n_commits": 7058,
-    "n_contributors": 653
+    "n_commits": 7057,
+    "n_contributors": 654
   }
 }

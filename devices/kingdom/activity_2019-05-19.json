@@ -8,23 +8,23 @@
     "contributors": [
       "BadDaemon",
       "bgcngm",
+      "intervigilium",
       "jrior001",
       "jrizzoli",
       "mikeNG"
     ],
-    "n_commits": 15,
-    "n_contributors": 5
+    "n_commits": 16,
+    "n_contributors": 6
   },
   "365": {
     "contributors": [
       "Florin9doi",
       "bgcngm",
       "hanssonatgoogle",
-      "intervigilium",
       "jrior001",
       "mikeNG"
     ],
-    "n_commits": 20,
-    "n_contributors": 6
+    "n_commits": 19,
+    "n_contributors": 5
   }
 }

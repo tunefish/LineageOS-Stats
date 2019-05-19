@@ -7,15 +7,14 @@
       "andresoportus",
       "bsingharora",
       "codeworkx",
-      "dianlujitao",
       "groeck",
       "jabashque",
       "kerneltoast",
       "maxwen",
       "weivincewang"
     ],
-    "n_commits": 32,
-    "n_contributors": 12
+    "n_commits": 30,
+    "n_contributors": 11
   },
   "180": {
     "contributors": [
@@ -100,7 +99,7 @@
       "xsang@codeaurora.org",
       "zchaoli@codeaurora.org"
     ],
-    "n_commits": 492,
+    "n_commits": 494,
     "n_contributors": 80
   },
   "365": {
@@ -534,7 +533,7 @@
       "zkong@codeaurora.org",
       "zonque"
     ],
-    "n_commits": 1868,
+    "n_commits": 1867,
     "n_contributors": 428
   }
 }

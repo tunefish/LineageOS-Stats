@@ -7,18 +7,19 @@
   "180": {
     "contributors": [
       "BadDaemon",
+      "Rashed97",
       "bgcngm",
-      "mikeNG"
+      "mikeNG",
+      "rajatgupta1998"
     ],
-    "n_commits": 3,
-    "n_contributors": 3
+    "n_commits": 6,
+    "n_contributors": 5
   },
   "365": {
     "contributors": [
-      "Rashed97",
-      "rajatgupta1998"
+      "Rashed97"
     ],
-    "n_commits": 5,
-    "n_contributors": 2
+    "n_commits": 2,
+    "n_contributors": 1
   }
 }

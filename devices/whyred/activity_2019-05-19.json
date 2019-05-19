@@ -10,10 +10,13 @@
     "contributors": [
       "BadDaemon",
       "bgcngm",
-      "mikeNG"
+      "kerneltoast",
+      "mikeNG",
+      "nicknitewolf",
+      "shahan-mik3"
     ],
-    "n_commits": 3,
-    "n_contributors": 3
+    "n_commits": 6,
+    "n_contributors": 6
   },
   "365": {
     "contributors": [
@@ -82,7 +85,6 @@
       "mka@chromium.org",
       "mohapatr@codeaurora.org",
       "nathanchance",
-      "nicknitewolf",
       "nkukade@codeaurora.org",
       "paulz@codeaurora.org",
       "rajekuma@codeaurora.org",
@@ -126,7 +128,7 @@
       "zhangq@codeaurora.org",
       "zwliew"
     ],
-    "n_commits": 535,
-    "n_contributors": 108
+    "n_commits": 532,
+    "n_contributors": 107
   }
 }

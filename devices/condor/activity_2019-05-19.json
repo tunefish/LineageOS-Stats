@@ -8,10 +8,11 @@
     "contributors": [
       "BadDaemon",
       "bgcngm",
-      "mikeNG"
+      "mikeNG",
+      "sultanqasim"
     ],
-    "n_commits": 3,
-    "n_contributors": 3
+    "n_commits": 4,
+    "n_contributors": 4
   },
   "365": {
     "contributors": [
@@ -43,7 +44,7 @@
       "utrace",
       "zx2c4"
     ],
-    "n_commits": 82,
+    "n_commits": 81,
     "n_contributors": 27
   }
 }

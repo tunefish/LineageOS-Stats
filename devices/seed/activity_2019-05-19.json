@@ -29,7 +29,7 @@
       "nona-google",
       "sb6596"
     ],
-    "n_commits": 50,
+    "n_commits": 51,
     "n_contributors": 22
   },
   "365": {
@@ -39,9 +39,7 @@
       "WarrenLobo",
       "bgcngm",
       "dianlujitao",
-      "ghostrider-reborn",
       "haggertk",
-      "harry8242",
       "jeffvanderstoep",
       "jrior001",
       "luca020400",
@@ -50,7 +48,7 @@
       "nicknitewolf",
       "weivincewang"
     ],
-    "n_commits": 71,
-    "n_contributors": 15
+    "n_commits": 68,
+    "n_contributors": 13
   }
 }

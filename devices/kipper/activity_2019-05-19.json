@@ -36,7 +36,7 @@
       "thestinger",
       "toddkjos"
     ],
-    "n_commits": 81,
+    "n_commits": 83,
     "n_contributors": 29
   },
   "365": {
@@ -56,11 +56,9 @@
       "diegowilson",
       "ericrannaud",
       "gfodi@codeaurora.org",
-      "ghostrider-reborn",
       "gnehzuil",
       "haggertk",
       "haibinl@codeaurora.org",
-      "harry8242",
       "harya@codeaurora.org",
       "intervigilium",
       "jankit@codeaurora.org",
@@ -80,7 +78,7 @@
       "weivincewang",
       "yogendra@codeaurora.org"
     ],
-    "n_commits": 262,
-    "n_contributors": 38
+    "n_commits": 258,
+    "n_contributors": 36
   }
 }

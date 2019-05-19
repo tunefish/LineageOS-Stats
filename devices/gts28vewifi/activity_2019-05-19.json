@@ -22,12 +22,13 @@
       "haggertk",
       "ivanmeler",
       "javelinanddart",
+      "jerpelea",
       "luk1337",
       "mikeNG",
       "raymanfx"
     ],
-    "n_commits": 91,
-    "n_contributors": 19
+    "n_commits": 97,
+    "n_contributors": 20
   },
   "365": {
     "contributors": [
@@ -78,7 +79,7 @@
       "vahempio",
       "wdebruij"
     ],
-    "n_commits": 305,
+    "n_commits": 299,
     "n_contributors": 46
   }
 }

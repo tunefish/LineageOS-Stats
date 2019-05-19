@@ -7,13 +7,16 @@
   "180": {
     "contributors": [
       "BadDaemon",
+      "C457",
       "bgcngm",
       "jrior001",
       "jrizzoli",
-      "mikeNG"
+      "messi2050",
+      "mikeNG",
+      "tdm"
     ],
-    "n_commits": 15,
-    "n_contributors": 5
+    "n_commits": 18,
+    "n_contributors": 8
   },
   "365": {
     "contributors": [
@@ -76,7 +79,6 @@
       "luk1337",
       "maggarwa@codeaurora.org",
       "maniac103",
-      "messi2050",
       "mgautam@codeaurora.org",
       "mikeNG",
       "minchank",
@@ -138,7 +140,7 @@
       "zhaoyang@codeaurora.org",
       "zijuhu@codeaurora.org"
     ],
-    "n_commits": 619,
-    "n_contributors": 120
+    "n_commits": 615,
+    "n_contributors": 119
   }
 }

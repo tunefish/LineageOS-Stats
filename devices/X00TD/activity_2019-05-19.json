@@ -6,11 +6,13 @@
   },
   "180": {
     "contributors": [
+      "SagarMakhar",
       "ShivamKumarJha",
-      "krasCGQ"
+      "krasCGQ",
+      "luk1337"
     ],
-    "n_commits": 2,
-    "n_contributors": 2
+    "n_commits": 3,
+    "n_contributors": 4
   },
   "365": {
     "contributors": [
@@ -267,7 +269,7 @@
       "ysat0",
       "yyu168"
     ],
-    "n_commits": 1482,
+    "n_commits": 1481,
     "n_contributors": 252
   }
 }

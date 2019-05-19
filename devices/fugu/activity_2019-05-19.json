@@ -6,18 +6,18 @@
   },
   "180": {
     "contributors": [
+      "nfuller",
       "npjohnson"
     ],
-    "n_commits": 4,
-    "n_contributors": 1
+    "n_commits": 5,
+    "n_contributors": 2
   },
   "365": {
     "contributors": [
       "bgcngm",
-      "nfuller",
       "npjohnson"
     ],
-    "n_commits": 7,
-    "n_contributors": 3
+    "n_commits": 6,
+    "n_contributors": 2
   }
 }

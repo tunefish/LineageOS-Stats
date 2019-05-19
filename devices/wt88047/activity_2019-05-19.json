@@ -31,13 +31,14 @@
       "minchank",
       "nicknitewolf",
       "nona-google",
+      "pirej",
       "rsalvaterra",
       "sb6596",
       "sergey-senozhatsky",
       "toddkjos"
     ],
-    "n_commits": 112,
-    "n_contributors": 29
+    "n_commits": 115,
+    "n_contributors": 30
   },
   "365": {
     "contributors": [
@@ -67,7 +68,6 @@
       "h2o64",
       "haggertk",
       "haibinl@codeaurora.org",
-      "harry8242",
       "harya@codeaurora.org",
       "jankit@codeaurora.org",
       "javelinanddart",
@@ -100,7 +100,7 @@
       "wildea01",
       "yogendra@codeaurora.org"
     ],
-    "n_commits": 445,
-    "n_contributors": 58
+    "n_commits": 440,
+    "n_contributors": 57
   }
 }

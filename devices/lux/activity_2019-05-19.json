@@ -23,6 +23,7 @@
       "LuBaolu",
       "NicolasDichtel",
       "Parasur",
+      "Rashed97",
       "Spindel",
       "ViktorSlavkovic",
       "Villemoes",
@@ -191,8 +192,8 @@
       "xairy",
       "yzkqfll"
     ],
-    "n_commits": 3288,
-    "n_contributors": 184
+    "n_commits": 3290,
+    "n_contributors": 185
   },
   "365": {
     "contributors": [
@@ -264,7 +265,7 @@
       "wdebruij",
       "xairy"
     ],
-    "n_commits": 199,
+    "n_commits": 197,
     "n_contributors": 67
   }
 }

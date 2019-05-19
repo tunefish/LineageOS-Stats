@@ -9,14 +9,19 @@
       "BadDaemon",
       "Harinus",
       "Lukas0610",
+      "McFy49",
       "Sekilsgs2",
       "Stricted",
       "Usaamah99",
+      "akodanev",
       "basilgello",
       "bgcngm",
       "danwood76",
+      "deadman96385",
       "enesuzun2002",
+      "fourkbomb",
       "haggertk",
+      "harryyoud",
       "ivanmeler",
       "javelinanddart",
       "luk1337",
@@ -24,8 +29,8 @@
       "mikeNG",
       "raymanfx"
     ],
-    "n_commits": 75,
-    "n_contributors": 17
+    "n_commits": 85,
+    "n_contributors": 22
   },
   "365": {
     "contributors": [
@@ -40,14 +45,12 @@
       "Stricted",
       "Usaamah99",
       "abeggc",
-      "akodanev",
       "basilgello",
       "bgcngm",
       "bmc08gt",
       "danwood76",
       "deadman96385",
       "enesmuratuzun@gmail.com",
-      "enesuzun2002",
       "fourkbomb",
       "freak97",
       "greghackmann",
@@ -66,7 +69,7 @@
       "tobigun",
       "vahempio"
     ],
-    "n_commits": 143,
-    "n_contributors": 36
+    "n_commits": 133,
+    "n_contributors": 34
   }
 }

@@ -17,15 +17,18 @@
       "BadDaemon",
       "Chippa-a",
       "Ziyann",
+      "arco",
       "aviraxp",
       "bgcngm",
       "cyberwalkman",
+      "daedroza",
       "jeffvanderstoep",
       "maniac103",
-      "mikeNG"
+      "mikeNG",
+      "wdebruij"
     ],
-    "n_commits": 15,
-    "n_contributors": 10
+    "n_commits": 19,
+    "n_contributors": 13
   },
   "365": {
     "contributors": [
@@ -67,7 +70,7 @@
       "tytso",
       "wdebruij"
     ],
-    "n_commits": 194,
+    "n_commits": 190,
     "n_contributors": 37
   }
 }

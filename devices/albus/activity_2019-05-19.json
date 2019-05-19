@@ -31,6 +31,7 @@
       "Flex1911",
       "Kali-",
       "NotKit",
+      "OzzysCmAcc",
       "Rashed97",
       "TheCrazyLex",
       "YoDevil",
@@ -92,6 +93,7 @@
       "gnadaf@codeaurora.org",
       "grajagop@codeaurora.org",
       "greghackmann",
+      "haggertk",
       "haibinl@codeaurora.org",
       "hansc@codeaurora.org",
       "harya@codeaurora.org",
@@ -153,6 +155,7 @@
       "qiweil@codeaurora.org",
       "qmale@codeaurora.org",
       "rahsha@codeaurora.org",
+      "rahulsnair",
       "ramakant@codeaurora.org",
       "rambad@codeaurora.org",
       "ramkumar@codeaurora.org",
@@ -184,6 +187,7 @@
       "stephenhines",
       "subash@codeaurora.org",
       "sushilchauhan@codeaurora.org",
+      "syphyr",
       "tdixit@codeaurora.org",
       "torvalds",
       "treehugger-gerrit@google.com",
@@ -208,8 +212,8 @@
       "zchaoli@codeaurora.org",
       "zhongbos@codeaurora.org"
     ],
-    "n_commits": 937,
-    "n_contributors": 182
+    "n_commits": 975,
+    "n_contributors": 186
   },
   "365": {
     "contributors": [
@@ -218,7 +222,6 @@
       "Alberto97",
       "Anson-Huang",
       "ArvindYadavCs",
-      "BadDaemon",
       "BobZhome",
       "BoschSensortec",
       "CHKDSK88",
@@ -738,7 +741,6 @@
       "sushilchauhan@codeaurora.org",
       "sverdlin",
       "synergydev",
-      "syphyr",
       "takaswie",
       "tbalacha@codeaurora.org",
       "tbalacha@qti.qualcomm.com",
@@ -833,7 +835,7 @@
       "zkong@codeaurora.org",
       "zonque"
     ],
-    "n_commits": 5726,
-    "n_contributors": 619
+    "n_commits": 5686,
+    "n_contributors": 617
   }
 }

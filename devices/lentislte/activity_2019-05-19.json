@@ -78,6 +78,7 @@
       "greearb",
       "groeck",
       "haggertk",
+      "hanssonatgoogle",
       "herbertx",
       "himangi774",
       "hnaz",
@@ -148,8 +149,8 @@
       "zhangfeigao",
       "zonque"
     ],
-    "n_commits": 839,
-    "n_contributors": 136
+    "n_commits": 843,
+    "n_contributors": 137
   },
   "365": {
     "contributors": [
@@ -221,7 +222,7 @@
       "zfding",
       "zwliew"
     ],
-    "n_commits": 1057,
+    "n_commits": 1053,
     "n_contributors": 67
   }
 }

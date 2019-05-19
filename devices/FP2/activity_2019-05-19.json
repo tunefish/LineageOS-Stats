@@ -46,11 +46,12 @@
       "toddkjos",
       "torvalds",
       "tyhicks",
+      "voron00",
       "xypron",
       "z3ntu"
     ],
-    "n_commits": 223,
-    "n_contributors": 38
+    "n_commits": 224,
+    "n_contributors": 39
   },
   "365": {
     "contributors": [
@@ -143,12 +144,11 @@
       "toddkjos",
       "torvalds",
       "tytso",
-      "voron00",
       "wdebruij",
       "wetp",
       "wileyatgoogle"
     ],
-    "n_commits": 989,
-    "n_contributors": 93
+    "n_commits": 988,
+    "n_contributors": 92
   }
 }

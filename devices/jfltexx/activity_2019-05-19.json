@@ -45,6 +45,7 @@
       "greghackmann",
       "guaneryu",
       "haggertk",
+      "hanssonatgoogle",
       "herbertx",
       "htejun",
       "intervigilium",
@@ -94,8 +95,8 @@
       "xemul",
       "zhang-rui"
     ],
-    "n_commits": 475,
-    "n_contributors": 87
+    "n_commits": 479,
+    "n_contributors": 88
   },
   "365": {
     "contributors": [
@@ -355,7 +356,7 @@
       "zhangjerry@google.com",
       "zx2c4"
     ],
-    "n_commits": 951,
+    "n_commits": 947,
     "n_contributors": 255
   }
 }

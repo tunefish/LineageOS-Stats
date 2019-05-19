@@ -5,9 +5,11 @@
     "n_contributors": 0
   },
   "180": {
-    "contributors": [],
-    "n_commits": 0,
-    "n_contributors": 0
+    "contributors": [
+      "Demon000"
+    ],
+    "n_commits": 1,
+    "n_contributors": 1
   },
   "365": {
     "contributors": [
@@ -19,7 +21,7 @@
       "mikeNG",
       "nocry22"
     ],
-    "n_commits": 39,
+    "n_commits": 38,
     "n_contributors": 7
   }
 }

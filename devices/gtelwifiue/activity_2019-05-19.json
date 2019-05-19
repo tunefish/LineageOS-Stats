@@ -15,14 +15,15 @@
       "basilgello",
       "bgcngm",
       "haggertk",
+      "hanssonatgoogle",
       "ivanmeler",
       "javelinanddart",
       "luk1337",
       "mikeNG",
       "raymanfx"
     ],
-    "n_commits": 122,
-    "n_contributors": 14
+    "n_commits": 123,
+    "n_contributors": 15
   },
   "365": {
     "contributors": [
@@ -46,7 +47,7 @@
       "smore-lore",
       "vahempio"
     ],
-    "n_commits": 145,
+    "n_commits": 144,
     "n_contributors": 19
   }
 }

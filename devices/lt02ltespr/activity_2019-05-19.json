@@ -33,6 +33,7 @@
       "greghackmann",
       "gregkh",
       "haggertk",
+      "hanssonatgoogle",
       "ivanmeler",
       "jankara",
       "javelinanddart",
@@ -64,8 +65,8 @@
       "xypron",
       "zhang-rui"
     ],
-    "n_commits": 311,
-    "n_contributors": 57
+    "n_commits": 315,
+    "n_contributors": 58
   },
   "365": {
     "contributors": [
@@ -103,7 +104,7 @@
       "smore-lore",
       "vahempio"
     ],
-    "n_commits": 232,
+    "n_commits": 228,
     "n_contributors": 33
   }
 }
