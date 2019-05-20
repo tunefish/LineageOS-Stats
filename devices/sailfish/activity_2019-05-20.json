@@ -293,7 +293,7 @@
       "alyptik": 1,
       "ambarus": 2,
       "amir73il": 1,
-      "android-build-team-robot@google.com": 35,
+      "android-build-team-robot@google.com": 33,
       "android-gerrit@google.com": 8,
       "android-nexus-securitybot@system.gserviceaccount.com": 3,
       "andy-shev": 1,
@@ -865,7 +865,7 @@
       "zonque": 2,
       "zumengchen": 1
     },
-    "n_commits": 1368,
+    "n_commits": 1367,
     "n_contributors": 634
   }
 }

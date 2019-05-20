@@ -69,7 +69,7 @@
       "chinagar@codeaurora.org": 2,
       "chirayudesai": 1,
       "cjkonat@codeaurora.org": 3,
-      "code-review@localhost": 243,
+      "code-review@localhost": 239,
       "codeworkx": 2,
       "cpratapa@codeaurora.org": 1,
       "cyanogen": 1,
@@ -191,7 +191,7 @@
       "rvaswani@codeaurora.org": 1,
       "samyjain@codeaurora.org": 17,
       "sashok@codeaurora.org": 6,
-      "sgadag@codeaurora.org": 10,
+      "sgadag@codeaurora.org": 6,
       "sgorle@codeaurora.org": 4,
       "sgownipa@codeaurora.org": 1,
       "shijum@codeaurora.org": 4,
@@ -239,7 +239,7 @@
       "zchaoli@codeaurora.org": 3,
       "zhongbos@codeaurora.org": 4
     },
-    "n_commits": 789,
+    "n_commits": 788,
     "n_contributors": 211
   },
   "365": {
@@ -331,7 +331,7 @@
       "anajahi@codeaurora.org": 1,
       "andresoportus": 2,
       "android-build-merger@google.com": 3,
-      "android-build-team-robot@google.com": 28,
+      "android-build-team-robot@google.com": 26,
       "android-gerrit@google.com": 10,
       "andysu@google.com": 2,
       "aneela@codeaurora.org": 2,
@@ -425,7 +425,7 @@
       "clrkwllms": 1,
       "cmaiolino": 1,
       "cminyard": 1,
-      "code-review@localhost": 1498,
+      "code-review@localhost": 1502,
       "codeworkx": 3,
       "codeworkx@cyanogenmod.org": 2,
       "colyli@suse.de": 2,
@@ -860,7 +860,7 @@
       "sean-jc": 1,
       "sebott@linux.vnet.ibm.com": 2,
       "sergey-senozhatsky": 1,
-      "sgadag@codeaurora.org": 7,
+      "sgadag@codeaurora.org": 11,
       "sgaud@codeaurora.org": 1,
       "sgownipa@codeaurora.org": 1,
       "sgrover@codeaurora.org": 3,
@@ -1043,7 +1043,7 @@
       "zonque": 2,
       "zyy@motorola.com": 1
     },
-    "n_commits": 3915,
+    "n_commits": 3914,
     "n_contributors": 798
   }
 }

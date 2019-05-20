@@ -132,7 +132,7 @@
       "amartinz": 2,
       "amir73il": 1,
       "anajahi@codeaurora.org": 1,
-      "anantg@codeaurora.org": 6,
+      "anantg@codeaurora.org": 4,
       "andrea.parri@amarulasolutions.com": 1,
       "andrea.righi@canonical.com": 1,
       "andy-shev": 2,
@@ -979,7 +979,7 @@
       "zmarkovic": 1,
       "zzam": 1
     },
-    "n_commits": 2853,
+    "n_commits": 2852,
     "n_contributors": 930
   },
   "365": {
@@ -1088,7 +1088,7 @@
       "ambarus": 2,
       "amir73il": 1,
       "anajahi@codeaurora.org": 1,
-      "anantg@codeaurora.org": 16,
+      "anantg@codeaurora.org": 18,
       "ander.conselvan.de.oliveira@intel.com": 1,
       "andrea-adami": 1,
       "andreas-schwab": 1,
@@ -2077,7 +2077,7 @@
       "ztu@codeaurora.org": 19,
       "zumengchen": 1
     },
-    "n_commits": 3927,
+    "n_commits": 3928,
     "n_contributors": 1092
   }
 }
