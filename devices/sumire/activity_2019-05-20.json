@@ -1,0 +1,22 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": [
+      "alviteri",
+      "jerpelea",
+      "luk1337",
+      "mjsir911"
+    ],
+    "n_commits": 4,
+    "n_contributors": 4
+  }
+}

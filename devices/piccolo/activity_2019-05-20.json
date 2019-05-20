@@ -1,0 +1,77 @@
+{
+  "30": {
+    "contributors": [
+      "Kra1o5",
+      "aymende7",
+      "eloimuns",
+      "intervigilium"
+    ],
+    "n_commits": 5,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": [
+      "Anik1199",
+      "Demon000",
+      "Kra1o5",
+      "aymende7",
+      "bgcngm",
+      "brinlyau",
+      "eloimuns",
+      "haggertk",
+      "mikeNG",
+      "npjohnson",
+      "olvaffe",
+      "weivincewang"
+    ],
+    "n_commits": 28,
+    "n_contributors": 12
+  },
+  "365": {
+    "contributors": [
+      "Alberto97",
+      "Bauuuuu",
+      "Demon000",
+      "Flex1911",
+      "Rashed97",
+      "aymende7",
+      "bgcngm",
+      "bpawar@codeaurora.org",
+      "brinlyau",
+      "chrmhoffmann",
+      "code-review@localhost",
+      "crpalmer",
+      "daniel-thompson",
+      "diegowilson",
+      "dimitry-",
+      "gfodi@codeaurora.org",
+      "ghostrider-reborn",
+      "h2o64",
+      "haggertk",
+      "haibinl@codeaurora.org",
+      "harya@codeaurora.org",
+      "intervigilium",
+      "jankit@codeaurora.org",
+      "javelinanddart",
+      "jnaruka-dts",
+      "johnstultz-work",
+      "lnxbuild@localhost",
+      "luca020400",
+      "luk1337",
+      "maniac103",
+      "maxwen",
+      "mikeNG",
+      "prathampratap@codeaurora.org",
+      "sam3000",
+      "sgownipa@codeaurora.org",
+      "smugat@codeaurora.org",
+      "viro@zeniv.linux.org.uk",
+      "vkommara@codeaurora.org",
+      "weivincewang",
+      "wileyatgoogle",
+      "yogendra@codeaurora.org"
+    ],
+    "n_commits": 142,
+    "n_contributors": 41
+  }
+}

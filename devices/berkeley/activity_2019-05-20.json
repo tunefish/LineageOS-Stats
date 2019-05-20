@@ -1,0 +1,41 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [
+      "Flex1911",
+      "aagit",
+      "ajs1984",
+      "akhilnarang",
+      "bgcngm",
+      "ezio84",
+      "javelinanddart",
+      "jrizzoli",
+      "luk1337",
+      "maniac103",
+      "mathieuchartier",
+      "tdm",
+      "thestinger"
+    ],
+    "n_commits": 113,
+    "n_contributors": 13
+  },
+  "365": {
+    "contributors": [
+      "Flex1911",
+      "Rashed97",
+      "Vachounet",
+      "bgcngm",
+      "chrmhoffmann",
+      "javelinanddart",
+      "jesec",
+      "luk1337",
+      "phhusson"
+    ],
+    "n_commits": 38,
+    "n_contributors": 9
+  }
+}

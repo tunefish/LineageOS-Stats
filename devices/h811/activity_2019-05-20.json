@@ -1,0 +1,35 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [
+      "BadDaemon",
+      "bgcngm",
+      "jrior001",
+      "jrizzoli",
+      "mikeNG"
+    ],
+    "n_commits": 15,
+    "n_contributors": 5
+  },
+  "365": {
+    "contributors": [
+      "Florin9doi",
+      "ThePiGuy0",
+      "alviteri",
+      "bgcngm",
+      "bmc08gt",
+      "hanssonatgoogle",
+      "intervigilium",
+      "jerpelea",
+      "jrior001",
+      "luk1337",
+      "mikeNG"
+    ],
+    "n_commits": 26,
+    "n_contributors": 11
+  }
+}

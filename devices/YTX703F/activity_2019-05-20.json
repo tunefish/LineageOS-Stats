@@ -1,0 +1,57 @@
+{
+  "30": {
+    "contributors": [],
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": [
+      "BadDaemon",
+      "Matshias",
+      "Quallenauge",
+      "amluto",
+      "bgcngm",
+      "ericrannaud",
+      "gnehzuil",
+      "javelinanddart",
+      "luk1337",
+      "mathieuchartier",
+      "mikeNG",
+      "vladimiroltean"
+    ],
+    "n_commits": 78,
+    "n_contributors": 12
+  },
+  "365": {
+    "contributors": [
+      "ChristianCiach",
+      "Gabriel85",
+      "Matshias",
+      "Quallenauge",
+      "alviteri",
+      "andresoportus",
+      "ariava",
+      "atseanpaul",
+      "borntraeger",
+      "dianlujitao",
+      "freak97",
+      "haggertk",
+      "intervigilium",
+      "jerpelea",
+      "kerneltoast",
+      "kholk",
+      "luk1337",
+      "mikeNG",
+      "paolo-github",
+      "pattjin",
+      "showp1984",
+      "smore-lore",
+      "syphyr",
+      "torvalds",
+      "vladimiroltean",
+      "wildea01"
+    ],
+    "n_commits": 469,
+    "n_contributors": 26
+  }
+}
