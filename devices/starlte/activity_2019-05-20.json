@@ -87,7 +87,6 @@
       "Yannik": 2,
       "ZhouyangJia": 10,
       "a.hajda@samsung.com": 6,
-      "a22381@motorola.com": 3,
       "aakoskin": 1,
       "aapo@tuxera.com": 1,
       "aaptel@suse.com": 1,
@@ -399,7 +398,7 @@
       "javelinanddart@gmail.com": 2,
       "jay-vosburgh": 1,
       "jbeulich": 2,
-      "jc@lineageos.org": 23,
+      "jc@lineageos.org": 22,
       "jchandra-cavm": 1,
       "jcmvbkbc": 2,
       "jdelvare": 1,
@@ -408,7 +407,7 @@
       "jeremycline": 5,
       "jernejsk": 1,
       "jeromebrunet": 1,
-      "jesec": 46,
+      "jesec": 42,
       "jgill@vmware.com": 1,
       "jgross1": 9,
       "jhedberg": 1,
@@ -935,7 +934,7 @@
       "zonque": 4,
       "zumengchen": 1
     },
-    "n_commits": 2322,
-    "n_contributors": 904
+    "n_commits": 2318,
+    "n_contributors": 903
   }
 }
