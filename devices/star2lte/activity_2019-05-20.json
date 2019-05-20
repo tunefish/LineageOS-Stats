@@ -398,7 +398,7 @@
       "javelinanddart@gmail.com": 2,
       "jay-vosburgh": 1,
       "jbeulich": 2,
-      "jc@lineageos.org": 22,
+      "jc@lineageos.org": 20,
       "jchandra-cavm": 1,
       "jcmvbkbc": 2,
       "jdelvare": 1,
@@ -407,7 +407,7 @@
       "jeremycline": 5,
       "jernejsk": 1,
       "jeromebrunet": 1,
-      "jesec": 42,
+      "jesec": 40,
       "jgill@vmware.com": 1,
       "jgross1": 9,
       "jhedberg": 1,
@@ -934,7 +934,7 @@
       "zonque": 4,
       "zumengchen": 1
     },
-    "n_commits": 2318,
+    "n_commits": 2316,
     "n_contributors": 903
   }
 }

@@ -11,7 +11,7 @@
   },
   "180": {
     "contributors": {
-      "416810799@qq.com": 78,
+      "416810799@qq.com": 77,
       "BadDaemon": 6,
       "CertifiedBlyndGuy": 1,
       "JianyuZhan": 1,
@@ -34,7 +34,7 @@
       "ardbiesheuvel": 4,
       "artagnon": 1,
       "asohan@codeaurora.org": 1,
-      "aviraxp": 386,
+      "aviraxp": 385,
       "axboe": 1,
       "baddaemon87@gmail.com": 5,
       "badhri@google.com": 1,
@@ -199,12 +199,12 @@
       "zwliew": 1,
       "\u201c416810799@qq.com\u201d": 2
     },
-    "n_commits": 427,
+    "n_commits": 426,
     "n_contributors": 187
   },
   "365": {
     "contributors": {
-      "416810799@qq.com": 15,
+      "416810799@qq.com": 16,
       "AdrianDC": 2,
       "BadDaemon": 2,
       "BobZhome": 2,
@@ -223,7 +223,7 @@
       "anallu@codeaurora.org": 1,
       "andresoportus": 3,
       "anupritaisno1": 2,
-      "aviraxp": 114,
+      "aviraxp": 115,
       "avmenon@codeaurora.org": 2,
       "ben@armis.com": 2,
       "bgcngm": 31,
@@ -318,7 +318,7 @@
       "zhikait@codeaurora.org": 3,
       "zkong@codeaurora.org": 1
     },
-    "n_commits": 318,
+    "n_commits": 319,
     "n_contributors": 113
   }
 }

@@ -170,7 +170,7 @@
       "puneet@codeaurora.org": 7,
       "pwbldsvc@noemail.qualcomm.com": 1,
       "qctecmdr@localhost": 9,
-      "qctecmdr@qualcomm.com": 58,
+      "qctecmdr@qualcomm.com": 56,
       "qiweil@codeaurora.org": 11,
       "qmale@codeaurora.org": 2,
       "rahsha@codeaurora.org": 6,
@@ -239,7 +239,7 @@
       "zchaoli@codeaurora.org": 3,
       "zhongbos@codeaurora.org": 4
     },
-    "n_commits": 788,
+    "n_commits": 786,
     "n_contributors": 211
   },
   "365": {
@@ -795,7 +795,7 @@
       "pshrivas@codeaurora.org": 1,
       "puneet@codeaurora.org": 26,
       "py06": 1,
-      "qctecmdr@qualcomm.com": 84,
+      "qctecmdr@qualcomm.com": 86,
       "qi.hou@windriver.com": 1,
       "qiliu@codeaurora.org": 2,
       "qiweil@codeaurora.org": 22,
@@ -1043,7 +1043,7 @@
       "zonque": 2,
       "zyy@motorola.com": 1
     },
-    "n_commits": 3914,
+    "n_commits": 3916,
     "n_contributors": 798
   }
 }

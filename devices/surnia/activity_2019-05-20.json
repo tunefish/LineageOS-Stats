@@ -145,7 +145,6 @@
       "dcashman@google.com": 1,
       "dchinner@redhat.com": 1,
       "ddstreet": 7,
-      "deesin@codeaurora.org": 1,
       "defer": 1,
       "dendluri@codeaurora.org": 1,
       "desaishivam26": 1,
@@ -206,7 +205,6 @@
       "guaneryu": 2,
       "haggertk": 1,
       "hannes@stressinduktion.org": 4,
-      "harya@codeaurora.org": 1,
       "heather.lomond@wolfsonmicro.com": 14,
       "heesub.shin@samsung.com": 2,
       "herbertx": 4,
@@ -525,8 +523,8 @@
       "zhouwl@lenovo.com": 11,
       "zyy@motorola.com": 32
     },
-    "n_commits": 3260,
-    "n_contributors": 518
+    "n_commits": 3259,
+    "n_contributors": 516
   },
   "365": {
     "contributors": {
@@ -557,6 +555,7 @@
       "cravin@codeaurora.org": 4,
       "cxrm67@motorola.com": 1,
       "daidavid1@codeaurora.org": 1,
+      "deesin@codeaurora.org": 1,
       "desaia@codeaurora.org": 2,
       "dtor": 1,
       "ebiggers": 6,
@@ -565,7 +564,7 @@
       "fw@strlen.de": 1,
       "gfodi@codeaurora.org": 3,
       "haibinl@codeaurora.org": 1,
-      "harya@codeaurora.org": 3,
+      "harya@codeaurora.org": 4,
       "hdhatt@codeaurora.org": 2,
       "hsahu@codeaurora.org": 1,
       "huaibiny@codeaurora.org": 7,
@@ -630,7 +629,7 @@
       "xairy": 2,
       "yogendra@codeaurora.org": 1
     },
-    "n_commits": 193,
-    "n_contributors": 99
+    "n_commits": 194,
+    "n_contributors": 100
   }
 }
