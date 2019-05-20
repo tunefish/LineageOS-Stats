@@ -1,54 +1,58 @@
 {
   "30": {
-    "contributors": [
-      "followmsi"
-    ],
+    "contributors": {
+      "followmsi": 2,
+      "followmsi@gmail.com": 2
+    },
     "n_commits": 2,
-    "n_contributors": 1
+    "n_contributors": 2
   },
   "180": {
-    "contributors": [
-      "android-build-team-robot@google.com",
-      "android-gerrit-partner@google.com",
-      "followmsi",
-      "kees",
-      "luto@kernel.org",
-      "migueldedios@google.com",
-      "mylesgw@google.com",
-      "robinpeng@google.com",
-      "torvalds",
-      "tytso"
-    ],
+    "contributors": {
+      "android-build-team-robot@google.com": 3,
+      "android-gerrit-partner@google.com": 2,
+      "followmsi": 11,
+      "followmsi@gmail.com": 11,
+      "kees": 6,
+      "luto@kernel.org": 7,
+      "migueldedios@google.com": 15,
+      "mylesgw@google.com": 1,
+      "robinpeng@google.com": 6,
+      "torvalds": 2,
+      "tytso": 4
+    },
     "n_commits": 34,
-    "n_contributors": 10
+    "n_contributors": 11
   },
   "365": {
-    "contributors": [
-      "Rickyiu",
-      "alehmer@google.com",
-      "android-build-team-robot@google.com",
-      "android-gerrit-partner@google.com",
-      "android-nexus-securitybot@system.gserviceaccount.com",
-      "badhri@google.com",
-      "chaseyu",
-      "cpaasch",
-      "drosen@google.com",
-      "dtwlin",
-      "followmsi",
-      "fruggeri@aristanetworks.com",
-      "fw@strlen.de",
-      "harrisonlingren",
-      "joaodias@google.com",
-      "kees",
-      "lars.westerhoff@newtec.eu",
-      "maggiewhite@google.com",
-      "nychitman1",
-      "pgynther@google.com",
-      "torvalds",
-      "tytso",
-      "wdebruij"
-    ],
+    "contributors": {
+      "Rickyiu": 1,
+      "alehmer@google.com": 7,
+      "android-build-team-robot@google.com": 3,
+      "android-gerrit-partner@google.com": 8,
+      "android-nexus-securitybot@system.gserviceaccount.com": 15,
+      "badhri@google.com": 1,
+      "chaseyu": 1,
+      "cpaasch": 1,
+      "drosen@google.com": 3,
+      "dtwlin": 1,
+      "followmsi": 15,
+      "followmsi@gmail.com": 14,
+      "fruggeri@aristanetworks.com": 1,
+      "fw@strlen.de": 1,
+      "harrisonlingren": 1,
+      "joaodias@google.com": 2,
+      "kees": 1,
+      "lars.westerhoff@newtec.eu": 1,
+      "maggiewhite@google.com": 1,
+      "markz@nvidia.com": 1,
+      "nychitman1": 1,
+      "pgynther@google.com": 1,
+      "torvalds": 3,
+      "tytso": 5,
+      "wdebruij": 1
+    },
     "n_commits": 45,
-    "n_contributors": 23
+    "n_contributors": 25
   }
 }

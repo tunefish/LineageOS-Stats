@@ -1,18 +1,19 @@
 {
   "30": {
-    "contributors": [],
+    "contributors": {},
     "n_commits": 0,
     "n_contributors": 0
   },
   "180": {
-    "contributors": [
-      "TTTT555"
-    ],
+    "contributors": {
+      "TTTT555": 1,
+      "ttnani555@gmail.com": 1
+    },
     "n_commits": 1,
-    "n_contributors": 1
+    "n_contributors": 2
   },
   "365": {
-    "contributors": [],
+    "contributors": {},
     "n_commits": 0,
     "n_contributors": 0
   }

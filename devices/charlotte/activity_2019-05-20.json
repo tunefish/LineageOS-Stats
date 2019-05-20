@@ -1,42 +1,48 @@
 {
   "30": {
-    "contributors": [],
+    "contributors": {},
     "n_commits": 0,
     "n_contributors": 0
   },
   "180": {
-    "contributors": [
-      "Flex1911",
-      "aagit",
-      "ajs1984",
-      "akhilnarang",
-      "bgcngm",
-      "ezio84",
-      "javelinanddart",
-      "jrizzoli",
-      "luk1337",
-      "maniac103",
-      "mathieuchartier",
-      "tdm",
-      "thestinger"
-    ],
+    "contributors": {
+      "Flex1911": 6,
+      "aagit": 1,
+      "ajs1984": 1,
+      "akhilnarang": 1,
+      "bgcngm": 3,
+      "ezio84": 2,
+      "javelinanddart": 7,
+      "javelinanddart@gmail.com": 3,
+      "jrizzoli": 1,
+      "luk1337": 110,
+      "maniac103": 1,
+      "mathieuchartier": 1,
+      "priv.luk@gmail.com": 85,
+      "tdm": 2,
+      "thestinger": 1,
+      "ycchen@google.com": 1
+    },
     "n_commits": 113,
-    "n_contributors": 13
+    "n_contributors": 16
   },
   "365": {
-    "contributors": [
-      "Flex1911",
-      "Rashed97",
-      "Vachounet",
-      "bgcngm",
-      "chrmhoffmann",
-      "javelinanddart",
-      "jesec",
-      "luca020400",
-      "luk1337",
-      "phhusson"
-    ],
+    "contributors": {
+      "Flex1911": 5,
+      "Rashed97": 1,
+      "Vachounet": 1,
+      "bgcngm": 1,
+      "chrmhoffmann": 1,
+      "dedsa2002@gmail.com": 1,
+      "javelinanddart": 16,
+      "javelinanddart@gmail.com": 15,
+      "jesec": 1,
+      "luca020400": 1,
+      "luk1337": 23,
+      "phhusson": 1,
+      "priv.luk@gmail.com": 13
+    },
     "n_commits": 40,
-    "n_contributors": 10
+    "n_contributors": 13
   }
 }

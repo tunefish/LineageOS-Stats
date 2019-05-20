@@ -1,25 +1,31 @@
 {
   "30": {
-    "contributors": [],
+    "contributors": {},
     "n_commits": 0,
     "n_contributors": 0
   },
   "180": {
-    "contributors": [
-      "haggertk",
-      "razorloves"
-    ],
+    "contributors": {
+      "haggertk": 1,
+      "haggertk@lineageos.org": 1,
+      "kandoiruchi@google.com": 1,
+      "razorloves": 1
+    },
     "n_commits": 2,
-    "n_contributors": 2
+    "n_contributors": 4
   },
   "365": {
-    "contributors": [
-      "danw",
-      "haggertk",
-      "raymanfx",
-      "razorloves"
-    ],
+    "contributors": {
+      "danw": 1,
+      "dwillemsen@google.com": 1,
+      "haggertk": 3,
+      "haggertk@lineageos.org": 3,
+      "raymanfx": 2,
+      "raymanfx@gmail.com": 2,
+      "razorloves": 8,
+      "razorloves@gmail.com": 8
+    },
     "n_commits": 9,
-    "n_contributors": 4
+    "n_contributors": 8
   }
 }

@@ -1,25 +1,28 @@
 {
   "30": {
-    "contributors": [],
+    "contributors": {},
     "n_commits": 0,
     "n_contributors": 0
   },
   "180": {
-    "contributors": [],
+    "contributors": {},
     "n_commits": 0,
     "n_contributors": 0
   },
   "365": {
-    "contributors": [
-      "Demon000",
-      "bgcngm",
-      "dianlujitao",
-      "javelinanddart",
-      "luca020400",
-      "mikeNG",
-      "nocry22"
-    ],
+    "contributors": {
+      "Demon000": 39,
+      "bgcngm": 2,
+      "demonsingur@gmail.com": 30,
+      "dianlujitao": 1,
+      "imaipi@google.com": 1,
+      "javelinanddart": 1,
+      "luca020400": 1,
+      "mikeNG": 1,
+      "nocry22": 1,
+      "philipcuadra@google.com": 1
+    },
     "n_commits": 39,
-    "n_contributors": 7
+    "n_contributors": 10
   }
 }

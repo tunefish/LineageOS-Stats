@@ -1,25 +1,29 @@
 {
   "30": {
-    "contributors": [
-      "webgeek1234"
-    ],
+    "contributors": {
+      "webgeek1234": 1,
+      "webgeek1234@gmail.com": 1
+    },
     "n_commits": 1,
-    "n_contributors": 1
+    "n_contributors": 2
   },
   "180": {
-    "contributors": [
-      "webgeek1234"
-    ],
+    "contributors": {
+      "webgeek1234": 7,
+      "webgeek1234@gmail.com": 7
+    },
     "n_commits": 7,
-    "n_contributors": 1
+    "n_contributors": 2
   },
   "365": {
-    "contributors": [
-      "intervigilium",
-      "npjohnson",
-      "webgeek1234"
-    ],
+    "contributors": {
+      "intervigil@gmail.com": 1,
+      "intervigilium": 1,
+      "npjohnson": 1,
+      "webgeek1234": 15,
+      "webgeek1234@gmail.com": 14
+    },
     "n_commits": 16,
-    "n_contributors": 3
+    "n_contributors": 5
   }
 }

@@ -1,23 +1,27 @@
 {
   "30": {
-    "contributors": [],
+    "contributors": {},
     "n_commits": 0,
     "n_contributors": 0
   },
   "180": {
-    "contributors": [],
+    "contributors": {},
     "n_commits": 0,
     "n_contributors": 0
   },
   "365": {
-    "contributors": [
-      "cmorlok",
-      "eloimuns",
-      "stucki",
-      "tdm",
-      "tiwai"
-    ],
+    "contributors": {
+      "ben@armis.com": 1,
+      "cmorlok": 1,
+      "eloimuns": 1,
+      "eloimuns@gmail.com": 1,
+      "michael@stucki.io": 3,
+      "stucki": 8,
+      "tdm": 1,
+      "tim.gardner@canonical.com": 1,
+      "tiwai": 1
+    },
     "n_commits": 9,
-    "n_contributors": 5
+    "n_contributors": 9
   }
 }

@@ -1,22 +1,24 @@
 {
   "30": {
-    "contributors": [],
+    "contributors": {},
     "n_commits": 0,
     "n_contributors": 0
   },
   "180": {
-    "contributors": [],
+    "contributors": {},
     "n_commits": 0,
     "n_contributors": 0
   },
   "365": {
-    "contributors": [
-      "alviteri",
-      "jerpelea",
-      "luk1337",
-      "mjsir911"
-    ],
+    "contributors": {
+      "alviteri": 1,
+      "jerpelea": 2,
+      "luk1337": 4,
+      "marco@sirabella.org": 1,
+      "mjsir911": 1,
+      "priv.luk@gmail.com": 1
+    },
     "n_commits": 4,
-    "n_contributors": 4
+    "n_contributors": 6
   }
 }

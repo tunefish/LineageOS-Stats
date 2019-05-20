@@ -1,29 +1,35 @@
 {
   "30": {
-    "contributors": [],
+    "contributors": {},
     "n_commits": 0,
     "n_contributors": 0
   },
   "180": {
-    "contributors": [
-      "BadDaemon",
-      "bgcngm",
-      "jrior001",
-      "jrizzoli",
-      "mikeNG"
-    ],
+    "contributors": {
+      "BadDaemon": 4,
+      "baddaemon87@gmail.com": 4,
+      "bgcngm": 3,
+      "bgcngm@gmail.com": 1,
+      "jrior001": 1,
+      "jrizzoli": 1,
+      "mikeNG": 5,
+      "mkbestas@lineageos.org": 5
+    },
     "n_commits": 15,
-    "n_contributors": 5
+    "n_contributors": 8
   },
   "365": {
-    "contributors": [
-      "Florin9doi",
-      "bgcngm",
-      "hanssonatgoogle",
-      "jrior001",
-      "mikeNG"
-    ],
+    "contributors": {
+      "Florin9doi": 6,
+      "bgcngm": 6,
+      "bgcngm@gmail.com": 1,
+      "hanssonatgoogle": 1,
+      "jrior001": 5,
+      "jriordan001@gmail.com": 1,
+      "mikeNG": 9,
+      "mkbestas@lineageos.org": 9
+    },
     "n_commits": 17,
-    "n_contributors": 5
+    "n_contributors": 8
   }
 }
