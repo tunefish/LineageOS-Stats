@@ -399,7 +399,7 @@
       "javelinanddart@gmail.com": 2,
       "jay-vosburgh": 1,
       "jbeulich": 2,
-      "jc@lineageos.org": 19,
+      "jc@lineageos.org": 16,
       "jchandra-cavm": 1,
       "jcmvbkbc": 2,
       "jdelvare": 1,
@@ -408,7 +408,7 @@
       "jeremycline": 5,
       "jernejsk": 1,
       "jeromebrunet": 1,
-      "jesec": 39,
+      "jesec": 35,
       "jgill@vmware.com": 1,
       "jgross1": 9,
       "jhedberg": 1,
@@ -872,7 +872,6 @@
       "vpalatin": 1,
       "vpelletier": 2,
       "vsyrjala": 2,
-      "vvreddy@codeaurora.org": 1,
       "w@1wt.eu": 3,
       "waiman.long@hpe.com": 1,
       "wang6495@umn.edu": 4,
@@ -934,7 +933,7 @@
       "zonque": 4,
       "zumengchen": 1
     },
-    "n_commits": 2315,
-    "n_contributors": 903
+    "n_commits": 2311,
+    "n_contributors": 902
   }
 }

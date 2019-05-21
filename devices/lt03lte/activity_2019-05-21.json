@@ -18,8 +18,8 @@
       "bgcngm@gmail.com": 1,
       "dianlujitao": 1,
       "elektroschmock": 1,
-      "haggertk": 44,
-      "haggertk@lineageos.org": 29,
+      "haggertk": 41,
+      "haggertk@lineageos.org": 27,
       "i_ivan@windowslive.com": 12,
       "intervigilium": 1,
       "ivanmeler": 15,
@@ -30,11 +30,10 @@
       "mkbestas@lineageos.org": 1,
       "pnagda@codeaurora.org": 1,
       "raymanfx": 2,
-      "sshadu@codeaurora.org": 1,
       "waynewhlin@google.com": 2
     },
-    "n_commits": 100,
-    "n_contributors": 26
+    "n_commits": 97,
+    "n_contributors": 25
   },
   "365": {
     "contributors": {
@@ -55,8 +54,8 @@
       "freak97": 2,
       "gohulanb@codeaurora.org": 2,
       "gohulanb@quicinc.com": 2,
-      "haggertk": 69,
-      "haggertk@lineageos.org": 16,
+      "haggertk": 72,
+      "haggertk@lineageos.org": 18,
       "hanssonatgoogle": 2,
       "info@stricted.net": 10,
       "ivanmeler": 6,
@@ -77,6 +76,7 @@
       "ruthwar@codeaurora.org": 1,
       "sanketpadawe@google.com": 1,
       "smore-lore": 2,
+      "sshadu@codeaurora.org": 1,
       "stenkinevgeniy@gmail.com": 3,
       "terrycrhuang@google.com": 2,
       "tomm1e": 2,
@@ -84,7 +84,7 @@
       "vahempio": 3,
       "vahempio@gmail.com": 1
     },
-    "n_commits": 111,
-    "n_contributors": 45
+    "n_commits": 114,
+    "n_contributors": 46
   }
 }

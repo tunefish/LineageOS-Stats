@@ -71,7 +71,6 @@
       "regit": 1,
       "rydberg": 9,
       "spandruvada": 1,
-      "sshadu@codeaurora.org": 1,
       "thestinger": 1,
       "torvalds": 6,
       "tytso": 21,
@@ -81,8 +80,8 @@
       "waynewhlin@google.com": 3,
       "xemul": 1
     },
-    "n_commits": 284,
-    "n_contributors": 71
+    "n_commits": 281,
+    "n_contributors": 70
   },
   "365": {
     "contributors": {
@@ -198,6 +197,7 @@
       "smore-lore": 2,
       "spandruvada": 2,
       "spfetsch": 1,
+      "sshadu@codeaurora.org": 1,
       "stenkinevgeniy@gmail.com": 3,
       "tbhardwa@codeaurora.org": 1,
       "terrycrhuang@google.com": 2,
@@ -214,7 +214,7 @@
       "weiwan@google.com": 1,
       "zhangjerry@google.com": 1
     },
-    "n_commits": 365,
-    "n_contributors": 127
+    "n_commits": 368,
+    "n_contributors": 128
   }
 }

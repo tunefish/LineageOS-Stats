@@ -1542,7 +1542,7 @@
       "desaia@codeaurora.org": 102,
       "dgerlach": 2,
       "dgloeck": 2,
-      "dhar@codeaurora.org": 24,
+      "dhar@codeaurora.org": 20,
       "dhduvall": 4,
       "dhnkrn": 2,
       "dhowells": 12,
@@ -2505,7 +2505,7 @@
       "vaverin": 22,
       "vbadigan@codeaurora.org": 33,
       "vbuslov": 2,
-      "vbv@codeaurora.org": 40,
+      "vbv@codeaurora.org": 36,
       "vchinta@codeaurora.org": 12,
       "veeras@codeaurora.org": 14,
       "vegard": 4,
@@ -2643,7 +2643,7 @@
       "zonque": 10,
       "zumengchen": 2
     },
-    "n_commits": 6528,
+    "n_commits": 6526,
     "n_contributors": 1429
   }
 }

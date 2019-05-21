@@ -134,7 +134,7 @@
       "vgarodia": 1,
       "vigneshk@codeaurora.org": 3,
       "vinmenon@codeaurora.org": 1,
-      "viswanat@codeaurora.org": 7,
+      "viswanat@codeaurora.org": 5,
       "vjitta@codeaurora.org": 2,
       "vladimiroltean": 2,
       "vskrishn@codeaurora.org": 1,
@@ -143,7 +143,7 @@
       "xsang@codeaurora.org": 8,
       "ysriramg@codeaurora.org": 4
     },
-    "n_commits": 578,
+    "n_commits": 577,
     "n_contributors": 123
   },
   "365": {
@@ -199,7 +199,7 @@
       "abavanar@codeaurora.org": 6,
       "abhikuma@codeaurora.org": 50,
       "abhinavk@codeaurora.org": 7,
-      "ablay@codeaurora.org": 6,
+      "ablay@codeaurora.org": 4,
       "abrodkin": 3,
       "absingh@codeaurora.org": 5,
       "achouhan@codeaurora.org": 4,
@@ -232,6 +232,7 @@
       "alexandr.savca@saltedge.com": 1,
       "alexandrebelloni": 2,
       "alexestr": 1,
+      "alexvesker": 2,
       "alokkuma@codeaurora.org": 25,
       "alyptik": 1,
       "amah@codeaurora.org": 1,
@@ -333,7 +334,7 @@
       "cmaiolino": 1,
       "cminyard": 1,
       "cnssbldsw@qualcomm.com": 44,
-      "code-review@localhost": 1021,
+      "code-review@localhost": 1020,
       "colyli@suse.de": 2,
       "congt@codeaurora.org": 1,
       "congwang": 8,
@@ -941,7 +942,6 @@
       "uagrawal@codeaurora.org": 5,
       "ulfalizer": 4,
       "utrace": 1,
-      "valex@mellanox.com": 2,
       "varunreddy.yeturu@codeaurora.org": 2,
       "vaverin": 1,
       "vavsg@codeaurora.org": 11,
@@ -955,7 +955,7 @@
       "vinod.koul@intel.com": 1,
       "viro@zeniv.linux.org.uk": 8,
       "virtuoso": 1,
-      "viswanat@codeaurora.org": 53,
+      "viswanat@codeaurora.org": 55,
       "vivek.gautam@codeaurora.org": 1,
       "vivekgautam1": 1,
       "vivekuma@codeaurora.org": 5,
@@ -982,7 +982,7 @@
       "wens": 1,
       "werwurm": 1,
       "westeri": 2,
-      "wildea01": 4,
+      "wildea01": 3,
       "wilhuang@codeaurora.org": 7,
       "william.wu@rock-chips.com": 1,
       "wsa+renesas@sang-engineering.com": 12,
@@ -1044,7 +1044,7 @@
       "zonque": 2,
       "ztu@codeaurora.org": 19
     },
-    "n_commits": 3936,
+    "n_commits": 3935,
     "n_contributors": 895
   }
 }

@@ -168,7 +168,7 @@
       "vgarodia": 1,
       "vigneshk@codeaurora.org": 3,
       "vinmenon@codeaurora.org": 1,
-      "viswanat@codeaurora.org": 7,
+      "viswanat@codeaurora.org": 5,
       "vjitta@codeaurora.org": 2,
       "vskrishn@codeaurora.org": 1,
       "wcheng@codeaurora.org": 1,
@@ -182,7 +182,7 @@
       "zljing@codeaurora.org": 1,
       "zwliew": 2
     },
-    "n_commits": 754,
+    "n_commits": 753,
     "n_contributors": 154
   },
   "365": {
@@ -241,7 +241,7 @@
       "abhikuma@codeaurora.org": 57,
       "abhinavk@codeaurora.org": 23,
       "abirg@codeaurora.org": 1,
-      "ablay@codeaurora.org": 6,
+      "ablay@codeaurora.org": 4,
       "abrodkin": 3,
       "absingh@codeaurora.org": 5,
       "achouhan@codeaurora.org": 6,
@@ -279,6 +279,7 @@
       "alexandr.savca@saltedge.com": 1,
       "alexandrebelloni": 2,
       "alexestr": 1,
+      "alexvesker": 2,
       "alokkuma@codeaurora.org": 32,
       "alyptik": 1,
       "amah@codeaurora.org": 1,
@@ -387,7 +388,7 @@
       "cmaiolino": 1,
       "cminyard": 1,
       "cnssbldsw@qualcomm.com": 128,
-      "code-review@localhost": 1446,
+      "code-review@localhost": 1445,
       "colyli@suse.de": 2,
       "congt@codeaurora.org": 1,
       "congwang": 9,
@@ -1016,7 +1017,6 @@
       "uagrawal@codeaurora.org": 5,
       "ulfalizer": 4,
       "utrace": 2,
-      "valex@mellanox.com": 2,
       "varunreddy.yeturu@codeaurora.org": 5,
       "vaverin": 1,
       "vavsg@codeaurora.org": 42,
@@ -1031,7 +1031,7 @@
       "viro@zeniv.linux.org.uk": 8,
       "virtuoso": 1,
       "vishniakou": 2,
-      "viswanat@codeaurora.org": 70,
+      "viswanat@codeaurora.org": 72,
       "vivek.gautam@codeaurora.org": 1,
       "vivekgautam1": 1,
       "vivekuma@codeaurora.org": 5,
@@ -1060,7 +1060,7 @@
       "wens": 1,
       "werwurm": 1,
       "westeri": 2,
-      "wildea01": 4,
+      "wildea01": 3,
       "wilhuang@codeaurora.org": 8,
       "william.wu@rock-chips.com": 1,
       "wjiang@codeaurora.org": 2,
@@ -1123,7 +1123,7 @@
       "zsm-oss": 1,
       "ztu@codeaurora.org": 19
     },
-    "n_commits": 4986,
+    "n_commits": 4985,
     "n_contributors": 935
   }
 }

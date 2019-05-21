@@ -20,7 +20,6 @@
       "Stricted": 30,
       "Usaamah99": 2,
       "arco": 3,
-      "aviraxp": 1,
       "baddaemon87@gmail.com": 4,
       "basilgello": 4,
       "bgcngm": 4,
@@ -42,7 +41,7 @@
       "fw@strlen.de": 6,
       "gaofeng@cn.fujitsu.com": 1,
       "gregkh": 1,
-      "haggertk": 196,
+      "haggertk": 195,
       "haggertk@lineageos.org": 30,
       "hans.schillstrom@ericsson.com": 2,
       "i_ivan@windowslive.com": 12,
@@ -71,7 +70,6 @@
       "regit": 1,
       "rydberg": 9,
       "spandruvada": 1,
-      "sshadu@codeaurora.org": 1,
       "thestinger": 1,
       "torvalds": 6,
       "tytso": 21,
@@ -81,8 +79,8 @@
       "waynewhlin@google.com": 3,
       "xemul": 1
     },
-    "n_commits": 283,
-    "n_contributors": 71
+    "n_commits": 279,
+    "n_contributors": 69
   },
   "365": {
     "contributors": {
@@ -100,6 +98,7 @@
       "airend": 2,
       "akodanev": 3,
       "amitmahajan@google.com": 2,
+      "aviraxp": 1,
       "ayin@google.com": 1,
       "basilgello": 9,
       "bgcngm": 9,
@@ -132,7 +131,7 @@
       "gohulanb@codeaurora.org": 2,
       "gohulanb@quicinc.com": 2,
       "gregkh": 5,
-      "haggertk": 327,
+      "haggertk": 328,
       "haggertk@lineageos.org": 55,
       "haibinl@qti.qualcomm.com": 3,
       "hanssonatgoogle": 1,
@@ -200,6 +199,7 @@
       "socialentry@gmail.com": 2,
       "spandruvada": 2,
       "spfetsch": 1,
+      "sshadu@codeaurora.org": 1,
       "stenkinevgeniy@gmail.com": 3,
       "tbhardwa@codeaurora.org": 1,
       "terrycrhuang@google.com": 2,
@@ -216,7 +216,7 @@
       "weiwan@google.com": 1,
       "zhangjerry@google.com": 1
     },
-    "n_commits": 368,
-    "n_contributors": 129
+    "n_commits": 372,
+    "n_contributors": 131
   }
 }

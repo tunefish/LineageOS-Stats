@@ -96,7 +96,7 @@
       "agrawals@codeaurora.org": 1,
       "agruenba@redhat.com": 4,
       "aisheng.dong@nxp.com": 1,
-      "ajaya@codeaurora.org": 94,
+      "ajaya@codeaurora.org": 92,
       "ajitp@codeaurora.org": 1,
       "ajs1984": 83,
       "akarwar@marvell.com": 1,
@@ -915,7 +915,7 @@
       "zmarkovic": 1,
       "zzam": 1
     },
-    "n_commits": 2787,
+    "n_commits": 2786,
     "n_contributors": 888
   },
   "365": {
@@ -984,7 +984,7 @@
       "abavanar@codeaurora.org": 6,
       "abhikuma@codeaurora.org": 1,
       "abhinavk@codeaurora.org": 20,
-      "ablay@codeaurora.org": 6,
+      "ablay@codeaurora.org": 4,
       "abrodkin": 5,
       "absingh@codeaurora.org": 2,
       "achouhan@codeaurora.org": 4,
@@ -1004,7 +1004,7 @@
       "agruenba@redhat.com": 2,
       "aik": 1,
       "airlied": 4,
-      "ajaya@codeaurora.org": 32,
+      "ajaya@codeaurora.org": 34,
       "ajaykuee": 1,
       "ajs1984": 20,
       "ak@linux.intel.com": 14,
@@ -1144,7 +1144,7 @@
       "cmaiolino": 1,
       "cminyard": 1,
       "cnssbldsw@qualcomm.com": 124,
-      "code-review@localhost": 978,
+      "code-review@localhost": 977,
       "colyli@suse.de": 2,
       "congt@codeaurora.org": 1,
       "congwang": 9,
@@ -1980,7 +1980,7 @@
       "werwurm": 1,
       "westeri": 3,
       "wight554": 4,
-      "wildea01": 5,
+      "wildea01": 4,
       "wilhuang@codeaurora.org": 2,
       "william.wu@rock-chips.com": 1,
       "wsa+renesas@sang-engineering.com": 12,
@@ -2055,7 +2055,7 @@
       "ztu@codeaurora.org": 19,
       "zumengchen": 1
     },
-    "n_commits": 4084,
+    "n_commits": 4083,
     "n_contributors": 1134
   }
 }

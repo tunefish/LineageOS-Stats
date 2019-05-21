@@ -212,6 +212,7 @@
       "alexander.h.duyck@intel.com": 1,
       "alexandrebelloni": 1,
       "alexestr": 1,
+      "alexvesker": 2,
       "alokkuma@codeaurora.org": 2,
       "alyptik": 1,
       "amartinz": 3,
@@ -247,7 +248,6 @@
       "b-rad-NDi": 5,
       "bailif@codeaurora.org": 1,
       "balacs@codeaurora.org": 13,
-      "balakishorepati@codeaurora.org": 1,
       "ben.hutchings@codethink.co.uk": 1,
       "benyxy@codeaurora.org": 2,
       "bgcngm": 795,
@@ -294,7 +294,7 @@
       "cminyard": 1,
       "cnbomme@codeaurora.org": 2,
       "cnssbldsw@qualcomm.com": 157,
-      "code-review@localhost": 936,
+      "code-review@localhost": 934,
       "codeworkx": 2,
       "colyli@suse.de": 2,
       "congwang": 8,
@@ -375,7 +375,7 @@
       "geert+renesas@glider.be": 7,
       "geertu": 1,
       "gerg@linux-m68k.org": 2,
-      "gisena@codeaurora.org": 2,
+      "gisena@codeaurora.org": 1,
       "github@bosch-sensortec.com": 5,
       "gkathpal@codeaurora.org": 2,
       "glikely": 2,
@@ -768,7 +768,6 @@
       "udaym@codeaurora.org": 1,
       "ulfalizer": 3,
       "uvats@codeaurora.org": 1,
-      "valex@mellanox.com": 2,
       "vaverin": 1,
       "vbadigan@codeaurora.org": 3,
       "vbucha@codeaurora.org": 2,
@@ -836,7 +835,7 @@
       "zkong@codeaurora.org": 18,
       "zonque": 2
     },
-    "n_commits": 2726,
-    "n_contributors": 678
+    "n_commits": 2724,
+    "n_contributors": 677
   }
 }

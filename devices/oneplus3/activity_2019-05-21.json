@@ -308,7 +308,7 @@
       "b-liu@ti.com": 2,
       "b-rad-NDi": 10,
       "balacs@codeaurora.org": 59,
-      "balakishorepati@codeaurora.org": 8,
+      "balakishorepati@codeaurora.org": 6,
       "ben.hutchings@codethink.co.uk": 2,
       "bgcngm": 20,
       "bgokul@codeaurora.org": 1,
@@ -347,7 +347,7 @@
       "cminyard": 2,
       "cnbomme@codeaurora.org": 6,
       "cnssbldsw@qualcomm.com": 524,
-      "code-review@localhost": 3064,
+      "code-review@localhost": 3060,
       "codeworkx": 3,
       "colyli@suse.de": 4,
       "congwang": 18,
@@ -424,7 +424,7 @@
       "geertu": 2,
       "gerg@linux-m68k.org": 4,
       "gfodi@codeaurora.org": 2,
-      "gisena@codeaurora.org": 4,
+      "gisena@codeaurora.org": 2,
       "github@bosch-sensortec.com": 10,
       "gkarth@codeaurora.org": 1,
       "gkathpal@codeaurora.org": 8,
@@ -841,7 +841,7 @@
       "zkong@codeaurora.org": 35,
       "zonque": 4
     },
-    "n_commits": 2531,
+    "n_commits": 2529,
     "n_contributors": 625
   }
 }

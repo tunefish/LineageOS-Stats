@@ -613,7 +613,7 @@
       "abavanar@codeaurora.org": 12,
       "abhikuma@codeaurora.org": 68,
       "abhinavk@codeaurora.org": 14,
-      "ablay@codeaurora.org": 8,
+      "ablay@codeaurora.org": 4,
       "abrodkin": 12,
       "absingh@codeaurora.org": 7,
       "acme@redhat.com": 10,
@@ -1804,7 +1804,7 @@
       "wens": 5,
       "werwurm": 5,
       "westeri": 11,
-      "wildea01": 17,
+      "wildea01": 15,
       "william.wu@rock-chips.com": 2,
       "wla015@motorola.com": 2,
       "wsa+renesas@sang-engineering.com": 60,
@@ -1913,7 +1913,7 @@
       "zwliew": 2,
       "zyy@motorola.com": 12
     },
-    "n_commits": 7589,
+    "n_commits": 7587,
     "n_contributors": 1381
   }
 }
