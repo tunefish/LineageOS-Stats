@@ -34,7 +34,7 @@
       "ardbiesheuvel": 4,
       "artagnon": 1,
       "asohan@codeaurora.org": 1,
-      "aviraxp": 385,
+      "aviraxp": 384,
       "axboe": 1,
       "baddaemon87@gmail.com": 5,
       "badhri@google.com": 1,
@@ -154,7 +154,6 @@
       "rostedt": 3,
       "sashalevin": 1,
       "sebastienbuisson": 1,
-      "sganig@codeaurora.org": 1,
       "sgvs@codeaurora.org": 1,
       "shaibal.dutta@broadcom.com": 5,
       "shaibal.dutta@linaro.org": 1,
@@ -199,8 +198,8 @@
       "zwliew": 1,
       "\u201c416810799@qq.com\u201d": 2
     },
-    "n_commits": 426,
-    "n_contributors": 187
+    "n_commits": 425,
+    "n_contributors": 186
   },
   "365": {
     "contributors": {
@@ -223,7 +222,7 @@
       "anallu@codeaurora.org": 1,
       "andresoportus": 3,
       "anupritaisno1": 2,
-      "aviraxp": 111,
+      "aviraxp": 112,
       "avmenon@codeaurora.org": 2,
       "ben@armis.com": 2,
       "bgcngm": 31,
@@ -293,6 +292,7 @@
       "ruifeng@codeaurora.org": 2,
       "satyak@codeaurora.org": 1,
       "scott@cyngn.com": 6,
+      "sganig@codeaurora.org": 1,
       "sgirigow@codeaurora.org": 4,
       "smore-lore": 1,
       "srafeeqh@codeaurora.org": 2,
@@ -318,7 +318,7 @@
       "zhikait@codeaurora.org": 3,
       "zkong@codeaurora.org": 1
     },
-    "n_commits": 317,
-    "n_contributors": 113
+    "n_commits": 318,
+    "n_contributors": 114
   }
 }

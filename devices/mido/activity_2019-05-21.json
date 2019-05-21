@@ -1427,7 +1427,7 @@
       "blong@codeaurora.org": 14,
       "blueden": 2,
       "bmaier-col": 4,
-      "bmanoj@codeaurora.org": 52,
+      "bmanoj@codeaurora.org": 50,
       "bmork": 4,
       "bo.li.liu@oracle.com": 10,
       "bo.liu@linux.alibaba.com": 6,
@@ -1496,7 +1496,7 @@
       "cmodi@codeaurora.org": 2,
       "cnbomme@codeaurora.org": 2,
       "cnssbldsw@qualcomm.com": 5,
-      "code-review@localhost": 4095,
+      "code-review@localhost": 4093,
       "codeworkx": 1,
       "colyli@suse.de": 4,
       "computersforpeace": 2,
@@ -1926,7 +1926,7 @@
       "lrgirdwo": 2,
       "lsahlber@redhat.com": 2,
       "lsgunth": 2,
-      "lsrao@codeaurora.org": 12,
+      "lsrao@codeaurora.org": 4,
       "lsuresh@codeaurora.org": 4,
       "luca020400": 3,
       "luciano.coelho@intel.com": 2,
@@ -2310,7 +2310,6 @@
       "sfrothwell": 2,
       "sganig@codeaurora.org": 2,
       "sgorle@codeaurora.org": 6,
-      "sgownipa@codeaurora.org": 2,
       "sgrover@codeaurora.org": 16,
       "sgujje@codeaurora.org": 40,
       "shahed.shaikh@cavium.com": 4,
@@ -2397,7 +2396,7 @@
       "sumananna": 2,
       "sumitsemwal": 2,
       "sundvi@codeaurora.org": 36,
-      "sunilkh@codeaurora.org": 40,
+      "sunilkh@codeaurora.org": 38,
       "superm1": 2,
       "supgow@codeaurora.org": 1,
       "suravee.suthikulpanit@amd.com": 2,
@@ -2542,7 +2541,7 @@
       "vtadik@codeaurora.org": 2,
       "vtmuni@codeaurora.org": 1,
       "vtumati@codeaurora.org": 16,
-      "vvalluru@codeaurora.org": 12,
+      "vvalluru@codeaurora.org": 8,
       "vviswana@codeaurora.org": 2,
       "vvreddy@codeaurora.org": 36,
       "w@1wt.eu": 6,
@@ -2643,7 +2642,7 @@
       "zonque": 10,
       "zumengchen": 2
     },
-    "n_commits": 6526,
-    "n_contributors": 1429
+    "n_commits": 6521,
+    "n_contributors": 1428
   }
 }

@@ -404,7 +404,7 @@
       "centazzo@google.com": 1,
       "cgxu519@gmx.com": 5,
       "chad.dupuis@cavium.com": 1,
-      "chajasmine@google.com": 8,
+      "chajasmine@google.com": 6,
       "chandna@codeaurora.org": 1,
       "chaseyu": 122,
       "chenche@codeaurora.org": 44,
@@ -556,7 +556,7 @@
       "hkpatel@codeaurora.org": 2,
       "htejun": 1,
       "huanglianjun@vivo.com": 1,
-      "huangq@codeaurora.org": 21,
+      "huangq@codeaurora.org": 20,
       "huchen1980": 1,
       "hughd@google.com": 1,
       "hwlee@google.com": 1,
@@ -846,7 +846,7 @@
       "salyzyn": 1,
       "samyjain@codeaurora.org": 52,
       "sandip4n": 1,
-      "sanjaykd@codeaurora.org": 6,
+      "sanjaykd@codeaurora.org": 5,
       "santhoshbehara@codeaurora.org": 21,
       "saurshah@codeaurora.org": 9,
       "sbanerje@codeaurora.org": 1,
@@ -1043,7 +1043,7 @@
       "zonque": 2,
       "zyy@motorola.com": 1
     },
-    "n_commits": 3914,
+    "n_commits": 3910,
     "n_contributors": 798
   }
 }

@@ -1106,7 +1106,7 @@
       "vnagarnaik": 1,
       "voice.shen@atmel.com": 2,
       "vpelletier": 2,
-      "vtanuku@codeaurora.org": 119,
+      "vtanuku@codeaurora.org": 113,
       "vtmuni@codeaurora.org": 3,
       "vvalluru@codeaurora.org": 6,
       "vvinay@codeaurora.org": 2,
@@ -1171,7 +1171,7 @@
       "zumengchen": 1,
       "zwliew": 6
     },
-    "n_commits": 3005,
+    "n_commits": 3004,
     "n_contributors": 909
   }
 }

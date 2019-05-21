@@ -66,7 +66,7 @@
       "haibinl@codeaurora.org": 1,
       "harya@codeaurora.org": 5,
       "heyunlei@huawei.com": 1,
-      "hqu@codeaurora.org": 6,
+      "hqu@codeaurora.org": 4,
       "intervigilium": 2,
       "jabashque": 2,
       "jaegeuk@kernel.org": 119,
@@ -152,7 +152,7 @@
       "zhangq@codeaurora.org": 12,
       "zhangzhikang1@huawei.com": 1
     },
-    "n_commits": 515,
+    "n_commits": 514,
     "n_contributors": 138
   },
   "365": {
@@ -294,7 +294,7 @@
       "cminyard": 1,
       "cnbomme@codeaurora.org": 2,
       "cnssbldsw@qualcomm.com": 157,
-      "code-review@localhost": 934,
+      "code-review@localhost": 933,
       "codeworkx": 2,
       "colyli@suse.de": 2,
       "congwang": 8,
@@ -406,6 +406,7 @@
       "hkallweit": 1,
       "hkpatel@codeaurora.org": 2,
       "hongsh@codeaurora.org": 3,
+      "hqu@codeaurora.org": 2,
       "htejun": 1,
       "huanglianjun@vivo.com": 2,
       "huangq@codeaurora.org": 1,
@@ -665,7 +666,7 @@
       "salyzyn": 1,
       "samyjain@codeaurora.org": 1,
       "sandip4n": 1,
-      "sanjaykd@codeaurora.org": 7,
+      "sanjaykd@codeaurora.org": 6,
       "satyak@codeaurora.org": 2,
       "sbanerje@codeaurora.org": 1,
       "sbrivio@redhat.com": 4,
@@ -783,7 +784,7 @@
       "vkambl@codeaurora.org": 3,
       "vkaur@codeaurora.org": 1,
       "vkuznets@redhat.com": 3,
-      "vtanuku@codeaurora.org": 113,
+      "vtanuku@codeaurora.org": 109,
       "vtmuni@codeaurora.org": 2,
       "vvalluru@codeaurora.org": 5,
       "vvinay@codeaurora.org": 7,
@@ -835,7 +836,7 @@
       "zkong@codeaurora.org": 18,
       "zonque": 2
     },
-    "n_commits": 2724,
-    "n_contributors": 677
+    "n_commits": 2723,
+    "n_contributors": 678
   }
 }

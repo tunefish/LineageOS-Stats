@@ -43,7 +43,7 @@
       "c_hpothu@codeaurora.org": 5,
       "carck": 4,
       "cnssbldsw@qualcomm.com": 33,
-      "code-review@localhost": 234,
+      "code-review@localhost": 233,
       "codeworkx": 3,
       "crpalmer": 2,
       "dianlujitao": 1,
@@ -101,7 +101,6 @@
       "sachin.bhayare@codeaurora.org": 1,
       "salyzyn@google.com": 1,
       "schikk@codeaurora.org": 1,
-      "sgarna@codeaurora.org": 1,
       "sgoud@codeaurora.org": 2,
       "shahan-mik3": 5,
       "shahan.mike13@gmail.com": 40,
@@ -135,7 +134,7 @@
       "zhangq@codeaurora.org": 2,
       "zwliew": 1
     },
-    "n_commits": 510,
-    "n_contributors": 113
+    "n_commits": 509,
+    "n_contributors": 112
   }
 }

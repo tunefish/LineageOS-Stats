@@ -96,7 +96,7 @@
       "chien-intel": 1,
       "claudiu-m": 1,
       "cmaiolino": 1,
-      "code-review@localhost": 36,
+      "code-review@localhost": 35,
       "codeworkx": 20,
       "colyli@suse.de": 2,
       "congwang": 2,
@@ -331,7 +331,7 @@
       "sean-jc": 1,
       "sebott@linux.vnet.ibm.com": 2,
       "sfrothwell": 1,
-      "sgarna@codeaurora.org": 2,
+      "sgarna@codeaurora.org": 1,
       "sgirigow@codeaurora.org": 1,
       "sgrover@codeaurora.org": 1,
       "shahed.shaikh@cavium.com": 1,
@@ -412,7 +412,7 @@
       "zhijunhe@google.com": 1,
       "zohar@linux.vnet.ibm.com": 1
     },
-    "n_commits": 1151,
+    "n_commits": 1150,
     "n_contributors": 396
   }
 }

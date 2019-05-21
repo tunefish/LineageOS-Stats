@@ -1002,7 +1002,7 @@
       "hemantk@codeaurora.org": 2,
       "herbertx": 13,
       "heyunlei@huawei.com": 12,
-      "himanaga@codeaurora.org": 26,
+      "himanaga@codeaurora.org": 24,
       "himanshu.madhani@cavium.com": 6,
       "hiromitsu.yamasaki.ym@renesas.com": 1,
       "hkallweit": 11,
@@ -1346,7 +1346,7 @@
       "mita": 2,
       "mittals@codeaurora.org": 4,
       "mjamaloney": 2,
-      "mjavid@codeaurora.org": 69,
+      "mjavid@codeaurora.org": 65,
       "mjguzik": 5,
       "mka@chromium.org": 7,
       "mkalikot@codeaurora.org": 8,
@@ -1410,7 +1410,7 @@
       "npiggin": 12,
       "npjohnson": 40,
       "npq643@motorola.com": 2,
-      "nshrivas@codeaurora.org": 1326,
+      "nshrivas@codeaurora.org": 1320,
       "nsneck": 5,
       "nsshah@codeaurora.org": 2,
       "nullr0ute": 5,
@@ -1565,7 +1565,6 @@
       "sergeev917": 5,
       "serhepopovych": 1,
       "sfrothwell": 1,
-      "sgarna@codeaurora.org": 2,
       "sgirigow@codeaurora.org": 12,
       "sgoud@codeaurora.org": 14,
       "sgrover@codeaurora.org": 8,
@@ -1913,7 +1912,7 @@
       "zwliew": 2,
       "zyy@motorola.com": 12
     },
-    "n_commits": 7587,
-    "n_contributors": 1381
+    "n_commits": 7583,
+    "n_contributors": 1380
   }
 }

@@ -171,7 +171,6 @@
       "vishwath@google.com": 1,
       "vkambl": 1,
       "vkuznets@redhat.com": 1,
-      "vtanuku@codeaurora.org": 2,
       "vtmuni@codeaurora.org": 1,
       "vvalluru@codeaurora.org": 2,
       "vvreddy@codeaurora.org": 1,
@@ -187,7 +186,7 @@
       "zhaoyang@codeaurora.org": 3,
       "zijuhu@codeaurora.org": 2
     },
-    "n_commits": 613,
-    "n_contributors": 166
+    "n_commits": 612,
+    "n_contributors": 165
   }
 }

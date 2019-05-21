@@ -209,7 +209,7 @@
       "skannan@codeaurora.org": 2,
       "snaseem@codeaurora.org": 2,
       "spathi@codeaurora.org": 2,
-      "spuligil@codeaurora.org": 318,
+      "spuligil@codeaurora.org": 314,
       "sramana@codeaurora.org": 2,
       "ssaha@codeaurora.org": 1,
       "stranche@codeaurora.org": 2,
@@ -252,7 +252,7 @@
       "zhangjerry@google.com": 9,
       "zwliew": 2
     },
-    "n_commits": 713,
+    "n_commits": 712,
     "n_contributors": 206
   },
   "365": {
@@ -568,7 +568,7 @@
       "herbertx": 10,
       "heyunlei@huawei.com": 12,
       "hgeorge@codeaurora.org": 2,
-      "himanaga@codeaurora.org": 18,
+      "himanaga@codeaurora.org": 16,
       "himanshu.madhani@cavium.com": 2,
       "hkallweit": 4,
       "hkpatel@codeaurora.org": 4,
@@ -769,7 +769,7 @@
       "mingo@kernel.org": 4,
       "minimaxwell": 2,
       "minliu@codeaurora.org": 10,
-      "mjavid@codeaurora.org": 56,
+      "mjavid@codeaurora.org": 52,
       "mjguzik": 2,
       "mka@chromium.org": 4,
       "mkalikot@codeaurora.org": 10,
@@ -816,7 +816,7 @@
       "nocry22": 1,
       "npendhar@codeaurora.org": 2,
       "npiggin": 4,
-      "nshrivas@codeaurora.org": 2030,
+      "nshrivas@codeaurora.org": 2024,
       "nsneck": 2,
       "nullr0ute": 2,
       "olerem": 2,
@@ -956,7 +956,7 @@
       "spandruvada": 2,
       "spathi@codeaurora.org": 66,
       "spellingmistake": 2,
-      "spuligil@codeaurora.org": 322,
+      "spuligil@codeaurora.org": 326,
       "sramana@codeaurora.org": 2,
       "srkupp@codeaurora.org": 10,
       "sschaeck@cisco.com": 2,
@@ -1132,7 +1132,7 @@
       "ztu@codeaurora.org": 38,
       "zyy@motorola.com": 2
     },
-    "n_commits": 3446,
+    "n_commits": 3444,
     "n_contributors": 874
   }
 }

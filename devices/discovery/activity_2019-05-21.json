@@ -115,7 +115,7 @@
       "snaseem@codeaurora.org": 1,
       "sonyxperiadev": 1,
       "spathi@codeaurora.org": 1,
-      "spuligil@codeaurora.org": 159,
+      "spuligil@codeaurora.org": 157,
       "sridhar@codeaurora.org": 3,
       "sswarna@codeaurora.org": 1,
       "stranche@codeaurora.org": 1,
@@ -143,7 +143,7 @@
       "xsang@codeaurora.org": 8,
       "ysriramg@codeaurora.org": 4
     },
-    "n_commits": 577,
+    "n_commits": 576,
     "n_contributors": 123
   },
   "365": {
@@ -334,7 +334,7 @@
       "cmaiolino": 1,
       "cminyard": 1,
       "cnssbldsw@qualcomm.com": 44,
-      "code-review@localhost": 1020,
+      "code-review@localhost": 1019,
       "colyli@suse.de": 2,
       "congt@codeaurora.org": 1,
       "congwang": 8,
@@ -460,7 +460,7 @@
       "hemantk@codeaurora.org": 1,
       "herbertx": 5,
       "heyunlei@huawei.com": 6,
-      "himanaga@codeaurora.org": 13,
+      "himanaga@codeaurora.org": 12,
       "himanshu.madhani@cavium.com": 1,
       "hkallweit": 2,
       "hkpatel@codeaurora.org": 2,
@@ -669,7 +669,7 @@
       "minimaxwell": 1,
       "minliu@codeaurora.org": 5,
       "mjamaloney": 1,
-      "mjavid@codeaurora.org": 36,
+      "mjavid@codeaurora.org": 34,
       "mjguzik": 1,
       "mka@chromium.org": 5,
       "mkalikot@codeaurora.org": 5,
@@ -716,7 +716,7 @@
       "npendhar@codeaurora.org": 2,
       "npiggin": 2,
       "nsarkar": 1,
-      "nshrivas@codeaurora.org": 1015,
+      "nshrivas@codeaurora.org": 1012,
       "nsneck": 1,
       "nullr0ute": 1,
       "olerem": 1,
@@ -825,7 +825,6 @@
       "sergey-senozhatsky": 12,
       "sergey.senozhatsky.work@gmail.com": 2,
       "sfrothwell": 1,
-      "sgarna@codeaurora.org": 1,
       "sgirigow@codeaurora.org": 10,
       "sgoud@codeaurora.org": 7,
       "sgrover@codeaurora.org": 3,
@@ -861,7 +860,7 @@
       "spandruvada": 1,
       "spathi@codeaurora.org": 32,
       "spellingmistake": 1,
-      "spuligil@codeaurora.org": 220,
+      "spuligil@codeaurora.org": 222,
       "sramana@codeaurora.org": 1,
       "srkupp@codeaurora.org": 20,
       "sschaeck@cisco.com": 1,
@@ -1044,7 +1043,7 @@
       "zonque": 2,
       "ztu@codeaurora.org": 19
     },
-    "n_commits": 3936,
-    "n_contributors": 895
+    "n_commits": 3933,
+    "n_contributors": 894
   }
 }

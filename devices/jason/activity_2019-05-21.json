@@ -144,7 +144,7 @@
       "snaseem@codeaurora.org": 1,
       "snehb@codeaurora.org": 1,
       "spathi@codeaurora.org": 1,
-      "spuligil@codeaurora.org": 159,
+      "spuligil@codeaurora.org": 157,
       "sramana@codeaurora.org": 1,
       "ssaha@codeaurora.org": 1,
       "steve@cyngn.com": 1,
@@ -182,7 +182,7 @@
       "zljing@codeaurora.org": 1,
       "zwliew": 2
     },
-    "n_commits": 753,
+    "n_commits": 752,
     "n_contributors": 154
   },
   "365": {
@@ -388,7 +388,7 @@
       "cmaiolino": 1,
       "cminyard": 1,
       "cnssbldsw@qualcomm.com": 128,
-      "code-review@localhost": 1445,
+      "code-review@localhost": 1444,
       "colyli@suse.de": 2,
       "congt@codeaurora.org": 1,
       "congwang": 9,
@@ -519,7 +519,7 @@
       "hemantk@codeaurora.org": 1,
       "herbertx": 5,
       "heyunlei@huawei.com": 6,
-      "himanaga@codeaurora.org": 14,
+      "himanaga@codeaurora.org": 13,
       "himanshu.madhani@cavium.com": 1,
       "hkallweit": 2,
       "hkpatel@codeaurora.org": 3,
@@ -728,7 +728,7 @@
       "minimaxwell": 1,
       "minliu@codeaurora.org": 5,
       "mjamaloney": 1,
-      "mjavid@codeaurora.org": 43,
+      "mjavid@codeaurora.org": 41,
       "mjguzik": 1,
       "mka@chromium.org": 4,
       "mkalikot@codeaurora.org": 6,
@@ -777,7 +777,7 @@
       "nocry22": 2,
       "npiggin": 2,
       "nsarkar": 1,
-      "nshrivas@codeaurora.org": 1015,
+      "nshrivas@codeaurora.org": 1012,
       "nsneck": 1,
       "nsshah@codeaurora.org": 1,
       "nullr0ute": 1,
@@ -897,7 +897,6 @@
       "sergeev917": 1,
       "sergey-senozhatsky": 12,
       "sergey.senozhatsky.work@gmail.com": 2,
-      "sgarna@codeaurora.org": 1,
       "sgirigow@codeaurora.org": 11,
       "sgoud@codeaurora.org": 8,
       "sgownipa@codeaurora.org": 1,
@@ -935,7 +934,7 @@
       "spandruvada": 1,
       "spathi@codeaurora.org": 33,
       "spellingmistake": 1,
-      "spuligil@codeaurora.org": 309,
+      "spuligil@codeaurora.org": 311,
       "sramana@codeaurora.org": 1,
       "srkupp@codeaurora.org": 21,
       "ssaha@codeaurora.org": 4,
@@ -1123,7 +1122,7 @@
       "zsm-oss": 1,
       "ztu@codeaurora.org": 19
     },
-    "n_commits": 4985,
-    "n_contributors": 935
+    "n_commits": 4982,
+    "n_contributors": 934
   }
 }

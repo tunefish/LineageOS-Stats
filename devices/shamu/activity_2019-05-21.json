@@ -392,8 +392,8 @@
       "ebiggers": 8,
       "edumazet@google.com": 4,
       "efault@gmx.de": 2,
-      "elektroschmock": 851,
-      "elektroschmock78@googlemail.com": 154,
+      "elektroschmock": 849,
+      "elektroschmock78@googlemail.com": 152,
       "fengc@google.com": 6,
       "frankyl@broadcom.com": 2,
       "fw@strlen.de": 4,
@@ -506,7 +506,7 @@
       "zhangjerry@google.com": 1,
       "zkong@codeaurora.org": 8
     },
-    "n_commits": 480,
+    "n_commits": 479,
     "n_contributors": 166
   }
 }

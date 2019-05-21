@@ -293,7 +293,7 @@
       "claudiu-m": 2,
       "cmaiolino": 2,
       "cminyard": 2,
-      "code-review@localhost": 1453,
+      "code-review@localhost": 1451,
       "codeworkx": 185,
       "colyli@suse.de": 4,
       "congt@codeaurora.org": 2,
@@ -601,7 +601,7 @@
       "mingo@kernel.org": 4,
       "minimaxwell": 2,
       "mjamaloney": 2,
-      "mjavid@codeaurora.org": 62,
+      "mjavid@codeaurora.org": 58,
       "mjguzik": 2,
       "mka@chromium.org": 6,
       "mkbestas@lineageos.org": 6,
@@ -741,7 +741,6 @@
       "sergeev917": 2,
       "sergey-senozhatsky": 24,
       "sergey.senozhatsky.work@gmail.com": 4,
-      "sgarna@codeaurora.org": 2,
       "sgrover@codeaurora.org": 4,
       "shahed.shaikh@cavium.com": 2,
       "shankarapailoor": 2,
@@ -936,7 +935,7 @@
       "zonque": 4,
       "ztu@codeaurora.org": 38
     },
-    "n_commits": 2532,
-    "n_contributors": 811
+    "n_commits": 2530,
+    "n_contributors": 810
   }
 }

@@ -551,7 +551,7 @@
       "borntraeger": 1,
       "c_hpothu@codeaurora.org": 2,
       "c_mtharu@qti.qualcomm.com": 1,
-      "code-review@localhost": 75,
+      "code-review@localhost": 74,
       "congwang": 4,
       "cravin@codeaurora.org": 4,
       "cxrm67@motorola.com": 1,
@@ -614,7 +614,6 @@
       "tdixit@codeaurora.org": 1,
       "tejaswit@codeaurora.org": 5,
       "tkjos@android.com": 1,
-      "torvalds": 1,
       "tpragasp@codeaurora.org": 1,
       "tytso": 1,
       "ummakynes": 1,
@@ -628,7 +627,7 @@
       "xairy": 2,
       "yogendra@codeaurora.org": 1
     },
-    "n_commits": 192,
-    "n_contributors": 97
+    "n_commits": 191,
+    "n_contributors": 96
   }
 }

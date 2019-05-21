@@ -356,7 +356,7 @@
       "hofrat@osadl.org": 1,
       "holtmann": 2,
       "houtao1@huawei.com": 2,
-      "hqu@codeaurora.org": 6,
+      "hqu@codeaurora.org": 4,
       "htejun": 1,
       "hverkuil": 3,
       "hverkuil-cisco@xs4all.nl": 4,
@@ -915,7 +915,7 @@
       "zmarkovic": 1,
       "zzam": 1
     },
-    "n_commits": 2786,
+    "n_commits": 2785,
     "n_contributors": 888
   },
   "365": {
@@ -1325,6 +1325,7 @@
       "houtao1@huawei.com": 2,
       "hpa@linux.intel.com": 1,
       "hpa@zytor.com": 2,
+      "hqu@codeaurora.org": 2,
       "hramrach": 1,
       "hreinecke": 1,
       "hstn@4ever3.net": 1,
@@ -1585,7 +1586,7 @@
       "minliu@codeaurora.org": 8,
       "misterikkit": 1,
       "mita": 2,
-      "mjavid@codeaurora.org": 37,
+      "mjavid@codeaurora.org": 35,
       "mjguzik": 1,
       "mka@chromium.org": 2,
       "mkarhumaa": 1,
@@ -1958,7 +1959,7 @@
       "vpelletier": 2,
       "vproddut@codeaurora.org": 1,
       "vtadik@codeaurora.org": 2,
-      "vtanuku@codeaurora.org": 111,
+      "vtanuku@codeaurora.org": 109,
       "vthiagar@qti.qualcomm.com": 1,
       "vtmuni@codeaurora.org": 1,
       "vtumati@codeaurora.org": 2,
@@ -2055,7 +2056,7 @@
       "ztu@codeaurora.org": 19,
       "zumengchen": 1
     },
-    "n_commits": 4083,
-    "n_contributors": 1134
+    "n_commits": 4082,
+    "n_contributors": 1135
   }
 }
