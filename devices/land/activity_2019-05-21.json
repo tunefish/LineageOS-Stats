@@ -85,7 +85,7 @@
       "chucklever": 1,
       "congwang": 1,
       "coreywright": 1,
-      "cosmedd": 2,
+      "cosmedd": 1,
       "cpaasch": 1,
       "critsec": 1,
       "dan.carpenter@oracle.com": 2,
@@ -241,7 +241,6 @@
       "rpavan@codeaurora.org": 2,
       "safoorah@codeaurora.org": 1,
       "sagigrimberg": 1,
-      "sairam1411": 1,
       "sakari.ailus@linux.intel.com": 1,
       "samyjain@codeaurora.org": 1,
       "sananth@codeaurora.org": 2,
@@ -315,8 +314,8 @@
       "zhuyifei1999": 1,
       "zkong@codeaurora.org": 1
     },
-    "n_commits": 578,
-    "n_contributors": 295
+    "n_commits": 577,
+    "n_contributors": 294
   },
   "365": {
     "contributors": {
@@ -497,6 +496,7 @@
       "computersforpeace": 1,
       "condo4": 1,
       "congwang": 13,
+      "cosmedd": 1,
       "cpandya@codeaurora.org": 1,
       "cravin@codeaurora.org": 1,
       "critsec": 2,
@@ -972,6 +972,7 @@
       "rpius@google.com": 12,
       "ryadav@codeaurora.org": 2,
       "s.nawrocki@samsung.com": 2,
+      "sairam1411": 1,
       "sakari.ailus@linux.intel.com": 1,
       "sallenki@codeaurora.org": 2,
       "salyzyn": 1,
@@ -1198,7 +1199,7 @@
       "zumengchen": 1,
       "zwliew": 6
     },
-    "n_commits": 2936,
-    "n_contributors": 877
+    "n_commits": 2937,
+    "n_contributors": 879
   }
 }

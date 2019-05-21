@@ -333,7 +333,7 @@
       "cmaiolino": 1,
       "cminyard": 1,
       "cnssbldsw@qualcomm.com": 44,
-      "code-review@localhost": 1022,
+      "code-review@localhost": 1021,
       "colyli@suse.de": 2,
       "congt@codeaurora.org": 1,
       "congwang": 8,
@@ -878,7 +878,7 @@
       "sudipm-mukherjee": 2,
       "sumananna": 1,
       "sunilkh@codeaurora.org": 2,
-      "supgow@codeaurora.org": 22,
+      "supgow@codeaurora.org": 21,
       "surenb@google.com": 1,
       "suyyala@codeaurora.org": 8,
       "suzuki.poulose@arm.com": 1,
@@ -1044,7 +1044,7 @@
       "zonque": 2,
       "ztu@codeaurora.org": 19
     },
-    "n_commits": 3938,
+    "n_commits": 3937,
     "n_contributors": 895
   }
 }

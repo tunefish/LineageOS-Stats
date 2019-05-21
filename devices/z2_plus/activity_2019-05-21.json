@@ -1021,6 +1021,7 @@
       "alexandrebelloni": 3,
       "alexestr": 1,
       "alexstanoev": 1,
+      "alexvesker": 2,
       "alokkuma@codeaurora.org": 1,
       "alyptik": 1,
       "amah@codeaurora.org": 1,
@@ -1143,7 +1144,7 @@
       "cmaiolino": 1,
       "cminyard": 1,
       "cnssbldsw@qualcomm.com": 124,
-      "code-review@localhost": 979,
+      "code-review@localhost": 978,
       "colyli@suse.de": 2,
       "congt@codeaurora.org": 1,
       "congwang": 9,
@@ -1847,7 +1848,7 @@
       "sumananna": 1,
       "sunilkh@codeaurora.org": 5,
       "superm1": 1,
-      "supgow@codeaurora.org": 19,
+      "supgow@codeaurora.org": 18,
       "surenb@google.com": 3,
       "suyyala@codeaurora.org": 9,
       "suzuki.poulose@arm.com": 3,
@@ -1928,7 +1929,6 @@
       "ulfalizer": 4,
       "urvaagra@codeaurora.org": 1,
       "utrace": 1,
-      "valex@mellanox.com": 2,
       "vasilykh@arista.com": 1,
       "vaverin": 11,
       "vavsg@codeaurora.org": 1,
@@ -2055,7 +2055,7 @@
       "ztu@codeaurora.org": 19,
       "zumengchen": 1
     },
-    "n_commits": 4085,
+    "n_commits": 4084,
     "n_contributors": 1134
   }
 }

@@ -34,7 +34,7 @@
       "aryabinin": 1,
       "ashok-raj": 1,
       "astrachan@google.com": 11,
-      "asutoshd@codeaurora.org": 2,
+      "asutoshd@codeaurora.org": 1,
       "aurel32": 1,
       "awilliam": 1,
       "bhe4": 2,
@@ -47,7 +47,7 @@
       "changbindu": 1,
       "chaseyu": 31,
       "chunkeey": 1,
-      "code-review@localhost": 16,
+      "code-review@localhost": 15,
       "cpratapa@codeaurora.org": 1,
       "cxgbit": 1,
       "damien-lemoal": 3,
@@ -200,7 +200,7 @@
       "zonque": 1,
       "zwisler@chromium.org": 1
     },
-    "n_commits": 433,
+    "n_commits": 432,
     "n_contributors": 198
   },
   "180": {
@@ -323,7 +323,7 @@
       "asj": 2,
       "ast@kernel.org": 4,
       "astrachan@google.com": 15,
-      "asutoshd@codeaurora.org": 2,
+      "asutoshd@codeaurora.org": 3,
       "athei": 2,
       "atorgue": 2,
       "atseanpaul": 2,
@@ -419,7 +419,7 @@
       "cmaiolino": 1,
       "cmatta@codeaurora.org": 6,
       "cminyard": 2,
-      "code-review@localhost": 984,
+      "code-review@localhost": 985,
       "codeworkx": 1,
       "codrin989": 2,
       "cohuck": 1,
@@ -1208,7 +1208,7 @@
       "zx2c4": 1,
       "zzam": 2
     },
-    "n_commits": 3010,
+    "n_commits": 3011,
     "n_contributors": 1002
   },
   "365": {
@@ -1338,6 +1338,7 @@
       "alexandru-cosmin.gheorghe@arm.com": 2,
       "alexestr": 8,
       "alexstanoev": 2,
+      "alexvesker": 6,
       "alisonwh": 2,
       "alokc@codeaurora.org": 2,
       "alokchauhan2007": 2,
@@ -2499,7 +2500,6 @@
       "utrace": 2,
       "vabbar@codeaurora.org": 2,
       "vaibhav92": 2,
-      "valex@mellanox.com": 6,
       "varar@codeaurora.org": 2,
       "vasilykh@arista.com": 4,
       "vaverin": 22,
@@ -2543,7 +2543,7 @@
       "vtmuni@codeaurora.org": 1,
       "vtumati@codeaurora.org": 16,
       "vvalluru@codeaurora.org": 12,
-      "vviswana@codeaurora.org": 6,
+      "vviswana@codeaurora.org": 2,
       "vvreddy@codeaurora.org": 36,
       "w@1wt.eu": 6,
       "waiman.long@hpe.com": 2,
@@ -2643,7 +2643,7 @@
       "zonque": 10,
       "zumengchen": 2
     },
-    "n_commits": 6529,
+    "n_commits": 6528,
     "n_contributors": 1429
   }
 }

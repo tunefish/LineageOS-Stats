@@ -653,6 +653,7 @@
       "alexestr": 5,
       "alexf@motorola.com": 14,
       "alexstanoev": 1,
+      "alexvesker": 10,
       "alokkuma@codeaurora.org": 42,
       "alyptik": 5,
       "amarenr@motorola.com": 12,
@@ -1645,7 +1646,7 @@
       "sunilkh@codeaurora.org": 4,
       "sunyue5@motorola.com": 4,
       "superm1": 1,
-      "supgow@codeaurora.org": 38,
+      "supgow@codeaurora.org": 36,
       "surenb@google.com": 4,
       "suyyala@codeaurora.org": 16,
       "suzuki.poulose@arm.com": 8,
@@ -1730,7 +1731,6 @@
       "ulfalizer": 20,
       "utrace": 6,
       "vadlamuk": 16,
-      "valex@mellanox.com": 10,
       "varunreddy.yeturu@codeaurora.org": 2,
       "varunshrivastava@motorola.com": 6,
       "vasilykh@arista.com": 1,
@@ -1913,7 +1913,7 @@
       "zwliew": 2,
       "zyy@motorola.com": 12
     },
-    "n_commits": 7590,
+    "n_commits": 7589,
     "n_contributors": 1381
   }
 }
