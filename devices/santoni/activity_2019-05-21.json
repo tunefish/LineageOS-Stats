@@ -118,8 +118,8 @@
       "greearb": 1,
       "greg@kroah.com": 1,
       "greghackmann": 14,
-      "gregkh": 240,
-      "gregkh@google.com": 7,
+      "gregkh": 239,
+      "gregkh@google.com": 6,
       "gregkh@linuxfoundation.org": 7,
       "groeck": 4,
       "hahariha@codeaurora.org": 1,
@@ -256,7 +256,7 @@
       "zhuyifei1999": 1,
       "zkong@codeaurora.org": 1
     },
-    "n_commits": 466,
+    "n_commits": 465,
     "n_contributors": 236
   },
   "365": {
@@ -435,8 +435,8 @@
       "cmaiolino": 3,
       "cminyard": 3,
       "cnbomme@codeaurora.org": 6,
-      "cnssbldsw@qualcomm.com": 295,
-      "code-review@localhost": 1247,
+      "cnssbldsw@qualcomm.com": 292,
+      "code-review@localhost": 1241,
       "codeworkx": 3,
       "colyli@suse.de": 6,
       "computersforpeace": 1,
@@ -557,8 +557,8 @@
       "gor@linux.ibm.com": 1,
       "gormanm": 3,
       "greghackmann": 6,
-      "gregkh": 1893,
-      "gregkh@google.com": 31,
+      "gregkh": 1894,
+      "gregkh@google.com": 32,
       "gregkh@linuxfoundation.org": 38,
       "grigor.tovmasyan@synopsys.com": 3,
       "groeck": 16,
@@ -1054,7 +1054,7 @@
       "threeearcat": 1,
       "timmurray@google.com": 15,
       "tingyi364@gmail.com": 6,
-      "tinlin@codeaurora.org": 53,
+      "tinlin@codeaurora.org": 50,
       "tititiou36": 3,
       "tiwai": 16,
       "tjiang@codeaurora.org": 3,
@@ -1171,7 +1171,7 @@
       "zumengchen": 1,
       "zwliew": 6
     },
-    "n_commits": 3004,
+    "n_commits": 3003,
     "n_contributors": 909
   }
 }

@@ -42,8 +42,8 @@
       "breyvilas": 1,
       "c_hpothu@codeaurora.org": 5,
       "carck": 4,
-      "cnssbldsw@qualcomm.com": 33,
-      "code-review@localhost": 233,
+      "cnssbldsw@qualcomm.com": 32,
+      "code-review@localhost": 232,
       "codeworkx": 3,
       "crpalmer": 2,
       "dianlujitao": 1,
@@ -134,7 +134,7 @@
       "zhangq@codeaurora.org": 2,
       "zwliew": 1
     },
-    "n_commits": 509,
+    "n_commits": 508,
     "n_contributors": 112
   }
 }

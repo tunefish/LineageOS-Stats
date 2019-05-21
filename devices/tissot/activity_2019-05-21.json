@@ -420,7 +420,7 @@
       "cmaiolino": 1,
       "cmatta@codeaurora.org": 6,
       "cminyard": 2,
-      "code-review@localhost": 985,
+      "code-review@localhost": 983,
       "codeworkx": 1,
       "codrin989": 2,
       "cohuck": 1,
@@ -1138,7 +1138,7 @@
       "vsyrjala": 3,
       "vthiagar@qti.qualcomm.com": 2,
       "vtmuni@codeaurora.org": 12,
-      "vvreddy@codeaurora.org": 3,
+      "vvreddy@codeaurora.org": 1,
       "vzapolskiy": 2,
       "w-simon": 2,
       "wang6495@umn.edu": 2,
@@ -1214,7 +1214,7 @@
       "zx2c4": 1,
       "zzam": 2
     },
-    "n_commits": 3051,
+    "n_commits": 3050,
     "n_contributors": 1008
   },
   "365": {
@@ -1429,7 +1429,7 @@
       "bjorn-helgaas": 2,
       "bjorn.topel@intel.com": 2,
       "bkchan@codeaurora.org": 6,
-      "bkolenichev@codeaurora.org": 72,
+      "bkolenichev@codeaurora.org": 60,
       "blong@codeaurora.org": 14,
       "blueden": 2,
       "bmaier-col": 4,
@@ -1501,8 +1501,8 @@
       "cminyard": 2,
       "cmodi@codeaurora.org": 2,
       "cnbomme@codeaurora.org": 2,
-      "cnssbldsw@qualcomm.com": 5,
-      "code-review@localhost": 4093,
+      "cnssbldsw@qualcomm.com": 4,
+      "code-review@localhost": 4094,
       "codeworkx": 1,
       "colyli@suse.de": 4,
       "computersforpeace": 2,
@@ -2225,7 +2225,7 @@
       "rex.zhu@amd.com": 4,
       "rfried@codeaurora.org": 2,
       "rgbriggs": 2,
-      "rgottimu@codeaurora.org": 20,
+      "rgottimu@codeaurora.org": 12,
       "rgushchin": 6,
       "rianhunter": 2,
       "ribalda": 2,
@@ -2549,7 +2549,7 @@
       "vtumati@codeaurora.org": 16,
       "vvalluru@codeaurora.org": 8,
       "vviswana@codeaurora.org": 2,
-      "vvreddy@codeaurora.org": 36,
+      "vvreddy@codeaurora.org": 38,
       "w@1wt.eu": 6,
       "waiman.long@hpe.com": 2,
       "wang6495@umn.edu": 18,
@@ -2648,7 +2648,7 @@
       "zonque": 10,
       "zumengchen": 2
     },
-    "n_commits": 6525,
+    "n_commits": 6520,
     "n_contributors": 1428
   }
 }

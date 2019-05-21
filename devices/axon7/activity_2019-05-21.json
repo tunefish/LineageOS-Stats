@@ -49,7 +49,7 @@
       "clrkwllms": 1,
       "cnbomme@codeaurora.org": 2,
       "cnssbldsw@qualcomm.com": 33,
-      "code-review@localhost": 193,
+      "code-review@localhost": 192,
       "codeworkx": 1,
       "congwang": 2,
       "datawolf": 1,
@@ -160,7 +160,7 @@
       "tejaswit@codeaurora.org": 1,
       "tfyu@codeaurora.org": 2,
       "timmurray@google.com": 7,
-      "tinlin@codeaurora.org": 7,
+      "tinlin@codeaurora.org": 6,
       "tjiang@codeaurora.org": 1,
       "torvalds": 1,
       "tstrudel@google.com": 4,
@@ -186,7 +186,7 @@
       "zhaoyang@codeaurora.org": 3,
       "zijuhu@codeaurora.org": 2
     },
-    "n_commits": 612,
+    "n_commits": 611,
     "n_contributors": 165
   }
 }

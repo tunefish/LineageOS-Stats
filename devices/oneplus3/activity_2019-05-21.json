@@ -115,7 +115,6 @@
       "kmani@codeaurora.org": 2,
       "koct9i": 2,
       "krossmo@google.com": 3,
-      "lbai@codeaurora.org": 4,
       "legendavey": 2,
       "legendavey@gmail.com": 1,
       "liaor@codeaurora.org": 2,
@@ -210,8 +209,8 @@
       "zchaoli@codeaurora.org": 10,
       "zhangq@codeaurora.org": 14
     },
-    "n_commits": 1008,
-    "n_contributors": 198
+    "n_commits": 1007,
+    "n_contributors": 197
   },
   "365": {
     "contributors": {
@@ -347,7 +346,7 @@
       "cminyard": 2,
       "cnbomme@codeaurora.org": 6,
       "cnssbldsw@qualcomm.com": 524,
-      "code-review@localhost": 3058,
+      "code-review@localhost": 3053,
       "codeworkx": 3,
       "colyli@suse.de": 4,
       "congwang": 18,
@@ -538,7 +537,7 @@
       "larsclausen": 2,
       "lasalvavida": 2,
       "lategoodbye": 4,
-      "lbai@codeaurora.org": 6,
+      "lbai@codeaurora.org": 10,
       "lczerner": 2,
       "legendavey": 2,
       "liangwei@codeaurora.org": 20,
@@ -765,7 +764,7 @@
       "timmurray@google.com": 4,
       "timschumi": 6,
       "timschumi@gmx.de": 4,
-      "tinlin@codeaurora.org": 159,
+      "tinlin@codeaurora.org": 154,
       "tirupath@codeaurora.org": 10,
       "tititiou36": 2,
       "tiwai": 18,

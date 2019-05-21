@@ -52,7 +52,7 @@
       "benyxy@codeaurora.org": 1,
       "bgcngm": 9,
       "bgcngm@gmail.com": 1,
-      "bgoswami@codeaurora.org": 3,
+      "bgoswami@codeaurora.org": 2,
       "bharad@codeaurora.org": 1,
       "bings@codeaurora.org": 5,
       "bjavvaji@codeaurora.org": 3,
@@ -63,7 +63,7 @@
       "chaseyu": 1,
       "chiaweic@codeaurora.org": 2,
       "clew@codeaurora.org": 1,
-      "code-review@localhost": 157,
+      "code-review@localhost": 156,
       "deesin@codeaurora.org": 2,
       "dianlujitao": 278,
       "dianlujitao@gmail.com": 2,
@@ -182,7 +182,7 @@
       "zljing@codeaurora.org": 1,
       "zwliew": 2
     },
-    "n_commits": 752,
+    "n_commits": 751,
     "n_contributors": 154
   },
   "365": {
@@ -300,7 +300,7 @@
       "anjiandi@codeaurora.org": 1,
       "anmolpre@codeaurora.org": 1,
       "anna-marialx": 2,
-      "annamraj@codeaurora.org": 3,
+      "annamraj@codeaurora.org": 1,
       "anssih": 6,
       "antonyantony": 1,
       "anurdas@codeaurora.org": 1,
@@ -332,7 +332,7 @@
       "benyxy@codeaurora.org": 3,
       "bfoster@redhat.com": 2,
       "bgcngm": 24,
-      "bgoswami@codeaurora.org": 2,
+      "bgoswami@codeaurora.org": 3,
       "bharad@codeaurora.org": 4,
       "bhe@redhat.com": 1,
       "bingjingc@synology.com": 1,
@@ -387,7 +387,7 @@
       "claudiu-m": 1,
       "cmaiolino": 1,
       "cminyard": 1,
-      "cnssbldsw@qualcomm.com": 128,
+      "cnssbldsw@qualcomm.com": 127,
       "code-review@localhost": 1444,
       "colyli@suse.de": 2,
       "congt@codeaurora.org": 1,
@@ -1122,7 +1122,7 @@
       "zsm-oss": 1,
       "ztu@codeaurora.org": 19
     },
-    "n_commits": 4982,
+    "n_commits": 4981,
     "n_contributors": 934
   }
 }

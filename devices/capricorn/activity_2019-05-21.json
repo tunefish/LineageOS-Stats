@@ -87,7 +87,6 @@
       "kernelpatch@126.com": 1,
       "kerneltoast": 1,
       "kevin-brodsky-arm": 10,
-      "lbai@codeaurora.org": 2,
       "liaor@codeaurora.org": 1,
       "lifeng@codeaurora.org": 6,
       "lihual@codeaurora.org": 2,
@@ -153,8 +152,8 @@
       "zhangq@codeaurora.org": 12,
       "zhangzhikang1@huawei.com": 1
     },
-    "n_commits": 524,
-    "n_contributors": 139
+    "n_commits": 523,
+    "n_contributors": 138
   },
   "365": {
     "contributors": {
@@ -296,7 +295,7 @@
       "cminyard": 1,
       "cnbomme@codeaurora.org": 2,
       "cnssbldsw@qualcomm.com": 157,
-      "code-review@localhost": 933,
+      "code-review@localhost": 931,
       "codeworkx": 2,
       "colyli@suse.de": 2,
       "congwang": 8,
@@ -499,7 +498,7 @@
       "larsclausen": 1,
       "lasalvavida": 1,
       "lategoodbye": 2,
-      "lbai@codeaurora.org": 2,
+      "lbai@codeaurora.org": 4,
       "lchalu@codeaurora.org": 3,
       "lczerner": 1,
       "liangwei@codeaurora.org": 4,
@@ -751,7 +750,7 @@
       "thinh.nguyen@synopsys.com": 1,
       "threeearcat": 1,
       "timmurray@google.com": 15,
-      "tinlin@codeaurora.org": 42,
+      "tinlin@codeaurora.org": 40,
       "tirupath@codeaurora.org": 5,
       "tititiou36": 1,
       "tiwai": 9,

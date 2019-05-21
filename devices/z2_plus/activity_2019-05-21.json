@@ -478,7 +478,6 @@
       "labbott": 3,
       "lanqing.liu@spreadtrum.com": 1,
       "lategoodbye": 1,
-      "lbai@codeaurora.org": 2,
       "lczerner": 1,
       "ldv-alt": 1,
       "leitao": 1,
@@ -826,7 +825,7 @@
       "virtuoso": 15,
       "vivekuma@codeaurora.org": 7,
       "vjitta@codeaurora.org": 2,
-      "vkakani@codeaurora.org": 13,
+      "vkakani@codeaurora.org": 11,
       "vkuznets@redhat.com": 3,
       "vlad902": 1,
       "vladimir.kondratiev@linux.intel.com": 1,
@@ -915,8 +914,8 @@
       "zmarkovic": 1,
       "zzam": 1
     },
-    "n_commits": 2785,
-    "n_contributors": 888
+    "n_commits": 2783,
+    "n_contributors": 887
   },
   "365": {
     "contributors": {
@@ -1041,7 +1040,6 @@
       "animeshk@codeaurora.org": 9,
       "anjiandi@codeaurora.org": 1,
       "anna-marialx": 2,
-      "annamraj@codeaurora.org": 2,
       "anssih": 6,
       "antoine-g": 1,
       "antonyantony": 1,
@@ -1144,7 +1142,7 @@
       "cmaiolino": 1,
       "cminyard": 1,
       "cnssbldsw@qualcomm.com": 124,
-      "code-review@localhost": 977,
+      "code-review@localhost": 976,
       "colyli@suse.de": 2,
       "congt@codeaurora.org": 1,
       "congwang": 9,
@@ -1475,7 +1473,7 @@
       "lasalvavida": 1,
       "lategoodbye": 5,
       "latkinso@codeaurora.org": 1,
-      "lbai@codeaurora.org": 2,
+      "lbai@codeaurora.org": 4,
       "lbmeng": 1,
       "lczerner": 2,
       "ldebieve": 1,
@@ -1891,7 +1889,7 @@
       "tianguiz@codeaurora.org": 3,
       "tianyu.lan@intel.com": 1,
       "timmurray@google.com": 2,
-      "tinlin@codeaurora.org": 35,
+      "tinlin@codeaurora.org": 34,
       "tititiou36": 1,
       "tiwai": 18,
       "tkhai": 3,
@@ -1949,7 +1947,7 @@
       "vivek.gautam@codeaurora.org": 1,
       "vivekgautam1": 1,
       "vivekuma@codeaurora.org": 9,
-      "vkakani@codeaurora.org": 24,
+      "vkakani@codeaurora.org": 26,
       "vkaur@codeaurora.org": 2,
       "vkommara@codeaurora.org": 1,
       "vkuznets@redhat.com": 5,
@@ -2057,6 +2055,6 @@
       "zumengchen": 1
     },
     "n_commits": 4082,
-    "n_contributors": 1135
+    "n_contributors": 1134
   }
 }

@@ -210,7 +210,7 @@
       "Demon000": 1,
       "EHfive": 2,
       "Flex1911": 1,
-      "OzzysCmAcc": 332,
+      "OzzysCmAcc": 320,
       "Rashed97": 7,
       "Streetwalrus": 4,
       "YumeMichi": 2,
@@ -232,7 +232,6 @@
       "bobzhome@cheerful.com": 2,
       "borntraeger": 1,
       "bpawar@codeaurora.org": 2,
-      "chrmhoffmann": 6,
       "codeworkx": 1,
       "dianlujitao": 8,
       "diegowilson": 1,
@@ -271,18 +270,18 @@
       "junjiew@codeaurora.org": 2,
       "kananda@codeaurora.org": 2,
       "kuh@google.com": 1,
-      "luk1337": 7,
+      "luk1337": 5,
       "lxin": 2,
       "maniac103": 3,
       "mathieuchartier": 1,
       "mcailean@codeaurora.org": 2,
-      "mikeNG": 13,
+      "mikeNG": 11,
       "mkbestas@lineageos.org": 6,
       "mridulsingh86": 2,
       "mszeredi@suse.cz": 1,
       "nocry22": 2,
       "npendhar@codeaurora.org": 2,
-      "oskarkratochvil86@yahoo.com": 34,
+      "oskarkratochvil86@yahoo.com": 32,
       "peterz@infradead.org": 1,
       "prathampratap@codeaurora.org": 2,
       "pxu@qti.qualcomm.com": 2,
@@ -318,7 +317,7 @@
       "zhikait@codeaurora.org": 3,
       "zkong@codeaurora.org": 1
     },
-    "n_commits": 318,
-    "n_contributors": 114
+    "n_commits": 312,
+    "n_contributors": 113
   }
 }

@@ -28,11 +28,11 @@
       "baddaemon87@gmail.com": 5,
       "bgcngm": 1,
       "bgcngm@gmail.com": 1,
-      "bgoswami@codeaurora.org": 3,
+      "bgoswami@codeaurora.org": 1,
       "ceric@codeaurora.org": 1,
       "chaseyu": 1,
       "chiaweic@codeaurora.org": 2,
-      "code-review@localhost": 73,
+      "code-review@localhost": 71,
       "codeworkx": 303,
       "daniel.hillenbrand@codeworkx.de": 128,
       "david.liu@oneplus.com": 1,
@@ -120,7 +120,7 @@
       "yuanliu@codeaurora.org": 1,
       "zzam": 1
     },
-    "n_commits": 392,
+    "n_commits": 391,
     "n_contributors": 108
   },
   "365": {
@@ -219,7 +219,6 @@
       "animeshk@codeaurora.org": 10,
       "anjiandi@codeaurora.org": 2,
       "anna-marialx": 4,
-      "annamraj@codeaurora.org": 4,
       "anssih": 12,
       "antonyantony": 2,
       "aparri": 4,
@@ -247,7 +246,7 @@
       "benyxy@codeaurora.org": 4,
       "bfoster@redhat.com": 4,
       "bgcngm": 8,
-      "bgoswami@codeaurora.org": 4,
+      "bgoswami@codeaurora.org": 6,
       "bharad@codeaurora.org": 8,
       "bhe@redhat.com": 2,
       "bingjingc@synology.com": 2,
@@ -294,7 +293,7 @@
       "claudiu-m": 2,
       "cmaiolino": 2,
       "cminyard": 2,
-      "code-review@localhost": 1451,
+      "code-review@localhost": 1453,
       "codeworkx": 187,
       "colyli@suse.de": 4,
       "congt@codeaurora.org": 2,
@@ -938,6 +937,6 @@
       "ztu@codeaurora.org": 38
     },
     "n_commits": 2534,
-    "n_contributors": 811
+    "n_contributors": 810
   }
 }

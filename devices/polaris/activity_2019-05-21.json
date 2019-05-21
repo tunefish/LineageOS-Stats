@@ -8,8 +8,8 @@
       "TheScarastic": 2,
       "aaptel@suse.com": 1,
       "adrian.hunter@intel.com": 1,
-      "bgcngm": 40,
-      "bgcngm@gmail.com": 4,
+      "bgcngm": 39,
+      "bgcngm@gmail.com": 3,
       "bhe4": 1,
       "chunkeey": 1,
       "dbogdan": 1,
@@ -52,7 +52,7 @@
       "wildea01": 1,
       "xingrz": 1
     },
-    "n_commits": 89,
+    "n_commits": 88,
     "n_contributors": 50
   },
   "180": {
@@ -267,7 +267,7 @@
       "cmaiolino": 1,
       "cmatta@codeaurora.org": 3,
       "cminyard": 1,
-      "code-review@localhost": 298,
+      "code-review@localhost": 297,
       "codrin989": 1,
       "cohuck": 1,
       "colona@arista.com": 1,
@@ -935,7 +935,6 @@
       "vthiagar@qti.qualcomm.com": 1,
       "vtmuni@codeaurora.org": 2,
       "vvinay@codeaurora.org": 1,
-      "vvreddy@codeaurora.org": 1,
       "vzapolskiy": 1,
       "w-simon": 2,
       "wang6495@umn.edu": 1,
@@ -1006,7 +1005,7 @@
       "zzam": 1
     },
     "n_commits": 2577,
-    "n_contributors": 947
+    "n_contributors": 946
   },
   "365": {
     "contributors": {
@@ -1231,7 +1230,7 @@
       "bjorn-helgaas": 1,
       "bjorn.topel@intel.com": 1,
       "bkchan@codeaurora.org": 6,
-      "bkolenichev@codeaurora.org": 72,
+      "bkolenichev@codeaurora.org": 60,
       "blong@codeaurora.org": 13,
       "blueden": 1,
       "bmaier-col": 2,
@@ -1302,7 +1301,7 @@
       "cminyard": 2,
       "cmodi@codeaurora.org": 1,
       "cnssbldsw@qualcomm.com": 4,
-      "code-review@localhost": 4684,
+      "code-review@localhost": 4685,
       "colyli@suse.de": 4,
       "computersforpeace": 2,
       "congwang": 14,
@@ -2063,7 +2062,7 @@
       "rex.zhu@amd.com": 2,
       "rfried@codeaurora.org": 2,
       "rgbriggs": 2,
-      "rgottimu@codeaurora.org": 20,
+      "rgottimu@codeaurora.org": 12,
       "rgushchin": 6,
       "rianhunter": 1,
       "ribalda": 1,
@@ -2400,7 +2399,7 @@
       "vvalluru@codeaurora.org": 8,
       "vvinay@codeaurora.org": 3,
       "vviswana@codeaurora.org": 2,
-      "vvreddy@codeaurora.org": 46,
+      "vvreddy@codeaurora.org": 47,
       "w@1wt.eu": 3,
       "wadesong@codeaurora.org": 10,
       "waiman.long@hpe.com": 2,
@@ -2497,7 +2496,7 @@
       "zonque": 5,
       "zumengchen": 1
     },
-    "n_commits": 7504,
+    "n_commits": 7500,
     "n_contributors": 1486
   }
 }

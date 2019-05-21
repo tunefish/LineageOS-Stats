@@ -141,7 +141,7 @@
       "maniagar@codeaurora.org": 10,
       "manish@codeaurora.org": 1,
       "mansoor@codeaurora.org": 4,
-      "mansur@codeaurora.org": 6,
+      "mansur@codeaurora.org": 4,
       "marc.zyngier@arm.com": 1,
       "mathewjk@codeaurora.org": 12,
       "mengw@codeaurora.org": 20,
@@ -239,7 +239,7 @@
       "zchaoli@codeaurora.org": 3,
       "zhongbos@codeaurora.org": 4
     },
-    "n_commits": 778,
+    "n_commits": 777,
     "n_contributors": 211
   },
   "365": {
@@ -426,7 +426,7 @@
       "clrkwllms": 1,
       "cmaiolino": 1,
       "cminyard": 1,
-      "code-review@localhost": 1502,
+      "code-review@localhost": 1498,
       "codeworkx": 3,
       "codeworkx@cyanogenmod.org": 2,
       "colyli@suse.de": 2,
@@ -684,7 +684,7 @@
       "maniagar@codeaurora.org": 37,
       "manish.rangankar@cavium.com": 1,
       "mansoor@codeaurora.org": 8,
-      "mansur@codeaurora.org": 2,
+      "mansur@codeaurora.org": 4,
       "marc.zyngier@arm.com": 1,
       "marcan": 1,
       "mariotesi": 2,
@@ -766,7 +766,7 @@
       "pantoniou": 2,
       "paolo-github": 2,
       "paulmck": 2,
-      "pavanc@codeaurora.org": 18,
+      "pavanc@codeaurora.org": 14,
       "pcacjr": 1,
       "pchavan@codeaurora.org": 2,
       "pdaly@codeaurora.org": 1,
@@ -1007,7 +1007,7 @@
       "xairy": 1,
       "xieyisheng1@huawei.com": 3,
       "xiongzhongjiang": 2,
-      "xsang@codeaurora.org": 103,
+      "xsang@codeaurora.org": 101,
       "xshu@codeaurora.org": 1,
       "yabinc": 2,
       "yangxu@codeaurora.org": 16,
@@ -1043,7 +1043,7 @@
       "zonque": 2,
       "zyy@motorola.com": 1
     },
-    "n_commits": 3910,
+    "n_commits": 3909,
     "n_contributors": 798
   }
 }
