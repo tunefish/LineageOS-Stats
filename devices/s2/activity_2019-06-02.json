@@ -1,0 +1,83 @@
+{
+  "30": {
+    "contributors": {
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "baddaemon87@gmail.com": 1,
+      "bgcngm": 1,
+      "bgcngm@gmail.com": 1,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1
+    },
+    "n_commits": 3,
+    "n_contributors": 6
+  },
+  "365": {
+    "contributors": {
+      "Adarsh-MR": 2,
+      "Alberto97": 2,
+      "Demon000": 2,
+      "HighwayStar": 2,
+      "Quallenauge": 2,
+      "Rashed97": 6,
+      "SagarMakhar": 2,
+      "ThEMarD": 2,
+      "TheScarastic": 2,
+      "Vachounet": 2,
+      "aagit": 2,
+      "adudani@codeaurora.org": 2,
+      "adudani@google.com": 4,
+      "ben@armis.com": 2,
+      "bgcngm": 10,
+      "codeworkx": 88,
+      "critsec": 2,
+      "daniel.hillenbrand@codeworkx.de": 12,
+      "datawolf": 2,
+      "dianlujitao": 8,
+      "dkumar@codeaurora.org": 2,
+      "ezio84": 2,
+      "gbjc64@motorola.com": 2,
+      "greghackmann": 2,
+      "hdeller": 2,
+      "hughd@google.com": 4,
+      "intervigil@gmail.com": 2,
+      "intervigilium": 6,
+      "invisiblek": 6,
+      "jongrak.kwon@lge.com": 2,
+      "jsharkey": 2,
+      "ldts": 2,
+      "luk1337": 2,
+      "maco@google.com": 2,
+      "maniac103": 2,
+      "mikeNG": 10,
+      "mkbestas@lineageos.org": 2,
+      "mnaganov@google.com": 2,
+      "mthomos": 8,
+      "nathanchance": 12,
+      "nocry22": 2,
+      "npjohnson": 2,
+      "pattjin": 4,
+      "paulmck": 2,
+      "pawin@google.com": 2,
+      "rahulkrishna585@gmail.com": 92,
+      "renjian2": 2,
+      "rk779": 278,
+      "rmcc": 2,
+      "steve@cyngn.com": 6,
+      "stratosk@semaphore.gr": 2,
+      "tdm": 4,
+      "timmurray@google.com": 2,
+      "vladimiroltean": 4,
+      "weivincewang": 2
+    },
+    "n_commits": 159,
+    "n_contributors": 55
+  }
+}
