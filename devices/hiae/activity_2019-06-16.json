@@ -1,0 +1,65 @@
+{
+  "30": {
+    "contributors": {
+      "mikeNG": 2,
+      "mkbestas@lineageos.org": 2
+    },
+    "n_commits": 4,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "baddaemon87@gmail.com": 1,
+      "bgcngm": 1,
+      "bgcngm@gmail.com": 1,
+      "intervigil@gmail.com": 25,
+      "intervigilium": 26,
+      "jrior001": 1,
+      "jrizzoli": 1,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1,
+      "usaxena@codeaurora.org": 1
+    },
+    "n_commits": 40,
+    "n_contributors": 11
+  },
+  "365": {
+    "contributors": {
+      "Florin9doi": 6,
+      "amluto": 1,
+      "andresoportus": 4,
+      "bgcngm": 9,
+      "bgcngm@gmail.com": 1,
+      "borntraeger": 2,
+      "drosen@google.com": 8,
+      "eisenbach@google.com": 1,
+      "ericrannaud": 1,
+      "gnehzuil": 3,
+      "hansson@google.com": 1,
+      "intervigil@gmail.com": 82,
+      "intervigilium": 130,
+      "javelinanddart": 2,
+      "jeffvanderstoep": 2,
+      "jjohnson@codeaurora.org": 1,
+      "jrior001": 5,
+      "jriordan001@gmail.com": 1,
+      "kandoiruchi@google.com": 1,
+      "kuh@google.com": 1,
+      "mikeNG": 8,
+      "mkbestas@lineageos.org": 8,
+      "mszeredi@suse.cz": 1,
+      "nocry22": 1,
+      "peterz@infradead.org": 1,
+      "rpius@google.com": 4,
+      "siqilin@google.com": 1,
+      "subashab@codeaurora.org": 1,
+      "torvalds": 1,
+      "tyanh@google.com": 1,
+      "viro@zeniv.linux.org.uk": 6,
+      "zhangjerry@google.com": 1
+    },
+    "n_commits": 126,
+    "n_contributors": 32
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "OrpheeGT": 1,
+      "basilgello": 54,
+      "deadman96385": 24,
+      "haggertk": 1,
+      "ljzyal": 1,
+      "raymanfx": 1,
+      "ssehovic": 6,
+      "thompatry": 1,
+      "tincho5588": 2,
+      "vasek.gello@gmail.com": 16,
+      "zakooz": 1
+    },
+    "n_commits": 54,
+    "n_contributors": 11
+  }
+}

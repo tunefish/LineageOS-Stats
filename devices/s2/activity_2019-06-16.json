@@ -1,0 +1,61 @@
+{
+  "30": {
+    "contributors": {
+      "mikeNG": 2,
+      "mkbestas@lineageos.org": 2
+    },
+    "n_commits": 2,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "baddaemon87@gmail.com": 1,
+      "bgcngm": 1,
+      "bgcngm@gmail.com": 1,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1
+    },
+    "n_commits": 3,
+    "n_contributors": 6
+  },
+  "365": {
+    "contributors": {
+      "Adarsh-MR": 2,
+      "Demon000": 2,
+      "HighwayStar": 2,
+      "Quallenauge": 2,
+      "Rashed97": 6,
+      "ThEMarD": 2,
+      "TheScarastic": 2,
+      "Vachounet": 2,
+      "bgcngm": 10,
+      "codeworkx": 44,
+      "critsec": 2,
+      "daniel.hillenbrand@codeworkx.de": 12,
+      "dianlujitao": 8,
+      "ezio84": 2,
+      "intervigil@gmail.com": 2,
+      "intervigilium": 4,
+      "invisiblek": 6,
+      "jsharkey": 2,
+      "luk1337": 2,
+      "maniac103": 2,
+      "mikeNG": 8,
+      "mnaganov@google.com": 2,
+      "mthomos": 2,
+      "nathanchance": 12,
+      "nocry22": 2,
+      "npjohnson": 2,
+      "pawin@google.com": 2,
+      "rahulkrishna585@gmail.com": 84,
+      "renjian2": 2,
+      "rk779": 164,
+      "steve@cyngn.com": 2,
+      "vladimiroltean": 4,
+      "weivincewang": 2
+    },
+    "n_commits": 101,
+    "n_contributors": 33
+  }
+}

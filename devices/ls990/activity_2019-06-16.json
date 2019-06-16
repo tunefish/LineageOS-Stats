@@ -1,0 +1,61 @@
+{
+  "30": {
+    "contributors": {
+      "mikeNG": 2,
+      "mkbestas@lineageos.org": 2
+    },
+    "n_commits": 4,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 3,
+      "KhabarlakKonstantin": 4,
+      "Rashed97": 2,
+      "alessandro.astone@hotmail.com": 4,
+      "aviraxp": 2,
+      "baddaemon87@gmail.com": 1,
+      "bgcngm": 1,
+      "bgcngm@gmail.com": 1,
+      "bryan2894": 2,
+      "dianlujitao": 4,
+      "firebird11": 8,
+      "itsHardStyl3r": 44,
+      "javelinanddart": 4,
+      "johnnylittleplanet@gmail.com": 10,
+      "jrior001": 1,
+      "jrizzoli": 1,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1,
+      "weivincewang": 2
+    },
+    "n_commits": 36,
+    "n_contributors": 19
+  },
+  "365": {
+    "contributors": {
+      "AdrianDC": 2,
+      "Florin9doi": 6,
+      "Kasual": 4,
+      "Rashed97": 2,
+      "aarpure@codeaurora.org": 4,
+      "arco": 2,
+      "bgcngm": 34,
+      "bgcngm@gmail.com": 11,
+      "brinlyau": 2,
+      "firebird11": 2,
+      "hansson@google.com": 1,
+      "itsHardStyl3r": 32,
+      "javelinanddart": 14,
+      "jrior001": 5,
+      "jriordan001@gmail.com": 1,
+      "maniac103": 2,
+      "mikeNG": 12,
+      "mkbestas@lineageos.org": 8,
+      "sshadu@codeaurora.org": 2,
+      "sumam@codeaurora.org": 2
+    },
+    "n_commits": 46,
+    "n_contributors": 20
+  }
+}

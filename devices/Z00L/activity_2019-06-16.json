@@ -1,0 +1,82 @@
+{
+  "30": {
+    "contributors": {
+      "mikeNG": 2,
+      "mkbestas@lineageos.org": 2
+    },
+    "n_commits": 2,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "GustavoARSilva": 2,
+      "MSF-Jarvis": 1,
+      "aayushgupta219@gmail.com": 7,
+      "amluto": 1,
+      "aymende7": 1,
+      "baddaemon87@gmail.com": 1,
+      "bgcngm": 1,
+      "bgcngm@gmail.com": 1,
+      "blevy@codeaurora.org": 1,
+      "borntraeger": 2,
+      "brauner": 1,
+      "daniel-thompson": 1,
+      "dev-harsh1998": 1,
+      "djbw": 1,
+      "drosen@google.com": 6,
+      "dtor@chromium.org": 2,
+      "efault@gmx.de": 1,
+      "eladwexler": 1,
+      "ericrannaud": 1,
+      "gnehzuil": 3,
+      "gregkh": 1,
+      "haggertk": 2,
+      "huanglianjun@vivo.com": 1,
+      "intervigilium": 1,
+      "javelinanddart": 2,
+      "joaodias@google.com": 1,
+      "johnstultz-work": 1,
+      "luca020400": 1,
+      "maco@android.com": 11,
+      "mikeNG": 3,
+      "minchank": 1,
+      "mkbestas@lineageos.org": 1,
+      "mszeredi@suse.cz": 1,
+      "peterz@infradead.org": 2,
+      "roml": 1,
+      "samitolvanen": 1,
+      "sherryy@android.com": 2,
+      "songjinshi@xiaomi.com": 1,
+      "tglx@linutronix.de": 1,
+      "theimpulson": 86,
+      "theimpulson@aospextended.com": 1,
+      "tiwai": 1,
+      "tkjos@android.com": 4,
+      "toddkjos": 2,
+      "torvalds": 1,
+      "viro@zeniv.linux.org.uk": 9,
+      "weivincewang": 2
+    },
+    "n_commits": 89,
+    "n_contributors": 48
+  },
+  "365": {
+    "contributors": {
+      "AdrianDC": 1,
+      "Alberto97": 1,
+      "aayushgupta219@gmail.com": 16,
+      "bgcngm": 1,
+      "cryptomilk": 1,
+      "deadlyindian": 1,
+      "dev-harsh1998": 4,
+      "diegowilson": 1,
+      "haggertk": 1,
+      "redking12": 1,
+      "theimpulson": 30,
+      "zljing@codeaurora.org": 2
+    },
+    "n_commits": 30,
+    "n_contributors": 12
+  }
+}
