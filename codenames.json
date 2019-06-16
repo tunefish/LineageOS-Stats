@@ -2353,7 +2353,8 @@
     "tree": "android_device_xiaomi_chiron",
     "vendor": "Xiaomi",
     "versions": [
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -3715,6 +3716,74 @@
       16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, 2.4G/5G, Wi-Fi Direct, DLNA, Hotspot"
+  },
+  "enchilada": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3300,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP + 20 MP (16 MP effective)"
+      },
+      {
+        "flash": "",
+        "info": "16 MP"
+      }
+    ],
+    "codename": "enchilada",
+    "cpu": "Kryo 385",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.8 GHz + 4 x 1.7 GHz",
+    "gpu": "Adreno 630",
+    "name": "6",
+    "network": [
+      {
+        "bands": "850 / 900 / 1800 / 1900",
+        "tech": "2G"
+      },
+      {
+        "bands": "800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "tech": "3G"
+      },
+      {
+        "bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 29, Europe, North America: 30, 32, 34, 38, 39, 40, 41, 66, 71, India, Asia, China: 34, 38, 39, 40, 41, 66",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "Dual SIM",
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Light sensor",
+      "Proximity sensor",
+      "Compass",
+      "NFC",
+      "GPS"
+    ],
+    "ram": "6/8 GB LPDDR4X",
+    "release": "2018-04",
+    "screen": "159.512 mm (6.28 in)",
+    "screen_res": "1080x2280",
+    "screen_tech": "Optic AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SDM845 Snapdragon 845",
+    "tree": "android_device_oneplus_enchilada",
+    "vendor": "OnePlus",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
   "espresso3g": {
     "architecture": "arm",
@@ -10141,6 +10210,79 @@
     ],
     "wifi": "Wi-Fi 802.11 b/g/n"
   },
+  "mata": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3040,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "4.2"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "13 MP"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "Monochromatic 13 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "mata",
+    "cpu": "Kryo",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.45 GHz + 4 x 1.9 GHz",
+    "gpu": "Adreno 540",
+    "name": "Essential PH-1",
+    "network": [
+      {
+        "bands": "850, 900, 1800, 1900 MHz MHz GSM, BC0 CDMA EVDO",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 1700/2100(AWS) 1900 2100 MHz HSDPA",
+        "tech": "3G"
+      },
+      {
+        "bands": " 1 2 3 4 5 7 8 12 17 20 25 26 28 29 30 38 39 40 41 LTE",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Proximity sensor",
+      "Compass",
+      "NFC",
+      "Hall effect sensor",
+      "Sensor hub",
+      "Light sensor",
+      "Essential Accessories"
+    ],
+    "ram": "4 GB",
+    "release": "2017-08",
+    "screen": "85.4 cm (5.71 in)",
+    "screen_res": "1312x2560",
+    "screen_tech": "IPS LCD",
+    "sdcard": "?",
+    "soc": "Qualcomm MSM8998 Snapdragon 835",
+    "tree": "android_device_essential_mata",
+    "vendor": "Essential",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, DLNA, Hotspot"
+  },
   "merlin": {
     "architecture": "arm",
     "battery": {
@@ -12561,7 +12703,8 @@
     "tree": "android_device_xiaomi_sagit",
     "vendor": "Xiaomi",
     "versions": [
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
