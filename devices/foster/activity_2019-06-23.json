@@ -1,0 +1,26 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "webgeek1234": 3,
+      "webgeek1234@gmail.com": 3
+    },
+    "n_commits": 3,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "intervigil@gmail.com": 1,
+      "intervigilium": 1,
+      "npjohnson": 1,
+      "webgeek1234": 20,
+      "webgeek1234@gmail.com": 19
+    },
+    "n_commits": 21,
+    "n_contributors": 5
+  }
+}
