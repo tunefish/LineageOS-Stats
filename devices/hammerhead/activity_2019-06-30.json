@@ -1,0 +1,67 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "razorloves": 1,
+      "razorloves@gmail.com": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "0x36": 1,
+      "AlanStern": 2,
+      "abavanar@codeaurora.org": 2,
+      "airend": 30,
+      "bgcngm": 2,
+      "bpawar@codeaurora.org": 2,
+      "cryptomilk": 2,
+      "dcashman@google.com": 2,
+      "djwong": 1,
+      "dmaces@nd.edu": 2,
+      "dtor": 1,
+      "ebiggers": 3,
+      "etalvala@google.com": 2,
+      "fengc@google.com": 1,
+      "fw@strlen.de": 2,
+      "gfodi@codeaurora.org": 2,
+      "gregkh": 1,
+      "haggertk": 2,
+      "herbertx": 2,
+      "invisiblek": 2,
+      "jazzguitar81": 1,
+      "jeffvanderstoep": 4,
+      "jhovold": 1,
+      "jsaikrishna@codeaurora.org": 1,
+      "kmani@codeaurora.org": 1,
+      "kunleiz@codeaurora.org": 1,
+      "lczerner": 1,
+      "lxin": 1,
+      "maggarwa@codeaurora.org": 1,
+      "marissaw@google.com": 2,
+      "mjavid@codeaurora.org": 1,
+      "mkubecek": 1,
+      "morbidrsa": 1,
+      "muhual@codeaurora.org": 2,
+      "nicstange": 1,
+      "patils": 2,
+      "rajeshb@codeaurora.org": 1,
+      "ramosian-glider": 1,
+      "razorloves": 102,
+      "razorloves@gmail.com": 8,
+      "sigprof": 2,
+      "suliu@codeaurora.org": 2,
+      "tiwai": 2,
+      "torvalds": 1,
+      "tytso": 2,
+      "usaxena@codeaurora.org": 1
+    },
+    "n_commits": 74,
+    "n_contributors": 46
+  }
+}

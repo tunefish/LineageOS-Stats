@@ -1,0 +1,20 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "tdm": 5,
+      "tdm.code@gmail.com": 5
+    },
+    "n_commits": 5,
+    "n_contributors": 2
+  }
+}
