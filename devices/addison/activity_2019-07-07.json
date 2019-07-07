@@ -1,0 +1,45 @@
+{
+  "30": {
+    "contributors": {
+      "mikeNG": 2,
+      "mkbestas@lineageos.org": 2
+    },
+    "n_commits": 2,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "baddaemon87@gmail.com": 1,
+      "mikeNG": 2,
+      "mkbestas@lineageos.org": 2
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "Alberto97": 1,
+      "BtbN": 46,
+      "Rashed97": 4,
+      "agners": 4,
+      "arndb": 2,
+      "bgcngm": 1,
+      "bgcngm@gmail.com": 1,
+      "btbn@btbn.de": 29,
+      "ftonello": 1,
+      "groeck": 1,
+      "herbertx": 1,
+      "jaedon": 1,
+      "kees": 1,
+      "kkamagui": 1,
+      "lxin": 1,
+      "mccreary@mcwest.org": 1,
+      "rashed@linux.com": 4,
+      "sherryy@android.com": 1,
+      "tomratbert": 1
+    },
+    "n_commits": 49,
+    "n_contributors": 19
+  }
+}

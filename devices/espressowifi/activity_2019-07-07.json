@@ -1,0 +1,49 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "Ziyann": 3,
+      "andi34": 13,
+      "andi@unlegacy-android.org": 5,
+      "invisiblek": 2,
+      "kumajaya": 1,
+      "skate4life@gmx.de": 2
+    },
+    "n_commits": 13,
+    "n_contributors": 6
+  },
+  "365": {
+    "contributors": {
+      "Blystad": 4,
+      "Hashcode": 6,
+      "Ziyann": 7,
+      "a21834@motorola.com": 12,
+      "airend": 2,
+      "andi34": 84,
+      "andi@unlegacy-android.org": 2,
+      "arve-android": 2,
+      "bwalle": 2,
+      "cpandya@codeaurora.org": 2,
+      "cyanogen": 4,
+      "daniel.jarai@bartec-pixavi.com": 2,
+      "faux123": 4,
+      "gbjc64@motorola.com": 8,
+      "jgennis@google.com": 4,
+      "jhrycay": 2,
+      "kumajaya": 1,
+      "lmark@codeaurora.org": 4,
+      "lrg-ti": 2,
+      "mpagano": 4,
+      "nicolas.pitre@linaro.org": 2,
+      "roml": 2,
+      "sawlani@amazon.com": 2,
+      "zyy@motorola.com": 4
+    },
+    "n_commits": 44,
+    "n_contributors": 24
+  }
+}

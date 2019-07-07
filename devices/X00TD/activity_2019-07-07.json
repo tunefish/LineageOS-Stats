@@ -1,0 +1,42 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "Rashed97": 4,
+      "SagarMakhar": 37,
+      "ShivamKumarJha": 94,
+      "antoine-g": 2,
+      "bgcngm": 13,
+      "codeworkx": 8,
+      "elsk@google.com": 1,
+      "etancohen@google.com": 1,
+      "freak97": 2,
+      "javelinanddart": 3,
+      "jeffvanderstoep": 2,
+      "jesec": 4,
+      "jha.shivam3@gmail.com": 29,
+      "krasCGQ": 4,
+      "lkansara@codeaurora.org": 1,
+      "luca020400": 2,
+      "luk1337": 24,
+      "maniac103": 2,
+      "npendhar@codeaurora.org": 2,
+      "rpius@google.com": 6,
+      "sagarmakhar@gmail.com": 9,
+      "tyanh@google.com": 1,
+      "vasishath": 4,
+      "ycchen@google.com": 1
+    },
+    "n_commits": 80,
+    "n_contributors": 24
+  }
+}

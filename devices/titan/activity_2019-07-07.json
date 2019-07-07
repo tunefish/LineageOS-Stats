@@ -1,0 +1,28 @@
+{
+  "30": {
+    "contributors": {
+      "mikeNG": 2,
+      "mkbestas@lineageos.org": 2
+    },
+    "n_commits": 2,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "baddaemon87@gmail.com": 1,
+      "mikeNG": 2,
+      "mkbestas@lineageos.org": 2
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "bgcngm": 1,
+      "bgcngm@gmail.com": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  }
+}
