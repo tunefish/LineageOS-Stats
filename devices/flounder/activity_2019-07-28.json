@@ -1,0 +1,25 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "HashBang173": 4,
+      "bgcngm": 5,
+      "bgcngm@gmail.com": 1,
+      "hashbang173@gmail.com": 1,
+      "mathieuchartier": 1,
+      "philipcuadra@google.com": 1,
+      "zhangjerry@google.com": 1
+    },
+    "n_commits": 7,
+    "n_contributors": 7
+  }
+}

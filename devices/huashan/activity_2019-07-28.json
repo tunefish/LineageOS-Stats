@@ -1,0 +1,68 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "AdrianDC": 7,
+      "BadDaemon": 1,
+      "arco": 1,
+      "aviraxp": 2,
+      "baddaemon87@gmail.com": 1,
+      "cyberwalkman": 6,
+      "daedroza": 1,
+      "dupin@google.com": 1,
+      "firefox883@gmail.com": 2,
+      "jeffvanderstoep": 2,
+      "luk1337": 1,
+      "maniac103": 2,
+      "mikeNG": 5,
+      "mkbestas@lineageos.org": 5,
+      "radian.dc@gmail.com": 1
+    },
+    "n_commits": 19,
+    "n_contributors": 15
+  },
+  "365": {
+    "contributors": {
+      "AdrianDC": 38,
+      "AgentFabulous": 1,
+      "Chippa-a": 2,
+      "Flex1911": 2,
+      "Rashed97": 1,
+      "Ziyann": 2,
+      "arco": 5,
+      "bgcngm": 4,
+      "bgcngm@gmail.com": 1,
+      "bwhacks": 2,
+      "cyberwalkman": 1,
+      "daedroza": 2,
+      "daedroza@gmail.com": 1,
+      "edumazet@google.com": 2,
+      "haggertk": 1,
+      "hansson@google.com": 1,
+      "hkpatel@codeaurora.org": 1,
+      "jeffvanderstoep": 1,
+      "jianqiangzhao": 2,
+      "jmtrivi": 2,
+      "kunleiz@codeaurora.org": 2,
+      "lxin": 2,
+      "maggarwa@codeaurora.org": 2,
+      "maniac103": 1,
+      "marissaw@google.com": 2,
+      "mikeNG": 1,
+      "nona-google": 1,
+      "radian.dc@gmail.com": 9,
+      "rago@google.com": 2,
+      "rglasser@google.com": 2,
+      "rpius@google.com": 3,
+      "tincho5588": 1,
+      "wdebruij": 4,
+      "zhangjerry@google.com": 1
+    },
+    "n_commits": 51,
+    "n_contributors": 34
+  }
+}

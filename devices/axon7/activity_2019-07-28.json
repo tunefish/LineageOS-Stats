@@ -1,0 +1,56 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "baddaemon87@gmail.com": 1,
+      "mikeNG": 4,
+      "mkbestas@lineageos.org": 4
+    },
+    "n_commits": 13,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 1,
+      "C457": 59,
+      "Demon000": 2,
+      "Florin9doi": 6,
+      "OrdenKrieger": 5,
+      "Rashed97": 8,
+      "ameyat@codeaurora.org": 1,
+      "android.c357@gmail.com": 26,
+      "baddaemon87@gmail.com": 1,
+      "bgcngm": 7,
+      "bgcngm@gmail.com": 1,
+      "chz@google.com": 1,
+      "hansson@google.com": 1,
+      "jeffvanderstoep": 1,
+      "jiyong@google.com": 1,
+      "jrior001": 6,
+      "jriordan001@gmail.com": 1,
+      "jrizzoli": 1,
+      "luk1337": 1,
+      "messi2050": 1,
+      "mikeNG": 14,
+      "minoforever216@gmail.com": 1,
+      "mkbestas@lineageos.org": 7,
+      "ordenkriegeredr@googlemail.com": 4,
+      "raymanfx": 1,
+      "satyak@codeaurora.org": 1,
+      "smore-lore": 1,
+      "szuweilin": 1,
+      "tdm": 5,
+      "tdm.code@gmail.com": 4,
+      "tstrudel@google.com": 1,
+      "vishwath@google.com": 1,
+      "x86cpu": 1
+    },
+    "n_commits": 92,
+    "n_contributors": 33
+  }
+}
