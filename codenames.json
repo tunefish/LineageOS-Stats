@@ -782,7 +782,8 @@
     "tree": "android_device_samsung_a5y17lte",
     "vendor": "Samsung",
     "versions": [
-      14.1
+      14.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -858,7 +859,8 @@
     "tree": "android_device_samsung_a7y17lte",
     "vendor": "Samsung",
     "versions": [
-      14.1
+      14.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
