@@ -1,0 +1,21 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "alviteri": 1,
+      "luk1337": 2,
+      "priv.luk@gmail.com": 1
+    },
+    "n_commits": 2,
+    "n_contributors": 3
+  }
+}

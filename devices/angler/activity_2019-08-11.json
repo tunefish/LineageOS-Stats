@@ -1,0 +1,24 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "cpaasch": 2,
+      "razorloves": 17,
+      "razorloves@gmail.com": 17,
+      "siqilin@google.com": 14,
+      "sivaa@codeaurora.org": 2,
+      "tbhardwa@codeaurora.org": 2
+    },
+    "n_commits": 14,
+    "n_contributors": 6
+  }
+}
