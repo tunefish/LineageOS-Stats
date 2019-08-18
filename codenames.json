@@ -7738,7 +7738,7 @@
     "cpu_cores": 4,
     "cpu_freq": "1.9GHz",
     "gpu": "Adreno 320",
-    "name": "Galaxy S4 (Verizon)",
+    "name": "Galaxy S4 (SCH-I545)",
     "network": [
       {
         "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
@@ -7811,7 +7811,7 @@
     "cpu_cores": 4,
     "cpu_freq": "1.9GHz",
     "gpu": "Adreno 320",
-    "name": "Galaxy S4 (GT-I9505/G, SGH-M919, SGH-I337M)",
+    "name": "Galaxy S4 (GT-I9505/G, SGH-I337M, SGH-M919)",
     "network": [
       {
         "bands": "850 900 1800 1900 MHz GSM",
@@ -7852,6 +7852,79 @@
     "sdcard": "up to 64 GB",
     "soc": "Qualcomm Snapdragon 600",
     "tree": "android_device_samsung_jfltexx",
+    "vendor": "Samsung",
+    "versions": [
+      14.1,
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
+  },
+  "jfvelte": {
+    "architecture": "arm",
+    "battery": {
+      "capacity": 2600,
+      "removable": true,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "spec": "4.0"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "13 MP"
+      },
+      {
+        "flash": "",
+        "info": "2 MP"
+      }
+    ],
+    "codename": "jfvelte",
+    "cpu": "Krait 300",
+    "cpu_cores": 4,
+    "cpu_freq": "1.9GHz",
+    "gpu": "Adreno 320",
+    "name": "Galaxy S4 Value Edition (GT-I9515/L)",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 1900 2100 MHz HSPA+",
+        "tech": "3G"
+      },
+      {
+        "bands": "800 850 900 1800 2100 2600 MHz LTE",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "GPS",
+      "GLONASS",
+      "NFC",
+      "Infrared sensor",
+      "USB OTG",
+      "MHL 2.0",
+      "MHL HDMI",
+      "Accelerometer",
+      "Barometer",
+      "Gesture sensor",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Hygrometer",
+      "Proximity sensor",
+      "Light sensor",
+      "Thermometer"
+    ],
+    "ram": "2 GB",
+    "release": "2014-04",
+    "screen": "127mm (5in)",
+    "screen_res": "1920x1080",
+    "screen_tech": "Pentile RGBG Full HD Super AMOLED",
+    "sdcard": "up to 64 GB",
+    "soc": "Qualcomm Snapdragon 600",
+    "tree": "android_device_samsung_jfvelte",
     "vendor": "Samsung",
     "versions": [
       14.1,
