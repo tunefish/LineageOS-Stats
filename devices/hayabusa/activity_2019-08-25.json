@@ -1,0 +1,76 @@
+{
+  "30": {
+    "contributors": {
+      "AdrianDC": 39,
+      "Chippa-a": 3,
+      "Rashed97": 1,
+      "airend": 1,
+      "arco": 5,
+      "aviraxp": 1,
+      "bgcngm": 1,
+      "cyberwalkman": 3,
+      "dianlujitao": 1,
+      "faust93": 1,
+      "fitittome": 1,
+      "gohulanb@codeaurora.org": 1,
+      "jrior001": 1,
+      "luk1337": 1,
+      "mikeNG": 4,
+      "mkbestas@lineageos.org": 3,
+      "nharold@google.com": 1,
+      "pnagda@codeaurora.org": 1,
+      "radian.dc@gmail.com": 9,
+      "rambeer@codeaurora.org": 1,
+      "rpius@google.com": 1,
+      "ryuto.sawada@sony.com": 1,
+      "scott@cyngn.com": 1,
+      "tincho5588": 1,
+      "tyanh@google.com": 1
+    },
+    "n_commits": 42,
+    "n_contributors": 25
+  },
+  "180": {
+    "contributors": {
+      "AdrianDC": 13,
+      "BadDaemon": 1,
+      "Myself5": 2,
+      "arco": 1,
+      "aviraxp": 2,
+      "baddaemon87@gmail.com": 1,
+      "cyberwalkman": 2,
+      "daedroza": 1,
+      "dupin@google.com": 1,
+      "jeffvanderstoep": 2,
+      "luk1337": 1,
+      "maniac103": 2,
+      "mikeNG": 4,
+      "mkbestas@lineageos.org": 4,
+      "myself5@carbonrom.org": 2,
+      "radian.dc@gmail.com": 1
+    },
+    "n_commits": 20,
+    "n_contributors": 16
+  },
+  "365": {
+    "contributors": {
+      "AdrianDC": 15,
+      "Chippa-a": 2,
+      "Rashed97": 1,
+      "Ziyann": 2,
+      "arco": 4,
+      "bgcngm": 2,
+      "bgcngm@gmail.com": 1,
+      "cyberwalkman": 1,
+      "daedroza": 1,
+      "haggertk": 1,
+      "hkpatel@codeaurora.org": 1,
+      "maniac103": 1,
+      "mikeNG": 1,
+      "radian.dc@gmail.com": 2,
+      "tincho5588": 1
+    },
+    "n_commits": 18,
+    "n_contributors": 15
+  }
+}
