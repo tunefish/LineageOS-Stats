@@ -132,6 +132,78 @@
     ],
     "wifi": "802.11 b/g/n/ac"
   },
+  "I01WD": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 5000,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual-LED flash (Dual Tone)",
+        "info": "48 MP + 13MP"
+      },
+      {
+        "flash": "Dual-LED flash (Dual Tone)",
+        "info": "48 MP + 13MP"
+      }
+    ],
+    "codename": "I01WD",
+    "cpu": "Kryo 485",
+    "cpu_cores": "8",
+    "cpu_freq": "1x2.84 GHz & 3x2.41 GHz & 4x1.78 GHz",
+    "gpu": "Adreno 640",
+    "name": "Zenfone 6 (ZS630KL)",
+    "network": [
+      {
+        "bands": "EDGE/GPRS/GSM (850, 900, 1800, 1900MHz)",
+        "tech": "2G"
+      },
+      {
+        "bands": "WCDMA (Bands 1, 2, 3, 4, 5, 6, 8, 19)",
+        "tech": "3G"
+      },
+      {
+        "bands": "FDD-LTE (Bands 1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 28), TD-LTE (Bands 38, 39, 41, 46)",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
+      "Dual SIM",
+      "FM radio",
+      "Fingerprint reader",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Infrared sensor",
+      "Light sensor",
+      "Proximity sensor",
+      "USB OTG"
+    ],
+    "ram": "6/8 GB",
+    "release": "2019-05-16",
+    "screen": "162.56 mm (6.4 in)",
+    "screen_res": "2340x1080",
+    "screen_tech": "IPS LCD",
+    "sdcard": "up to 2TB",
+    "soc": "Qualcomm sm8150 Snapdragon 855",
+    "tree": "android_device_asus_I01WD",
+    "vendor": "Asus",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac"
+  },
   "P024": {
     "architecture": "arm",
     "battery": {
@@ -709,6 +781,153 @@
       15.1
     ],
     "wifi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+  },
+  "a3xelte": {
+    "architecture": {
+      "cpu": "arm64",
+      "userspace": "arm"
+    },
+    "battery": {
+      "capacity": 2300,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "4.1"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "13 MP"
+      },
+      {
+        "flash": "",
+        "info": "5 MP"
+      }
+    ],
+    "codename": "a3xelte",
+    "cpu": "Cortex-A53",
+    "cpu_cores": "4",
+    "cpu_freq": "1.5 GHz",
+    "gpu": "ARM Mali-T720 MP2",
+    "name": "Galaxy A3 (2016)",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 1900 2100 HSDPA",
+        "tech": "3G"
+      },
+      {
+        "bands": "1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 40(2300) LTE",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
+      "GLONASS",
+      "GPS",
+      "NFC",
+      "Proximity sensor",
+      "RGB ambient light",
+      "Sensor hub",
+      "USB OTG",
+      "Wi-Fi Display"
+    ],
+    "ram": "1.5 GB",
+    "release": "2015-12",
+    "screen": "119 mm (4.7 in)",
+    "screen_res": "1280x720",
+    "screen_tech": "Super AMOLED",
+    "sdcard": "up to 256 GB",
+    "soc": "Samsung Exynos 7578",
+    "tree": "android_device_samsung_a3xelte",
+    "vendor": "Samsung",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 b/g/n"
+  },
+  "a5xelte": {
+    "architecture": {
+      "cpu": "arm64",
+      "userspace": "arm"
+    },
+    "battery": {
+      "capacity": 2900,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "4.1"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "13 MP"
+      },
+      {
+        "flash": "",
+        "info": "5 MP"
+      }
+    ],
+    "codename": "a5xelte",
+    "cpu": "Cortex-A53",
+    "cpu_cores": "8",
+    "cpu_freq": "1.6 GHz",
+    "gpu": "ARM Mali-T720 MP2",
+    "name": "Galaxy A5 (2016)",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 1900 2100 HSDPA",
+        "tech": "3G"
+      },
+      {
+        "bands": "1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 40(2300) LTE",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
+      "Fingerprint reader",
+      "GLONASS",
+      "GPS",
+      "NFC",
+      "Proximity sensor",
+      "RGB ambient light",
+      "Sensor hub",
+      "USB OTG",
+      "Wi-Fi Display"
+    ],
+    "ram": "2 GB",
+    "release": "2015-12",
+    "screen": "130 mm (5.2 in)",
+    "screen_res": "1920x1080",
+    "screen_tech": "Super AMOLED",
+    "sdcard": "up to 256 GB",
+    "soc": "Samsung Exynos 7580",
+    "tree": "android_device_samsung_a5xelte",
+    "vendor": "Samsung",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 b/g/n"
   },
   "a5y17lte": {
     "architecture": "arm64",
@@ -2285,6 +2504,84 @@
       15.1
     ],
     "wifi": "802.11 b/g/n"
+  },
+  "cheryl": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4000,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "4.2"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "12 MP"
+      },
+      {
+        "flash": "Dual LED",
+        "info": "12 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "cheryl",
+    "cpu": "Kryo 280",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.45 GHz + 4 x 1.9 GHz",
+    "gpu": "Adreno 540",
+    "name": "Phone",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 1700(AWS) 1800 1900 2100 MHz HSDPA",
+        "tech": "3G"
+      },
+      {
+        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 12(700) 17(700) 19(800) 20(800) 25(1900) 26(850) 28(700) 29(700) 30(2300) 38(2600) 39(1900) 40(2300) 41(2500) 66(1700/2100)",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Barometer",
+      "Compass",
+      "Dual front speakers",
+      "Fingerprint reader",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Pedometer",
+      "Proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
+    ],
+    "ram": "8 GB",
+    "release": "2017-11",
+    "screen": "144.78 mm (5.7 in)",
+    "screen_res": "1440x2560",
+    "screen_tech": "IPS LCD",
+    "sdcard": "?",
+    "soc": "Qualcomm MSM8998 Snapdragon 835",
+    "tree": "android_device_razer_cheryl",
+    "vendor": "Razer",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
   "chiron": {
     "architecture": "arm64",
@@ -4139,6 +4436,74 @@
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
+  "fajita": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3700,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP + 20 MP (16 MP effective)"
+      },
+      {
+        "flash": "",
+        "info": "16 MP"
+      }
+    ],
+    "codename": "fajita",
+    "cpu": "Kryo 385",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.8 GHz + 4 x 1.7 GHz",
+    "gpu": "Adreno 630",
+    "name": "6T",
+    "network": [
+      {
+        "bands": "850 / 900 / 1800 / 1900",
+        "tech": "2G"
+      },
+      {
+        "bands": "800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "tech": "3G"
+      },
+      {
+        "bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 29, Europe, North America: 30, 32, 34, 38, 39, 40, 41, 66, 71, India, Asia, China: 34, 38, 39, 40, 41, 66",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "Dual SIM",
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Light sensor",
+      "Proximity sensor",
+      "Compass",
+      "NFC",
+      "GPS"
+    ],
+    "ram": "6/8 GB LPDDR4X",
+    "release": "2018-11",
+    "screen": "162.814 mm (6.41 in)",
+    "screen_res": "1080x2340",
+    "screen_tech": "Optic AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SDM845 Snapdragon 845",
+    "tree": "android_device_oneplus_fajita",
+    "vendor": "OnePlus",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+  },
   "falcon": {
     "architecture": "arm",
     "battery": {
@@ -5277,6 +5642,74 @@
       16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, hotspot"
+  },
+  "guacamole": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4000,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "48 MP (wide) + 8 MP (telephoto) + 16 MP (ultrawide)"
+      },
+      {
+        "flash": "",
+        "info": "16 MP"
+      }
+    ],
+    "codename": "guacamole",
+    "cpu": "Kryo 485",
+    "cpu_cores": "8",
+    "cpu_freq": "1 x 2.84 GHz + 3 x 2.42 GHz + 4 x 1.78 GHz",
+    "gpu": "Adreno 640",
+    "name": "7 Pro",
+    "network": [
+      {
+        "bands": "850 / 900 / 1800 / 1900",
+        "tech": "2G"
+      },
+      {
+        "bands": "800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "tech": "3G"
+      },
+      {
+        "bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 29, Europe, North America: 30, 32, 34, 38, 39, 40, 41, 66, 71, India, Asia, China: 34, 38, 39, 40, 41, 66",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "Dual SIM",
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Light sensor",
+      "Proximity sensor",
+      "Compass",
+      "NFC",
+      "GPS"
+    ],
+    "ram": "6/8/12GB GB LPDDR4X",
+    "release": "2019-05",
+    "screen": "169.418 mm (6.67 in)",
+    "screen_res": "1440x3120",
+    "screen_tech": "Fluid AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "tree": "android_device_oneplus_guacamole",
+    "vendor": "OnePlus",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
   "h811": {
     "architecture": "arm64",
@@ -13067,6 +13500,80 @@
       15.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+  },
+  "s5neolte": {
+    "architecture": {
+      "cpu": "arm64",
+      "userspace": "arm"
+    },
+    "battery": {
+      "capacity": 2800,
+      "removable": true,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "4.1"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "16 MP"
+      },
+      {
+        "flash": "",
+        "info": "5 MP"
+      }
+    ],
+    "codename": "s5neolte",
+    "cpu": "Cortex-A53",
+    "cpu_cores": "8",
+    "cpu_freq": "1.6 GHz",
+    "gpu": "ARM Mali-T720 MP2",
+    "name": "Galaxy S5 Neo",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 1900 2100 HSDPA",
+        "tech": "3G"
+      },
+      {
+        "bands": "1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) LTE",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "NFC",
+      "Proximity sensor",
+      "RGB ambient light",
+      "Sensor hub",
+      "USB OTG",
+      "Wi-Fi Display"
+    ],
+    "ram": "2 GB",
+    "release": "2015-08",
+    "screen": "130 mm (5.2 in)",
+    "screen_res": "1920x1080",
+    "screen_tech": "Super AMOLED",
+    "sdcard": "up to 256 GB",
+    "soc": "Samsung Exynos 7580",
+    "tree": "android_device_samsung_s5neolte",
+    "vendor": "Samsung",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac"
   },
   "sagit": {
     "architecture": "arm64",
