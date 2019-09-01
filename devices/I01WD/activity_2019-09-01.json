@@ -1,0 +1,60 @@
+{
+  "30": {
+    "contributors": {
+      "OrdenKrieger": 6,
+      "aiquny@codeaurora.org": 1,
+      "avilaj@codeaurora.org": 1,
+      "luca.stefani.ge1@gmail.com": 17,
+      "luca020400": 22,
+      "luk1337": 1,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1,
+      "ordenkriegeredr@googlemail.com": 5,
+      "pkondeti@codeaurora.org": 1
+    },
+    "n_commits": 28,
+    "n_contributors": 10
+  },
+  "180": {
+    "contributors": {
+      "BeYkeRYkt": 1,
+      "Demon000": 1,
+      "PeterCxy": 3,
+      "Rashed97": 1,
+      "adharmap@codeaurora.org": 1,
+      "aiquny@codeaurora.org": 2,
+      "arter97": 1,
+      "aviraxp": 1,
+      "bryanh@codeaurora.org": 1,
+      "fenglinw@codeaurora.org": 1,
+      "intervigilium": 1,
+      "javelinanddart": 1,
+      "jesec": 1,
+      "jmtrivi": 1,
+      "kholk": 1,
+      "luca.stefani.ge1@gmail.com": 60,
+      "luca020400": 122,
+      "luk1337": 9,
+      "maniac103": 1,
+      "pcacjr": 1,
+      "pkondeti@codeaurora.org": 19,
+      "priv.luk@gmail.com": 1,
+      "pujag@codeaurora.org": 1,
+      "rago@google.com": 1,
+      "robherring": 6,
+      "smuckle.linux@gmail.com": 1,
+      "thestinger": 1,
+      "tomascus": 2,
+      "torvalds": 1,
+      "vladimiroltean": 1,
+      "weivincewang": 1
+    },
+    "n_commits": 123,
+    "n_contributors": 31
+  },
+  "365": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  }
+}

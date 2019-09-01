@@ -1,0 +1,36 @@
+{
+  "30": {
+    "contributors": {
+      "mikeNG": 4,
+      "mkbestas@lineageos.org": 4
+    },
+    "n_commits": 7,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 2,
+      "baddaemon87@gmail.com": 2,
+      "mikeNG": 4,
+      "mkbestas@lineageos.org": 4
+    },
+    "n_commits": 11,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 2,
+      "Florin9doi": 6,
+      "baddaemon87@gmail.com": 2,
+      "bgcngm": 7,
+      "bgcngm@gmail.com": 1,
+      "jrior001": 6,
+      "jriordan001@gmail.com": 1,
+      "jrizzoli": 1,
+      "mikeNG": 7,
+      "mkbestas@lineageos.org": 7
+    },
+    "n_commits": 21,
+    "n_contributors": 10
+  }
+}
