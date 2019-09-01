@@ -3414,7 +3414,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -3478,7 +3479,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -3542,7 +3544,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -3607,7 +3610,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -4432,7 +4436,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -10173,7 +10178,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -16261,7 +16267,8 @@
     "tree": "android_device_motorola_victara",
     "vendor": "Motorola",
     "versions": [
-      14.1
+      14.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, DLNA, Hotspot"
   },
@@ -16399,7 +16406,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
