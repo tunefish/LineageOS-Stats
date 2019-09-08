@@ -1,0 +1,25 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "haggertk": 4,
+      "haggertk@lineageos.org": 4,
+      "kandoiruchi@google.com": 1,
+      "raymanfx": 2,
+      "raymanfx@gmail.com": 2,
+      "razorloves": 3,
+      "razorloves@gmail.com": 2
+    },
+    "n_commits": 7,
+    "n_contributors": 7
+  }
+}

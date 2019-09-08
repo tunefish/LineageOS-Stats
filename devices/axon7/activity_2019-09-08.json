@@ -1,0 +1,49 @@
+{
+  "30": {
+    "contributors": {
+      "BadDaemon": 1,
+      "baddaemon87@gmail.com": 1,
+      "bgcngm": 1,
+      "bgcngm@gmail.com": 1,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1
+    },
+    "n_commits": 3,
+    "n_contributors": 6
+  },
+  "180": {
+    "contributors": {
+      "mikeNG": 11,
+      "mkbestas@lineageos.org": 11
+    },
+    "n_commits": 13,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 1,
+      "C457": 18,
+      "Demon000": 1,
+      "Florin9doi": 6,
+      "ameyat@codeaurora.org": 1,
+      "android.c357@gmail.com": 7,
+      "baddaemon87@gmail.com": 1,
+      "bgcngm": 7,
+      "bgcngm@gmail.com": 2,
+      "jeffvanderstoep": 1,
+      "jrior001": 6,
+      "jriordan001@gmail.com": 1,
+      "jrizzoli": 1,
+      "luk1337": 1,
+      "messi2050": 1,
+      "mikeNG": 9,
+      "minoforever216@gmail.com": 1,
+      "mkbestas@lineageos.org": 8,
+      "satyak@codeaurora.org": 1,
+      "tdm": 2,
+      "tdm.code@gmail.com": 2
+    },
+    "n_commits": 46,
+    "n_contributors": 21
+  }
+}
