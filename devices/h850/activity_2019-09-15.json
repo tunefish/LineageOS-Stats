@@ -1,0 +1,70 @@
+{
+  "30": {
+    "contributors": {
+      "Jprimero15": 1,
+      "Rashed97": 1,
+      "eric@meddaughs.com": 1,
+      "x86cpu": 3
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "AgentFabulous": 1,
+      "Demon000": 1,
+      "Flex1911": 2,
+      "Rashed97": 3,
+      "aviraxp": 1,
+      "bgcngm": 3,
+      "chiaweic@codeaurora.org": 1,
+      "codeworkx": 2,
+      "critsec": 1,
+      "dupin@google.com": 1,
+      "ehem": 5,
+      "ehem+android_device_lge_h990@m5p.com": 3,
+      "ehem+android_kernel_lge_msm8996@m5p.com": 1,
+      "ehem+git@drgnwing.com": 1,
+      "eric@meddaughs.com": 11,
+      "int2str": 1,
+      "intervigilium": 1,
+      "jeffvanderstoep": 2,
+      "jjaggi@google.com": 1,
+      "jrizzoli": 1,
+      "kandoiruchi@google.com": 1,
+      "kuh@google.com": 1,
+      "luk1337": 6,
+      "mathieuchartier": 1,
+      "naseer@codeaurora.org": 1,
+      "nocry22": 2,
+      "nsarkar": 1,
+      "pnagda@codeaurora.org": 1,
+      "rpius@google.com": 2,
+      "salugant@codeaurora.org": 1,
+      "smore-lore": 1,
+      "toddpoynor": 1,
+      "tomcherry@google.com": 1,
+      "trong@google.com": 1,
+      "vladimiroltean": 1,
+      "x86cpu": 55
+    },
+    "n_commits": 60,
+    "n_contributors": 36
+  },
+  "365": {
+    "contributors": {
+      "bgcngm": 3,
+      "bmc08gt": 4,
+      "ehem": 4,
+      "ehem+android_device_lge_h990@m5p.com": 2,
+      "ehem+android_kernel_lge_msm8996@m5p.com": 2,
+      "eric@meddaughs.com": 4,
+      "luk1337": 1,
+      "vvinay@codeaurora.org": 1,
+      "x86cpu": 14,
+      "ycchen@google.com": 1
+    },
+    "n_commits": 18,
+    "n_contributors": 10
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "Rashed97": 120,
+      "achant@google.com": 1,
+      "alvin_liang@htc.com": 1,
+      "amluto": 1,
+      "dimitrysh@google.com": 1,
+      "djcampello": 3,
+      "drosen@google.com": 89,
+      "ericrannaud": 1,
+      "gaoxiang25@huawei.com": 2,
+      "gnehzuil": 3,
+      "greghackmann": 1,
+      "intervigilium": 4,
+      "jaegeuk@google.com": 1,
+      "mszeredi@suse.cz": 2,
+      "riteshh@codeaurora.org": 1,
+      "subashab@codeaurora.org": 1,
+      "viro@zeniv.linux.org.uk": 8
+    },
+    "n_commits": 120,
+    "n_contributors": 17
+  },
+  "365": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  }
+}
