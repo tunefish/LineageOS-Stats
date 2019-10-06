@@ -1,0 +1,73 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "johnsonnolen@gmail.com": 2,
+      "npjohnson": 2
+    },
+    "n_commits": 2,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "AdrianDC": 2,
+      "Flex1911": 193,
+      "HSchill": 1,
+      "amluto": 1,
+      "arco": 3,
+      "arndb": 1,
+      "congwang": 2,
+      "dan.carpenter@oracle.com": 1,
+      "davem330": 1,
+      "dhowells": 1,
+      "dianlujitao": 1,
+      "drmarble": 2,
+      "ebiederm": 3,
+      "eldad": 1,
+      "elison.niven@cyberoam.com": 1,
+      "ericrannaud": 1,
+      "etancohen@google.com": 1,
+      "ffourcot": 1,
+      "fw@strlen.de": 3,
+      "gaofeng@cn.fujitsu.com": 1,
+      "gnehzuil": 3,
+      "hans.schillstrom@ericsson.com": 2,
+      "hch@infradead.org": 2,
+      "jankara": 1,
+      "jbmukund": 1,
+      "jeffvanderstoep": 2,
+      "jengelh": 1,
+      "jmberg": 4,
+      "johnsonnolen@gmail.com": 3,
+      "jtlayton": 7,
+      "kaber": 17,
+      "kadlec@blackhole.kfki.hu": 1,
+      "kandoiruchi@google.com": 1,
+      "kees": 2,
+      "kelvie": 1,
+      "krkumar": 1,
+      "lxerandrew": 1,
+      "mszeredi@suse.cz": 41,
+      "nona-google": 1,
+      "npjohnson": 27,
+      "regit": 1,
+      "rpius@google.com": 3,
+      "sage@inktank.com": 1,
+      "sashalevin": 1,
+      "shemminger": 1,
+      "torvalds": 8,
+      "ulrich.weber@sophos.com": 1,
+      "ummakynes": 28,
+      "viro@zeniv.linux.org.uk": 37,
+      "vladimiroltean": 1,
+      "xypron": 1,
+      "zhangjerry@google.com": 1
+    },
+    "n_commits": 212,
+    "n_contributors": 52
+  }
+}

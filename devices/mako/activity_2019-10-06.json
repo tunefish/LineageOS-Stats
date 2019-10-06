@@ -1,0 +1,48 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "abhikuma@codeaurora.org": 1,
+      "akodanev": 1,
+      "alexey12424323@gmail.com": 2,
+      "anandkumar@codeaurora.org": 1,
+      "anatol": 1,
+      "c_hpothu@codeaurora.org": 2,
+      "chaseyu": 1,
+      "cpaasch": 1,
+      "drosen@google.com": 5,
+      "dundi@codeaurora.org": 1,
+      "e12499@motorola.com": 1,
+      "g.nault@alphalink.fr": 5,
+      "gkathpal@codeaurora.org": 1,
+      "hdeller": 1,
+      "hughd@google.com": 1,
+      "jkbs@redhat.com": 1,
+      "kees": 1,
+      "kgunda@codeaurora.org": 1,
+      "kramasub@codeaurora.org": 1,
+      "mkubecek": 1,
+      "nickdesaulniers": 1,
+      "olorin@google.com": 1,
+      "randy@mccaskill.us": 1,
+      "rmccask": 1,
+      "skpadma@codeaurora.org": 1,
+      "torvalds": 2,
+      "voron00": 38,
+      "vproddut@codeaurora.org": 1,
+      "waynewhlin@google.com": 1,
+      "wdebruij": 1
+    },
+    "n_commits": 39,
+    "n_contributors": 30
+  }
+}

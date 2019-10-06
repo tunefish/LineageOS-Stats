@@ -1,0 +1,35 @@
+{
+  "30": {
+    "contributors": {
+      "aviraxp": 2,
+      "bgcngm": 1,
+      "luca020400": 1
+    },
+    "n_commits": 2,
+    "n_contributors": 3
+  },
+  "180": {
+    "contributors": {
+      "416810799@qq.com": 1,
+      "aviraxp": 1,
+      "mikeNG": 20,
+      "mkbestas@lineageos.org": 20
+    },
+    "n_commits": 14,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 6,
+      "aviraxp": 2,
+      "baddaemon87@gmail.com": 6,
+      "bgcngm": 2,
+      "bgcngm@gmail.com": 2,
+      "mikeNG": 11,
+      "mkbestas@lineageos.org": 11,
+      "nvertigo67@gmail.com": 2
+    },
+    "n_commits": 14,
+    "n_contributors": 8
+  }
+}
