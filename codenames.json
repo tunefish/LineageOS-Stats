@@ -473,7 +473,8 @@
     },
     "battery": {
       "capacity": 3000,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -537,7 +538,8 @@
     },
     "battery": {
       "capacity": 3000,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -599,7 +601,8 @@
     "architecture": "x86",
     "battery": {
       "capacity": 2500,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -660,7 +663,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 3000,
-      "removable": true
+      "removable": true,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -723,7 +727,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 3000,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -1087,7 +1092,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 3510,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -1354,7 +1360,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 3000,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "spec": "4.1"
@@ -2662,7 +2669,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 3000,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.1"
@@ -2716,7 +2724,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 1980,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -2770,7 +2779,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 2500,
-      "removable": true
+      "removable": true,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -2842,7 +2852,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2100,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -2904,7 +2915,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2100,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -2966,7 +2978,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2100,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -3028,7 +3041,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2100,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -3619,7 +3633,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 3950,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0 + LE"
@@ -3818,7 +3833,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2300,
-      "removable": true
+      "removable": true,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -4513,7 +4529,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2070,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -4660,7 +4677,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 3950,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0 + LE"
@@ -6351,7 +6369,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2300,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0 + LE"
@@ -6405,7 +6424,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2800,
-      "removable": true
+      "removable": true,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -6466,7 +6486,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 1750,
-      "removable": true
+      "removable": true,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -6742,7 +6763,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 2840,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -6810,7 +6832,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 2840,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -7158,7 +7181,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2370,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -7293,7 +7317,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 1650,
-      "removable": true
+      "removable": true,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "3.0 + HS"
@@ -7810,7 +7835,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2000,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -8775,7 +8801,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 2500,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -8847,7 +8874,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 3000,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -9834,7 +9862,8 @@
     "vendor": "Xiaomi",
     "versions": [
       14.1,
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, Hotspot"
   },
@@ -9912,7 +9941,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 2230,
-      "removable": true
+      "removable": true,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -10327,7 +10357,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 8220,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -10381,7 +10412,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 3630,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0 + LE"
@@ -10500,7 +10532,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2300,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -10564,7 +10597,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2300,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -11031,7 +11065,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 1785,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0 + LE"
@@ -11166,7 +11201,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2470,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -11295,7 +11331,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 1780,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -11606,7 +11643,8 @@
     "battery": {
       "capacity": 3000,
       "fastcharge": true,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -12122,7 +12160,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2370,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -12190,7 +12229,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 3300,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "spec": "4.1"
@@ -12404,7 +12444,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2470,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -12465,7 +12506,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2390,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -12727,7 +12769,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2070,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -13053,7 +13096,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 6000,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -13121,7 +13165,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 6000,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -13400,7 +13445,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 7350,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "3.0"
@@ -13445,7 +13491,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 3000,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -13795,7 +13842,8 @@
     "tree": "android_device_xiaomi_santoni",
     "vendor": "Xiaomi",
     "versions": [
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, Hotspot"
   },
@@ -13874,7 +13922,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2500,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -14208,7 +14257,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 5197,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0 + LE"
@@ -14264,7 +14314,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 1780,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0 + LE"
@@ -14535,7 +14586,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2390,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -14722,7 +14774,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 3300,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -14789,7 +14842,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 3300,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -14921,7 +14975,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 1735,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -15050,7 +15105,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2390,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -15187,7 +15243,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2070,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -15249,7 +15306,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 2500,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "spec": "4.1"
@@ -15447,7 +15505,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 1700,
-      "removable": true
+      "removable": true,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "profiles": [
@@ -15582,13 +15641,15 @@
       {
         "RAZR": {
           "capacity": 1780,
-          "removable": false
+          "removable": false,
+          "tech": "Li-Ion"
         }
       },
       {
         "RAZR MAXX": {
           "capacity": 3300,
-          "removable": false
+          "removable": false,
+          "tech": "Li-Ion"
         }
       }
     ],
@@ -16211,7 +16272,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2300,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -16492,7 +16554,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2040,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0"
@@ -16751,7 +16814,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 3100,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -16819,7 +16883,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 1785,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Ion"
     },
     "bluetooth": {
       "spec": "4.0 + LE"
@@ -16882,7 +16947,8 @@
     "architecture": "arm",
     "battery": {
       "capacity": 2330,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
@@ -17158,7 +17224,8 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 4070,
-      "removable": false
+      "removable": false,
+      "tech": "Li-Po"
     },
     "bluetooth": {
       "profiles": [
