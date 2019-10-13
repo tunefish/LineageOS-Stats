@@ -1,0 +1,28 @@
+{
+  "30": {
+    "contributors": {
+      "ArianK16a": 1,
+      "padarshr@codeaurora.org": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "ArianK16a": 2,
+      "Myself5": 3,
+      "myself5@carbonrom.org": 3,
+      "nailyk-fr": 2
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "marco@sirabella.org": 1,
+      "mjsir911": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  }
+}
