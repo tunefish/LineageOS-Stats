@@ -1,0 +1,32 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "Kra1o5": 2,
+      "eloimuns": 2,
+      "kra1o5x@gmail.com": 1,
+      "sjella@codeaurora.org": 1
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "Demon000": 1,
+      "Kra1o5": 1,
+      "aymende7": 1,
+      "brinlyau": 1,
+      "eloimuns": 6,
+      "eloimuns@gmail.com": 2,
+      "kra1o5x@gmail.com": 1,
+      "olvaffe": 1,
+      "weivincewang": 2
+    },
+    "n_commits": 8,
+    "n_contributors": 9
+  }
+}
