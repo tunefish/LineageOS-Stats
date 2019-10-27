@@ -65,6 +65,82 @@
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, Hotspot"
   },
+  "Amber": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3050,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "16 MP"
+      },
+      {
+        "flash": "Dual LED",
+        "info": "5 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "5 MP"
+      }
+    ],
+    "codename": "Amber",
+    "cpu": "Cortex-A53",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.2 GHz + 4 x 1.8 GHz",
+    "gpu": "Adreno 508",
+    "name": "Phone",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 2100 MHz HSDPA",
+        "tech": "3G"
+      },
+      {
+        "bands": "3(1800) 7(2600) 20(800) 38(2600)",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
+      "Dual SIM",
+      "Fingerprint reader",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
+    ],
+    "ram": "4 GB",
+    "release": "2018-12",
+    "screen": "143.5 mm (5.65 in)",
+    "screen_res": "1080x2160",
+    "screen_tech": "IPS LCD",
+    "sdcard": "?",
+    "soc": "Qualcomm SDM630 Snapdragon 630",
+    "tree": "android_device_yandex_Amber",
+    "vendor": "Yandex",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+  },
   "FP2": {
     "architecture": "arm",
     "battery": {
@@ -17078,6 +17154,90 @@
       16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, dual-band, WiFi Direct, DLNA, hotspot"
+  },
+  "zenfone3": {
+    "architecture": "arm64",
+    "battery": [
+      {
+        "ZE520KL": {
+          "capacity": 2600,
+          "removable": false,
+          "tech": "Li-Po"
+        }
+      },
+      {
+        "ZE552KL": {
+          "capacity": 3000,
+          "removable": false,
+          "tech": "Li-Ion"
+        }
+      }
+    ],
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "4.2"
+    },
+    "cameras": [
+      {
+        "flash": "Dual-LED",
+        "info": "16 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "zenfone3",
+    "cpu": "Cortex-A53",
+    "cpu_cores": "8",
+    "cpu_freq": "2.0 GHz",
+    "gpu": "Adreno 506",
+    "name": "Zenfone 3",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 1900 2100 HSDPA",
+        "tech": "3G"
+      },
+      {
+        "bands": "1(2100) 2(1900) 3(1800) 5(850) 7(2600) 8(900) 20(800) LTE",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Barometer",
+      "Light sensor",
+      "Compass",
+      "Dual SIM",
+      "Fingerprint reader",
+      "FM radio",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Hall effect sensor",
+      "IR camera",
+      "Proximity sensor"
+    ],
+    "ram": "2/3/4 GB",
+    "release": "2016-05-30",
+    "screen": "130 mm (5.1 in)",
+    "screen_res": "1080x1920",
+    "screen_tech": "Super IPS+",
+    "sdcard": "up to 2 TB",
+    "soc": "Qualcomm MSM8953 Snapdragon 625",
+    "tree": "android_device_asus_zenfone3",
+    "vendor": "Asus",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac"
   },
   "zerofltexx": {
     "architecture": "arm64",
