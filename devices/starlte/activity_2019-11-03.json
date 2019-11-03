@@ -1,0 +1,56 @@
+{
+  "30": {
+    "contributors": {
+      "Stricted": 3,
+      "info@stricted.net": 1,
+      "rambeer@codeaurora.org": 1,
+      "surenb@google.com": 1
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "Stricted": 21,
+      "arco": 4,
+      "erfanoabdi": 1,
+      "haggertk": 4,
+      "info@stricted.net": 6,
+      "javelinanddart": 4,
+      "johnsonnolen@gmail.com": 4,
+      "luk1337": 8,
+      "mikeNG": 19,
+      "mkbestas@lineageos.org": 19,
+      "npjohnson": 4,
+      "priv.luk@gmail.com": 2,
+      "smore-lore": 4
+    },
+    "n_commits": 29,
+    "n_contributors": 13
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 6,
+      "Harinus": 3,
+      "Lukas0610": 2,
+      "Sekilsgs2": 27,
+      "Stricted": 45,
+      "Usaamah99": 3,
+      "baddaemon87@gmail.com": 6,
+      "basilgello": 6,
+      "bgcngm": 2,
+      "bgcngm@gmail.com": 2,
+      "danwood76": 1,
+      "haggertk": 4,
+      "i_ivan@windowslive.com": 16,
+      "ivanmeler": 20,
+      "javelinanddart": 4,
+      "luk1337": 2,
+      "mikeNG": 13,
+      "mkbestas@lineageos.org": 13,
+      "raymanfx": 3
+    },
+    "n_commits": 61,
+    "n_contributors": 19
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "Demon000": 1,
+      "Kra1o5": 3,
+      "aymende7": 1,
+      "brinlyau": 1,
+      "eloimuns": 8,
+      "eloimuns@gmail.com": 2,
+      "kra1o5x@gmail.com": 2,
+      "olvaffe": 1,
+      "sjella@codeaurora.org": 1,
+      "weivincewang": 2
+    },
+    "n_commits": 11,
+    "n_contributors": 10
+  }
+}
