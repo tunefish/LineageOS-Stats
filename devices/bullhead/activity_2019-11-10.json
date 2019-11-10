@@ -1,0 +1,29 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "amluto": 1,
+      "ericrannaud": 1,
+      "gnehzuil": 2,
+      "haggertk": 2,
+      "haggertk@lineageos.org": 2,
+      "intervigilium": 1,
+      "kandoiruchi@google.com": 1,
+      "mszeredi@suse.cz": 1,
+      "raymanfx": 16,
+      "razorloves": 1,
+      "viro@zeniv.linux.org.uk": 10
+    },
+    "n_commits": 19,
+    "n_contributors": 11
+  }
+}
