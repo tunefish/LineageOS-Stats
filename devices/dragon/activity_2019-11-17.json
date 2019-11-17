@@ -1,0 +1,34 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "followmsi": 3,
+      "followmsi@gmail.com": 3
+    },
+    "n_commits": 3,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "adelva1984": 1,
+      "amluto": 7,
+      "android-build-team-robot@google.com": 3,
+      "android-gerrit-partner@google.com": 2,
+      "followmsi": 13,
+      "followmsi@gmail.com": 13,
+      "harrisonlingren": 1,
+      "kees": 6,
+      "migueldedios@google.com": 15,
+      "myles-android": 1,
+      "robinpeng@google.com": 6,
+      "torvalds": 2,
+      "tytso": 4
+    },
+    "n_commits": 37,
+    "n_contributors": 13
+  }
+}

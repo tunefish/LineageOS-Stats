@@ -1,0 +1,49 @@
+{
+  "30": {
+    "contributors": {
+      "BadDaemon": 1,
+      "npjohnson": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "Dees-Troy": 1,
+      "Flex1911": 1,
+      "beanstown106": 3,
+      "bgcngm": 1,
+      "ciwrl": 1,
+      "jeffvanderstoep": 1,
+      "johnsonnolen@gmail.com": 16,
+      "jrior001": 1,
+      "kuh@google.com": 1,
+      "npjohnson": 32,
+      "rpius@google.com": 4,
+      "webgeek1234": 1,
+      "zhangjerry@google.com": 1
+    },
+    "n_commits": 32,
+    "n_contributors": 13
+  },
+  "365": {
+    "contributors": {
+      "ViktorSlavkovic": 1,
+      "akpm00": 1,
+      "amluto": 1,
+      "dhacker29": 4,
+      "ericrannaud": 1,
+      "gnehzuil": 2,
+      "intervigilium": 2,
+      "joelaf@google.com": 1,
+      "johnsonnolen@gmail.com": 15,
+      "jrior001": 1,
+      "mszeredi@suse.cz": 1,
+      "npjohnson": 41,
+      "sherryy@android.com": 2,
+      "viro@zeniv.linux.org.uk": 9
+    },
+    "n_commits": 40,
+    "n_contributors": 14
+  }
+}
