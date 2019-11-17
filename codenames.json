@@ -458,7 +458,7 @@
     ],
     "ram": "3 GB",
     "release": "2016-12",
-    "screen": "247 x 179 mm (10.1 in)",
+    "screen": "256 mm (10.1 in)",
     "screen_res": "2560x1600",
     "screen_tech": "IPS",
     "sdcard": "SDHC (up to 32 GB), SDXC (up to 2 TB)",
@@ -529,7 +529,7 @@
     ],
     "ram": "3 GB",
     "release": "2016-12",
-    "screen": "247 x 179 mm (10.1 in)",
+    "screen": "256.5 mm (10.1 in)",
     "screen_res": "2560x1600",
     "screen_tech": "IPS",
     "sdcard": "SDHC (up to 32 GB), SDXC (up to 2 TB)",
@@ -786,7 +786,14 @@
     ],
     "ram": "2 GB",
     "release": "2015-11",
-    "screen": "5.5/6.0 inches",
+    "screen": [
+      {
+        "ZE500KL": "139.7 mm (5.5 in)"
+      },
+      {
+        "ZE550KL": "152.4 mm (6 in)"
+      }
+    ],
     "screen_res": "720x1280",
     "screen_tech": "IPS LCD capacitive touchscreen, 16M colors",
     "sdcard": "up to 128 GB",
@@ -850,7 +857,14 @@
     ],
     "ram": "2/3 GB",
     "release": "2015-11",
-    "screen": "5.5/6.0 inches",
+    "screen": [
+      {
+        "Laser": "139.7 mm (5.5 in)"
+      },
+      {
+        "Selfie": "152.4 mm (6.0 in)"
+      }
+    ],
     "screen_res": "1080x1920",
     "screen_tech": "IPS LCD capacitive touchscreen, 16M colors",
     "sdcard": "up to 128 GB",
@@ -1288,7 +1302,7 @@
     ],
     "ram": "4 GB",
     "release": "2017-06",
-    "screen": "5.5 in",
+    "screen": "139.7 mm (5.5 in)",
     "screen_res": "1920x1080",
     "screen_tech": "Super AMOLED",
     "sdcard": "up to 2 TB",
@@ -1404,10 +1418,6 @@
       {
         "bands": "900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -2007,10 +2017,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -2030,7 +2036,7 @@
         "MI4": "2014-08"
       }
     ],
-    "screen": "127 mm (5.0 in)",
+    "screen": "127 mm (5 in)",
     "screen_res": "1080x1920",
     "screen_tech": "IPS (Mi 3) / JDI IPS (Mi 4)",
     "sdcard": "?",
@@ -2164,7 +2170,7 @@
     ],
     "ram": "3 GB",
     "release": 2014,
-    "screen": "10.5 inches",
+    "screen": "266.7 mm (10.5 in)",
     "screen_res": "2560x1600",
     "screen_tech": "Super AMOLED",
     "sdcard": "up to 256 GB",
@@ -2205,20 +2211,7 @@
     "cpu_freq": "4 x 1.9 GHz & 4 x 1.3 GHz",
     "gpu": "ARM Mali-T628 MP6",
     "name": "Galaxy Tab S 10.5 Wi-Fi",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Compass",
@@ -2228,7 +2221,7 @@
     ],
     "ram": "3 GB",
     "release": 2014,
-    "screen": "10.5 inches",
+    "screen": "266.7 mm (10.5 in)",
     "screen_res": "2560x1600",
     "screen_tech": "Super AMOLED",
     "sdcard": "up to 256 GB",
@@ -2429,7 +2422,7 @@
     ],
     "ram": "1/2 GB",
     "release": "2014-10",
-    "screen": "5.0 / 5.5 in",
+    "screen": "139.7 mm (5.5 in)",
     "screen_res": "1280x720",
     "screen_tech": "IPS + LCD",
     "sdcard": "up to 32 GB",
@@ -2575,7 +2568,14 @@
     ],
     "ram": "1/2 GB",
     "release": "2014-10",
-    "screen": "5.0 / 5.5 in",
+    "screen": [
+      {
+        "Honor 4": "127 mm (5.0 in)"
+      },
+      {
+        "Honor 4X": "139.7 mm (5.5 in)"
+      }
+    ],
     "screen_res": "1280x720",
     "screen_tech": "IPS + LCD",
     "sdcard": "up to 32 GB",
@@ -2767,20 +2767,7 @@
     "cpu_freq": "4 x 1.4 GHz & 2 x 1.8 GHz",
     "gpu": "Adreno 418",
     "name": "Moto X Pure Edition/Style (2015)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": "None",
     "ram": "3 GB",
     "release": "2015-09",
@@ -2826,10 +2813,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -3084,10 +3067,6 @@
       {
         "bands": "850 1700 1900 2100 MHz HSPA+",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -4003,20 +3982,7 @@
     "cpu_freq": "4 x 1.9 GHz",
     "gpu": "NVIDIA Maxwell 256-core",
     "name": "Pixel C",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Gyroscope",
@@ -4225,14 +4191,6 @@
       {
         "bands": "850 900 1800 1900 MHz",
         "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -4245,7 +4203,14 @@
     ],
     "ram": "1 GB",
     "release": "2012-04",
-    "screen": "7.0 / 10.1 inches",
+    "screen": [
+      {
+        "Tab 2 7.0": "177.8 mm (7 in)"
+      },
+      {
+        "Tab 2 10.1": "256.5 mm (10.1 in)"
+      }
+    ],
     "screen_res": "600x1024 / 800x1280",
     "screen_tech": "PLS LCD / PLS TFT",
     "sdcard": "up to 32 GB",
@@ -4297,20 +4262,7 @@
     "cpu_freq": "1 GHz",
     "gpu": "PowerVR SGX540",
     "name": "Galaxy Tab 2 7.0 / Tab 2 10.1 (Wi-Fi / Wi-Fi + IR)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Proximity sensor",
       "Light sensor",
@@ -4321,7 +4273,14 @@
     ],
     "ram": "1 GB",
     "release": "2012-05",
-    "screen": "7.0 / 10.1 inches",
+    "screen": [
+      {
+        "Tab 2 7.0": "177.8 mm (7 in)"
+      },
+      {
+        "Tab 2 10.1": "256.5 mm (10.1 in)"
+      }
+    ],
     "screen_res": "600x1024 / 800x1280",
     "screen_tech": "PLS LCD / PLS TFT",
     "sdcard": "up to 32 GB",
@@ -4504,10 +4463,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -4638,10 +4593,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA (International), 850 1700 1900 2100 MHz HSDPA (T-Mobile, AT&T), CDMA2000 1xEV-DO",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -4775,24 +4726,11 @@
     "cpu_freq": "1.5 GHz",
     "gpu": "Adreno 320",
     "name": "Nexus 7 (Wi-Fi, 2013 version)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": "None",
     "ram": "2 GB",
     "release": "2013-07-26",
-    "screen": "178 mm (7.0 in)",
+    "screen": "178 mm (7 in)",
     "screen_res": "1920x1200 pixels",
     "screen_tech": "IPS LCD",
     "sdcard": "?",
@@ -4833,20 +4771,7 @@
     "cpu_freq": "2.3 GHz",
     "gpu": "NVIDIA Kepler DX1 192-core",
     "name": "Nexus 9 (Wi-Fi)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Light sensor",
@@ -4945,24 +4870,11 @@
     "cpu_freq": "1.9 GHz",
     "gpu": "GM20B (Maxwell)",
     "name": "Shield Android TV",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": "None",
     "ram": "3 GB",
     "release": "2015-05-28",
-    "screen": "?",
+    "screen": "None",
     "screen_res": "?",
     "screen_tech": "?",
     "sdcard": "up to 128 GB",
@@ -4991,24 +4903,11 @@
     "cpu_freq": "1.8 GHz",
     "gpu": "PowerVR Series 6",
     "name": "Nexus Player",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": "None",
     "ram": "1 GB",
     "release": "2014-10",
-    "screen": "?",
+    "screen": "None",
     "screen_res": "?",
     "screen_tech": "?",
     "sdcard": "?",
@@ -5339,7 +5238,7 @@
     ],
     "ram": "4 GB",
     "release": "2016-09",
-    "screen": "5.5 in",
+    "screen": "139.7 mm (5.5 in)",
     "screen_res": "2560x1440",
     "screen_tech": "AMOLED",
     "sdcard": "up to 2 TB",
@@ -5382,20 +5281,7 @@
     "cpu_freq": "1.2 GHz",
     "gpu": "Adreno 306",
     "name": "Galaxy Tab E 9.6 (WiFi)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "GPS",
       "GLONASS",
@@ -5405,7 +5291,7 @@
     ],
     "ram": "1.5 GB",
     "release": "2015-07",
-    "screen": "243.4 mm (9.6in)",
+    "screen": "243.4 mm (9.6 in)",
     "screen_res": "800x1280",
     "screen_tech": "TFT",
     "sdcard": "up to 256 GB",
@@ -5469,7 +5355,7 @@
     ],
     "ram": "1.5 GB",
     "release": "2016-01",
-    "screen": "203 mm (8in)",
+    "screen": "203 mm (8 in)",
     "screen_res": "800x1280",
     "screen_tech": "TFT",
     "sdcard": "up to 128 GB",
@@ -5574,20 +5460,7 @@
     "cpu_freq": "4 x 1.8 GHz & 4 x 1.4 GHz",
     "gpu": "Adreno 510",
     "name": "Galaxy Tab S2 9.7 Wi-Fi (2016)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Compass",
@@ -5597,7 +5470,7 @@
     ],
     "ram": "3 GB",
     "release": 2016,
-    "screen": "203 mm (9.7 in)",
+    "screen": "246.4 mm (9.7 in)",
     "screen_res": "1536x2048",
     "screen_tech": "HD Super AMOLED",
     "sdcard": "up to 256 GB",
@@ -5640,20 +5513,7 @@
     "cpu_freq": "4 x 1.9 GHz, 4 x 1.3 GHz",
     "gpu": "ARM Mali-T760 MP6",
     "name": "Galaxy Tab S2 9.7 (Wi-Fi)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Fingerprint reader",
       "Accelerometer",
@@ -5704,20 +5564,7 @@
     "cpu_freq": "4 x 1.8 GHz & 4 x 1.4 GHz",
     "gpu": "Adreno 510",
     "name": "Galaxy Tab S2 8.0 Wi-Fi (2016)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Compass",
@@ -5728,7 +5575,7 @@
     ],
     "ram": "3 GB",
     "release": 2016,
-    "screen": "246 mm (8.0 in)",
+    "screen": "203.2 mm (8 in)",
     "screen_res": "1536x2048",
     "screen_tech": "HD Super AMOLED",
     "sdcard": "up to 256 GB",
@@ -6344,10 +6191,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -6595,10 +6438,6 @@
       {
         "bands": "850 900 1700 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -6614,7 +6453,7 @@
     ],
     "ram": "1 GB",
     "release": "2012-08",
-    "screen": "110.0 mm (4.55 in)",
+    "screen": "115.6 mm (4.6 in)",
     "screen_res": "720x1280",
     "screen_tech": "TFT",
     "sdcard": "officially up to 32 GB",
@@ -6685,7 +6524,7 @@
     ],
     "ram": "4 GB",
     "release": "2016-03-18",
-    "screen": "5.5 inches",
+    "screen": "139.7 mm (5.5 in)",
     "screen_res": "2560x1440",
     "screen_tech": "2K Super AMOLED",
     "sdcard": "up to 256 GB",
@@ -6756,7 +6595,7 @@
     ],
     "ram": "4 GB",
     "release": "2016-03-18",
-    "screen": "5.1 inches",
+    "screen": "129.5 mm (5.1 in)",
     "screen_res": "2560x1440",
     "screen_tech": "2K Super AMOLED",
     "sdcard": "up to 256 GB",
@@ -7309,7 +7148,7 @@
     ],
     "ram": "1 GB",
     "release": "2013-04",
-    "screen": "116.0 mm (4.6 in)",
+    "screen": "116 mm (4.6 in)",
     "screen_res": "720x1280",
     "screen_tech": "TFT",
     "sdcard": "officially up to 32 GB",
@@ -7423,10 +7262,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSPA+",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": "None",
@@ -7478,10 +7313,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -7495,7 +7326,7 @@
     ],
     "ram": "1 GB",
     "release": "2012-05",
-    "screen": "122mm (4.8in)",
+    "screen": "122 mm (4.8 in)",
     "screen_res": "1280x720",
     "screen_tech": "HD Super AMOLED",
     "sdcard": "up to 64 GB",
@@ -7700,7 +7531,7 @@
     ],
     "ram": "3 GB",
     "release": "2015-06",
-    "screen": "5.2 in",
+    "screen": "132.1 mm (5.2 in)",
     "screen_res": "1920x1080",
     "screen_tech": "IPS LCD",
     "sdcard": "up to 256 GB",
@@ -7772,7 +7603,7 @@
     ],
     "ram": "2 GB",
     "release": "2013-06",
-    "screen": "127mm (5 in)",
+    "screen": "127 mm (5 in)",
     "screen_res": "1920x1080",
     "screen_tech": "Pentile RGBG Full HD Super AMOLED",
     "sdcard": "up to 64 GB",
@@ -7818,10 +7649,6 @@
       {
         "bands": "900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -7933,20 +7760,7 @@
     "cpu_freq": "1.2 Ghz",
     "gpu": "Adreno 306",
     "name": "Yunique",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Dual SIM"
     ],
@@ -8168,7 +7982,7 @@
     ],
     "ram": "2 GB",
     "release": "2013-04",
-    "screen": "127mm (5 in)",
+    "screen": "127 mm (5 in)",
     "screen_res": "1920x1080",
     "screen_tech": "Pentile RGBG Full HD Super AMOLED",
     "sdcard": "up to 64 GB",
@@ -8241,7 +8055,7 @@
     ],
     "ram": "2 GB",
     "release": "2013-04",
-    "screen": "127mm (5 in)",
+    "screen": "127 mm (5 in)",
     "screen_res": "1920x1080",
     "screen_tech": "Pentile RGBG Full HD Super AMOLED",
     "sdcard": "up to 64 GB",
@@ -8313,7 +8127,7 @@
     ],
     "ram": "2 GB",
     "release": "2013-04",
-    "screen": "127mm (5 in)",
+    "screen": "127 mm (5 in)",
     "screen_res": "1920x1080",
     "screen_tech": "Pentile RGBG Full HD Super AMOLED",
     "sdcard": "up to 64 GB",
@@ -8386,7 +8200,7 @@
     ],
     "ram": "2 GB",
     "release": "2013-04",
-    "screen": "127mm (5in)",
+    "screen": "127 mm (5 in)",
     "screen_res": "1920x1080",
     "screen_tech": "Pentile RGBG Full HD Super AMOLED",
     "sdcard": "up to 64 GB",
@@ -8459,7 +8273,7 @@
     ],
     "ram": "2 GB",
     "release": "2014-04",
-    "screen": "127mm (5in)",
+    "screen": "127 mm (5 in)",
     "screen_res": "1920x1080",
     "screen_tech": "Pentile RGBG Full HD Super AMOLED",
     "sdcard": "up to 64 GB",
@@ -8509,10 +8323,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -8594,7 +8404,7 @@
     ],
     "ram": "3 GB",
     "release": "2015-10",
-    "screen": "10.1 in",
+    "screen": "256.5 mm (10.1 in)",
     "screen_res": "2560x1600",
     "screen_tech": "IPS LCD",
     "sdcard": "up to 256 GB",
@@ -8635,20 +8445,7 @@
     "cpu_freq": "4 x 2.0 Ghz + 4 x 1.5 Ghz",
     "gpu": "Adreno 430",
     "name": "Xperia Z4 Tablet WiFi",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Gyroscope",
@@ -8658,7 +8455,7 @@
     ],
     "ram": "3 GB",
     "release": "2015-10",
-    "screen": "10.1 in",
+    "screen": "256.5 mm (10.1 in)",
     "screen_res": "2560x1600",
     "screen_tech": "IPS LCD",
     "sdcard": "up to 256 GB",
@@ -9043,20 +8840,7 @@
     "cpu_freq": "4 x 1.9 GHz & 4 x 1.3 GHz",
     "gpu": "ARM Mali-T628 MP6",
     "name": "Galaxy Tab S 8.4 Wi-Fi",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Compass",
@@ -9066,7 +8850,7 @@
     ],
     "ram": "3 GB",
     "release": 2014,
-    "screen": "8.4 inches",
+    "screen": "213.4 mm (8.4 in)",
     "screen_res": "1600x2560",
     "screen_tech": "Super AMOLED",
     "sdcard": "up to 256 GB",
@@ -9240,20 +9024,7 @@
     "cpu_freq": "2.5 GHz",
     "gpu": "Adreno 330",
     "name": "Galaxy S5 LTE (G9006V/8V)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Fingerprint reader",
       "Heart rate sensor",
@@ -9317,20 +9088,7 @@
     "cpu_freq": "2.5 GHz",
     "gpu": "Adreno 330",
     "name": "Galaxy S5 LTE Duos (G9006W/8W)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Fingerprint reader",
       "Heart rate sensor",
@@ -9397,20 +9155,7 @@
     "cpu_freq": "2.5 GHz",
     "gpu": "Adreno 330",
     "name": "Galaxy S5 LTE Duos (G900FD/MD)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Fingerprint reader",
       "Heart rate sensor",
@@ -9474,20 +9219,7 @@
     "cpu_freq": "2.5 GHz",
     "gpu": "Adreno 330",
     "name": "Galaxy S5 LTE (G900I/P)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Fingerprint reader",
       "Heart rate sensor",
@@ -9544,20 +9276,7 @@
     "cpu_freq": "2.5 GHz",
     "gpu": "Adreno 330",
     "name": "Galaxy S5 LTE (SCL23)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Fingerprint reader",
       "Heart rate sensor",
@@ -9614,20 +9333,7 @@
     "cpu_freq": "2.5 GHz",
     "gpu": "Adreno 330",
     "name": "Galaxy S5 LTE (G900K/L/S)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Fingerprint reader",
       "Heart rate sensor",
@@ -10455,20 +10161,7 @@
     "cpu_freq": "2.3 GHz",
     "gpu": "Adreno 330",
     "name": "Galaxy Note 10.1 2014 (LTE)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": "None",
     "ram": "3 GB",
     "release": "2013-10",
@@ -10510,20 +10203,7 @@
     "cpu_freq": "1.7 GHz",
     "gpu": "Adreno 405",
     "name": "Moto X Play",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": "None",
     "ram": "2 GB",
     "release": "2015-08",
@@ -10909,10 +10589,6 @@
       {
         "bands": "850 900 1700 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -10926,7 +10602,7 @@
     ],
     "ram": "1 GB",
     "release": "2011-10",
-    "screen": "4.7 inches",
+    "screen": "119.4 mm (4.7 in)",
     "screen_res": "1280x720",
     "screen_tech": "Super AMOLED",
     "sdcard": "?",
@@ -10972,10 +10648,6 @@
       {
         "bands": "850 900 1700 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -11029,20 +10701,7 @@
     "cpu_freq": "1.7 GHz",
     "gpu": "ARM Mali-T604",
     "name": "Nexus 10",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Gyroscope",
@@ -11261,7 +10920,7 @@
     ],
     "ram": "4 GB",
     "release": "2017-08",
-    "screen": "85.4 cm (5.71 in)",
+    "screen": "85.4 mm (5.71 in)",
     "screen_res": "1312x2560",
     "screen_tech": "IPS LCD",
     "sdcard": "?",
@@ -11441,10 +11100,6 @@
       {
         "bands": "850 900 1700 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -11460,7 +11115,7 @@
     ],
     "ram": "1 GB",
     "release": "2012-09",
-    "screen": "110.0 mm (4.55 in)",
+    "screen": "115.6 mm (4.55 in)",
     "screen_res": "720x1280",
     "screen_tech": "TFT",
     "sdcard": "officially up to 32 GB",
@@ -11499,20 +11154,7 @@
     "cpu_freq": "2.26 GHz",
     "gpu": "Adreno 330",
     "name": "Galaxy Tab Pro 8.4",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": "None",
     "ram": "2 GB",
     "release": "2014-01",
@@ -11618,20 +11260,7 @@
     "cpu_freq": "4 x 1.9 GHz & 4 x 1.3 GHz",
     "gpu": "ARM Mali-T628 MP6",
     "name": "Galaxy Note 10.1 Wi-Fi (2014)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Compass",
@@ -11640,7 +11269,7 @@
     ],
     "ram": "3 GB",
     "release": 2013,
-    "screen": "10.1 inches",
+    "screen": "256.5 mm (10.1 in)",
     "screen_res": "2560x1600",
     "screen_tech": "Super clear LCD",
     "sdcard": "up to 64 GB",
@@ -11681,20 +11310,7 @@
     "cpu_freq": "4 x 1.9 GHz & 4 x 1.3 GHz",
     "gpu": "ARM Mali-T628 MP6",
     "name": "Galaxy Tab PRO 10.1",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Compass",
@@ -11703,7 +11319,7 @@
     ],
     "ram": "2 GB",
     "release": 2014,
-    "screen": "10.1 inches",
+    "screen": "256.5 mm (10.1 in)",
     "screen_res": "2560x1600",
     "screen_tech": "Super clear LCD",
     "sdcard": "up to 64 GB",
@@ -11738,20 +11354,7 @@
     "cpu_freq": "2.3 GHz",
     "gpu": "Adreno 330",
     "name": "N3",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": "None",
     "ram": "2 GB",
     "release": "2015-01",
@@ -11804,10 +11407,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -11860,20 +11459,7 @@
     "cpu_freq": "1.6 GHz",
     "gpu": "ARM Mali-400 MP",
     "name": "Galaxy Note 8.0 (Wi-Fi)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Gyroscope",
@@ -12020,7 +11606,7 @@
     ],
     "ram": "4 GB, 6 GB",
     "release": "2017-07",
-    "screen": "83.4 cm (5.5 in)",
+    "screen": "83.4 mm (5.5 in)",
     "screen_res": "1440x2560",
     "screen_tech": "Optic AMOLED",
     "sdcard": "Up to 256 GB",
@@ -12145,10 +11731,6 @@
       {
         "bands": "900 2100 MHz HSDPA (C1905 and C2005), 850 1700 1900 2100 MHz HSDPA (C1904 and C2004)",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -12613,10 +12195,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -12766,7 +12344,7 @@
     ],
     "ram": "3/4/6 GB",
     "release": "2017-10",
-    "screen": "84.5 cm (5.2 in)",
+    "screen": "84.5 mm (5.2 in)",
     "screen_res": "1080x1920",
     "screen_tech": "LTPS IPS LCD",
     "sdcard": "Up to 256 GB",
@@ -13088,7 +12666,7 @@
     ],
     "ram": "4 GB",
     "release": "2016-05",
-    "screen": "5.2 inches",
+    "screen": "132.1 mm (5.2 in)",
     "screen_res": "1440x2560",
     "screen_tech": "Super LCD5",
     "sdcard": "up to 256 GB",
@@ -13267,20 +12845,7 @@
     "cpu_freq": "1.5 GHz",
     "gpu": "Adreno 320",
     "name": "Xperia Tablet Z Wi-Fi",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "MHL",
       "HDMI",
@@ -13518,6 +13083,80 @@
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band"
   },
+  "river": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3000,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "4.2"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "12 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "Depth Sensor 5 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "river",
+    "cpu": "Cortex-A53",
+    "cpu_cores": "8",
+    "cpu_freq": "1.8 GHz",
+    "gpu": "Adreno 506",
+    "name": "Moto G7",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 1900 2100 MHz HSDPA",
+        "tech": "3G"
+      },
+      {
+        "bands": "1 (2100) 2 (1900) 3 (1800) 5 (850) 7 (2600) 8 (900) 20 (800) LTE",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Proximity sensor",
+      "Compass",
+      "NFC",
+      "Hall effect sensor",
+      "Sensor hub",
+      "Light sensor",
+      "GPS",
+      "FM radio"
+    ],
+    "ram": "4 GB",
+    "release": "2019-02",
+    "screen": "157.5 mm (6.2 in)",
+    "screen_res": "1080x2270",
+    "screen_tech": "LTPS IPS LCD",
+    "sdcard": "Up to 256 GB",
+    "soc": "Qualcomm MSM8953 Snapdragon 632",
+    "tree": "android_device_motorola_river",
+    "vendor": "Motorola",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
+  },
   "roth": {
     "architecture": "arm",
     "battery": {
@@ -13535,20 +13174,7 @@
     "cpu_freq": "1.9 GHz",
     "gpu": "Tegra 4",
     "name": "Shield Portable",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": "None",
     "ram": "2 GB",
     "release": "2013-07-31",
@@ -13617,7 +13243,7 @@
     ],
     "ram": "3 GB",
     "release": "2016-04",
-    "screen": "5.5 in",
+    "screen": "139.7 mm (5.5 in)",
     "screen_res": "1920x1080",
     "screen_tech": "IPS LCD",
     "sdcard": "?",
@@ -13680,7 +13306,7 @@
     ],
     "ram": "1.5 GB",
     "release": "2014-04-11",
-    "screen": "121,9 mm (4.8 in)",
+    "screen": "121.9 mm (4.8 in)",
     "screen_res": "1280x720",
     "screen_tech": "Full HD Super AMOLED",
     "sdcard": "up to 128 GB",
@@ -13741,7 +13367,7 @@
     ],
     "ram": "1.5 GB",
     "release": "2014-04-11",
-    "screen": "121,9 mm (4.8 in)",
+    "screen": "121.9 mm (4.8 in)",
     "screen_res": "1280x720",
     "screen_tech": "Full HD Super AMOLED",
     "sdcard": "up to 128 GB",
@@ -14104,7 +13730,7 @@
     ],
     "ram": "4/6 GB LPDDR4",
     "release": "2016-11",
-    "screen": "144,78 mm (5.7 in)",
+    "screen": "144.78 mm (5.7 in)",
     "screen_res": "1080x1920",
     "screen_tech": "OLED",
     "sdcard": "?",
@@ -14149,10 +13775,6 @@
         "tech": "2G"
       },
       {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
         "bands": "20 3 7",
         "tech": "4G"
       }
@@ -14165,7 +13787,7 @@
     ],
     "ram": "2 GB / 1 GB for IQ II",
     "release": "2015-07",
-    "screen": "127mm (5.0 in)",
+    "screen": "127 mm (5 in)",
     "screen_res": "720x1280",
     "screen_tech": "IPS LCD",
     "sdcard": "up to 128 GB",
@@ -14214,10 +13836,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -14283,10 +13901,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -14632,7 +14246,7 @@
     ],
     "ram": "6 GB",
     "release": "2018-03-11",
-    "screen": "6.2 inches",
+    "screen": "157.5 mm (6.2 in)",
     "screen_res": "2960x1440",
     "screen_tech": "Quad HD+ Super AMOLED",
     "sdcard": "up to 400 GB",
@@ -14702,7 +14316,7 @@
     ],
     "ram": "4 GB",
     "release": "2018-03-11",
-    "screen": "5.8 inches",
+    "screen": "147.3 mm (5.8 in)",
     "screen_res": "2960x1440",
     "screen_tech": "Quad HD+ Super AMOLED",
     "sdcard": "up to 400 GB",
@@ -14807,20 +14421,7 @@
     "cpu_freq": "1.2 GHz",
     "gpu": "Adreno 306",
     "name": "Moto E 2015 LTE",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Proximity sensor"
@@ -14893,7 +14494,7 @@
     ],
     "ram": "2 GB",
     "release": "2015-10",
-    "screen": "5.2 in",
+    "screen": "132.1 mm (5.2 in)",
     "screen_res": "1280x720",
     "screen_tech": "IPS LCD",
     "sdcard": "up to 256 GB",
@@ -15142,10 +14743,6 @@
       {
         "bands": "850 900 1700 2100 MHz HSPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -15475,10 +15072,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA (International), 850 1700 1900 2100 MHz HSDPA (T-Mobile, AT&T), CDMA2000 1xEV-DO",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -15599,14 +15192,6 @@
     "name": "Galaxy Nexus LTE (Verizon)",
     "network": [
       {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
         "bands": "700 MHz (Band 13)",
         "tech": "4G"
       }
@@ -15622,7 +15207,7 @@
     ],
     "ram": "1 GB",
     "release": "2011-12-15",
-    "screen": "4.7 inches",
+    "screen": "119.4 mm (4.7 in)",
     "screen_res": "1280x720",
     "screen_tech": "Super AMOLED",
     "sdcard": "?",
@@ -15665,14 +15250,6 @@
     "name": "Galaxy Nexus LTE (Sprint)",
     "network": [
       {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
         "bands": "1900 MHz (Band 25)",
         "tech": "4G"
       }
@@ -15688,7 +15265,7 @@
     ],
     "ram": "1 GB",
     "release": "2012-01",
-    "screen": "4.7 inches",
+    "screen": "119.4 mm (4.7 in)",
     "screen_res": "1280x720",
     "screen_tech": "Super AMOLED",
     "sdcard": "?",
@@ -15879,10 +15456,6 @@
       {
         "bands": "850 900 1900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -16082,20 +15655,7 @@
     "cpu_freq": "4 x 1.9 GHz & 4 x 1.3 GHz",
     "gpu": "ARM Mali-T628 MP6",
     "name": "Galaxy Note Pro 12.2 Wi-Fi",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Compass",
@@ -16104,7 +15664,7 @@
     ],
     "ram": "3 GB",
     "release": 2014,
-    "screen": "12.2 inches",
+    "screen": "309.9 mm (12.2 in)",
     "screen_res": "2560x1600",
     "screen_tech": "Super clear LCD",
     "sdcard": "up to 64 GB",
@@ -16184,20 +15744,7 @@
     "cpu_freq": "1.2 GHz",
     "gpu": "Adreno 305",
     "name": "G Pad 7.0 (LTE)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": "None",
     "ram": "1 GB",
     "release": "2014-05",
@@ -16239,20 +15786,7 @@
     "cpu_freq": "1.2 GHz",
     "gpu": "Adreno 305",
     "name": "G Pad 8.0 (Wi-Fi)",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Compass",
@@ -16299,20 +15833,7 @@
     "cpu_freq": "1.7 GHz",
     "gpu": "Adreno 320",
     "name": "G Pad 8.3",
-    "network": [
-      {
-        "bands": "",
-        "tech": "2G"
-      },
-      {
-        "bands": "",
-        "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
-      }
-    ],
+    "network": [],
     "peripherals": [
       "Accelerometer",
       "Gyroscope",
@@ -16783,10 +16304,6 @@
       {
         "bands": "900 2100 MHz HSDPA",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -16847,10 +16364,6 @@
       {
         "bands": "900 1900 2100 MHz HSDPA+",
         "tech": "3G"
-      },
-      {
-        "bands": "",
-        "tech": "4G"
       }
     ],
     "peripherals": [
@@ -16861,7 +16374,7 @@
     ],
     "ram": "1 GB",
     "release": "2014-02",
-    "screen": "120mm (4.7in)",
+    "screen": "120 mm (4.7 in)",
     "screen_res": "540x960",
     "screen_tech": "IPS LCD",
     "sdcard": "up to 32 GB",
@@ -17063,7 +16576,7 @@
     ],
     "ram": "4/6 GB",
     "release": "2016-04",
-    "screen": "5.7 in",
+    "screen": "144.8 mm (5.7 in)",
     "screen_res": "2560x1440",
     "screen_tech": "LTPS IPS LCD",
     "sdcard": "?",
@@ -17645,7 +17158,7 @@
         "Le Pro3 Elite": "2017-03"
       }
     ],
-    "screen": "5.5 in",
+    "screen": "139.7 mm (5.5 in)",
     "screen_res": "1920x1080",
     "screen_tech": "IPS LCD",
     "sdcard": "?",
