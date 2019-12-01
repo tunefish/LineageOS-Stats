@@ -1,0 +1,73 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "Stricted": 16,
+      "achalmgucker": 2,
+      "arco": 4,
+      "erfanoabdi": 1,
+      "f5bud": 1,
+      "filiprrs": 15,
+      "filiprrs@gmail.com": 13,
+      "info@stricted.net": 7,
+      "javelinanddart": 5,
+      "johnsonnolen@gmail.com": 4,
+      "luk1337": 4,
+      "mikeNG": 17,
+      "mkbestas@lineageos.org": 17,
+      "npjohnson": 4,
+      "priv.luk@gmail.com": 2,
+      "rambeer@codeaurora.org": 1,
+      "raymanfx": 1,
+      "sam3000": 1,
+      "smore-lore": 4,
+      "surenb@google.com": 1
+    },
+    "n_commits": 43,
+    "n_contributors": 20
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 6,
+      "Harinus": 2,
+      "Lukas0610": 2,
+      "Sekilsgs2": 27,
+      "Stricted": 53,
+      "Unpublished": 1,
+      "Usaamah99": 3,
+      "Ziyann": 1,
+      "arco": 1,
+      "baddaemon87@gmail.com": 6,
+      "basilgello": 6,
+      "bgcngm": 4,
+      "bgcngm@gmail.com": 2,
+      "felipe.balbi@linux.intel.com": 1,
+      "filiprrs": 28,
+      "filiprrs@gmail.com": 10,
+      "haggertk": 9,
+      "hemantk@codeaurora.org": 1,
+      "i_ivan@windowslive.com": 12,
+      "intervigilium": 1,
+      "ivanmeler": 16,
+      "jackp@codeaurora.org": 2,
+      "javelinanddart": 4,
+      "jeffvanderstoep": 1,
+      "larsclausen": 1,
+      "luk1337": 6,
+      "mikeNG": 13,
+      "mkbestas@lineageos.org": 13,
+      "raymanfx": 3,
+      "rui.silva@linaro.org": 1,
+      "vpelletier": 1,
+      "wangbaolin719": 1,
+      "william.wu@rock-chips.com": 1,
+      "zhangjerry@google.com": 1
+    },
+    "n_commits": 89,
+    "n_contributors": 34
+  }
+}
