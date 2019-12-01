@@ -413,6 +413,75 @@
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, Wi-Fi Display, Hotspot"
   },
+  "X01BD": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 5000,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "13 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "5 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "13 MP"
+      }
+    ],
+    "codename": "X01BD",
+    "cpu": "Kryo 260",
+    "cpu_cores": "8",
+    "cpu_freq": "1.9 GHz",
+    "gpu": "Adreno 512",
+    "name": "Zenfone Max Pro M2",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 2100 MHz HSDPA",
+        "tech": "3G"
+      },
+      {
+        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 40(2300) LTE",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Accelerometer",
+      "Proximity sensor",
+      "Compass",
+      "GPS",
+      "FM radio"
+    ],
+    "ram": "3/4/6 GB",
+    "release": "2018-12",
+    "screen": "159 mm (6.26 in)",
+    "screen_res": "1080x2280",
+    "screen_tech": "IPS LCD",
+    "sdcard": "up to 2 TB",
+    "soc": "Qualcomm SDM660 Snapdragon 660",
+    "tree": "android_device_asus_X01BD",
+    "vendor": "Asus",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 b/g/n, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+  },
   "YTX703F": {
     "architecture": "arm64",
     "battery": {
@@ -13256,6 +13325,67 @@
       15.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+  },
+  "s3ve3gds": {
+    "architecture": {
+      "cpu": "arm",
+      "userspace": "arm"
+    },
+    "battery": {
+      "capacity": 2100,
+      "removable": true,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "spec": "4.0 + LE"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "8 MP"
+      },
+      {
+        "flash": "",
+        "info": "2 MP"
+      }
+    ],
+    "codename": "s3ve3gds",
+    "cpu": "Cortex-A7",
+    "cpu_cores": "4",
+    "cpu_freq": "1.6 GHz",
+    "gpu": "Adreno 305",
+    "name": "Galaxy S III Neo (Dual SIM)",
+    "network": [
+      {
+        "bands": "850 900 1900 2100 MHz GSM, 800 1900 MHz CDMA",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 1800 1900 HSDPA",
+        "tech": "3G"
+      }
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Gyroscope",
+      "Proximity sensor",
+      "Compass",
+      "GPS",
+      "NFC"
+    ],
+    "ram": "1.5 GB",
+    "release": "2014-04-11",
+    "screen": "121.9 mm (4.8 in)",
+    "screen_res": "1280x720",
+    "screen_tech": "Full HD Super AMOLED",
+    "sdcard": "up to 128 GB",
+    "soc": "Qualcomm MSM8226 Snapdragon 400",
+    "tree": "android_device_samsung_s3ve3gds",
+    "vendor": "Samsung",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n"
   },
   "s3ve3gjv": {
     "architecture": {
