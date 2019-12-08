@@ -1,0 +1,68 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "aviraxp": 2,
+      "johnsonnolen@gmail.com": 4,
+      "mikeNG": 2,
+      "mkbestas@lineageos.org": 2,
+      "npjohnson": 7
+    },
+    "n_commits": 5,
+    "n_contributors": 6
+  },
+  "365": {
+    "contributors": {
+      "Demon000": 2,
+      "Flex1911": 2,
+      "OzzysCmAcc": 8,
+      "Unpublished": 2,
+      "Ziyann": 2,
+      "arco": 2,
+      "artagnon": 2,
+      "aviraxp": 8,
+      "bgcngm": 4,
+      "bhavsharma": 2,
+      "dianlujitao": 2,
+      "drosen@google.com": 8,
+      "drusso@codeaurora.org": 4,
+      "dsneddon@codeaurora.org": 2,
+      "ekline": 2,
+      "hahariha@codeaurora.org": 4,
+      "intervigilium": 2,
+      "javelinanddart": 35,
+      "javelinanddart@gmail.com": 23,
+      "jjaggi@google.com": 2,
+      "jmtrivi": 2,
+      "johnsonnolen@gmail.com": 2,
+      "jrizzoli": 2,
+      "jsharkey": 2,
+      "kandoiruchi@google.com": 2,
+      "kyamada@codeaurora.org": 2,
+      "luk1337": 6,
+      "mchellad@codeaurora.org": 2,
+      "mikeNG": 128,
+      "mikeioannina@gmail.com": 2,
+      "mkbestas@lineageos.org": 36,
+      "npjohnson": 10,
+      "paulz@codeaurora.org": 2,
+      "rago@google.com": 2,
+      "riandrews": 2,
+      "ruifeng@codeaurora.org": 4,
+      "scott@cyngn.com": 2,
+      "ssrivast@codeaurora.org": 4,
+      "subashab@codeaurora.org": 2,
+      "thestinger": 2,
+      "timmurray@google.com": 2,
+      "usaxena@codeaurora.org": 2,
+      "zhikait@codeaurora.org": 8
+    },
+    "n_commits": 87,
+    "n_contributors": 43
+  }
+}

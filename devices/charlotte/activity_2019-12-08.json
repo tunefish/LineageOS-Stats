@@ -1,0 +1,33 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "luk1337": 1,
+      "priv.luk@gmail.com": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "aagit": 1,
+      "adelva1984": 1,
+      "bgcngm": 1,
+      "ezio84": 2,
+      "javelinanddart": 5,
+      "javelinanddart@gmail.com": 3,
+      "jrizzoli": 1,
+      "luk1337": 56,
+      "maniac103": 1,
+      "priv.luk@gmail.com": 44,
+      "tdm": 2,
+      "thestinger": 1
+    },
+    "n_commits": 59,
+    "n_contributors": 12
+  }
+}
