@@ -1,0 +1,29 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "ArianK16a": 7,
+      "Diewi": 2,
+      "Myself5": 1,
+      "arian.kulmer@web.de": 2,
+      "humberos": 1,
+      "nailyk-fr": 2,
+      "padarshr@codeaurora.org": 1,
+      "smore-lore": 1
+    },
+    "n_commits": 9,
+    "n_contributors": 8
+  },
+  "365": {
+    "contributors": {
+      "Myself5": 3,
+      "myself5@carbonrom.org": 3
+    },
+    "n_commits": 2,
+    "n_contributors": 2
+  }
+}
