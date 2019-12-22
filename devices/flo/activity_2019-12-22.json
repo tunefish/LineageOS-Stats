@@ -1,0 +1,26 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "johnsonnolen@gmail.com": 4,
+      "npjohnson": 5
+    },
+    "n_commits": 3,
+    "n_contributors": 3
+  },
+  "365": {
+    "contributors": {
+      "drmarble": 4,
+      "johnsonnolen@gmail.com": 6,
+      "npjohnson": 12,
+      "vladimiroltean": 2
+    },
+    "n_commits": 6,
+    "n_contributors": 4
+  }
+}
