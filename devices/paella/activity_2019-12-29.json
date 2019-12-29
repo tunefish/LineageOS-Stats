@@ -1,0 +1,33 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "AdrianDC": 1,
+      "Demon000": 1,
+      "Kra1o5": 1,
+      "aymende7": 5,
+      "bgcngm": 1,
+      "brinlyau": 1,
+      "eloimuns": 21,
+      "eloimuns@gmail.com": 5,
+      "haggertk": 1,
+      "intervigilium": 1,
+      "mikeNG": 1,
+      "olvaffe": 1,
+      "sjella@codeaurora.org": 1,
+      "tturney@google.com": 1,
+      "weivincewang": 2
+    },
+    "n_commits": 22,
+    "n_contributors": 15
+  }
+}
