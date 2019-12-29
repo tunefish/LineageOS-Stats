@@ -13322,7 +13322,8 @@
     "versions": [
       13.0,
       14.1,
-      15.1
+      15.1,
+      16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
