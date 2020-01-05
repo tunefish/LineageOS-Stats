@@ -1,0 +1,72 @@
+{
+  "30": {
+    "contributors": {
+      "TinyWindzz": 2,
+      "Villemoes": 2,
+      "andy-shev": 6,
+      "brauner": 34,
+      "hridya@google.com": 14,
+      "luca.stefani.ge1@gmail.com": 14,
+      "luca020400": 84,
+      "maco@android.com": 2,
+      "sherryy@android.com": 2,
+      "tkjos@android.com": 6,
+      "weiyongjun1@huawei.com": 2
+    },
+    "n_commits": 42,
+    "n_contributors": 11
+  },
+  "180": {
+    "contributors": {
+      "BeYkeRYkt": 3,
+      "Demon000": 3,
+      "OrdenKrieger": 18,
+      "PeterCxy": 9,
+      "Rashed97": 3,
+      "adharmap@codeaurora.org": 1,
+      "aiquny@codeaurora.org": 5,
+      "arter97": 7,
+      "avilaj@codeaurora.org": 1,
+      "aviraxp": 5,
+      "blong@codeaurora.org": 2,
+      "bryanh@codeaurora.org": 3,
+      "dianlujitao": 2,
+      "fenglinw@codeaurora.org": 3,
+      "hansson@google.com": 4,
+      "hridya@google.com": 4,
+      "intervigilium": 3,
+      "javelinanddart": 1,
+      "jesec": 3,
+      "jmtrivi": 3,
+      "kholk": 3,
+      "loganchien": 2,
+      "luca.stefani.ge1@gmail.com": 286,
+      "luca020400": 473,
+      "luk1337": 46,
+      "maniac103": 3,
+      "mikeNG": 3,
+      "mkbestas@lineageos.org": 3,
+      "ordenkriegeredr@googlemail.com": 15,
+      "pcacjr": 1,
+      "pkondeti@codeaurora.org": 28,
+      "priv.luk@gmail.com": 3,
+      "pujag@codeaurora.org": 1,
+      "rago@google.com": 3,
+      "robherring": 16,
+      "smuckle.linux@gmail.com": 1,
+      "tbao@google.com": 2,
+      "thestinger": 3,
+      "tomascus": 6,
+      "torvalds": 1,
+      "vladimiroltean": 3,
+      "weivincewang": 3
+    },
+    "n_commits": 243,
+    "n_contributors": 42
+  },
+  "365": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  }
+}
