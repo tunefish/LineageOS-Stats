@@ -1,0 +1,64 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "416810799@qq.com": 2,
+      "BadDaemon": 1,
+      "aviraxp": 6,
+      "bgcngm": 2,
+      "jrior001": 1,
+      "luca020400": 2,
+      "mikeNG": 11,
+      "mkbestas@lineageos.org": 10,
+      "nicknitewolf": 1
+    },
+    "n_commits": 11,
+    "n_contributors": 9
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 7,
+      "DRohan007": 2,
+      "Demon000": 2,
+      "Flex1911": 1,
+      "Unpublished": 1,
+      "aarpure@codeaurora.org": 2,
+      "arco": 3,
+      "aviraxp": 2,
+      "baddaemon87@gmail.com": 7,
+      "bgcngm": 3,
+      "dianlujitao": 5,
+      "dvdhrm": 1,
+      "ekline": 1,
+      "elektroschmock": 1,
+      "ilmich": 1,
+      "javelinanddart": 1,
+      "jinlmao@codeaurora.org": 1,
+      "jmtrivi": 1,
+      "jrior001": 10,
+      "jriordan001@gmail.com": 5,
+      "jrizzoli": 1,
+      "ketut.kumajaya@gmail.com": 3,
+      "kumajaya": 8,
+      "kutep0v": 2,
+      "linux-colonel": 2,
+      "luk1337": 2,
+      "mikeNG": 17,
+      "mkbestas@lineageos.org": 46,
+      "nicknitewolf": 1,
+      "npjohnson": 7,
+      "pnagda@codeaurora.org": 1,
+      "rago@google.com": 1,
+      "sb6596": 1,
+      "thestinger": 1,
+      "viro@zeniv.linux.org.uk": 4,
+      "z3ntu": 1
+    },
+    "n_commits": 84,
+    "n_contributors": 36
+  }
+}
