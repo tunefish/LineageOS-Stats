@@ -1,0 +1,28 @@
+{
+  "30": {
+    "contributors": {
+      "luk1337": 1,
+      "npjohnson": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "bgcngm": 1,
+      "javelinanddart": 5,
+      "javelinanddart@gmail.com": 4,
+      "jrizzoli": 1,
+      "luk1337": 9,
+      "priv.luk@gmail.com": 5,
+      "thestinger": 1
+    },
+    "n_commits": 13,
+    "n_contributors": 7
+  }
+}

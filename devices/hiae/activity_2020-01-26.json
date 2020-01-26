@@ -1,0 +1,40 @@
+{
+  "30": {
+    "contributors": {
+      "BadDaemon": 1,
+      "baddaemon87@gmail.com": 1,
+      "luk1337": 1,
+      "priv.luk@gmail.com": 1
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 3,
+      "baddaemon87@gmail.com": 3,
+      "bgcngm": 7,
+      "bgcngm@gmail.com": 5,
+      "intervigil@gmail.com": 11,
+      "intervigilium": 13,
+      "luk1337": 2,
+      "mikeNG": 5,
+      "mkbestas@lineageos.org": 5,
+      "namall@codeaurora.org": 2
+    },
+    "n_commits": 24,
+    "n_contributors": 10
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 1,
+      "baddaemon87@gmail.com": 1,
+      "intervigil@gmail.com": 24,
+      "intervigilium": 24,
+      "mikeNG": 10,
+      "mkbestas@lineageos.org": 10
+    },
+    "n_commits": 37,
+    "n_contributors": 6
+  }
+}
