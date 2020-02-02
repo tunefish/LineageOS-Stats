@@ -1,0 +1,69 @@
+{
+  "30": {
+    "contributors": {
+      "BadDaemon": 1,
+      "aviraxp": 2,
+      "baddaemon87@gmail.com": 1,
+      "dannybaumann@web.de": 1,
+      "luk1337": 1,
+      "maniac103": 5,
+      "subbaram@codeaurora.org": 2,
+      "sundongahn@google.com": 1
+    },
+    "n_commits": 7,
+    "n_contributors": 8
+  },
+  "180": {
+    "contributors": {
+      "416810799@qq.com": 2,
+      "aviraxp": 6,
+      "bgcngm": 2,
+      "cyberwalkman": 1,
+      "dannybaumann@web.de": 11,
+      "dvdhrm": 1,
+      "firefox883@gmail.com": 1,
+      "luca020400": 2,
+      "maniac103": 15,
+      "mikeNG": 5,
+      "mkbestas@lineageos.org": 5,
+      "rmk+kernel@arm.linux.org.uk": 1,
+      "wildea01": 2
+    },
+    "n_commits": 22,
+    "n_contributors": 13
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 6,
+      "Flex1911": 3,
+      "arco": 3,
+      "aviraxp": 3,
+      "baddaemon87@gmail.com": 6,
+      "bgcngm": 3,
+      "cparimi@codeaurora.org": 3,
+      "dannybaumann@web.de": 3,
+      "dianlujitao": 6,
+      "drosen@google.com": 15,
+      "dupin@google.com": 3,
+      "ekline": 3,
+      "javelinanddart": 3,
+      "jjaggi@google.com": 3,
+      "jmtrivi": 3,
+      "jrior001": 3,
+      "jrizzoli": 3,
+      "jsharkey": 3,
+      "kumajaya": 4,
+      "luk1337": 6,
+      "maniac103": 12,
+      "mikeNG": 129,
+      "mkbestas@lineageos.org": 35,
+      "nicknitewolf": 3,
+      "rago@google.com": 3,
+      "subashab@codeaurora.org": 3,
+      "thestinger": 3,
+      "timmurray@google.com": 3
+    },
+    "n_commits": 57,
+    "n_contributors": 28
+  }
+}
