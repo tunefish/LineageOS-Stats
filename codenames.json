@@ -16922,6 +16922,80 @@
     ],
     "wifi": "802.11 a/b/g/n/ac, dual-band, WiFi Direct, DLNA, hotspot"
   },
+  "z3": {
+    "architecture": "arm",
+    "battery": {
+      "capacity": 2600,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX"
+      ],
+      "spec": "4.0 + LE"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "20.7 MP"
+      },
+      {
+        "flash": "",
+        "info": "2.2 MP"
+      }
+    ],
+    "codename": "z3",
+    "cpu": "Krait 400",
+    "cpu_cores": "4",
+    "cpu_freq": "2.5 GHz",
+    "gpu": "Adreno 330",
+    "name": "Xperia Z3",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 1700 1900 2100 HSDPA",
+        "tech": "3G"
+      },
+      {
+        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 13(700) 17(700) 20(800) LTE",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Barometer",
+      "Compass",
+      "Dual front speakers",
+      "FM radio",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "MHL",
+      "NFC",
+      "Pedometer",
+      "Proximity sensor",
+      "USB OTG"
+    ],
+    "ram": "3 GB",
+    "release": "2014-09-04",
+    "screen": "130 mm (5.2 in)",
+    "screen_res": "1920x1080",
+    "screen_tech": "IPS LCD",
+    "sdcard": "up to 128 GB",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "tree": "android_device_sony_z3",
+    "vendor": "Sony",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, WiFi Direct, Hotspot"
+  },
   "z3c": {
     "architecture": "arm",
     "battery": {
