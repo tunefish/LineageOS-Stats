@@ -343,6 +343,74 @@
     ],
     "wifi": "802.11 b/g/n, Hotspot"
   },
+  "RMX1851": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4045,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "16 MP (IMX519) f/1.7 + 5 MP Depth sensor (GC5035) f/2.4"
+      },
+      {
+        "flash": "",
+        "info": "25 MP (S5K2X5) f/2.0"
+      }
+    ],
+    "codename": "RMX1851",
+    "cpu": "Kryo 360",
+    "cpu_cores": "8",
+    "cpu_freq": "2 x 2.2 GHz + 6 x 1.7 GHz",
+    "gpu": "Adreno 616",
+    "name": "3 Pro",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 2100 MHz (India) / 850 900 1700 1900 2100 MHz (EU) WCDMA",
+        "tech": "3G"
+      },
+      {
+        "bands": "850 900 1800 2100 MHz (India) / 700 800 850 900 1700/2100 1800 1900 2100 2600 MHz (EU) FDD-LTE, 2300 2500 2600  MHz (India) / 1900 2300 2500 2600 MHz (EU) TD-LTE",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Proximity sensor",
+      "Compass",
+      "Light sensor",
+      "GPS",
+      "FM radio",
+      "USB OTG"
+    ],
+    "ram": "4/6 GB LPDDR4X",
+    "release": "2019-04-29",
+    "screen": "160 mm (6.3 in)",
+    "screen_res": "2340x1080",
+    "screen_tech": "Full HD+ IPS LCD",
+    "sdcard": "up to 256 GB",
+    "soc": "Qualcomm SDM710 Snapdragon 710",
+    "tree": "android_device_realme_RMX1851",
+    "vendor": "Realme",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, 2.4/5GHz, Hotspot"
+  },
   "X00TD": {
     "architecture": "arm64",
     "battery": {
@@ -3901,11 +3969,11 @@
         "info": "23 MP"
       },
       {
-        "flash": "",
+        "flash": "LED",
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "LED",
         "info": "8 MP"
       }
     ],
@@ -11883,6 +11951,79 @@
       14.1
     ],
     "wifi": "802.11 b/g/n/ac Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+  },
+  "nx563j": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3200,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "4.1"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "23 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "12 MP"
+      },
+      {
+        "flash": "",
+        "info": "16MP"
+      }
+    ],
+    "codename": "nx563j",
+    "cpu": "Kryo 280",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.45 GHz + 4 x 1.9 GHz",
+    "gpu": "Adreno 540",
+    "name": "Z17",
+    "network": [
+      {
+        "bands": "850 900 1800 1900 MHz GSM",
+        "tech": "2G"
+      },
+      {
+        "bands": "850 900 1900 2100 MHz HSDPA",
+        "tech": "3G"
+      },
+      {
+        "bands": "1 3 4 5 7 8 12 20 34 38 39 40 41",
+        "tech": "4G"
+      }
+    ],
+    "peripherals": [
+      "Dual SIM",
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Proximity sensor",
+      "Compass",
+      "NFC",
+      "Hall effect sensor",
+      "Sensor hub",
+      "Light sensor"
+    ],
+    "ram": "6/8 GB",
+    "release": "2017-06",
+    "screen": "139.7 mm (5.5 in)",
+    "screen_res": "1080x1920",
+    "screen_tech": "IPS LCD",
+    "sdcard": "?",
+    "soc": "Qualcomm MSM8998 Snapdragon 835",
+    "tree": "android_device_nubia_nx563j",
+    "vendor": "Nubia",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
   "odin": {
     "architecture": "arm",
