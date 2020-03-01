@@ -1,0 +1,32 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "jrior001": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "aviraxp": 3,
+      "cparimi@codeaurora.org": 3,
+      "hpnightowl": 3,
+      "jrior001": 6,
+      "jriordan001@gmail.com": 5,
+      "kumajaya": 2,
+      "luk1337": 6,
+      "mikeNG": 24,
+      "mkbestas@lineageos.org": 6,
+      "nicknitewolf": 3,
+      "nicknitewolf@lineageos.org": 3
+    },
+    "n_commits": 14,
+    "n_contributors": 11
+  }
+}
