@@ -1,0 +1,39 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 2,
+      "aviraxp": 5,
+      "baddaemon87@gmail.com": 1,
+      "bgcngm": 2,
+      "jrior001": 1,
+      "luca020400": 2,
+      "luk1337": 1
+    },
+    "n_commits": 5,
+    "n_contributors": 7
+  },
+  "365": {
+    "contributors": {
+      "416810799@qq.com": 2,
+      "BadDaemon": 5,
+      "aviraxp": 2,
+      "baddaemon87@gmail.com": 5,
+      "jrior001": 5,
+      "jriordan001@gmail.com": 3,
+      "linux-colonel": 2,
+      "mikeNG": 4,
+      "mkbestas@lineageos.org": 19,
+      "nicknitewolf": 1,
+      "npjohnson": 5,
+      "viro@zeniv.linux.org.uk": 4,
+      "z3ntu": 1
+    },
+    "n_commits": 23,
+    "n_contributors": 13
+  }
+}
