@@ -1,0 +1,38 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "aleasto": 2,
+      "arco": 2,
+      "bgcngm": 6,
+      "danw": 2,
+      "ghostrider-reborn": 2,
+      "haggertk": 4,
+      "jrior001": 1,
+      "nicknitewolf": 22,
+      "npjohnson": 2,
+      "surenb@google.com": 2
+    },
+    "n_commits": 12,
+    "n_contributors": 11
+  },
+  "365": {
+    "contributors": {
+      "arco": 3,
+      "hpnightowl": 3,
+      "jrior001": 3,
+      "jriordan001@gmail.com": 3,
+      "mikeNG": 9,
+      "mkbestas@lineageos.org": 3,
+      "nicknitewolf": 8,
+      "nicknitewolf@lineageos.org": 2
+    },
+    "n_commits": 8,
+    "n_contributors": 8
+  }
+}
