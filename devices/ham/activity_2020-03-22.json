@@ -1,0 +1,78 @@
+{
+  "30": {
+    "contributors": {
+      "ThEMarD": 4,
+      "javelinanddart": 1,
+      "themard85@gmail.com": 3
+    },
+    "n_commits": 4,
+    "n_contributors": 3
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "NicolasDichtel": 1,
+      "adyabr@google.com": 1,
+      "aleasto": 2,
+      "alecain@google.com": 2,
+      "arco": 2,
+      "aviraxp": 6,
+      "baddaemon87@gmail.com": 1,
+      "bgcngm": 4,
+      "cchilu@codeaurora.org": 1,
+      "chrmhoffmann": 2,
+      "cosmedd": 9,
+      "danw": 2,
+      "dh.herrmann@gmail.com": 1,
+      "dhowells": 9,
+      "dupin@google.com": 2,
+      "etancohen@google.com": 2,
+      "hansson@google.com": 3,
+      "invisiblek": 2,
+      "javier.barrio.mart@gmail.com": 1,
+      "jesper.nilsson@axis.com": 1,
+      "johnstultz-work": 2,
+      "jongwook@google.com": 2,
+      "kyamada@codeaurora.org": 2,
+      "landley": 1,
+      "luk1337": 1,
+      "mguntaka@motorola.com": 1,
+      "michal42": 1,
+      "mikeNG": 4,
+      "mkbestas@lineageos.org": 1,
+      "padarshr@codeaurora.org": 2,
+      "pbalwani@codeaurora.org": 2,
+      "peskal@google.com": 2,
+      "rmk+kernel@arm.linux.org.uk": 1,
+      "rpius@google.com": 4,
+      "sam@ravnborg.org": 1,
+      "sb6596": 118,
+      "shinruhan@google.com": 2,
+      "shubhamprince111@gmail.com": 31,
+      "smore-lore": 1,
+      "spanic@codeaurora.org": 2,
+      "spyffe": 1,
+      "surenb@google.com": 2,
+      "wildea01": 1
+    },
+    "n_commits": 71,
+    "n_contributors": 44
+  },
+  "365": {
+    "contributors": {
+      "aleasto": 6,
+      "djwong": 6,
+      "ghostrider-reborn": 3,
+      "jjaggi@google.com": 3,
+      "jrior001": 3,
+      "mikeNG": 15,
+      "mkbestas@lineageos.org": 15,
+      "nicknitewolf": 3,
+      "sb6596": 30,
+      "shubhamprince111@gmail.com": 3,
+      "z3ntu": 3
+    },
+    "n_commits": 17,
+    "n_contributors": 11
+  }
+}

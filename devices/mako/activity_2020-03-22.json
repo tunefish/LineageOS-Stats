@@ -1,0 +1,23 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "alexey12424323@gmail.com": 1,
+      "anandkumar@codeaurora.org": 1,
+      "e12499@motorola.com": 1,
+      "voron00": 4,
+      "vproddut@codeaurora.org": 1
+    },
+    "n_commits": 4,
+    "n_contributors": 5
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "30": {
+    "contributors": {
+      "MarijnS95": 2,
+      "jerpelea": 2,
+      "marijns95@gmail.com": 2,
+      "web-flow": 2
+    },
+    "n_commits": 4,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "39061882+ArianK16a@users.noreply.github.com": 1,
+      "ArianK16a": 14,
+      "Diewi": 4,
+      "Myself5": 2,
+      "arian.kulmer@web.de": 4,
+      "humberos": 2,
+      "smore-lore": 2
+    },
+    "n_commits": 8,
+    "n_contributors": 7
+  },
+  "365": {
+    "contributors": {
+      "ArianK16a": 5,
+      "Myself5": 4,
+      "jerpelea": 2,
+      "myself5@carbonrom.org": 4,
+      "nailyk-fr": 3,
+      "padarshr@codeaurora.org": 2,
+      "web-flow": 2
+    },
+    "n_commits": 6,
+    "n_contributors": 7
+  }
+}

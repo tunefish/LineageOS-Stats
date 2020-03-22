@@ -1,0 +1,31 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "jrior001": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "dianlujitao": 3,
+      "dianlujitao@lineageos.org": 2,
+      "hpnightowl": 3,
+      "jrior001": 3,
+      "jriordan001@gmail.com": 3,
+      "mikeNG": 6,
+      "mkbestas@lineageos.org": 3,
+      "nicknitewolf": 3,
+      "nicknitewolf@lineageos.org": 3,
+      "steve@cyngn.com": 1
+    },
+    "n_commits": 7,
+    "n_contributors": 10
+  }
+}
