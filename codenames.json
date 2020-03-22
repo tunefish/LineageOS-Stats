@@ -29,18 +29,9 @@
     "gpu": "Adreno 405",
     "name": "Vibe K5 / K5 Plus",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (Europe/Asia), 850 900 1700(AWS) 1900 2100 MHz HSDPA (Latin America)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) LTE (Europe/Asia), 2(1900) 3(1800) 4(1700/2100) 7(2600) 28(700) LTE (Latin America)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -99,18 +90,9 @@
     "gpu": "Adreno 508",
     "name": "Phone",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "3(1800) 7(2600) 20(800) 38(2600)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -168,18 +150,9 @@
     "gpu": "Adreno 330",
     "name": "FP2",
     "network": [
-      {
-        "bands": "850 900 1800 1900",
-        "tech": "2G"
-      },
-      {
-        "bands": "8(900) 2(1900) 1(2100) ",
-        "tech": "3G"
-      },
-      {
-        "bands": "3(1800) 7(2600) 20(800)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Compass",
@@ -238,18 +211,9 @@
     "gpu": "Adreno 640",
     "name": "Zenfone 6 (ZS630KL)",
     "network": [
-      {
-        "bands": "EDGE/GPRS/GSM (850, 900, 1800, 1900MHz)",
-        "tech": "2G"
-      },
-      {
-        "bands": "WCDMA (Bands 1, 2, 3, 4, 5, 6, 8, 19)",
-        "tech": "3G"
-      },
-      {
-        "bands": "FDD-LTE (Bands 1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 28), TD-LTE (Bands 38, 39, 41, 46)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -310,18 +274,9 @@
     "gpu": "Adreno 306",
     "name": "ZenPad 8.0 (Z380KL)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 5(850) 7(2600) 8(900) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -373,18 +328,9 @@
     "gpu": "Adreno 616",
     "name": "3 Pro",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 2100 MHz (India) / 850 900 1700 1900 2100 MHz (EU) WCDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "850 900 1800 2100 MHz (India) / 700 800 850 900 1700/2100 1800 1900 2100 2600 MHz (EU) FDD-LTE, 2300 2500 2600  MHz (India) / 1900 2300 2500 2600 MHz (EU) TD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -445,18 +391,9 @@
     "gpu": "Adreno 509",
     "name": "Zenfone Max Pro M1",
     "network": [
-      {
-        "bands": "850 900 1900 2100 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 40(2300) 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -515,18 +452,9 @@
     "gpu": "Adreno 512",
     "name": "Zenfone Max Pro M2",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 40(2300) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -639,18 +567,9 @@
     "gpu": "Adreno 510",
     "name": "Yoga Tab 3 Plus LTE",
     "network": [
-      {
-        "bands": "850 900 1800 1900",
-        "tech": "2G"
-      },
-      {
-        "bands": "EMEA: 850 900 1900 2100; ROW: 850 900 1700(AWS) 1900 2100",
-        "tech": "3G"
-      },
-      {
-        "bands": "EMEA: 1(2100) 2(1900) 3(1800) 5(850) 7(2600) 8(900) 20(800) 38(2600) 39(1900) 40(2300) 41(2500); ROW: 1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 12(700) 17(700) 19(800) 21(1500) 25(1900) 26(850) 28(700) 30(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -712,18 +631,9 @@
     "gpu": "PowerVR G6430",
     "name": "Zenfone 2 (720p)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM - SIM 1 & SIM 2",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHZ HSDPA - SIM 1 only",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 17(700) 20(800) SIM 1 only",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -777,18 +687,9 @@
     "gpu": "PowerVR G6430",
     "name": "Zenfone 2 (1080p)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM - SIM 1 & SIM 2",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 SIM 1 only",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 17(700) 20(800) - SIM 1 only",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -840,18 +741,9 @@
     "gpu": "PowerVR SGX544MP2",
     "name": "Zenfone 2 (ZE500CL)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 17(700) 20(800)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -902,18 +794,9 @@
     "gpu": "Adreno 405/306",
     "name": "Zenfone 2 Laser (720p)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "2100 1900 1800 1700(AWS) 850 2600 900 700 800 MHz",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -973,18 +856,9 @@
     "gpu": "Adreno 405",
     "name": "Zenfone 2 Laser/Selfie (1080p)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "2100 1900 1800 1700(AWS) 850 2600 900 700 800 MHz",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -1047,18 +921,9 @@
     "gpu": "ARM Mali-T720 MP2",
     "name": "Galaxy A3 (2016)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 40(2300) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -1120,18 +985,9 @@
     "gpu": "ARM Mali-T720 MP2",
     "name": "Galaxy A5 (2016)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 40(2300) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -1191,18 +1047,9 @@
     "gpu": "ARM Mali-T830 MP3",
     "name": "Galaxy A5 (2017)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 17(700), 20(800), 28(700), 38(2600), 40(2300), 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -1268,18 +1115,9 @@
     "gpu": "ARM Mali-T830 MP3",
     "name": "Galaxy A7 (2017)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 17(700), 20(800), 28(700), 38(2600), 40(2300), 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -1345,18 +1183,9 @@
     "gpu": "Adreno 506",
     "name": "Moto Z Play",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA, 850 900 1700(AWS) 1900 2100 MHz HSDPA (US, Canada)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700) 5(850) 7(2600) 8(900) 12(700) 17(700) 19(850) 20(800) 28(700) 38(2600) 40(2300) 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -1412,18 +1241,10 @@
     "gpu": "Adreno 506",
     "name": "Moto Z2 Play",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM (All models), 800 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA (North America model), 850 900 1900 2100 MHz HSDPA (Europe / Asia / China models)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 4(1700/2100) 5(850) 7(2600) 8(900) 12(700) 17(700) 30(2300) LTE (North America model), 1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 38(2600) 40(2300) LTE (Europe / Asia / China models)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -1481,18 +1302,9 @@
     "gpu": "Adreno 430",
     "name": "Nexus 6P",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM (All models), 800 1900 MHz (All models)",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA (American model), 800 850 900 1700 1800 1900 2100 MHz HSDPA (Global model)",
-        "tech": "3G"
-      },
-      {
-        "bands": "700 850 1700 1800 1900 2100 2300 2500 2600 MHz LTE (American model), 700 800 850 900 1700 1800 1900 2100 2300 2500 2600 MHz LTE (Global model)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -1548,14 +1360,8 @@
     "gpu": "Adreno 305",
     "name": "Redmi 1S",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Dual SIM",
@@ -1606,18 +1412,10 @@
     "gpu": "Adreno 405",
     "name": "Moto G4",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz UMTS",
-        "tech": "3G"
-      },
-      {
-        "bands": "700 850 1700 1800 1900 2600 MHz",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": "None",
     "ram": "2/3/4 GB",
@@ -1664,18 +1462,10 @@
     "gpu": "Adreno 530",
     "name": "Axon 7",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA (USA model)",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 19(800) 20(800) 28(700) 38(2600) 40(2300) 41(2500) (Global), 1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 12(700) 13(700) 17(700) 20(800) 25(1900) 26(850) 29(700) 30(2300) 41(2500) (USA model)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -1727,18 +1517,9 @@
     "gpu": "Adreno 330",
     "name": "One",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 4(1700/2100) 7(2600) 17(700) 38(2600) 40(2300) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -1792,18 +1573,9 @@
     "gpu": "Adreno 506",
     "name": "Aquaris X",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -1864,18 +1636,9 @@
     "gpu": "Adreno 506",
     "name": "Aquaris X Pro",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -1936,18 +1699,9 @@
     "gpu": "ARM Mali-G72 MP12",
     "name": "Honor View 10",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 8(900) 38(2600) 39(1900) 40(2300) 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -2001,18 +1755,10 @@
     "gpu": "Adreno 630",
     "name": "Poco F1",
     "network": [
-      {
-        "bands": "B2 / B3 / B5 / B8 GSM, BC0 / BC1 / BC6 / BC10 CDMA1X/EVDO",
-        "tech": "2G"
-      },
-      {
-        "bands": "B1 / B2 / B3 / B4 / B5 / B6 / B8 / B9 / B19 WCDMA, B34 / B39 TD-CDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1 / B2 / B3 / B4 / B5 / B7 / B8 / B12 / B13 / B17 / B18 / B19 / B20 / B25 / B26 / B27 / B28 / B29 / B30 FDD-LTE, B34 / B38 / B39 / B40 / B41 TD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -2070,18 +1816,9 @@
     "gpu": "Adreno 418",
     "name": "Nexus 5X",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM (All models), 800 1900 MHz (All models)",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA (American model), 850 900 1900 2100 MHz HSDPA (Asian model), 800 850 900 1700(AWS) 1800 1900 2100 MHz HSDPA (Global model)",
-        "tech": "3G"
-      },
-      {
-        "bands": "700 800 850 1700 1800 1900 2100 2600 MHz LTE (American model), 850 900 1700 1800 2100 2300 2500 2600 MHz LTE (Asian Model), 700 800 850 900 1700 1800 1900 2100 2300 2500 2600 MHz LTE (Global model)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -2147,14 +1884,9 @@
     "gpu": "Adreno 330",
     "name": "Mi 3 / Mi 4",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -2215,18 +1947,10 @@
     "gpu": "Adreno 530",
     "name": "Mi 5s",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 MHz HSPA, 1900 2000 MHz TD-CDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "850(B5) 1800(B3) 2100(B1) 2600(B7) MHz FDD-LTE, 1900(B39) 2300(B40) 2500(B41) 2600(B38) MHz TDD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -2285,18 +2009,9 @@
     "gpu": "ARM Mali-T628 MP6",
     "name": "Galaxy Tab S 10.5 LTE",
     "network": [
-      {
-        "bands": "850, 900 (E-GSM), 1800 (DCS), 1900 (PCS)",
-        "tech": "2G"
-      },
-      {
-        "bands": "2100 (B1), 1900 PCS (B2), 850 (B5), 900 GSM (B8)",
-        "tech": "3G"
-      },
-      {
-        "bands": "2100 (B1), 1800 (B3), 850 (B5), 2600 (B7), 900 (B8), 800 DD(B20)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -2397,18 +2112,9 @@
     "gpu": "Adreno 505",
     "name": "Aquaris U",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -2466,18 +2172,9 @@
     "gpu": "ARM Mali-G72 MP12",
     "name": "P20 Pro",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 9(1800) 12(700) 17(700) 19(800) 20(800) 34(2000) 38(2600) 39(1900) 40(2300) 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -2539,18 +2236,10 @@
     "gpu": "Adreno 306",
     "name": "Honor 4x (China Telecom)",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM, 800 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "1 8 UMTS, 34 39 TD-SCDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "38 39 40 41 TDD-LTE, 1 3 FDD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -2606,18 +2295,10 @@
     "gpu": "Adreno 540",
     "name": "5",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, BC0 CDMA EVDO",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1 2 4 5 7 8 12 17 18 19 20 25 26 28 29 30 34 38 39 40 41 66",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -2685,18 +2366,10 @@
     "gpu": "Adreno 306",
     "name": "Honor 4/4X (Unified)",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM, 800 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "1 8 UMTS, 34 39 TD-SCDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "38 39 40 41 TDD-LTE, 1 3 FDD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -2759,18 +2432,9 @@
     "gpu": "Adreno 540",
     "name": "Phone",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1800 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 12(700) 17(700) 19(800) 20(800) 25(1900) 26(850) 28(700) 29(700) 30(2300) 38(2600) 39(1900) 40(2300) 41(2500) 66(1700/2100)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -2833,18 +2497,11 @@
     "gpu": "Adreno 540",
     "name": "Mi MIX 2",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA & TD-SCDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "800 850 900 1700(AWS) 1800 1900 2100 MHz HSDPA & CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 12(700) 13(700) 17(700) 18(800) 19(800) 20(800) 25(1900) 26(850) 27(800) 28(700) 29(700) 30(2300) 34(2000) 38(2600) 39(1900) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -2943,14 +2600,8 @@
     "gpu": "Adreno 302",
     "name": "Moto E",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -3001,18 +2652,9 @@
     "gpu": "Adreno 306",
     "name": "Swift",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "3(1800) 7(2600) 20(800) LTE(Cat. 4)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -3071,18 +2713,9 @@
     "gpu": "Adreno 225",
     "name": "Galaxy S III (AT&T)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1900 2100 MHz HSPA+",
-        "tech": "3G"
-      },
-      {
-        "bands": "13(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Proximity sensor",
@@ -3134,18 +2767,9 @@
     "gpu": "Adreno 225",
     "name": "Galaxy S III (Sprint)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1900 2100 MHz HSPA+",
-        "tech": "3G"
-      },
-      {
-        "bands": "1900 MHz",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Proximity sensor",
@@ -3197,14 +2821,8 @@
     "gpu": "Adreno 225",
     "name": "Galaxy S III (T-Mobile)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1700 1900 2100 MHz HSPA+",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Proximity sensor",
@@ -3256,18 +2874,9 @@
     "gpu": "Adreno 225",
     "name": "Galaxy S III (Verizon)",
     "network": [
-      {
-        "bands": "800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "13(700)",
-        "tech": "4G"
-      }
+      "2G CDMA",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Proximity sensor",
@@ -3322,18 +2931,9 @@
     "gpu": "Adreno 330",
     "name": "G2 (AT&T)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100), 2(1900), 4(1700/2100), 5(850), 17(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -3389,18 +2989,9 @@
     "gpu": "Adreno 330",
     "name": "G2 (T-Mobile)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "2(1900), 4(1700/2100), 7(2600)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -3456,18 +3047,9 @@
     "gpu": "Adreno 330",
     "name": "G2 (International)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz UMTS",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 850 900 1800 2100 2600 MHz",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -3523,18 +3105,9 @@
     "gpu": "Adreno 330",
     "name": "G2 (Canadian)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz UMTS",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 850 900 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -3590,18 +3163,9 @@
     "gpu": "Adreno 330",
     "name": "G3 (AT&T)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "2(1900) 4(1700/2100) 5(850) 17(700) 29(700) LTE, Roaming 1(2100), 3(1800), 7(2600) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -3655,18 +3219,9 @@
     "gpu": "Adreno 330",
     "name": "G3 (T-Mobile)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "2(1900) 4(1700/2100) 7(2600) 17(700) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -3720,18 +3275,9 @@
     "gpu": "Adreno 330",
     "name": "G3 (Canada)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "29(700) 5(850) 2(1900) 4(1700) 7(2600) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -3785,18 +3331,9 @@
     "gpu": "Adreno 330",
     "name": "G3 (International)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "700 800 900 1800 2100 2300 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -3848,18 +3385,9 @@
     "gpu": "Adreno 320",
     "name": "Nexus 7 (LTE, 2013 version)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 20(800) (EU), 1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 13(700) 17(700) (North America)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": "None",
     "ram": "2 GB",
@@ -3910,18 +3438,10 @@
     "gpu": "Adreno 630",
     "name": "Mi 8",
     "network": [
-      {
-        "bands": "B2 / B3 / B5 / B8 GSM, BC0 / BC1 / BC6 / BC10 CDMA1X/EVDO",
-        "tech": "2G"
-      },
-      {
-        "bands": "B1 / B2 / B3 / B4 / B5 / B6 / B8 / B9 / B19 WCDMA, B34 / B39 TD-CDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1 / B2 / B3 / B4 / B5 / B7 / B8 / B12 / B13 / B17 / B18 / B19 / B20 / B25 / B26 / B27 / B28 / B29 / B30 FDD-LTE, B34 / B38 / B39 / B40 / B41 TD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -3984,18 +3504,9 @@
     "gpu": "Adreno 508",
     "name": "Xperia XA2 Ultra",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1 (2100) 2 (1900) 3 (1800) 5 (850) 7 (2600) 8 (900) 20 (800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -4051,18 +3562,9 @@
     "gpu": "Adreno 320",
     "name": "Xperia ZR",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "MHL",
@@ -4176,18 +3678,10 @@
     "gpu": "Adreno 540",
     "name": "5T",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, BC0 CDMA EVDO",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1 2 4 5 7 8 12 17 18 19 20 25 26 28 29 30 34 38 39 40 41 66",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -4246,18 +3740,9 @@
     "gpu": "Adreno 630",
     "name": "6",
     "network": [
-      {
-        "bands": "850 / 900 / 1800 / 1900",
-        "tech": "2G"
-      },
-      {
-        "bands": "800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
-        "tech": "3G"
-      },
-      {
-        "bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 29, Europe, North America: 30, 32, 34, 38, 39, 40, 41, 66, 71, India, Asia, China: 34, 38, 39, 40, 41, 66",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -4325,10 +3810,7 @@
     "gpu": "PowerVR SGX540",
     "name": "Galaxy Tab 2 7.0 / Tab 2 10.1 (GSM)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz",
-        "tech": "2G"
-      }
+      "2G GSM"
     ],
     "peripherals": [
       "Proximity sensor",
@@ -4456,18 +3938,9 @@
     "gpu": "Adreno 418",
     "name": "Robin",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1800 1900 2100 MHz HSPA+",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 12(700) 17(700) 19(850) 20(800) 28(700) LTE(Cat. 4)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -4524,18 +3997,9 @@
     "gpu": "Adreno 405",
     "name": "F1 (International)",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 2100 MHz HSPA+",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 28(700) 38(2600) 39(1900) 40(2300) 41(2500) LTE(Cat. 4)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -4593,14 +4057,8 @@
     "gpu": "Adreno 330",
     "name": "G3 (Korea)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -4655,18 +4113,9 @@
     "gpu": "Adreno 630",
     "name": "6T",
     "network": [
-      {
-        "bands": "850 / 900 / 1800 / 1900",
-        "tech": "2G"
-      },
-      {
-        "bands": "800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
-        "tech": "3G"
-      },
-      {
-        "bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 29, Europe, North America: 30, 32, 34, 38, 39, 40, 41, 66, 71, India, Asia, China: 34, 38, 39, 40, 41, 66",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -4723,14 +4172,10 @@
     "gpu": "Adreno 305",
     "name": "Moto G",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (International), 850 1700 1900 2100 MHz HSDPA (T-Mobile, AT&T), CDMA2000 1xEV-DO",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000"
     ],
     "peripherals": [
       "Accelerometer",
@@ -4791,18 +4236,9 @@
     "gpu": "Adreno 330",
     "name": "Find 7a/s",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (Intl), 850 900 1700 1900 2100 MHz HSDPA (Mexico & US)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 7(2600) 20(800) LTE (Intl), 700 1700 2100 MHz LTE (Mexico & US)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Light sensor",
@@ -4960,18 +4396,9 @@
     "gpu": "NVIDIA Kepler DX1 192-core",
     "name": "Nexus 9 (LTE)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 AWS 1900 2100 MHz HSPA+",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1 B2 B3 B4 B5 B7 B8 B20 LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -5084,18 +4511,9 @@
     "gpu": "Adreno 305",
     "name": "G2 Mini",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 7(2600) 8(900) 20(800) (D620), 1(2100) 3(1800) 7(2600) 8(900) (D620K)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -5147,18 +4565,10 @@
     "gpu": "Adreno 530",
     "name": "Mi 5",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 MHz HSPA, 1900 2000 MHz TD-CDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "850(B5) 1800(B3) 2100(B1) 2600(B7) MHz FDD-LTE, 1900(B39) 2300(B40) 2500(B41) 2600(B38) MHz TDD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -5218,18 +4628,10 @@
     "gpu": "Adreno 320",
     "name": "Moto X",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM (All models), 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 2100 MHz HSDPA (EU and AT&T), 850 900 1700 1900 2100 MHz HSDPA (T-Mobile)",
-        "tech": "3G"
-      },
-      {
-        "bands": "2(1900) 4(1700/2100) 5(850) 17(700) LTE (AT&T), 2(1900) 4(1700/2100) 17(700) LTE (T-Mobile), 3(1800) 7(2600) 20(800) LTE (EU)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Motion Coprocessor",
@@ -5283,18 +4685,9 @@
     "gpu": "Adreno 510",
     "name": "Aquaris X5 Plus",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -5352,18 +4745,10 @@
     "gpu": "Adreno 530",
     "name": "Moto Z",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM (All models), 800 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA (North America model), 850 900 1900 2100 MHz HSDPA (Europe / Asia / China models)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 4(1700/2100) 5(850) 7(2600) 8(900) 12(700) 17(700) 30(2300) LTE (North America model), 1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 38(2600) 40(2300) LTE (Europe / Asia / China models)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -5470,18 +4855,9 @@
     "gpu": "Adreno 306",
     "name": "Galaxy Tab E 8.0 LTE (Sprint)",
     "network": [
-      {
-        "bands": "800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "CDMA2000 1xEV-DO CDMA2000 1xRTT",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1900 2500 MHz LTE",
-        "tech": "4G"
-      }
+      "2G CDMA",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -5534,18 +4910,9 @@
     "gpu": "ARM Mali-T760 MP6",
     "name": "Galaxy Tab S2 9.7 (LTE)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 17(700) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -5756,18 +5123,9 @@
     "gpu": "Adreno 640",
     "name": "7 Pro",
     "network": [
-      {
-        "bands": "850 / 900 / 1800 / 1900",
-        "tech": "2G"
-      },
-      {
-        "bands": "800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
-        "tech": "3G"
-      },
-      {
-        "bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 29, Europe, North America: 30, 32, 34, 38, 39, 40, 41, 66, 71, India, Asia, China: 34, 38, 39, 40, 41, 66",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -5824,18 +5182,9 @@
     "gpu": "Adreno 418",
     "name": "G4 (T-Mobile)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1700/2100 1900 2100 MHz UMTS",
-        "tech": "3G"
-      },
-      {
-        "bands": "5(850) 4(1700/2100) 7(2600) 3(1800) 2(1900) 12(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -5890,18 +5239,9 @@
     "gpu": "Adreno 418",
     "name": "G4 (International)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 17(700) 5(850) 4(1700/2100) 3(1800) 7(2600) 2(1900) 8(900) 20(800) 28(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -5960,18 +5300,9 @@
     "gpu": "Adreno 530",
     "name": "G5 (T-Mobile)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 17(700) 5(850) 4(1700/2100) 3(1800) 7(2600) 2(1900) 8(900) 20(800) 28(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -6030,18 +5361,9 @@
     "gpu": "Adreno 530",
     "name": "G5 (International)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 17(700) 5(850) 4(1700/2100) 3(1800) 7(2600) 2(1900) 8(900) 20(800) 28(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -6101,18 +5423,9 @@
     "gpu": "Adreno 530",
     "name": "G6 (EU Unlocked)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 17(700) 5(850) 4(1700/2100) 3(1800) 7(2600) 2(1900) 8(900) 20(800) 28(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -6171,18 +5484,9 @@
     "gpu": "Adreno 530",
     "name": "V20 (AT&T)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 17(700) 5(850) 4(1700/2100) 3(1800) 7(2600) 2(1900) 8(900) 20(800) 28(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -6248,18 +5552,9 @@
     "gpu": "Adreno 530",
     "name": "V20 (T-Mobile)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 17(700) 5(850) 4(1700/2100) 3(1800) 7(2600) 2(1900) 8(900) 20(800) 28(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -6321,14 +5616,8 @@
     "gpu": "ARM Mali-T628 MP6",
     "name": "Galaxy Note 3 (International 3G)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -6383,18 +5672,10 @@
     "gpu": "Adreno 330",
     "name": "Z1",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 7(2600) 38(2600) 39(1900) 40(2300) 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -6448,18 +5729,10 @@
     "gpu": "Adreno 330",
     "name": "Nexus 5",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA (North America model)",
-        "tech": "2G"
-      },
-      {
-        "bands": "800 850 900 1700 1900 2100 MHz HSDPA (North Amera model), 850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 4(1700/2100) 5(850) 17(700) 19(800) 25(1900) 26(850) 41(2500) (North America), 1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": "None",
     "ram": "2 GB",
@@ -6506,18 +5779,11 @@
     "gpu": "Adreno 306",
     "name": "Moto G4 Play",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800/850/1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (Europe and Asia), 850 900 1700(AWS) 1900 2100 MHz HSDPA (US, Canada), 850 900 1700 1900 2100 MHz HSDPA (Latin America, Brazil), CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700) 5(850) 7(2600) 8(900) 12(700) 13(700) 17(700) 25(1900) 26(850) 41(2500) LTE (US, Canada), 1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 28(700) 40(2300) LTE (Europe), 3(1800) 5(850) 7(2600) 28(700) LTE (Latin America, Brazil), 2(1900) 4(1700) 5(850) 12(700) 13(700) 17(700) 25(1900) LTE (U.S. Cellular), 1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 28(700) 40(2300) LTE (Asia)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -6568,14 +5834,8 @@
     "gpu": "Adreno 225",
     "name": "Xperia TX",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "MHL",
@@ -6633,18 +5893,9 @@
     "gpu": "ARM Mali-T880 MP12",
     "name": "Galaxy S7 Edge",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1-B8, B12-B13, B17-B20, B25-B26, B28, B38(TDD), B39-41(TDD)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -6703,18 +5954,9 @@
     "gpu": "ARM Mali-T880 MP12",
     "name": "Galaxy S7",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1-B8, B12-B13, B17-B20, B25-B26, B28, B38(TDD), B39-41(TDD)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -6774,18 +6016,9 @@
     "gpu": "Adreno 405",
     "name": "One A9",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM (All models)",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1700(AWS) 1900 2100 MHz HSDPA (UL), 850 900 1900 2100 MHz HSDPA (UHL)",
-        "tech": "3G"
-      },
-      {
-        "bands": "2(1900) 3(1800) 4(1700) 5(850) 7(2600) 12(700) 13(700) 17(700) 19(850) MHz LTE (UL), 1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 28(700) 38(2600) 40(2300) 41(2500) MHz LTE (UHL)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -6841,18 +6074,9 @@
     "gpu": "Adreno 430",
     "name": "One M9 (GSM)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "8850 1900 2100 MHz HSDPA (AT&T),850 1700(AWS) 1900 2100 MHz HSDPA (T-Mobile)",
-        "tech": "3G"
-      },
-      {
-        "bands": "700 1700 1800 1900 2600 MHz (AT&T), 700 850 1800 1900 2100 2600 MHz (T-Mobile)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual front speakers",
@@ -6910,18 +6134,11 @@
     "gpu": "Adreno 430",
     "name": "One M9 (Verizon)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA, CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "4(1700/2100), 13(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual front speakers",
@@ -6979,18 +6196,11 @@
     "gpu": "Adreno 330",
     "name": "Galaxy Note 3 LTE (N9005/P)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (N9005), 1900 2100 MHz HSPDA (N900P), 900 1900 MHz CDMA (N900P)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) (N9005), 25(1900) (N900P)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -7049,18 +6259,9 @@
     "gpu": "Adreno 330",
     "name": "Galaxy Note 3 LTE (N9008V)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2000 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "40(2300)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -7119,18 +6320,9 @@
     "gpu": "Adreno 330",
     "name": "Galaxy Note 3 LTE (N900K/L/S)",
     "network": [
-      {
-        "bands": "850 900 1900 2100 MHz GSM (N900K/S), 850 1900 2100 MHz GSM (N900L)",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz GSM (N900K/S), 850 1900 2100 MHz GSM (N900L)",
-        "tech": "3G"
-      },
-      {
-        "bands": "3(1800) 8(900) (N900K), 1(2100) 3(1800) 7(2600) 8(900) 17(700) (N900L), 3(1800) 5(850) 17(700) (N900S)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -7189,18 +6381,9 @@
     "gpu": "Adreno 330",
     "name": "Galaxy Note 3 LTE (N900T/V/W8)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (N900T/V/W8), 800 1900 MHz CDMA (N900V)",
-        "tech": "3G"
-      },
-      {
-        "bands": "4(1700/2100) 17(700) (N900T), 4(1700/2100) 13(700) (N900V), 2(1900) 4(1700/2100) 17(700) (N900W8)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -7259,18 +6442,9 @@
     "gpu": "Adreno 320",
     "name": "Xperia SP",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "MHL",
@@ -7328,18 +6502,11 @@
     "gpu": "Adreno 510",
     "name": "Mi Max",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA, CDMA2000 1xEV-DO TD-SCDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 7(2600) 38(2600) 39(1900) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -7392,14 +6559,8 @@
     "gpu": "ARM Mali-400 MP",
     "name": "Galaxy S II",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSPA+",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": "None",
     "ram": "1 GB",
@@ -7443,14 +6604,8 @@
     "gpu": "ARM Mali-400 MP4",
     "name": "Galaxy S III (International)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -7505,18 +6660,9 @@
     "gpu": "ARM Mali-400 MP4",
     "name": "Galaxy S III (LTE / International)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 2100 MHz UMTS/HSPA+",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1800 2600 MHz (GT-I9305), 900 1800 2600 MHz (GT-I9305N), 1800 2600 MHz (GT-I9305T)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -7570,18 +6716,10 @@
     "gpu": "Adreno 405",
     "name": "Redmi 3/Prime",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 7(2600) 38(2600) 39(1900) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       {
@@ -7646,18 +6784,9 @@
     "gpu": "Adreno 430",
     "name": "Xperia Z3+",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1 (2100) 2 (1900) 3 (1800) 4 (1700/2100) 5 (850) 7 (2600) 8 (900) 12 (700) 17 (700) 20 (800) 28 (700) 40 (2300) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -7707,18 +6836,11 @@
     "gpu": "Adreno 320",
     "name": "Galaxy S4 Active",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSPA+ / UMTS, CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "1700/2100 700 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -7779,14 +6901,8 @@
     "gpu": "Adreno 305",
     "name": "G3 S",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "GPS",
@@ -7836,18 +6952,9 @@
     "gpu": "Adreno 305",
     "name": "G3 Beat",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 7(2600) 8(900) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "NFC",
@@ -7946,18 +7053,9 @@
     "gpu": "Adreno 405",
     "name": "AT&T Trek 2 HD",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 19(800) 20(800) 28(700) 38(2600) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -8013,18 +7111,10 @@
     "gpu": "Adreno 512",
     "name": "Mi Note 3",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 38(2600) 39(1900) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -8086,18 +7176,11 @@
     "gpu": "Adreno 320",
     "name": "Galaxy S4 (SGH-I337)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSPA+ / UMTS, CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "1700/2100 700 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -8159,18 +7242,11 @@
     "gpu": "Adreno 320",
     "name": "Galaxy S4 (SCH-R970, SPH-L720)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSPA+ / UMTS, CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "1700/2100 700 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -8231,18 +7307,11 @@
     "gpu": "Adreno 320",
     "name": "Galaxy S4 (SCH-I545)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSPA+ / UMTS, CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "1700/2100 700 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -8304,18 +7373,9 @@
     "gpu": "Adreno 320",
     "name": "Galaxy S4 (GT-I9505/G, SGH-I337M, SGH-M919)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSPA+",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 850 900 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -8377,18 +7437,9 @@
     "gpu": "Adreno 320",
     "name": "Galaxy S4 Value Edition (GT-I9515/L)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSPA+",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 850 900 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -8453,14 +7504,8 @@
     "gpu": "ARM Mali-T628 MP6",
     "name": "Galaxy S5 (International 3G)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -8519,18 +7564,9 @@
     "gpu": "Adreno 430",
     "name": "Xperia Z4 Tablet LTE",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1 (2100) 2 (1900) 3 (1800) 4 (1700/2100) 5 (850) 7 (2600) 8 (900) 12 (700) 17 (700) 20 (800) 28 (700) 40 (2300) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -8631,18 +7667,9 @@
     "gpu": "Adreno 420",
     "name": "Galaxy S5 Plus",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 5(850) 7(2600) 8(900) 20(800)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -8704,18 +7731,9 @@
     "gpu": "Adreno 510",
     "name": "Redmi Note 3",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA, 850 900 1900 2100 MHz HSDPA (India)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 38(2600) 39(1900) 40(2300) 41(2500), 1(2100) 3(1800) 5(850) 7(2600) 8(900) 38(2600) 39(1900) 40(2300) 41(2500) (India)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -8768,18 +7786,9 @@
     "gpu": "Adreno 330",
     "name": "Vibe Z2 Pro",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -8837,18 +7846,9 @@
     "gpu": "Adreno 405",
     "name": "Storm",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "3(1800) 7(2600) 8(900) 20(800) LTE(Cat. 4)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -8910,18 +7910,9 @@
     "gpu": "Adreno 405",
     "name": "Honor 5X",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1700 (AWS) 1900 2100 MHz HSDPA (USA models), 850 900 1900 2100 MHz HSDPA (China models)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 7(2600) 8(900) 20(800) 2(1900) 4(1700/2100) 5(850) 7(2600) 12(700) 17(700) LTE (USA models), 1(2100) 3(1800) 38(2600) 39(1900) 40(2300) 41(2500) LTE (China models)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -9026,18 +8017,9 @@
     "gpu": "Adreno 330",
     "name": "Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8,S902L)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900MHz 1xRTT (G900R4/G900R7/G900V/S902L)",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (G900F/G900V), 850 900 1700 1900 2100 MHz HSDPA (G900M), 850 1700 1900 2100 MHz HSDPA (G900T), 800 1900MHz EVDO (G900R4/G900R7/G900V/S902L)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 5(850) 7(2600) 8(900) 20(800) (G900F), 1(2100) 2(1900) 4(1700/2100) 5(850) 7(2600) 17(700) (G900M), 1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 17(700) (G900T), 2(1900) 4(1700/2100) 5(850) 12(700) 17(700) (G900R4), 2(1900) 4(1700/2100) 12(700) (G900R7), 4(1700/2100) 13(700) (G900V/S902L)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -9096,18 +8078,9 @@
     "gpu": "Adreno 330",
     "name": "Galaxy S5 Active",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz UMTS",
-        "tech": "3G"
-      },
-      {
-        "bands": "(1)2100 (2)1900 3(1800) 5(850) (7)2600 (8)900 (20)800 LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Heart rate sensor",
@@ -9528,18 +8501,10 @@
     "gpu": "Adreno 330",
     "name": "Galaxy S5 Sport",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz UMTS, 800 1900 MHz EvDO",
-        "tech": "3G"
-      },
-      {
-        "bands": "25(1900) 26(850) 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Heart rate sensor",
@@ -9594,18 +8559,9 @@
     "gpu": "Adreno 330",
     "name": "Galaxy S4 LTE-A (GT-I9506)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -9669,18 +8625,9 @@
     "gpu": "Adreno 506",
     "name": "P2",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 4(1700) 5(850) 7(2600) 8(900) 20(800) 28(700) 38(2600) 40(2300) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -9746,18 +8693,10 @@
     "gpu": "Adreno 505",
     "name": "Redmi 3S/3X",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 7(2600) 38(2600) 39(1900) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -9813,18 +8752,9 @@
     "gpu": "Adreno 420",
     "name": "Galaxy S5 LTE-A",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 17(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -9883,18 +8813,9 @@
     "gpu": "Adreno 306",
     "name": "Yuphoria",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 4(1700/2100) 7(2600) 17(700) FDD, 7(2600) 40(2300) TDD LTE(Cat. 4)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -9955,18 +8876,9 @@
     "gpu": "Adreno 418",
     "name": "Mi 4c",
     "network": [
-      {
-        "bands": "850 900 1800 1900 GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 2100 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -10025,18 +8937,10 @@
     "gpu": "Adreno 530",
     "name": "Mi MIX",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 MHz HSPA, 1900 2000 MHz TD-CDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "850(B5) 1800(B3) 2100(B1) 2600(B7) MHz FDD-LTE, 1900(B39) 2300(B40) 2500(B41) 2600(B38) MHz TDD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -10095,18 +8999,10 @@
     "gpu": "Adreno 330",
     "name": "G3 (Sprint)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM; 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "25(1900) 26(850) 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -10166,18 +9062,9 @@
     "gpu": "Adreno 530",
     "name": "V20 (Sprint)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 17(700) 5(850) 4(1700/2100) 3(1800) 7(2600) 2(1900) 8(900) 20(800) 28(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -10239,18 +9126,9 @@
     "gpu": "Adreno 305",
     "name": "Galaxy Tab 3 7.0 LTE",
     "network": [
-      {
-        "bands": "800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "CDMA2000 1xEV-DO CDMA2000 1xRTT",
-        "tech": "3G"
-      },
-      {
-        "bands": "1900 MHz LTE",
-        "tech": "4G"
-      }
+      "2G CDMA",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "IR blaster",
@@ -10383,18 +9261,9 @@
     "gpu": "Adreno 306",
     "name": "K10",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1900 2100 MHz UMTS",
-        "tech": "3G"
-      },
-      {
-        "bands": "B5(850) B3(1800 +) B40(TD 2300) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -10448,18 +9317,9 @@
     "gpu": "Adreno 320",
     "name": "One (GSM)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1800 2600 MHz (International); 700 MHz and AWS Band (North America)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual front speakers",
@@ -10513,18 +9373,9 @@
     "gpu": "Adreno 320",
     "name": "One (Verizon)",
     "network": [
-      {
-        "bands": "800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "13(700)",
-        "tech": "4G"
-      }
+      "2G CDMA",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual front speakers",
@@ -10581,18 +9432,10 @@
     "gpu": "Adreno 330",
     "name": "One (M8)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1900 2100 MHz HSDPA (Sprint), 850 1900 2100 MHz HSDPA (AT&T), 850 1700 1900 2100 MHz (T-Mobile), 850 900 1900 2100 MHz HSDPA (Verizon Wireless, EMEA, Asia), CDMA2000 1xEV-DO (Sprint, Verizon Wireless)",
-        "tech": "3G"
-      },
-      {
-        "bands": "3(1800) 7(2600) 8(900) 20(800) LTE (EMEA), 1(2100) 3(1800) 7(2600) 8(900) 28(700) LTE (Asia), 4(1700/2100) 17(700) LTE (T-Mobile), 2(1900) 4(1700/2100) 5(850) 7(2600) 17(700) LTE (AT&T), 2(1900) 7(2600) 20(800) LTE (Sprint), 1(2100) 3(1800) 7(2600) 28(700) 4(1700) LTE (Verizon Wireless)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual front speakers",
@@ -10650,18 +9493,9 @@
     "gpu": "Adreno 320",
     "name": "One (M8) Dual SIM",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (SIM 1 only)",
-        "tech": "3G"
-      },
-      {
-        "bands": "3(1800) 7(2600) 8(900) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual front speakers",
@@ -10719,14 +9553,8 @@
     "gpu": "PowerVR SGX540",
     "name": "Galaxy Nexus GSM",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Proximity sensor",
@@ -10778,14 +9606,8 @@
     "gpu": "Adreno 320",
     "name": "Nexus 4",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "GPS",
@@ -10893,18 +9715,9 @@
     "gpu": "Adreno 530",
     "name": "Pixel XL",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "800 850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 21(1500), 26(850), 28(700), 32(1500), 38(2600), 39(1900), 40(2300), 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -10960,18 +9773,9 @@
     "gpu": "PowerVR SGX540",
     "name": "Droid 4",
     "network": [
-      {
-        "bands": "800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "13(700)",
-        "tech": "4G"
-      }
+      "2G CDMA",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -11030,18 +9834,10 @@
     "gpu": "Adreno 540",
     "name": "Essential PH-1",
     "network": [
-      {
-        "bands": "850, 900, 1800, 1900 MHz MHz GSM, BC0 CDMA EVDO",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700/2100(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": " 1 2 3 4 5 7 8 12 17 20 25 26 28 29 30 38 39 40 41 LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -11099,18 +9895,9 @@
     "gpu": "Adreno 405",
     "name": "Moto G3 Turbo",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 2100 MHz HSDPA (Asia), 850 900 1700 1900 2100 MHz HSDPA (Latin America, Brazil)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 7(2600) 8(900) 28(700) (Asia), 4(1700) 7(2600) 28 (700) (Latin America, Brazil)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -11161,18 +9948,9 @@
     "gpu": "Adreno 506",
     "name": "Redmi Note 4",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 20(800) 38(2600) 40(2300), 3(1800) 5(850) 40(2300) (India)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -11230,14 +10008,8 @@
     "gpu": "Adreno 225",
     "name": "Xperia T",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "MHL",
@@ -11334,18 +10106,9 @@
     "gpu": "Adreno 305",
     "name": "Ascend Mate 2 4G",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "2(1900) 4(1700/2100) 5(850) 17(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -11537,14 +10300,8 @@
     "gpu": "ARM Mali-400 MP",
     "name": "Galaxy Note 8.0 (GSM)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -11648,18 +10405,9 @@
     "gpu": "ARM Mali-400 MP",
     "name": "Galaxy Note 8.0 (LTE)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "3(1800) 7(2600) 8(900) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -11716,18 +10464,10 @@
     "gpu": "Adreno 540",
     "name": "Moto Z2 Force",
     "network": [
-      {
-        "bands": "850, 900, 1800, 1900 MHz MHz GSM, BC0 CDMA EVDO",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700/2100(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": " 1 2 3 4 5 7 8 12 17 20 25 26 28 29 30 38 39 40 41 LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -11790,18 +10530,10 @@
     "gpu": "Adreno 530",
     "name": "Mi 5s Plus",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 MHz HSPA, 1900 2000 MHz TD-CDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "850(B5) 1800(B3) 2100(B1) 2600(B7) MHz FDD-LTE, 1900(B39) 2300(B40) 2500(B41) 2600(B38) MHz TDD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -11861,14 +10593,8 @@
     "gpu": "Adreno 305",
     "name": "Xperia M",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA (C1905 and C2005), 850 1700 1900 2100 MHz HSDPA (C1904 and C2004)",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -11916,18 +10642,9 @@
     "gpu": "Adreno 405",
     "name": "Z9 Max",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1(2100) B3(1800) B3(2600) B38(TDD 2600) B39(TDD 19000) B40(TDD 2300) B41(TDD 2500)MHz",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -11986,18 +10703,9 @@
     "gpu": "Adreno 540",
     "name": "Z17",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1 3 4 5 7 8 12 20 34 38 39 40 41",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -12055,18 +10763,9 @@
     "gpu": "Adreno 320",
     "name": "Xperia ZL",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "MHL",
@@ -12121,18 +10820,9 @@
     "gpu": "Adreno 430",
     "name": "2",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA (North America), 850 900 1900 2100 MHz HSDPA (Global model)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 4(1700/2100) 5(850) 7(2600) 8(900) 12(700) 17(700) (North America), 1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 38(2600) 40(2300) 41(2500) (Global model)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -12199,18 +10889,10 @@
     "gpu": "Adreno 530",
     "name": "3 / 3T",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM (All models), CDMA2000 1xEV-DO (China / North America models)",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA (North America model), 850 900 1900 2100 MHz HSDPA (Europe / Asia / China models)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 4(1700/2100) 5(850) 7(2600) 8(900) 12(700) 17(700) 30(2300) LTE (North America model), 1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 38(2600) 40(2300) LTE (Europe / Asia models)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -12274,18 +10956,9 @@
     "gpu": "Adreno 330",
     "name": "X",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (Europe), 850 900 1700(AWS) 1900 2100 MHz (USA)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 38(2600) 40(2300) LTE (Europe), 1(2100) 2(1900) 4(1700/2100) 5(850) 7(2600) 8(900) LTE (USA)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -12339,18 +11012,11 @@
     "gpu": "Adreno 306",
     "name": "Moto G 2015",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800/850/1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA (Europe and Asia), 850 1700(AWS) 1900 2100 MHz HSDPA (US, Canada), 850 900 1700 1900 2100 MHz HSDPA (Latin America, Brazil), 850 1700 1900 MHz HSDPA (U.S. Cellular, Virgin Mobile), CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "2(1900) 4(1700) 5(850) 7(2600) 17(700) LTE (US, Canada), 1(2100) 3(1800) 7(2600) 8(900) 20(800) LTE (Europe), 4(1700) 7(2600) 28(700) LTE (Latin America, Brazil), 2(1900) 4(1700) 5(850) 12(700) 17(700) 25(1900) 26 (850) LTE (U.S. Cellular, Virgin Mobile), 1(2100) 3 (1800) 7 (2600) 8(900) 28(700) LTE (Asia)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -12398,14 +11064,8 @@
     "gpu": "Adreno 302",
     "name": "Moto E 2015",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -12452,18 +11112,9 @@
     "gpu": "Adreno 306",
     "name": "Aquaris X5",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -12526,18 +11177,9 @@
     "gpu": "Adreno 508",
     "name": "Moto X4",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1 (2100) 2 (1900) 3 (1800) 5 (850) 7 (2600) 8 (900) 20 (800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -12597,18 +11239,9 @@
     "gpu": "Adreno 306",
     "name": "Benefit A3",
     "network": [
-      {
-        "bands": "850, 900, 1800, 1900",
-        "tech": "2G"
-      },
-      {
-        "bands": "850, 900, 1900, 2100",
-        "tech": "3G"
-      },
-      {
-        "bands": "800, 1800, 2100, 2600",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -12660,18 +11293,11 @@
     "gpu": "Adreno 305",
     "name": "Moto G 4G",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (International), 850 1700 1900 2100 MHz HSDPA (T-Mobile, AT&T), CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "2(1900) 4(1700) 5(850) 17(700) (USA models), 1(800) 3(900) 7(1800) 8(2100) 20(2600) (International)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -12720,18 +11346,9 @@
     "gpu": "Adreno 405",
     "name": "Aquaris M5",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -12790,18 +11407,9 @@
     "gpu": "Adreno 508",
     "name": "Xperia XA2",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1 (2100) 2 (1900) 3 (1800) 5 (850) 7 (2600) 8 (900) 20 (800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -12857,18 +11465,10 @@
     "gpu": "Adreno 530",
     "name": "10",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA (USA)",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (EMEA), 850 900 1700(AWS) 1900 2100 MHz HSDPA (USA)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 28(700) 38(2600) 40(2300) 41(2500) (EMEA), 1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 12(700) 13(700) 17(700) 20(800) 28(700) 29(700) 30(2300) (USA)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Iceview Cases",
@@ -12918,18 +11518,10 @@
     "gpu": "Adreno 630",
     "name": "Mi MIX 2S",
     "network": [
-      {
-        "bands": "B2 / B3 / B5 / B8 GSM, BC0 / BC1 / BC6 / BC10 CDMA1X/EVDO",
-        "tech": "2G"
-      },
-      {
-        "bands": "B1 / B2 / B3 / B4 / B5 / B6 / B8 / B9 / B19 WCDMA, B34 / B39 TD-CDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1 / B2 / B3 / B4 / B5 / B7 / B8 / B12 / B13 / B17 / B18 / B19 / B20 / B25 / B26 / B27 / B28 / B29 / B30 FDD-LTE, B34 / B38 / B39 / B40 / B41 TD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -12987,18 +11579,9 @@
     "gpu": "Adreno 320",
     "name": "Xperia Tablet Z LTE",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "MHL",
@@ -13109,18 +11692,9 @@
     "gpu": "Adreno 405",
     "name": "R5/R5s (International)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSPA+ (R5), 850 900 1900 2100 MHz HSPA+ (R5s)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 4(1700/2100) 7(2600) 8(900) 17(700) 20(800) 28(700) 40(2300) LTE(Cat. 4) (R5), 1(2100) 3(1800) 7(2600) 40(2300) LTE(Cat. 4) (R5s)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -13183,18 +11757,9 @@
     "gpu": "Adreno 405",
     "name": "R7 Plus (International)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSPA+",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 40(2300) LTE(Cat. 4)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -13252,18 +11817,9 @@
     "gpu": "Adreno 405",
     "name": "R7s (International)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSPA+",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) 40(2300) LTE(Cat. 4)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -13327,18 +11883,9 @@
     "gpu": "Adreno 506",
     "name": "Moto G7",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1 (2100) 2 (1900) 3 (1800) 5 (850) 7 (2600) 8 (900) 20 (800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -13430,18 +11977,9 @@
     "gpu": "Adreno 510",
     "name": "Le 2",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 20(800) 38(2600) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -13498,14 +12036,9 @@
     "gpu": "Adreno 305",
     "name": "Galaxy S III Neo (Dual SIM)",
     "network": [
-      {
-        "bands": "850 900 1900 2100 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -13559,14 +12092,9 @@
     "gpu": "Adreno 305",
     "name": "Galaxy S III Neo (Samsung Camera)",
     "network": [
-      {
-        "bands": "850 900 1900 2100 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -13620,14 +12148,9 @@
     "gpu": "Adreno 305",
     "name": "Galaxy S III Neo (Sony Camera)",
     "network": [
-      {
-        "bands": "850 900 1900 2100 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -13684,18 +12207,9 @@
     "gpu": "ARM Mali-T720 MP2",
     "name": "Galaxy S5 Neo",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -13759,18 +12273,9 @@
     "gpu": "Adreno 540",
     "name": "Mi 6",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 38(2600) 39(1900) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -13835,18 +12340,9 @@
     "gpu": "Adreno 530",
     "name": "Pixel",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "800 850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 21(1500), 26(850), 28(700), 32(1500), 38(2600), 39(1900), 40(2300), 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -13905,18 +12401,10 @@
     "gpu": "Adreno 505",
     "name": "Redmi 4(X)",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 38(2600) 39(1900) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -13974,18 +12462,10 @@
     "gpu": "Adreno 530",
     "name": "Mi Note 2",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 MHz HSPA, 1900 2000 MHz TD-CDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "850(B5) 1800(B3) 2100(B1) 2600(B7) MHz FDD-LTE, 1900(B39) 2300(B40) 2500(B41) 2600(B38) MHz TDD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -14042,14 +12522,9 @@
     "gpu": "Adreno 306",
     "name": "Android One 2nd Gen",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 900 2100 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "20 3 7",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -14101,14 +12576,8 @@
     "gpu": "Adreno 305",
     "name": "Galaxy S4 Mini (International 3G)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -14166,14 +12635,8 @@
     "gpu": "Adreno 305",
     "name": "Galaxy S4 Mini (International Dual SIM)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Dual SIM",
@@ -14231,18 +12694,9 @@
     "gpu": "Adreno 305",
     "name": "Galaxy S4 Mini (International LTE)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "3(1800) 7(2600) 8(900) 20(800)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -14298,18 +12752,10 @@
     "gpu": "Adreno 420",
     "name": "Nexus 6",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM (All models), 800 1900 MHz CDMA (North/South American model only)",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA (North/South American model only), 800 850 900 1700 1800 1900 2100 MHz HSDPA (Afro-Eurasian models)",
-        "tech": "3G"
-      },
-      {
-        "bands": "2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 12(700) 13(700) 17(700) 25(1900) 26(850) 29(700) 41(2500) (North/South American models), 1(2100) 3(1800) 5(850) 7(2600) 8(900) 9(1800) 19(800) 20(800) 28(700) 41(2500) MHz (Afro-Eurasian models)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -14365,18 +12811,9 @@
     "gpu": "GK20A (Kepler)",
     "name": "Shield Tablet",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1700 1900 2100 MHz HSDPA (North America), 850 900 1900 2100 HSDPA (International, depending on model)",
-        "tech": "3G"
-      },
-      {
-        "bands": "2(1900) 4(1700/2100) 5(850) 7(2600) 17(700) (North America), 1(2100) 3(1800) 7(2600) 20(800) (International, depending on model)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": "None",
     "ram": "2 GB",
@@ -14422,18 +12859,11 @@
     "gpu": "PowerVR SGX540",
     "name": "Droid RAZR/RAZR MAXX (CDMA)",
     "network": [
-      {
-        "bands": "850 900 1900 2100 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 HSDPA, CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "13(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -14490,18 +12920,9 @@
     "gpu": "ARM Mali-G72 MP18",
     "name": "Galaxy S9+",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1-B8, B12-B13, B17-B20, B25-B26, B28, B38(TDD), B39-41(TDD)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -14560,18 +12981,9 @@
     "gpu": "ARM Mali-G72 MP18",
     "name": "Galaxy S9",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1-B8, B12-B13, B17-B20, B25-B26, B28, B38(TDD), B39-41(TDD)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -14628,18 +13040,9 @@
     "gpu": "Adreno 430",
     "name": "Xperia Z5",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 12(700) 17(700) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Wi-Fi Display",
@@ -14742,18 +13145,9 @@
     "gpu": "Adreno 430",
     "name": "Xperia Z5 Compact",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1 (2100) 2 (1900) 3 (1800) 4 (1700/2100) 5 (850) 7 (2600) 8 (900) 12 (700) 17 (700) 20 (800) 28 (700) 38 (2600) 40 (2300) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -14805,18 +13199,10 @@
     "gpu": "ARM Mali-400 MP4",
     "name": "Galaxy Note 2 (LTE)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM (All models), 1800 Mhz CDMA (E250L)",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (N7105/T), 850 1900 2100 MHz HSDPA (i317/M,T889/V), 1900 2100 Mhz HSDPA (E250S/K/L)",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1800 2600 MHz (N7105), 1800 2600 MHz (N7105T), 700 850 1900 (i317/M), 700 (T889/V), 850 1800 Mhz (E250S), 900 1800 MHz (E250K), 850 2100 MHz (E250L)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -14872,18 +13258,9 @@
     "gpu": "Adreno 320",
     "name": "One Max (GSM)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 1900 2100 MHz HSDPA (EMEA), 850 900 1900 2100 MHz HSDPA (Asia)",
-        "tech": "3G"
-      },
-      {
-        "bands": "3(1800) 7(2600) 8(900) 20(800) (EMEA), 1(2100) 3(1800) 7(2600) 8(900) (Asia)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual front speakers",
@@ -14940,18 +13317,9 @@
     "gpu": "Adreno 320",
     "name": "One Max (Verizon)",
     "network": [
-      {
-        "bands": "800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "1900 2100MHz HSPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "4(1700/2100) 13(700) LTE",
-        "tech": "4G"
-      }
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual front speakers",
@@ -15008,14 +13376,8 @@
     "gpu": "Adreno 305",
     "name": "Xperia L",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 2100 MHz HSPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "GPS",
@@ -15069,18 +13431,9 @@
     "gpu": "PowerVR SGX540",
     "name": "Droid Bionic",
     "network": [
-      {
-        "bands": "800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "13(700)",
-        "tech": "4G"
-      }
+      "2G CDMA",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -15130,18 +13483,9 @@
     "gpu": "Adreno 505",
     "name": "Aquaris U Plus",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -15199,18 +13543,11 @@
     "gpu": "Adreno 305",
     "name": "Moto G 2014 LTE",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (International), 850 1700 1900 2100 MHz HSDPA (T-Mobile, AT&T), CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 7(2600) 20(800)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -15266,18 +13603,9 @@
     "gpu": "Adreno 506",
     "name": "Mi A1",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 20(800) 38(2600) 40(2300), 3(1800) 5(850) 40(2300) (India)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -15337,14 +13665,10 @@
     "gpu": "Adreno 305",
     "name": "Moto G 2014",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA (International), 850 1700 1900 2100 MHz HSDPA (T-Mobile, AT&T), CDMA2000 1xEV-DO",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000"
     ],
     "peripherals": [
       "Accelerometer",
@@ -15393,18 +13717,9 @@
     "gpu": "Adreno 405",
     "name": "Yureka / Yureka Plus",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "700 1700/2100 1800 2100 2600 FDD, 2300 2600 TDD",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "GPS",
@@ -15463,10 +13778,9 @@
     "gpu": "PowerVR SGX540",
     "name": "Galaxy Nexus LTE (Verizon)",
     "network": [
-      {
-        "bands": "700 MHz (Band 13)",
-        "tech": "4G"
-      }
+      "2G CDMA",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Proximity sensor",
@@ -15521,10 +13835,9 @@
     "gpu": "PowerVR SGX540",
     "name": "Galaxy Nexus LTE (Sprint)",
     "network": [
-      {
-        "bands": "1900 MHz (Band 25)",
-        "tech": "4G"
-      }
+      "2G CDMA",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Proximity sensor",
@@ -15579,18 +13892,9 @@
     "gpu": "Adreno 225",
     "name": "Xperia V",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "MHL",
@@ -15648,18 +13952,9 @@
     "gpu": "Adreno 405",
     "name": "Axon 7 Mini",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700(AWS) 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 19(800) 20(800) 28(700) 38(2600) 40(2300) 41(2500) (Global), 1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 12(700) 13(700) 17(700) 20(800) 25(1900) 26(850) 29(700) 30(2300) 41(2500) (USA model)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -15721,14 +14016,8 @@
     "gpu": "PowerVR SGX540",
     "name": "RAZR/RAZR MAXX (GSM)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -15785,18 +14074,9 @@
     "gpu": "Adreno 530",
     "name": "V20 (US Unlocked)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 17(700) 5(850) 4(1700/2100) 3(1800) 7(2600) 2(1900) 8(900) 20(800) 28(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -15862,18 +14142,9 @@
     "gpu": "Adreno 530",
     "name": "G6 (US Unlocked)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 17(700) 5(850) 4(1700/2100) 3(1800) 7(2600) 2(1900) 8(900) 20(800) 28(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -16157,18 +14428,9 @@
     "gpu": "Adreno 405",
     "name": "G Pad X (T-Mobile)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "2(1900) 3(1800) 4(1700) 7(2600) 12(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Gyroscope",
@@ -16215,18 +14477,9 @@
     "gpu": "Adreno 306",
     "name": "Aquaris E5 4G / Aquaris E5s",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 1800 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -16290,18 +14543,9 @@
     "gpu": "Adreno 330",
     "name": "Moto X 2014",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 7(2600) 8(900) 20(800)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -16356,18 +14600,10 @@
     "gpu": "Adreno 612",
     "name": "Redmi Note 7 Pro",
     "network": [
-      {
-        "bands": "B2 / B3 / B5 / B8 GSM, BC0 CDMA1X/EVDO",
-        "tech": "2G"
-      },
-      {
-        "bands": "B1 / B2 / B3 / B4 / B5 / B6 / B8 WCDMA, B34 / B39 TD-SCDMA",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1 / B3 / B5 / B7 / B8 FDD-LTE, B34 / B38 / B39 / B40 / B41 (120MHz) TD-LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -16429,18 +14665,10 @@
     "gpu": "Adreno 330",
     "name": "G3 (Verizon)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM; 800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "4(1700) 13(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -16499,18 +14727,9 @@
     "gpu": "Adreno 530",
     "name": "V20 (Verizon)",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 17(700) 5(850) 4(1700/2100) 3(1800) 7(2600) 2(1900) 8(900) 20(800) 28(700)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -16569,14 +14788,8 @@
     "gpu": "Adreno 302",
     "name": "Optimus L70",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 2100 MHz HSDPA",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "GPS",
@@ -16629,14 +14842,8 @@
     "gpu": "Adreno 305",
     "name": "L90",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "900 1900 2100 MHz HSDPA+",
-        "tech": "3G"
-      }
+      "2G GSM",
+      "3G UMTS"
     ],
     "peripherals": [
       "Accelerometer",
@@ -16692,18 +14899,9 @@
     "gpu": "Adreno 509",
     "name": "Redmi Note 5 Pro",
     "network": [
-      {
-        "bands": "850 900 1900 2100 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 40(2300) 41(2500) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -16758,18 +14956,9 @@
     "gpu": "Adreno 306",
     "name": "Redmi 2",
     "network": [
-      {
-        "bands": "900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "3(1800) 7(2600) 38(2600) 39(1900) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Accelerometer",
@@ -16824,18 +15013,10 @@
     "gpu": "Adreno 530",
     "name": "Le Max2",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 MHz CDMA2000 1xEV-DO (China / North America models)",
-        "tech": "2G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 4(1700/2100) 5(850) 8(900) 34(2000) 39(1900)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 12(700) 17(700) 20(800) 25(1900) 26(850) 30(2300) 38(2600) 39(1900) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -16890,18 +15071,9 @@
     "gpu": "Adreno 225",
     "name": "Photon Q 4G LTE",
     "network": [
-      {
-        "bands": "800 1900 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "CDMA2000 1xEV-DO",
-        "tech": "3G"
-      },
-      {
-        "bands": "25(1900)",
-        "tech": "4G"
-      }
+      "2G CDMA",
+      "3G CDMA2000",
+      "4G LTE"
     ],
     "peripherals": [
       "Hardware keyboard",
@@ -16957,18 +15129,9 @@
     "gpu": "Adreno 320",
     "name": "Xperia Z",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 3(1800) 5(850) 7(2600) 8(900) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "MHL",
@@ -17026,18 +15189,10 @@
     "gpu": "Adreno 530",
     "name": "Z2 Plus",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 MHz CDMA",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 38(2600) 39(1900) 40(2300) 41(2500) MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -17093,18 +15248,9 @@
     "gpu": "Adreno 330",
     "name": "Xperia Z3",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1700 1900 2100 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 13(700) 17(700) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -17167,26 +15313,9 @@
     "gpu": "Adreno 330",
     "name": "Xperia Z3 Compact",
     "network": [
-      {
-        "bands": "850 / 900 / 1800 / 1900 GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "D5803: 850 / 900 / 1700 / 1900 / 2100 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "D5833: 850 / 900 / 1900 / 2100 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "D5803: 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 13(700), 17(700), 20(800) LTE",
-        "tech": "4G"
-      },
-      {
-        "bands": "D5833: 1(2100), 3(1800), 5(850), 7(2600), 8(900), 28(700), 40(2300) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -17253,18 +15382,9 @@
     "gpu": "Adreno 509",
     "name": "Aquaris X2",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 900 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -17334,18 +15454,9 @@
     "gpu": "Adreno 512",
     "name": "Aquaris X2 Pro",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 MHz HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "800 900 1800 2100 2600 MHz LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
@@ -17422,18 +15533,9 @@
     "gpu": "Adreno 506",
     "name": "Zenfone 3",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1900 2100 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 5(850) 7(2600) 8(900) 20(800) LTE",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "A-GPS",
@@ -17492,18 +15594,9 @@
     "gpu": "ARM Mali-T760 MP8",
     "name": "Galaxy S6",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1-B8, B12, B17-B20, B26",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -17563,18 +15656,9 @@
     "gpu": "ARM Mali-T760 MP8",
     "name": "Galaxy S6 Edge",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM",
-        "tech": "2G"
-      },
-      {
-        "bands": "850 900 1800 1900 HSDPA",
-        "tech": "3G"
-      },
-      {
-        "bands": "B1-B8, B12, B17-B20, B26",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Fingerprint reader",
@@ -17636,18 +15720,10 @@
     "gpu": "Adreno 530",
     "name": "Le Pro3 / Le Pro3 Elite",
     "network": [
-      {
-        "bands": "850 900 1800 1900 MHz GSM, 800 MHz CDMA ",
-        "tech": "2G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 4(1700/2100) 5(850) 8(900) 34(2000) 39(1900)",
-        "tech": "3G"
-      },
-      {
-        "bands": "1(2100) 2(1900) 3(1800) 4(1700/2100) 5(850) 7(2600) 8(900) 20(800) 38(2600) 39(1900) 40(2300) 41(2500)",
-        "tech": "4G"
-      }
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
     ],
     "peripherals": [
       "Dual SIM",
