@@ -1,0 +1,22 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "andi34": 8,
+      "andi@unlegacy-android.org": 5,
+      "invisiblek": 2,
+      "kumajaya": 1
+    },
+    "n_commits": 8,
+    "n_contributors": 4
+  }
+}

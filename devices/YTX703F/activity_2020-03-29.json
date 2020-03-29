@@ -1,0 +1,68 @@
+{
+  "30": {
+    "contributors": {
+      "BadDaemon": 1,
+      "ThEMarD": 2,
+      "baddaemon87@gmail.com": 1,
+      "jerpelea": 1,
+      "themard85@gmail.com": 2,
+      "web-flow": 1
+    },
+    "n_commits": 4,
+    "n_contributors": 6
+  },
+  "180": {
+    "contributors": {
+      "39061882+ArianK16a@users.noreply.github.com": 1,
+      "ArianK16a": 1,
+      "BadDaemon": 1,
+      "MarijnS95": 2,
+      "ThEMarD": 2,
+      "baddaemon87@gmail.com": 1,
+      "javelinanddart": 1,
+      "jerpelea": 1,
+      "marijns95@gmail.com": 2,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1,
+      "themard85@gmail.com": 1,
+      "web-flow": 1
+    },
+    "n_commits": 8,
+    "n_contributors": 13
+  },
+  "365": {
+    "contributors": {
+      "AlanStern": 3,
+      "Hamsi2k@freenet.de": 15,
+      "Quallenauge": 123,
+      "abhikuma@codeaurora.org": 12,
+      "absingh@codeaurora.org": 3,
+      "achouhan@codeaurora.org": 3,
+      "adhanoti@codeaurora.org": 12,
+      "akhandav@codeaurora.org": 3,
+      "bjavvaji@codeaurora.org": 6,
+      "dundi@codeaurora.org": 3,
+      "gkathpal@codeaurora.org": 3,
+      "info@janforman.com": 3,
+      "janforman": 3,
+      "javelinanddart": 3,
+      "jerpelea": 1,
+      "lifeng@codeaurora.org": 3,
+      "mathieuchartier": 3,
+      "mikeNG": 15,
+      "minliu@codeaurora.org": 3,
+      "mkbestas@lineageos.org": 15,
+      "mohapatr@codeaurora.org": 9,
+      "nathanchance": 3,
+      "philipcuadra@google.com": 3,
+      "rsirasan@codeaurora.org": 6,
+      "sgirigow@codeaurora.org": 6,
+      "tpragasp@codeaurora.org": 6,
+      "viswanat@codeaurora.org": 3,
+      "web-flow": 1,
+      "ysriramg@codeaurora.org": 12
+    },
+    "n_commits": 50,
+    "n_contributors": 29
+  }
+}
