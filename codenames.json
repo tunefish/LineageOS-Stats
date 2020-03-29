@@ -177,7 +177,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 b/g/n/ac"
   },
@@ -2955,7 +2956,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -3013,7 +3015,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -3071,7 +3074,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -3129,7 +3133,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -3185,7 +3190,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -3241,7 +3247,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -3297,7 +3304,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -3354,7 +3362,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -4079,7 +4088,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -4770,7 +4780,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -5323,7 +5334,8 @@
     "tree": "android_device_lge_h830",
     "vendor": "LG",
     "versions": [
-      14.1
+      14.1,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -5385,7 +5397,8 @@
     "tree": "android_device_lge_h850",
     "vendor": "LG",
     "versions": [
-      14.1
+      14.1,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -5514,7 +5527,8 @@
     "tree": "android_device_lge_h910",
     "vendor": "LG",
     "versions": [
-      14.1
+      14.1,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -5582,7 +5596,79 @@
     "tree": "android_device_lge_h918",
     "vendor": "LG",
     "versions": [
-      14.1
+      14.1,
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+  },
+  "h990": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3200,
+      "removable": true,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "4.2"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "16 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "8 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "h990",
+    "cpu": "Kryo",
+    "cpu_cores": "4",
+    "cpu_freq": "2 x 2.15 GHz + 2 x 1.6 GHz",
+    "gpu": "Adreno 530",
+    "name": "V20 (Global)",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Proximity sensor",
+      "Compass",
+      "Barometer",
+      "Color spectrum sensor",
+      "Light sensor",
+      "GPS",
+      "IR blaster",
+      "Infrared sensor",
+      "Mobility DisplayPort (MyDP)",
+      "NFC",
+      "USB OTG",
+      "FM radio",
+      "Dual SIM"
+    ],
+    "ram": "4 GB",
+    "release": "2016-10",
+    "screen": "144.78 mm (5.7 in)",
+    "screen_res": "2560x1440",
+    "screen_tech": "IPS LCD",
+    "sdcard": "up to 2TB",
+    "soc": "Qualcomm MSM8996 Snapdragon 820",
+    "tree": "android_device_lge_h990",
+    "vendor": "LG",
+    "versions": [
+      14.1,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -6870,7 +6956,8 @@
     "tree": "android_device_samsung_jactivelte",
     "vendor": "Samsung",
     "versions": [
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -7211,7 +7298,8 @@
     "vendor": "Samsung",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -7276,7 +7364,8 @@
     "tree": "android_device_samsung_jfltespr",
     "vendor": "Samsung",
     "versions": [
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -7342,7 +7431,8 @@
     "vendor": "Samsung",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -7406,7 +7496,8 @@
     "vendor": "Samsung",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -7470,7 +7561,8 @@
     "vendor": "Samsung",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -9092,7 +9184,8 @@
     "tree": "android_device_lge_ls997",
     "vendor": "LG",
     "versions": [
-      14.1
+      14.1,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -9459,7 +9552,8 @@
     "vendor": "HTC",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 b/g/n/ac 2.4/5GHz"
   },
@@ -9519,7 +9613,8 @@
     "vendor": "HTC",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 b/g/n/ac 2.4/5GHz"
   },
@@ -11947,6 +12042,76 @@
     ],
     "wifi": "802.11n 2x2 Mimo 2.4 GHz and 5 GHz"
   },
+  "rs988": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 2800,
+      "removable": true,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "4.2"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "16 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "8 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "rs988",
+    "cpu": "Kryo",
+    "cpu_cores": "4",
+    "cpu_freq": "2 x 2.15 GHz + 2 x 1.6 GHz",
+    "gpu": "Adreno 530",
+    "name": "G5 (US Unlocked)",
+    "network": [
+      "2G CDMA",
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Proximity sensor",
+      "Compass",
+      "Barometer",
+      "Color spectrum sensor",
+      "Light sensor",
+      "GPS",
+      "IR blaster",
+      "Infrared sensor",
+      "Mobility DisplayPort (MyDP)",
+      "NFC",
+      "USB OTG"
+    ],
+    "ram": "4 GB",
+    "release": "2016-02",
+    "screen": "134.62 mm (5.3 in)",
+    "screen_res": "2560x1440",
+    "screen_tech": "IPS LCD",
+    "sdcard": "up to 2TB",
+    "soc": "Qualcomm MSM8996 Snapdragon 820",
+    "tree": "android_device_lge_rs988",
+    "vendor": "LG",
+    "versions": [
+      15.1,
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+  },
   "s2": {
     "architecture": "arm64",
     "battery": {
@@ -14104,7 +14269,7 @@
     "tree": "android_device_lge_us996",
     "vendor": "LG",
     "versions": [
-      14.1
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -14689,7 +14854,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -14757,7 +14923,8 @@
     "tree": "android_device_lge_vs995",
     "vendor": "LG",
     "versions": [
-      14.1
+      14.1,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
