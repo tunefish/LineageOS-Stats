@@ -1,0 +1,36 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "johnsonnolen@gmail.com": 6,
+      "npjohnson": 7
+    },
+    "n_commits": 7,
+    "n_contributors": 3
+  },
+  "365": {
+    "contributors": {
+      "Beanstown": 3,
+      "Dees-Troy": 1,
+      "Flex1911": 1,
+      "bgcngm": 1,
+      "ciwrl": 1,
+      "dhacker29": 4,
+      "jeffvanderstoep": 1,
+      "johnsonnolen@gmail.com": 21,
+      "jrior001": 2,
+      "kuh@google.com": 1,
+      "npjohnson": 42,
+      "rpius@google.com": 4,
+      "webgeek1234": 1,
+      "zhangjerry@google.com": 1
+    },
+    "n_commits": 42,
+    "n_contributors": 14
+  }
+}
