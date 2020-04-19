@@ -1,0 +1,50 @@
+{
+  "30": {
+    "contributors": {
+      "BadDaemon": 2,
+      "baddaemon87@gmail.com": 2,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "aviraxp": 2,
+      "baddaemon87@gmail.com": 1,
+      "dannybaumann@web.de": 5,
+      "luk1337": 1,
+      "maniac103": 11,
+      "rmk+kernel@arm.linux.org.uk": 1,
+      "subbaram@codeaurora.org": 2,
+      "sundongahn@google.com": 1,
+      "wildea01": 1
+    },
+    "n_commits": 13,
+    "n_contributors": 10
+  },
+  "365": {
+    "contributors": {
+      "416810799@qq.com": 2,
+      "aleasto": 2,
+      "ales.astone@gmail.com": 2,
+      "aviraxp": 6,
+      "bgcngm": 2,
+      "cyberwalkman": 1,
+      "dannybaumann@web.de": 10,
+      "dh.herrmann@gmail.com": 1,
+      "firefox883@gmail.com": 1,
+      "jrior001": 3,
+      "luca020400": 2,
+      "maniac103": 12,
+      "mikeNG": 23,
+      "mkbestas@lineageos.org": 17,
+      "nicknitewolf": 3,
+      "wildea01": 1
+    },
+    "n_commits": 26,
+    "n_contributors": 16
+  }
+}
