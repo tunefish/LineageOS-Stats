@@ -119,7 +119,8 @@
     "tree": "android_device_yandex_Amber",
     "vendor": "Yandex",
     "versions": [
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -2808,6 +2809,71 @@
       16.0
     ],
     "wifi": "802.11 b/g/n"
+  },
+  "crownlte": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4000,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "12 MP , f/1.5/2.4"
+      },
+      {
+        "flash": "LED",
+        "info": "12 MP , f/2.4"
+      },
+      {
+        "flash": "",
+        "info": "8 MP, f/1.7"
+      }
+    ],
+    "codename": "crownlte",
+    "cpu": "Exynos M3 & Cortex-A55",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.8 GHz + 4 x 1.7 GHz",
+    "gpu": "ARM Mali-G72 MP18",
+    "name": "Galaxy Note 9",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Heart rate sensor",
+      "Motion Coprocessor",
+      "Accelerometer",
+      "Gesture sensor",
+      "Gyroscope",
+      "Proximity sensor",
+      "Compass",
+      "Barometer",
+      "Hall effect sensor",
+      "RGB ambient light"
+    ],
+    "ram": "6/8 GB",
+    "release": "2018-08-09",
+    "screen": "162.5 mm (6.4 in)",
+    "screen_res": "2960x1440",
+    "screen_tech": "Quad HD+ Super AMOLED",
+    "sdcard": "up to 400 GB",
+    "soc": "Samsung Exynos 9810",
+    "tree": "android_device_samsung_crownlte",
+    "vendor": "Samsung",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
   },
   "d2att": {
     "architecture": "arm",
@@ -13552,7 +13618,8 @@
     "tree": "android_device_samsung_star2lte",
     "vendor": "Samsung",
     "versions": [
-      15.1
+      15.1,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
   },
@@ -13613,7 +13680,8 @@
     "tree": "android_device_samsung_starlte",
     "vendor": "Samsung",
     "versions": [
-      15.1
+      15.1,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
   },
