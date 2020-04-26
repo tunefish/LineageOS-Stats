@@ -1,0 +1,46 @@
+{
+  "30": {
+    "contributors": {
+      "115ek": 23,
+      "aleasto": 1,
+      "arajguru@codeaurora.org": 1,
+      "aviraxp": 2,
+      "bgcngm": 2,
+      "danw": 1,
+      "dongjinguang-china": 1,
+      "drusso@codeaurora.org": 1,
+      "e.blosz@hotmail.de": 2,
+      "feizhang@codeaurora.org": 1,
+      "ghostrider-reborn": 1,
+      "haggertk": 1,
+      "kyamada@codeaurora.org": 1,
+      "ngeoffray@google.com": 1,
+      "nicknitewolf": 4,
+      "npjohnson": 1,
+      "spanic@codeaurora.org": 1,
+      "surenb@google.com": 1
+    },
+    "n_commits": 23,
+    "n_contributors": 18
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 1,
+      "jrior001": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "hpnightowl": 3,
+      "jrior001": 3,
+      "jriordan001@gmail.com": 3,
+      "mikeNG": 3,
+      "nicknitewolf": 3,
+      "nicknitewolf@lineageos.org": 3
+    },
+    "n_commits": 3,
+    "n_contributors": 6
+  }
+}

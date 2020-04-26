@@ -1,0 +1,45 @@
+{
+  "30": {
+    "contributors": {
+      "BadDaemon": 1,
+      "baddaemon87@gmail.com": 1,
+      "mikeNG": 2,
+      "mkbestas@lineageos.org": 2
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "39061882+ArianK16a@users.noreply.github.com": 1,
+      "ArianK16a": 1,
+      "BadDaemon": 1,
+      "MarijnS95": 2,
+      "ThEMarD": 4,
+      "baddaemon87@gmail.com": 1,
+      "javelinanddart": 1,
+      "jerpelea": 2,
+      "marijns95@gmail.com": 2,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1,
+      "themard85@gmail.com": 3,
+      "web-flow": 2
+    },
+    "n_commits": 11,
+    "n_contributors": 13
+  },
+  "365": {
+    "contributors": {
+      "Hamsi2k@freenet.de": 3,
+      "Quallenauge": 3,
+      "info@janforman.com": 3,
+      "janforman": 3,
+      "jerpelea": 1,
+      "mikeNG": 12,
+      "mkbestas@lineageos.org": 12,
+      "web-flow": 1
+    },
+    "n_commits": 9,
+    "n_contributors": 8
+  }
+}
