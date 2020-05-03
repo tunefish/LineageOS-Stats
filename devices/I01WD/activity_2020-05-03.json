@@ -1,0 +1,83 @@
+{
+  "30": {
+    "contributors": {
+      "luca.stefani.ge1@gmail.com": 4,
+      "luca020400": 4,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1
+    },
+    "n_commits": 5,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 3,
+      "TinyWindzz": 2,
+      "Villemoes": 2,
+      "aiquny@codeaurora.org": 2,
+      "andy-shev": 6,
+      "baddaemon87@gmail.com": 3,
+      "blong@codeaurora.org": 2,
+      "brauner": 34,
+      "hridya@google.com": 14,
+      "luca.stefani.ge1@gmail.com": 31,
+      "luca020400": 113,
+      "maco@android.com": 2,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1,
+      "pkondeti@codeaurora.org": 8,
+      "sherryy@android.com": 2,
+      "tkjos@android.com": 6,
+      "weiyongjun1@huawei.com": 2
+    },
+    "n_commits": 62,
+    "n_contributors": 18
+  },
+  "365": {
+    "contributors": {
+      "BeYkeRYkt": 3,
+      "Demon000": 3,
+      "OrdenKrieger": 18,
+      "OrdenKriegerEDR@googlemail.com": 15,
+      "PeterCxy": 9,
+      "Rashed97": 3,
+      "adharmap@codeaurora.org": 1,
+      "aiquny@codeaurora.org": 3,
+      "arter97": 7,
+      "avilaj@codeaurora.org": 1,
+      "aviraxp": 5,
+      "bryanh@codeaurora.org": 3,
+      "dianlujitao": 2,
+      "fenglinw@codeaurora.org": 3,
+      "hansson@google.com": 4,
+      "hridya@google.com": 4,
+      "intervigilium": 3,
+      "javelinanddart": 1,
+      "jesec": 3,
+      "jmtrivi": 3,
+      "kholk": 3,
+      "loganchien": 2,
+      "luca.stefani.ge1@gmail.com": 272,
+      "luca020400": 447,
+      "luk1337": 46,
+      "maniac103": 3,
+      "mikeNG": 3,
+      "mkbestas@lineageos.org": 3,
+      "pcacjr": 1,
+      "pkondeti@codeaurora.org": 20,
+      "priv.luk@gmail.com": 3,
+      "pujag@codeaurora.org": 1,
+      "rago@google.com": 3,
+      "robherring": 16,
+      "smuckle.linux@gmail.com": 1,
+      "tbao@google.com": 2,
+      "thestinger": 3,
+      "tomascus": 6,
+      "torvalds": 1,
+      "vladimiroltean": 3,
+      "weivincewang": 3
+    },
+    "n_commits": 230,
+    "n_contributors": 41
+  }
+}

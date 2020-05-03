@@ -1,0 +1,24 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 1,
+      "aviraxp": 3,
+      "johnsonnolen@gmail.com": 6,
+      "mikeNG": 3,
+      "mkbestas@lineageos.org": 3,
+      "npjohnson": 10
+    },
+    "n_commits": 5,
+    "n_contributors": 6
+  }
+}
