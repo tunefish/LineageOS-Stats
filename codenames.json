@@ -543,7 +543,6 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 9600,
-      "fastcharge": true,
       "removable": false,
       "tech": "Li-Ion"
     },
@@ -601,7 +600,6 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 9600,
-      "fastcharge": true,
       "removable": false,
       "tech": "Li-Ion"
     },
@@ -4469,7 +4467,6 @@
       {
         "Find 7a": {
           "capacity": 2800,
-          "fastcharge": true,
           "removable": true,
           "tech": "Li-Po"
         }
@@ -4477,7 +4474,6 @@
       {
         "Find 7s": {
           "capacity": 3000,
-          "fastcharge": true,
           "removable": true,
           "tech": "Li-Po"
         }
@@ -10393,7 +10389,8 @@
     "tree": "android_device_essential_mata",
     "vendor": "Essential",
     "versions": [
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -10828,7 +10825,6 @@
     "architecture": "arm",
     "battery": {
       "capacity": 3000,
-      "fastcharge": true,
       "removable": false,
       "tech": "Li-Po"
     },
@@ -16368,7 +16364,6 @@
     "architecture": "arm64",
     "battery": {
       "capacity": 2600,
-      "fastcharge": true,
       "removable": false,
       "tech": "Li-Po"
     },
