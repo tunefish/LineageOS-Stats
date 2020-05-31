@@ -1007,7 +1007,8 @@
     "tree": "android_device_samsung_a3xelte",
     "vendor": "Samsung",
     "versions": [
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 b/g/n"
   },
@@ -1072,7 +1073,8 @@
     "tree": "android_device_samsung_a5xelte",
     "vendor": "Samsung",
     "versions": [
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 b/g/n"
   },
@@ -10868,6 +10870,60 @@
     ],
     "wifi": "Dual-band Wi-Fi 802.11 a/b/g/n/ac"
   },
+  "ms013g": {
+    "architecture": {
+      "cpu": "arm",
+      "userspace": "arm"
+    },
+    "battery": {
+      "capacity": 2600,
+      "removable": true,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "spec": "4.0 + LE"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "8 MP"
+      },
+      {
+        "flash": "",
+        "info": "1.9 MP"
+      }
+    ],
+    "codename": "ms013g",
+    "cpu": "Cortex-A7",
+    "cpu_cores": "4",
+    "cpu_freq": "1.2 GHz",
+    "gpu": "Adreno 305",
+    "name": "Galaxy Grand 2 Duos",
+    "network": [
+      "2G CDMA",
+      "2G GSM",
+      "3G UMTS"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Proximity sensor",
+      "Compass",
+      "GPS"
+    ],
+    "ram": "1.5 GB",
+    "release": "2013-11-25",
+    "screen": "133.3 mm (5.25 in)",
+    "screen_res": "1280x720",
+    "screen_tech": "TFT capacitive touchscreen",
+    "sdcard": "up to 64 GB",
+    "soc": "Qualcomm MSM8226 Snapdragon 400",
+    "tree": "android_device_samsung_ms013g",
+    "vendor": "Samsung",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n"
+  },
   "mt2": {
     "architecture": "arm",
     "battery": {
@@ -11583,6 +11639,68 @@
     ],
     "wifi": "802.11 a/b/g/n, 2.4GHz/5GHz, Wi-Fi Direct, DLNA, Hotspot"
   },
+  "onclite": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4000,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "4.2"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "12MP + 2MP AI Dual Camera"
+      },
+      {
+        "flash": "",
+        "info": "8MP Selfie camera"
+      }
+    ],
+    "codename": "onclite",
+    "cpu": "Kryo",
+    "cpu_cores": "8",
+    "cpu_freq": "1.8 GHz",
+    "gpu": "Adreno 506",
+    "name": "Redmi 7",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "BeiDou",
+      "Compass",
+      "Dual SIM",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "IR blaster",
+      "Proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
+    ],
+    "ram": "2/3 GB",
+    "release": "2019-03",
+    "screen": "15.9 mm (6.26 in)",
+    "screen_res": "1520x720",
+    "screen_tech": "IPS LCD",
+    "sdcard": "up to 512 GB",
+    "soc": "Qualcomm MSM8953 Snapdragon 632",
+    "tree": "android_device_xiaomi_onclite",
+    "vendor": "Xiaomi",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+  },
   "oneplus2": {
     "architecture": "arm64",
     "battery": {
@@ -11634,7 +11752,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "2.4GHz 802.11 b/g/n and 5GHz 802.11 a/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"
   },
@@ -13100,7 +13219,8 @@
     "tree": "android_device_samsung_s5neolte",
     "vendor": "Samsung",
     "versions": [
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -15946,7 +16066,7 @@
     },
     "bluetooth": {
       "profiles": [
-        "A2DP"
+        "A2DP + aptX HD"
       ],
       "spec": "5"
     },
@@ -15984,7 +16104,7 @@
       "Infrared sensor",
       "FM radio"
     ],
-    "ram": "4/6 GB",
+    "ram": "3 GB / 4 GB / 6 GB (LPDDR4X)",
     "release": "2018-02",
     "screen": "152.1 mm (5.99 in)",
     "screen_res": "2160x1080",
@@ -15994,7 +16114,8 @@
     "tree": "android_device_xiaomi_whyred",
     "vendor": "Xiaomi",
     "versions": [
-      15.1
+      15.1,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
   },
