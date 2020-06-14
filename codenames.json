@@ -4860,7 +4860,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
@@ -6253,7 +6254,8 @@
     "tree": "android_device_motorola_harpia",
     "vendor": "Motorola",
     "versions": [
-      14.1
+      14.1,
+      17.1
     ],
     "wifi": "Wi-Fi 802.11 b/g/n, Hotspot"
   },
@@ -9690,7 +9692,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
@@ -9956,7 +9959,8 @@
     "tree": "android_device_motorola_lux",
     "vendor": "Motorola",
     "versions": [
-      14.1
+      14.1,
+      17.1
     ],
     "wifi": "802.11 a/g/b/n, Dual-band"
   },
@@ -10644,7 +10648,8 @@
     "tree": "android_device_motorola_merlin",
     "vendor": "Motorola",
     "versions": [
-      14.1
+      14.1,
+      17.1
     ],
     "wifi": "802.11 b/g/n, Hotspot"
   },
@@ -11404,7 +11409,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
@@ -11943,7 +11949,8 @@
     "tree": "android_device_motorola_osprey",
     "vendor": "Motorola",
     "versions": [
-      14.1
+      14.1,
+      17.1
     ],
     "wifi": "802.11 b/g/n, Hotspot"
   },
@@ -13478,7 +13485,8 @@
     "vendor": "Xiaomi",
     "versions": [
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
@@ -14101,7 +14109,8 @@
     "tree": "android_device_motorola_surnia",
     "vendor": "Motorola",
     "versions": [
-      14.1
+      14.1,
+      17.1
     ],
     "wifi": "Wi-Fi 802.11 b/g/n"
   },
