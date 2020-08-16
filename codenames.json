@@ -1204,9 +1204,75 @@
     "vendor": "Samsung",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
+  },
+  "a7xelte": {
+    "architecture": {
+      "cpu": "arm64",
+      "userspace": "arm"
+    },
+    "battery": {
+      "capacity": 3300,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "4.1"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "13 MP"
+      },
+      {
+        "flash": "",
+        "info": "5 MP"
+      }
+    ],
+    "codename": "a7xelte",
+    "cpu": "Cortex-A53",
+    "cpu_cores": "8",
+    "cpu_freq": "1.6 GHz",
+    "gpu": "ARM Mali-T720 MP2",
+    "name": "Galaxy A7 (2016)",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
+      "Fingerprint reader",
+      "GLONASS",
+      "GPS",
+      "NFC",
+      "Proximity sensor",
+      "RGB ambient light",
+      "Sensor hub",
+      "USB OTG",
+      "Wi-Fi Display"
+    ],
+    "ram": "3 GB",
+    "release": "2015-12",
+    "screen": "139.7 mm (5.5 in)",
+    "screen_res": "1920x1080",
+    "screen_tech": "Super AMOLED",
+    "sdcard": "up to 256 GB",
+    "soc": "Samsung Exynos 7580",
+    "tree": "android_device_samsung_a7xelte",
+    "vendor": "Samsung",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 b/g/n"
   },
   "a7y17lte": {
     "architecture": "arm64",
@@ -1272,7 +1338,8 @@
     "vendor": "Samsung",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -1970,6 +2037,72 @@
       17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+  },
+  "blueline": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 2915,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "12.2 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "blueline",
+    "cpu": "Kryo 385",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.5 GHz + 4 x 1.6 GHz",
+    "gpu": "Adreno 630",
+    "name": "Pixel 3",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Barometer",
+      "BeiDou",
+      "Compass",
+      "Dual front speakers",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "Qi wireless charging",
+      "USB OTG"
+    ],
+    "ram": "4 GB",
+    "release": "2018-10",
+    "screen": "139.7 mm (5.5 in)",
+    "screen_res": "2160x1080",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SDM845 Snapdragon 845",
+    "tree": "android_device_google_blueline",
+    "vendor": "Google",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
   "bullhead": {
     "architecture": "arm64",
@@ -2931,6 +3064,72 @@
       17.1
     ],
     "wifi": "802.11 b/g/n"
+  },
+  "crosshatch": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3430,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "12.2 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "crosshatch",
+    "cpu": "Kryo 385",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.5 GHz + 4 x 1.6 GHz",
+    "gpu": "Adreno 630",
+    "name": "Pixel 3 XL",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Barometer",
+      "BeiDou",
+      "Compass",
+      "Dual front speakers",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "Qi wireless charging",
+      "USB OTG"
+    ],
+    "ram": "4 GB",
+    "release": "2018-10",
+    "screen": "160 mm (6.3 in)",
+    "screen_res": "2960x1440",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SDM845 Snapdragon 845",
+    "tree": "android_device_google_crosshatch",
+    "vendor": "Google",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
   "crownlte": {
     "architecture": "arm64",
