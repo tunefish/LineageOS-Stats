@@ -417,7 +417,8 @@
     "tree": "android_device_realme_RMX1801",
     "vendor": "Realme",
     "versions": [
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, 2.4/5GHz, Hotspot"
   },
