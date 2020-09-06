@@ -1579,6 +1579,62 @@
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
+  "anne": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3000,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "4.2"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "16 MP + 2 MP"
+      },
+      {
+        "flash": "",
+        "info": "16 MP"
+      }
+    ],
+    "codename": "anne",
+    "cpu": "Cortex-A53 & Cortex-A53",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.36 GHz + 4 x 1.7 GHz",
+    "gpu": "ARM Mali-T830 MP2",
+    "name": "P20 Lite",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Proximity sensor",
+      "Compass",
+      "GPS"
+    ],
+    "ram": "4 GB",
+    "release": "2018-03",
+    "screen": "148.6 mm (5.84 in)",
+    "screen_res": "1080x2240",
+    "screen_tech": "IPS",
+    "sdcard": "up to 256 GB",
+    "soc": "HiSilicon Kirin 659",
+    "tree": "android_device_huawei_anne",
+    "vendor": "Huawei",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"
+  },
   "armani": {
     "architecture": "arm",
     "battery": {
@@ -2099,6 +2155,72 @@
     "sdcard": "?",
     "soc": "Qualcomm SDM845 Snapdragon 845",
     "tree": "android_device_google_blueline",
+    "vendor": "Google",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+  },
+  "bonito": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3700,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "12.2 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "bonito",
+    "cpu": "Kryo 360",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.0 GHz + 4 x 1.7 GHz",
+    "gpu": "Adreno 615",
+    "name": "Pixel 3a XL",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Barometer",
+      "BeiDou",
+      "Compass",
+      "Dual front speakers",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "Qi wireless charging",
+      "USB OTG"
+    ],
+    "ram": "4 GB",
+    "release": "2019-04",
+    "screen": "152.4 mm (6.0 in)",
+    "screen_res": "2160x1080",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SDM670 Snapdragon 670",
+    "tree": "android_device_google_bonito",
     "vendor": "Google",
     "versions": [
       17.1
@@ -3061,6 +3183,79 @@
       14.1
     ],
     "wifi": "802.11 b/g/n, Hotspot"
+  },
+  "coral": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3700,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "12.2 MP"
+      },
+      {
+        "flash": "",
+        "info": "16 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "coral",
+    "cpu": "Kryo 485",
+    "cpu_cores": "8",
+    "cpu_freq": "1 x 2.84 GHz + 3 x 2.42 GHz + 4 x 1.78 GHz",
+    "gpu": "Adreno 640",
+    "name": "Pixel 4 XL",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Barometer",
+      "BeiDou",
+      "Compass",
+      "Depth Sensor",
+      "Dot Projector",
+      "Dual front speakers",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "Qi wireless charging",
+      "Radar",
+      "USB OTG"
+    ],
+    "ram": "6 GB",
+    "release": "2019-09",
+    "screen": "160.02 mm (6.3 in)",
+    "screen_res": "2280x1080",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "tree": "android_device_google_coral",
+    "vendor": "Google",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
   "crackling": {
     "architecture": "arm64",
@@ -4846,6 +5041,62 @@
     ],
     "wifi": "Wi-Fi 802.11 b/g/n, Hotspot"
   },
+  "figo": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3000,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "4.2"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "13 MP + 2 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "figo",
+    "cpu": "Cortex-A53 & Cortex-A53",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.36 GHz + 4 x 1.7 GHz",
+    "gpu": "ARM Mali-T830 MP2",
+    "name": "P Smart",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Proximity sensor",
+      "Compass",
+      "GPS"
+    ],
+    "ram": "4 GB",
+    "release": "2017-12",
+    "screen": "150.1 mm (5.65 in)",
+    "screen_res": "1080x2160",
+    "screen_tech": "IPS",
+    "sdcard": "up to 256 GB",
+    "soc": "HiSilicon Kirin 659",
+    "tree": "android_device_huawei_figo",
+    "vendor": "Huawei",
+    "versions": [
+      16.0
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"
+  },
   "find7": {
     "architecture": "arm",
     "battery": [
@@ -4920,6 +5171,79 @@
       16.0
     ],
     "wifi": "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+  },
+  "flame": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3430,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "12.2 MP"
+      },
+      {
+        "flash": "",
+        "info": "16 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "flame",
+    "cpu": "Kryo 485",
+    "cpu_cores": "8",
+    "cpu_freq": "1 x 2.84 GHz + 3 x 2.42 GHz + 4 x 1.78 GHz",
+    "gpu": "Adreno 640",
+    "name": "Pixel 4",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Barometer",
+      "BeiDou",
+      "Compass",
+      "Depth Sensor",
+      "Dot Projector",
+      "Dual front speakers",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "Qi wireless charging",
+      "Radar",
+      "USB OTG"
+    ],
+    "ram": "6 GB",
+    "release": "2019-09",
+    "screen": "144.78 mm (5.7 in)",
+    "screen_res": "2280x1080",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "tree": "android_device_google_flame",
+    "vendor": "Google",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
   "flo": {
     "architecture": "arm",
@@ -13995,6 +14319,72 @@
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, Hotspot"
   },
+  "sargo": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3000,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "12.2 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "sargo",
+    "cpu": "Kryo 360",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.0 GHz + 4 x 1.7 GHz",
+    "gpu": "Adreno 615",
+    "name": "Pixel 3a",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Barometer",
+      "BeiDou",
+      "Compass",
+      "Dual front speakers",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "Qi wireless charging",
+      "USB OTG"
+    ],
+    "ram": "4 GB",
+    "release": "2019-04",
+    "screen": "142.2 mm (5.6 in)",
+    "screen_res": "2220x1080",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SDM670 Snapdragon 670",
+    "tree": "android_device_google_sargo",
+    "vendor": "Google",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+  },
   "scorpio": {
     "architecture": "arm64",
     "battery": {
@@ -14913,6 +15303,72 @@
       14.1
     ],
     "wifi": "802.11 a/b/g/n/ac 2.4/5GHz"
+  },
+  "taimen": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3520,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "12.2 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "taimen",
+    "cpu": "Kryo 280",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.35 GHz + 4 x 1.9 GHz",
+    "gpu": "Adreno 540",
+    "name": "Pixel 2 XL",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Barometer",
+      "BeiDou",
+      "Compass",
+      "Dual front speakers",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "USB OTG"
+    ],
+    "ram": "4 GB",
+    "release": "2017-10",
+    "screen": "152.4 mm (6 in)",
+    "screen_res": "1440x2880",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SDM835 Snapdragon 835",
+    "tree": "android_device_google_taimen",
+    "vendor": "Google",
+    "versions": [
+      16.0,
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
   "taoshan": {
     "architecture": "arm",
@@ -16566,6 +17022,72 @@
       14.1
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, DLNA, Hotspot"
+  },
+  "walleye": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 2700,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "12.2 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "walleye",
+    "cpu": "Kryo 280",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.35 GHz + 4 x 1.9 GHz",
+    "gpu": "Adreno 540",
+    "name": "Pixel 2",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Barometer",
+      "BeiDou",
+      "Compass",
+      "Dual front speakers",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "USB OTG"
+    ],
+    "ram": "4 GB",
+    "release": "2017-10",
+    "screen": "127 mm (5 in)",
+    "screen_res": "1080x1920",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SDM835 Snapdragon 835",
+    "tree": "android_device_google_muskie",
+    "vendor": "Google",
+    "versions": [
+      16.0,
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
   "wayne": {
     "architecture": "arm64",
