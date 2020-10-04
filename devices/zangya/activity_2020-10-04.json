@@ -1,0 +1,70 @@
+{
+  "30": {
+    "contributors": {
+      "infra@lineageos.org": 5,
+      "lineageos-gerrit": 5
+    },
+    "n_commits": 3,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "jenkins@bqbot.bq.local": 1,
+      "mikeNG": 10,
+      "mkbestas@lineageos.org": 10,
+      "oedesede@h4kamp.de": 1
+    },
+    "n_commits": 6,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 2,
+      "Kra1o5": 13,
+      "ThEMarD": 6,
+      "ajaya@codeaurora.org": 1,
+      "akdwived": 1,
+      "amitpc@codeaurora.org": 1,
+      "apsrir@codeaurora.org": 2,
+      "baddaemon87@gmail.com": 2,
+      "bmanoj@codeaurora.org": 1,
+      "cabsriv@codeaurora.org": 1,
+      "cjkonat@codeaurora.org": 2,
+      "code-review@localhost": 44,
+      "dikshita@codeaurora.org": 2,
+      "drosen@google.com": 2,
+      "eloimuns": 32,
+      "eloimuns@gmail.com": 17,
+      "grajagop@codeaurora.org": 1,
+      "hdhatt@codeaurora.org": 1,
+      "javelinanddart": 1,
+      "jenkins@bqbot.bq.local": 6,
+      "kra1o5x@gmail.com": 6,
+      "lnxbuild@localhost": 32,
+      "madisuma@codeaurora.org": 3,
+      "maggarwa@codeaurora.org": 1,
+      "mgolani@codeaurora.org": 1,
+      "mifl": 8,
+      "mifl.pc@gmail.com": 1,
+      "mikeNG": 4,
+      "mkbestas@lineageos.org": 4,
+      "msunfeer@codeaurora.org": 2,
+      "mtharu@codeaurora.org": 1,
+      "nabrah@codeaurora.org": 1,
+      "nankam@codeaurora.org": 9,
+      "nitegupt@codeaurora.org": 1,
+      "rahsha@codeaurora.org": 1,
+      "rphani@codeaurora.org": 1,
+      "sandsing@codeaurora.org": 1,
+      "sarra@codeaurora.org": 4,
+      "shoque@codeaurora.org": 2,
+      "smanag@codeaurora.org": 8,
+      "themard85@gmail.com": 5,
+      "uchheda@codeaurora.org": 1,
+      "vavsg@codeaurora.org": 1,
+      "vvalluru@codeaurora.org": 2
+    },
+    "n_commits": 115,
+    "n_contributors": 44
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "30": {
+    "contributors": {
+      "haggertk": 1,
+      "haggertk@lineageos.org": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "115ek": 2,
+      "BadDaemon": 2,
+      "DD3Boh": 1,
+      "Flex1911": 1,
+      "adyabr@google.com": 1,
+      "aleasto": 3,
+      "arco": 2,
+      "aviraxp": 6,
+      "bgcngm": 2,
+      "chil360": 1,
+      "chrmhoffmann": 1,
+      "dupin@google.com": 1,
+      "eccopark": 1,
+      "intervigilium": 1,
+      "johnstultz-work": 1,
+      "jongwook@google.com": 1,
+      "krocard": 1,
+      "luk1337": 1,
+      "mikeNG": 1,
+      "nicknitewolf": 45,
+      "nicknitewolf@lineageos.org": 5,
+      "pcc": 1,
+      "priv.luk@gmail.com": 1,
+      "radhakrishna@codeaurora.org": 1,
+      "rmk+kernel@arm.linux.org.uk": 1,
+      "rpius@google.com": 1,
+      "sallenki@codeaurora.org": 2,
+      "sb6596": 1,
+      "shinruhan@google.com": 1,
+      "spanic@codeaurora.org": 2,
+      "subbaram@codeaurora.org": 3,
+      "sundongahn@google.com": 1,
+      "wildea01": 1
+    },
+    "n_commits": 49,
+    "n_contributors": 33
+  },
+  "365": {
+    "contributors": {
+      "115ek": 10,
+      "39061882+ArianK16a@users.noreply.github.com": 1,
+      "ArianK16a": 1,
+      "BadDaemon": 1,
+      "MarijnS95": 2,
+      "Quallenauge": 1,
+      "aleasto": 1,
+      "bgcngm": 1,
+      "dvdhrm": 4,
+      "jerpelea": 2,
+      "jrior001": 1,
+      "kholk": 1,
+      "marijns95@gmail.com": 2,
+      "nicknitewolf": 5,
+      "nicknitewolf@lineageos.org": 1,
+      "peskal@google.com": 1,
+      "utrace": 4,
+      "web-flow": 2,
+      "wildea01": 1
+    },
+    "n_commits": 21,
+    "n_contributors": 19
+  }
+}

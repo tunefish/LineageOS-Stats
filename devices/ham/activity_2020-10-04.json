@@ -1,0 +1,79 @@
+{
+  "30": {
+    "contributors": {
+      "infra@lineageos.org": 5,
+      "lineageos-gerrit": 5
+    },
+    "n_commits": 3,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "mikeNG": 10,
+      "mkbestas@lineageos.org": 10
+    },
+    "n_commits": 5,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 2,
+      "Javier-Barrio": 1,
+      "NicolasDichtel": 1,
+      "ThEMarD": 6,
+      "adyabr@google.com": 1,
+      "aleasto": 2,
+      "alecain@google.com": 2,
+      "anna-marialx": 1,
+      "arco": 2,
+      "aviraxp": 6,
+      "baddaemon87@gmail.com": 2,
+      "bgcngm": 4,
+      "cchilu@codeaurora.org": 1,
+      "chrmhoffmann": 2,
+      "cosmedd": 9,
+      "danw": 2,
+      "dhowells": 9,
+      "dickchang@google.com": 1,
+      "dupin@google.com": 2,
+      "dvdhrm": 1,
+      "error27": 1,
+      "etancohen@google.com": 2,
+      "gorcunov@openvz.org": 1,
+      "greghackmann": 1,
+      "groeck": 1,
+      "hansson@google.com": 3,
+      "invisiblek": 2,
+      "javelinanddart": 1,
+      "jesper.nilsson@axis.com": 1,
+      "johnstultz-work": 3,
+      "jongwook@google.com": 2,
+      "kyamada@codeaurora.org": 2,
+      "landley": 1,
+      "luk1337": 1,
+      "mguntaka@motorola.com": 1,
+      "michal42": 1,
+      "mikeNG": 7,
+      "mkbestas@lineageos.org": 4,
+      "nicolas.pitre@linaro.org": 1,
+      "padarshr@codeaurora.org": 2,
+      "pbalwani@codeaurora.org": 2,
+      "peskal@google.com": 2,
+      "rmk+kernel@arm.linux.org.uk": 1,
+      "rpius@google.com": 4,
+      "sb6596": 129,
+      "shinruhan@google.com": 2,
+      "shubhamprince111@gmail.com": 31,
+      "smore-lore": 1,
+      "spanic@codeaurora.org": 2,
+      "spyffe": 1,
+      "sravnborg": 1,
+      "surenb@google.com": 2,
+      "tglx@linutronix.de": 3,
+      "themard85@gmail.com": 5,
+      "wildea01": 1
+    },
+    "n_commits": 88,
+    "n_contributors": 55
+  }
+}

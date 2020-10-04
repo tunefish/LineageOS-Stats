@@ -1,0 +1,83 @@
+{
+  "30": {
+    "contributors": {
+      "yagya.parihar@gmail.com": 1,
+      "yagyaxt1034": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "javelinanddart": 1,
+      "razorloves": 3,
+      "razorloves@gmail.com": 2
+    },
+    "n_commits": 3,
+    "n_contributors": 3
+  },
+  "365": {
+    "contributors": {
+      "Rashed97": 6,
+      "ajitp@codeaurora.org": 1,
+      "alokkuma@codeaurora.org": 1,
+      "anajahi@codeaurora.org": 1,
+      "aneela@codeaurora.org": 1,
+      "animeshk@codeaurora.org": 1,
+      "annamraj@codeaurora.org": 1,
+      "benyxy@codeaurora.org": 2,
+      "bmanoj@codeaurora.org": 3,
+      "congwang": 1,
+      "daidavid1@codeaurora.org": 1,
+      "drosen@google.com": 2,
+      "ebiggers": 1,
+      "haibinl@codeaurora.org": 1,
+      "harrisonlingren": 1,
+      "harya@codeaurora.org": 3,
+      "hungyenweng@google.com": 1,
+      "intervigilium": 2,
+      "invisiblek": 4,
+      "jeremy-compostella": 1,
+      "jianminz@codeaurora.org": 1,
+      "jrizzoli": 2,
+      "kgunda@codeaurora.org": 1,
+      "kumachang@google.com": 1,
+      "kunleiz@codeaurora.org": 1,
+      "lbai@codeaurora.org": 1,
+      "lmark@codeaurora.org": 1,
+      "lokeshgidra@google.com": 1,
+      "luk1337": 2,
+      "lzye": 1,
+      "maco@android.com": 1,
+      "maggarwa@codeaurora.org": 2,
+      "migueldedios@google.com": 1,
+      "minliu@codeaurora.org": 2,
+      "mkshahc": 1,
+      "monising@codeaurora.org": 1,
+      "mtharu@codeaurora.org": 1,
+      "pkurapat@codeaurora.org": 1,
+      "rajeshk@codeaurora.org": 1,
+      "rashed@linux.com": 2,
+      "razorloves": 77,
+      "razorloves@gmail.com": 10,
+      "rpatkar@codeaurora.org": 1,
+      "skonam@codeaurora.org": 1,
+      "smalot@codeaurora.org": 1,
+      "smanag@codeaurora.org": 1,
+      "spfetsch": 1,
+      "sunilravi@google.com": 1,
+      "tbao@google.com": 2,
+      "thestinger": 2,
+      "tinlin@codeaurora.org": 1,
+      "tkjos@android.com": 1,
+      "vbucha@codeaurora.org": 2,
+      "vigneshk@codeaurora.org": 1,
+      "wugao@codeaurora.org": 1,
+      "xsang@codeaurora.org": 1,
+      "yyuwang@codeaurora.org": 1,
+      "zkong@codeaurora.org": 1
+    },
+    "n_commits": 73,
+    "n_contributors": 58
+  }
+}
