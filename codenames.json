@@ -363,6 +363,63 @@
     ],
     "wifi": "802.11 b/g/n, Hotspot"
   },
+  "PL2": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3000,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP "
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "PL2",
+    "cpu": "Cortex-A53",
+    "cpu_cores": "8",
+    "cpu_freq": "4 x 2.2 GHz + 4 x 1.8 GHz",
+    "gpu": "Adreno 508",
+    "name": "6.1 (2018)",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Proximity sensor",
+      "Compass",
+      "NFC",
+      "GPS"
+    ],
+    "ram": "3/4 GB LPDDR4X",
+    "release": 2018,
+    "screen": "139 mm (5.46 in)",
+    "screen_res": "1080x1920",
+    "screen_tech": "IPS LCD",
+    "sdcard": "up to 128 GB",
+    "soc": "Qualcomm SDM660 Snapdragon 630",
+    "tree": "android_device_nokia_PL2",
+    "vendor": "Nokia",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+  },
   "RMX1801": {
     "architecture": "arm64",
     "battery": {
@@ -4133,6 +4190,78 @@
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
+  "davinci": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4000,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "48 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "8 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "13 MP"
+      },
+      {
+        "flash": "",
+        "info": "20 MP"
+      }
+    ],
+    "codename": "davinci",
+    "cpu": "Kryo 470",
+    "cpu_cores": "8",
+    "cpu_freq": "2 x 2.2 GHz + 6 x 1.8 GHz",
+    "gpu": "Adreno 618",
+    "name": "Redmi K20 / Mi 9T",
+    "network": [
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
+      "Dual SIM",
+      "FM radio",
+      "Fingerprint reader",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "USB OTG"
+    ],
+    "ram": "6/8 GB",
+    "release": "2019-06-06",
+    "screen": "162.306 mm (6.39 in)",
+    "screen_res": "2340x1080",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SM7150-AA Snapdragon 730",
+    "tree": "android_device_xiaomi_davinci",
+    "vendor": "Xiaomi",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+  },
   "deb": {
     "architecture": "arm",
     "battery": {
@@ -7470,7 +7599,8 @@
     "vendor": "Samsung",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Hotspot"
   },
@@ -7531,7 +7661,8 @@
     "vendor": "Samsung",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Hotspot"
   },
@@ -7592,7 +7723,8 @@
     "vendor": "Samsung",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Hotspot"
   },
@@ -7653,7 +7785,8 @@
     "vendor": "Samsung",
     "versions": [
       14.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Hotspot"
   },
@@ -9517,7 +9650,7 @@
     "cpu_cores": "4",
     "cpu_freq": "2.5 GHz",
     "gpu": "Adreno 330",
-    "name": "Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8,S902L)",
+    "name": "Galaxy S5 LTE (G900F/M/R4/R7/T/V/W8)",
     "network": [
       "2G GSM",
       "3G UMTS",
@@ -9549,7 +9682,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -9578,7 +9712,7 @@
     "cpu_cores": "4",
     "cpu_freq": "2.5 GHz",
     "gpu": "Adreno 330",
-    "name": "Galaxy S5 Active",
+    "name": "Galaxy S5 Active (G870A/F)",
     "network": [
       "2G GSM",
       "3G UMTS",
@@ -9606,7 +9740,8 @@
     "vendor": "Samsung",
     "versions": [
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -9670,7 +9805,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -9737,7 +9873,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -9801,7 +9938,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -9858,7 +9996,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -9887,7 +10026,7 @@
     "cpu_cores": "4",
     "cpu_freq": "2.5 GHz",
     "gpu": "Adreno 330",
-    "name": "Galaxy S5 LTE (SCL23)",
+    "name": "Galaxy S5 LTE (SC-04F/SCL23)",
     "network": [],
     "peripherals": [
       "Fingerprint reader",
@@ -9915,7 +10054,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -9972,7 +10112,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
