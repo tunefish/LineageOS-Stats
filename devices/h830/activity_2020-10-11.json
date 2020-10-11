@@ -1,0 +1,65 @@
+{
+  "30": {
+    "contributors": {
+      "aleasto": 1,
+      "javelinanddart": 1,
+      "npjohnson": 2
+    },
+    "n_commits": 2,
+    "n_contributors": 3
+  },
+  "180": {
+    "contributors": {
+      "AlexOD@gmail.com": 4,
+      "Johannes222": 2,
+      "aleasto": 1,
+      "dianlujitao": 1,
+      "johalaoui@gmail.com": 1,
+      "npjohnson": 1,
+      "x86cpu": 2
+    },
+    "n_commits": 6,
+    "n_contributors": 7
+  },
+  "365": {
+    "contributors": {
+      "Flex1911": 2,
+      "aleasto": 3,
+      "alevy@codeaurora.org": 2,
+      "arco": 3,
+      "bgcngm": 3,
+      "bohu@google.com": 1,
+      "cabsriv@codeaurora.org": 2,
+      "daniel+lineage@schreiberseits.de": 11,
+      "danw": 1,
+      "dhakumar@codeaurora.org": 2,
+      "dianlujitao": 1,
+      "dom133": 1,
+      "eric@meddaughs.com": 5,
+      "hagraw@codeaurora.org": 2,
+      "haishalom@google.com": 2,
+      "hansson@google.com": 4,
+      "hsz@google.com": 2,
+      "intervigilium": 2,
+      "jgalenson": 2,
+      "jm2": 5,
+      "johnsonnolen@gmail.com": 1,
+      "jszhang@marvell.com": 2,
+      "kevin-brodsky-arm": 20,
+      "luk1337": 4,
+      "mikeNG": 2,
+      "mpang@codeaurora.org": 2,
+      "ngeoffray@google.com": 4,
+      "nocry22": 2,
+      "npjohnson": 103,
+      "padarshr@codeaurora.org": 4,
+      "peskal@google.com": 2,
+      "salyzyn@google.com": 32,
+      "spanic@codeaurora.org": 2,
+      "vvinay@codeaurora.org": 2,
+      "x86cpu": 32
+    },
+    "n_commits": 81,
+    "n_contributors": 35
+  }
+}

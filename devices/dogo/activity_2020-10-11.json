@@ -1,0 +1,56 @@
+{
+  "30": {
+    "contributors": {
+      "infra@lineageos.org": 5,
+      "lineageos-gerrit": 5
+    },
+    "n_commits": 3,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "AdrianDC": 1,
+      "Chippa-a": 1,
+      "esver": 2,
+      "esver@free.fr": 1,
+      "haggertk": 2,
+      "mikeNG": 10,
+      "mkbestas@lineageos.org": 10,
+      "palaych": 3,
+      "radian.dc@gmail.com": 1,
+      "z3ntu": 1
+    },
+    "n_commits": 11,
+    "n_contributors": 10
+  },
+  "365": {
+    "contributors": {
+      "AdrianDC": 10,
+      "ArianK16a": 3,
+      "BadDaemon": 2,
+      "Chippa-a": 6,
+      "ThEMarD": 6,
+      "Unpublished": 2,
+      "arco": 7,
+      "arian.kulmer@web.de": 1,
+      "baddaemon87@gmail.com": 2,
+      "bgcngm": 2,
+      "cyberwalkman": 50,
+      "dianlujitao": 2,
+      "firefox883@gmail.com": 15,
+      "ghostrider-reborn": 1,
+      "javelinanddart": 1,
+      "jeffvanderstoep": 1,
+      "jerpelea": 1,
+      "luk1337": 1,
+      "mathieuchartier": 2,
+      "mikeNG": 6,
+      "mkbestas@lineageos.org": 4,
+      "ntPx82cggrape": 1,
+      "radian.dc@gmail.com": 1,
+      "themard85@gmail.com": 5
+    },
+    "n_commits": 62,
+    "n_contributors": 24
+  }
+}

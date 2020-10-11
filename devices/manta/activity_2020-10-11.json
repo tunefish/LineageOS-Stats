@@ -1,0 +1,26 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "Lunarixus": 2,
+      "Stricted": 2
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "Stricted": 21,
+      "TO21Consortium": 3,
+      "info@stricted.net": 9,
+      "intervigilium": 6,
+      "raymanfx": 3
+    },
+    "n_commits": 7,
+    "n_contributors": 5
+  }
+}
