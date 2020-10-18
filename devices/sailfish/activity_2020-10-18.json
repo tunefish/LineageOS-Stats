@@ -1,0 +1,55 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "javelinanddart": 1,
+      "razorloves": 2,
+      "razorloves@gmail.com": 1,
+      "yagya.parihar@gmail.com": 1,
+      "yagyaxt1034": 1
+    },
+    "n_commits": 3,
+    "n_contributors": 5
+  },
+  "365": {
+    "contributors": {
+      "alokkuma@codeaurora.org": 1,
+      "animeshk@codeaurora.org": 1,
+      "bmanoj@codeaurora.org": 3,
+      "congwang": 1,
+      "daidavid1@codeaurora.org": 1,
+      "drosen@google.com": 2,
+      "ebiggers": 1,
+      "haibinl@codeaurora.org": 1,
+      "harya@codeaurora.org": 1,
+      "hungyenweng@google.com": 1,
+      "intervigilium": 2,
+      "invisiblek": 4,
+      "jianminz@codeaurora.org": 1,
+      "kgunda@codeaurora.org": 1,
+      "kumachang@google.com": 1,
+      "lbai@codeaurora.org": 1,
+      "lmark@codeaurora.org": 1,
+      "lokeshgidra@google.com": 1,
+      "lzye": 1,
+      "maco@android.com": 1,
+      "maggarwa@codeaurora.org": 2,
+      "minliu@codeaurora.org": 2,
+      "mkshahc": 1,
+      "razorloves": 42,
+      "razorloves@gmail.com": 4,
+      "rpatkar@codeaurora.org": 1,
+      "skonam@codeaurora.org": 1,
+      "sunilravi@google.com": 1,
+      "tinlin@codeaurora.org": 1,
+      "wugao@codeaurora.org": 1,
+      "yyuwang@codeaurora.org": 1
+    },
+    "n_commits": 40,
+    "n_contributors": 31
+  }
+}
