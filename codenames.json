@@ -13737,6 +13737,7 @@
       "4G LTE"
     ],
     "peripherals": [
+      "Hardware keyboard",
       "Dual SIM",
       "Fingerprint reader",
       "Accelerometer",
