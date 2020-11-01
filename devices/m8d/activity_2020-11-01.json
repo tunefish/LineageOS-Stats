@@ -1,0 +1,77 @@
+{
+  "30": {
+    "contributors": {
+      "infra@lineageos.org": 1,
+      "lineageos-gerrit": 1
+    },
+    "n_commits": 2,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "Ashwin4RC": 1,
+      "BadDaemon": 2,
+      "aleasto": 1,
+      "arco": 5,
+      "bgcngm": 27,
+      "bgcngm@gmail.com": 2,
+      "drusso@codeaurora.org": 2,
+      "greghackmann": 1,
+      "haggertk": 1,
+      "hahariha@codeaurora.org": 1,
+      "haohuang@codeaurora.org": 1,
+      "infra@lineageos.org": 5,
+      "jlask": 1,
+      "kyamada@codeaurora.org": 1,
+      "lineageos-gerrit": 5,
+      "luk1337": 1,
+      "mchellad@codeaurora.org": 1,
+      "mikeNG": 8,
+      "mkbestas@lineageos.org": 8,
+      "nareshm@codeaurora.org": 1,
+      "nathanchance": 1,
+      "ssrivast@codeaurora.org": 2,
+      "zhikait@codeaurora.org": 2
+    },
+    "n_commits": 39,
+    "n_contributors": 23
+  },
+  "365": {
+    "contributors": {
+      "ArianK16a": 6,
+      "BadDaemon": 2,
+      "ThEMarD": 7,
+      "adyabr@google.com": 2,
+      "aleasto": 1,
+      "andrzej.p@samsung.com": 1,
+      "arco": 1,
+      "arian.kulmer@web.de": 2,
+      "baddaemon87@gmail.com": 2,
+      "bgcngm": 36,
+      "bgcngm@gmail.com": 12,
+      "dvdhrm": 2,
+      "haggertk": 2,
+      "intervigilium": 1,
+      "invisiblek": 2,
+      "javelinanddart": 2,
+      "jerpelea": 2,
+      "johnsonnolen@gmail.com": 3,
+      "luk1337": 3,
+      "mikeNG": 6,
+      "mkbestas@lineageos.org": 6,
+      "npjohnson": 10,
+      "ntPx82cggrape": 2,
+      "pcc": 1,
+      "priv.luk@gmail.com": 2,
+      "rmk+kernel@arm.linux.org.uk": 2,
+      "spanic@codeaurora.org": 2,
+      "themard85@gmail.com": 5,
+      "viro@ZenIV.linux.org.uk": 1,
+      "wildea01": 2,
+      "z3ntu": 1,
+      "zhangjerry@google.com": 1
+    },
+    "n_commits": 52,
+    "n_contributors": 32
+  }
+}

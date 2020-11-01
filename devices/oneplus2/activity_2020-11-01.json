@@ -1,0 +1,82 @@
+{
+  "30": {
+    "contributors": {
+      "infra@lineageos.org": 1,
+      "lineageos-gerrit": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "416810799@qq.com": 32,
+      "ArianK16a": 2,
+      "Ashwin4RC": 2,
+      "aiquny@codeaurora.org": 2,
+      "aleasto": 8,
+      "arco": 2,
+      "aviraxp": 96,
+      "bgcngm": 2,
+      "chrmhoffmann": 2,
+      "dianlujitao": 2,
+      "dvdhrm": 8,
+      "haggertk": 2,
+      "haggertk@lineageos.org": 2,
+      "hansson@google.com": 2,
+      "infra@lineageos.org": 3,
+      "intervigilium": 2,
+      "kholk": 2,
+      "lineageos-gerrit": 3,
+      "luk1337": 2,
+      "maniac103": 2,
+      "nichcream": 8,
+      "priv.luk@gmail.com": 2,
+      "ramjee@codeaurora.org": 2,
+      "rmk+kernel@arm.linux.org.uk": 2,
+      "smore-lore": 2,
+      "spyffe": 2,
+      "utrace": 8,
+      "vballa@codeaurora.org": 2,
+      "wildea01": 2
+    },
+    "n_commits": 53,
+    "n_contributors": 29
+  },
+  "365": {
+    "contributors": {
+      "39061882+ArianK16a@users.noreply.github.com": 2,
+      "416810799@qq.com": 32,
+      "ArianK16a": 2,
+      "BadDaemon": 8,
+      "MAFLO321": 8,
+      "MarijnS95": 4,
+      "ThEMarD": 2,
+      "arco": 3,
+      "ashaka@codeaurora.org": 2,
+      "aviraxp": 110,
+      "baddaemon87@gmail.com": 2,
+      "bgcngm": 9,
+      "chrmhoffmann": 3,
+      "dvdhrm": 2,
+      "erorcun": 3,
+      "invisiblek": 3,
+      "jerpelea": 4,
+      "luk1337": 11,
+      "marijns95@gmail.com": 4,
+      "mikeNG": 7,
+      "mkbestas@lineageos.org": 4,
+      "nabrah@codeaurora.org": 3,
+      "nichcream": 3,
+      "pcc": 3,
+      "rmk+kernel@arm.linux.org.uk": 2,
+      "sallenki@codeaurora.org": 6,
+      "spanic@codeaurora.org": 6,
+      "subbaram@codeaurora.org": 9,
+      "trong@google.com": 3,
+      "web-flow": 4,
+      "wildea01": 4
+    },
+    "n_commits": 53,
+    "n_contributors": 31
+  }
+}

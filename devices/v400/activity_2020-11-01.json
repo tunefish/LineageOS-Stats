@@ -1,0 +1,29 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "haggertk": 2,
+      "haggertk@lineageos.org": 2,
+      "luk1337": 2,
+      "priv.luk@gmail.com": 2
+    },
+    "n_commits": 2,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "39061882+ArianK16a@users.noreply.github.com": 2,
+      "ArianK16a": 2,
+      "MarijnS95": 4,
+      "jerpelea": 4,
+      "marijns95@gmail.com": 4,
+      "web-flow": 4
+    },
+    "n_commits": 5,
+    "n_contributors": 6
+  }
+}

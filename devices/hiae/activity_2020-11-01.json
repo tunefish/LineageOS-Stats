@@ -1,0 +1,37 @@
+{
+  "30": {
+    "contributors": {
+      "infra@lineageos.org": 1,
+      "lineageos-gerrit": 1
+    },
+    "n_commits": 2,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "infra@lineageos.org": 5,
+      "lineageos-gerrit": 5,
+      "mikeNG": 8,
+      "mkbestas@lineageos.org": 8
+    },
+    "n_commits": 12,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 2,
+      "ThEMarD": 6,
+      "baddaemon87@gmail.com": 2,
+      "intervigil@gmail.com": 2,
+      "intervigilium": 2,
+      "javelinanddart": 1,
+      "luk1337": 2,
+      "mikeNG": 6,
+      "mkbestas@lineageos.org": 6,
+      "priv.luk@gmail.com": 2,
+      "themard85@gmail.com": 5
+    },
+    "n_commits": 17,
+    "n_contributors": 11
+  }
+}
