@@ -1,0 +1,64 @@
+{
+  "30": {
+    "contributors": {
+      "ArianK16a": 2,
+      "infra@lineageos.org": 3,
+      "lineageos-gerrit": 3,
+      "mikeNG": 2
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "infra@lineageos.org": 5,
+      "lineageos-gerrit": 5,
+      "mikeNG": 8,
+      "mkbestas@lineageos.org": 8
+    },
+    "n_commits": 7,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 2,
+      "Javier-Barrio": 1,
+      "NicolasDichtel": 1,
+      "ThEMarD": 6,
+      "adyabr@google.com": 1,
+      "anna-marialx": 1,
+      "aviraxp": 2,
+      "baddaemon87@gmail.com": 2,
+      "cchilu@codeaurora.org": 1,
+      "dhowells": 9,
+      "dickchang@google.com": 1,
+      "dvdhrm": 1,
+      "error27": 1,
+      "gorcunov@openvz.org": 1,
+      "greghackmann": 1,
+      "groeck": 1,
+      "hansson@google.com": 3,
+      "invisiblek": 2,
+      "javelinanddart": 1,
+      "jesper.nilsson@axis.com": 1,
+      "johnstultz-work": 1,
+      "landley": 1,
+      "luk1337": 1,
+      "mguntaka@motorola.com": 1,
+      "michal42": 1,
+      "mikeNG": 6,
+      "mkbestas@lineageos.org": 6,
+      "nicolas.pitre@linaro.org": 1,
+      "rmk+kernel@arm.linux.org.uk": 1,
+      "sb6596": 42,
+      "smore-lore": 1,
+      "spyffe": 1,
+      "sravnborg": 1,
+      "tglx@linutronix.de": 3,
+      "themard85@gmail.com": 5,
+      "wildea01": 1
+    },
+    "n_commits": 51,
+    "n_contributors": 36
+  }
+}

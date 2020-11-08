@@ -1,0 +1,76 @@
+{
+  "30": {
+    "contributors": {
+      "aviraxp": 2,
+      "linckandrea": 2,
+      "mikeNG": 2,
+      "mkbestas@lineageos.org": 2
+    },
+    "n_commits": 4,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "Akash98Sky": 1,
+      "BadDaemon": 2,
+      "ThEMarD": 1,
+      "adyabr@google.com": 1,
+      "anilc@codeaurora.org": 1,
+      "arco": 3,
+      "aviraxp": 9,
+      "bgcngm": 3,
+      "cchilu@codeaurora.org": 1,
+      "chrmhoffmann": 2,
+      "danw": 1,
+      "dev-harsh1998": 1,
+      "dhakumar@codeaurora.org": 1,
+      "dianlujitao": 1,
+      "dupin@google.com": 1,
+      "dvdhrm": 1,
+      "elektroschmock": 2,
+      "elsk@google.com": 1,
+      "haggertk": 2,
+      "haggertk@lineageos.org": 2,
+      "haishalom@google.com": 1,
+      "hansson@google.com": 3,
+      "johnsonnolen@gmail.com": 11,
+      "johnstultz-work": 1,
+      "jongwook@google.com": 1,
+      "luk1337": 2,
+      "mikeNG": 2,
+      "ngeoffray@google.com": 1,
+      "nocry22": 1,
+      "npjohnson": 75,
+      "olvaffe": 1,
+      "pbalwani@codeaurora.org": 1,
+      "pcc": 1,
+      "peskal@google.com": 1,
+      "priv.luk@gmail.com": 2,
+      "rmk+kernel@arm.linux.org.uk": 1,
+      "rpius@google.com": 1,
+      "rtrehan@codeaurora.org": 1,
+      "sallenki@codeaurora.org": 2,
+      "spanic@codeaurora.org": 1,
+      "spyffe": 1,
+      "subbaram@codeaurora.org": 3,
+      "sundongahn@google.com": 1,
+      "surenb@google.com": 1,
+      "weivincewang": 3,
+      "wildea01": 2
+    },
+    "n_commits": 77,
+    "n_contributors": 46
+  },
+  "365": {
+    "contributors": {
+      "39061882+ArianK16a@users.noreply.github.com": 2,
+      "ArianK16a": 2,
+      "MarijnS95": 4,
+      "jerpelea": 4,
+      "marijns95@gmail.com": 4,
+      "web-flow": 4
+    },
+    "n_commits": 5,
+    "n_contributors": 6
+  }
+}
