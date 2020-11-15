@@ -2942,7 +2942,8 @@
     "versions": [
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, 2.4G/5G, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -4671,7 +4672,8 @@
     "vendor": "OnePlus",
     "versions": [
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, 2.4G/5G, Wi-Fi Direct, DLNA, Hotspot"
   },
