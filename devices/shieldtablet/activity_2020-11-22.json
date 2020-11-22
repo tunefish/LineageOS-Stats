@@ -1,0 +1,26 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "bylaws": 2,
+      "johnsonnolen@gmail.com": 1,
+      "npjohnson": 16,
+      "webgeek1234": 37,
+      "webgeek1234@gmail.com": 24
+    },
+    "n_commits": 40,
+    "n_contributors": 5
+  },
+  "365": {
+    "contributors": {
+      "johnsonnolen@gmail.com": 1,
+      "npjohnson": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  }
+}
