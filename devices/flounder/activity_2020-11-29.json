@@ -1,0 +1,34 @@
+{
+  "30": {
+    "contributors": {
+      "HashBang173": 1,
+      "ViktorSlavkovic": 1,
+      "amluto": 1,
+      "arco": 1,
+      "bgcngm": 25,
+      "bgcngm@gmail.com": 5,
+      "ericrannaud": 1,
+      "etancohen@google.com": 1,
+      "gnehzuil": 1,
+      "intervigilium": 1,
+      "jeffvanderstoep": 1,
+      "kandoiruchi@google.com": 1,
+      "rpius@google.com": 3,
+      "ubhira@codeaurora.org": 1,
+      "viro@zeniv.linux.org.uk": 5,
+      "vladimiroltean": 1
+    },
+    "n_commits": 24,
+    "n_contributors": 16
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  }
+}
