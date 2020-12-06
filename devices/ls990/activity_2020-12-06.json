@@ -1,0 +1,73 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 2,
+      "Flex1911": 1,
+      "aleasto": 3,
+      "arco": 3,
+      "drusso@codeaurora.org": 3,
+      "hahariha@codeaurora.org": 1,
+      "haohuang@codeaurora.org": 1,
+      "itsHardStyl3r": 28,
+      "jlask": 1,
+      "johnnylittleplanet@gmail.com": 2,
+      "kyamada@codeaurora.org": 1,
+      "luk1337": 1,
+      "mchellad@codeaurora.org": 1,
+      "mikeNG": 1,
+      "nareshm@codeaurora.org": 1,
+      "scott@cyngn.com": 1,
+      "ssrivast@codeaurora.org": 2,
+      "zhikait@codeaurora.org": 3
+    },
+    "n_commits": 28,
+    "n_contributors": 18
+  },
+  "365": {
+    "contributors": {
+      "Ahrotahn": 2,
+      "Rashed97": 2,
+      "ThEMarD": 1,
+      "adyabr@google.com": 2,
+      "aleasto": 21,
+      "andrzej.p@samsung.com": 1,
+      "anilc@codeaurora.org": 1,
+      "arco": 1,
+      "aviraxp": 4,
+      "bgcngm": 6,
+      "bohu-google": 2,
+      "cchilu@codeaurora.org": 1,
+      "dvdhrm": 1,
+      "ehem": 10,
+      "haggertk": 1,
+      "haibinl@codeaurora.org": 1,
+      "hansson@google.com": 6,
+      "invisiblek": 2,
+      "itsHardStyl3r": 132,
+      "johnnylittleplanet@gmail.com": 38,
+      "johnstultz-work": 2,
+      "luk1337": 3,
+      "mikeNG": 2,
+      "nabrah@codeaurora.org": 2,
+      "pcc": 1,
+      "pratapn@codeaurora.org": 1,
+      "rmk+kernel@arm.linux.org.uk": 1,
+      "rtrehan@codeaurora.org": 1,
+      "shinruhan@google.com": 2,
+      "smore-lore": 2,
+      "spanic@codeaurora.org": 4,
+      "spyffe": 2,
+      "subbaram@codeaurora.org": 3,
+      "tbhardwa@codeaurora.org": 1,
+      "viro@ZenIV.linux.org.uk": 1,
+      "wildea01": 1
+    },
+    "n_commits": 92,
+    "n_contributors": 36
+  }
+}

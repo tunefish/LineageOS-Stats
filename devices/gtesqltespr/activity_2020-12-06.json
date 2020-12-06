@@ -1,0 +1,81 @@
+{
+  "30": {
+    "contributors": {
+      "Stricted": 1,
+      "cryptomilk": 1,
+      "infra@lineageos.org": 3,
+      "lineageos-gerrit": 3
+    },
+    "n_commits": 4,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "ArianK16a": 2,
+      "Linux4": 4,
+      "Stricted": 16,
+      "aleasto": 1,
+      "althafvly": 1,
+      "asn@cryptomilk.org": 10,
+      "bosconovic@gmail.com": 6,
+      "cryptomilk": 26,
+      "enh-google": 1,
+      "fcuzzocrea": 6,
+      "haggertk": 2,
+      "haggertk@lineageos.org": 2,
+      "info@stricted.net": 5,
+      "infra@lineageos.org": 1,
+      "jc@lineageos.org": 10,
+      "jesec": 30,
+      "lineageos-gerrit": 1,
+      "mikeNG": 8,
+      "mkbestas@lineageos.org": 6,
+      "tim@linux4.de": 2
+    },
+    "n_commits": 45,
+    "n_contributors": 20
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 3,
+      "Grarak": 9,
+      "KhasMek": 2,
+      "Linux4": 4,
+      "Stricted": 113,
+      "ThEMarD": 6,
+      "arco": 4,
+      "baddaemon87@gmail.com": 3,
+      "bgcngm": 8,
+      "bmc08gt": 2,
+      "ciwrl": 2,
+      "crpalmer": 2,
+      "cryptomilk": 4,
+      "danwood76": 8,
+      "deVorteX": 4,
+      "deadman96385": 2,
+      "haggertk": 2,
+      "haggertk@lineageos.org": 2,
+      "hansson@google.com": 2,
+      "info@stricted.net": 14,
+      "javelinanddart": 22,
+      "javelinanddart@gmail.com": 6,
+      "jc@lineageos.org": 4,
+      "jesec": 18,
+      "johnsonnolen@gmail.com": 2,
+      "luca020400": 2,
+      "luk1337": 4,
+      "maniac103": 2,
+      "mikeNG": 8,
+      "mkbestas@lineageos.org": 6,
+      "moto.falcon.git@gmail.com": 2,
+      "nardholio": 8,
+      "npjohnson": 2,
+      "priv.luk@gmail.com": 4,
+      "smore-lore": 2,
+      "themard85@gmail.com": 5,
+      "zwliew": 14
+    },
+    "n_commits": 90,
+    "n_contributors": 37
+  }
+}
