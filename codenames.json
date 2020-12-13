@@ -5647,6 +5647,48 @@
     ],
     "wifi": "802.11a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
+  "flox": {
+    "architecture": "arm",
+    "battery": {
+      "capacity": 3950,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "spec": "4.0 + LE"
+    },
+    "cameras": [
+      {
+        "flash": "",
+        "info": "5 MP"
+      },
+      {
+        "flash": "",
+        "info": "1.2 MP"
+      }
+    ],
+    "codename": "flox",
+    "cpu": "Krait 300",
+    "cpu_cores": "4",
+    "cpu_freq": "1.5 GHz",
+    "gpu": "Adreno 320",
+    "name": "Nexus 7 2013 (Wi-Fi, Repartitioned)",
+    "network": [],
+    "peripherals": "None",
+    "ram": "2 GB",
+    "release": "2013-07-26",
+    "screen": "178 mm (7 in)",
+    "screen_res": "1920x1200 pixels",
+    "screen_tech": "IPS LCD",
+    "sdcard": "?",
+    "soc": "Qualcomm MSM8960T Snapdragon S4 Pro",
+    "tree": "android_device_asus_flox",
+    "vendor": "Google",
+    "versions": [
+      17.1
+    ],
+    "wifi": "802.11 a/b/g/n @ 2.4 GHz & 5 GHz"
+  },
   "foster": {
     "architecture": "arm64",
     "battery": "None",
