@@ -1,0 +1,35 @@
+{
+  "30": {
+    "contributors": {
+      "YumeMichi": 2,
+      "npjohnson": 2
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "infra@lineageos.org": 5,
+      "lineageos-gerrit": 5
+    },
+    "n_commits": 3,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "Ashwin4RC": 3,
+      "BadDaemon": 2,
+      "aviraxp": 7,
+      "baddaemon87@gmail.com": 2,
+      "dannybaumann@web.de": 1,
+      "luk1337": 3,
+      "maniac103": 5,
+      "mikeNG": 6,
+      "mkbestas@lineageos.org": 6,
+      "subbaram@codeaurora.org": 2,
+      "sundongahn@google.com": 1
+    },
+    "n_commits": 11,
+    "n_contributors": 11
+  }
+}
