@@ -1,0 +1,58 @@
+{
+  "30": {
+    "contributors": {
+      "infra@lineageos.org": 2,
+      "lineageos-gerrit": 2
+    },
+    "n_commits": 2,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "ArianK16a": 3,
+      "infra@lineageos.org": 13,
+      "lineageos-gerrit": 13,
+      "mikeNG": 9,
+      "mkbestas@lineageos.org": 6
+    },
+    "n_commits": 10,
+    "n_contributors": 5
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 2,
+      "Javier-Barrio": 1,
+      "NicolasDichtel": 1,
+      "ThEMarD": 8,
+      "anna-marialx": 1,
+      "baddaemon87@gmail.com": 2,
+      "cchilu@codeaurora.org": 1,
+      "dhowells": 9,
+      "dickchang@google.com": 1,
+      "dvdhrm": 1,
+      "error27": 1,
+      "gorcunov@openvz.org": 1,
+      "greghackmann": 1,
+      "groeck": 1,
+      "hansson@google.com": 2,
+      "invisiblek": 1,
+      "javelinanddart": 1,
+      "jesper.nilsson@axis.com": 1,
+      "johnstultz-work": 1,
+      "landley": 1,
+      "mguntaka@motorola.com": 1,
+      "michal42": 1,
+      "mikeNG": 15,
+      "mkbestas@lineageos.org": 15,
+      "nicolas.pitre@linaro.org": 1,
+      "rmk+kernel@arm.linux.org.uk": 1,
+      "sb6596": 34,
+      "sravnborg": 1,
+      "tglx@linutronix.de": 3,
+      "themard85@gmail.com": 7,
+      "wildea01": 1
+    },
+    "n_commits": 45,
+    "n_contributors": 31
+  }
+}
