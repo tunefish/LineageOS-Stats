@@ -1,0 +1,82 @@
+{
+  "30": {
+    "contributors": {
+      "dianlujitao": 2,
+      "dianlujitao@lineageos.org": 2,
+      "infra@lineageos.org": 2,
+      "lineageos-gerrit": 2
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "YumeMichi": 2,
+      "dianlujitao": 30,
+      "dianlujitao@lineageos.org": 24,
+      "divyash@codeaurora.org": 3,
+      "infra@lineageos.org": 5,
+      "lineageos-gerrit": 5,
+      "lnxbuild@localhost": 6,
+      "npjohnson": 2,
+      "spanic@codeaurora.org": 3
+    },
+    "n_commits": 15,
+    "n_contributors": 9
+  },
+  "365": {
+    "contributors": {
+      "Ashwin4RC": 3,
+      "BadDaemon": 2,
+      "YaroST12": 3,
+      "ZVNexus": 3,
+      "aabban@codeaurora.org": 3,
+      "aviraxp": 6,
+      "baddaemon87@gmail.com": 2,
+      "benedictwong@google.com": 3,
+      "bgcngm": 3,
+      "bings@codeaurora.org": 6,
+      "chinagar@codeaurora.org": 3,
+      "cjkonat@codeaurora.org": 3,
+      "code-review@localhost": 90,
+      "computersforpeace": 4,
+      "dheech@codeaurora.org": 3,
+      "dianlujitao": 88,
+      "dianlujitao@gmail.com": 6,
+      "dianlujitao@lineageos.org": 60,
+      "dikshita@codeaurora.org": 6,
+      "gaolez@codeaurora.org": 6,
+      "guiseny@codeaurora.org": 3,
+      "hangtian@codeaurora.org": 24,
+      "hansson@google.com": 3,
+      "jge@codeaurora.org": 6,
+      "jjaggi@google.com": 6,
+      "lihual@codeaurora.org": 9,
+      "lnxbuild@localhost": 75,
+      "luk1337": 3,
+      "miaoqing-pan": 9,
+      "miaoqing@codeaurora.org": 9,
+      "mikeNG": 6,
+      "minliu@codeaurora.org": 6,
+      "mkbestas@lineageos.org": 6,
+      "mohara@codeaurora.org": 3,
+      "mtharu@codeaurora.org": 3,
+      "nitegupt@codeaurora.org": 3,
+      "nvertigo67@gmail.com": 2,
+      "rphani@codeaurora.org": 3,
+      "sayalil@codeaurora.org": 3,
+      "shrena@codeaurora.org": 6,
+      "smugat@codeaurora.org": 6,
+      "torvalds": 6,
+      "vandja@codeaurora.org": 6,
+      "vtumati@codeaurora.org": 3,
+      "wilhuang@codeaurora.org": 18,
+      "x86cpu": 3,
+      "yanghuan@codeaurora.org": 3,
+      "zhangq@codeaurora.org": 6,
+      "zhaoyang@codeaurora.org": 6
+    },
+    "n_commits": 93,
+    "n_contributors": 49
+  }
+}

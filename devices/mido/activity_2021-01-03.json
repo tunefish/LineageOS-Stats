@@ -1,0 +1,71 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "Abhinavgupta371": 5,
+      "ArianK16a": 1,
+      "bgcngm": 2,
+      "subbaram@codeaurora.org": 2
+    },
+    "n_commits": 5,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "Abhinavgupta371": 89,
+      "ArianK16a": 1,
+      "DD3Boh": 1,
+      "Dhina17": 3,
+      "Dyneteve": 1,
+      "Flex1911": 7,
+      "JacobDeepu": 1,
+      "Quallenauge": 2,
+      "TheScarastic": 1,
+      "abhinavgupta371@gmail.com": 16,
+      "ajaya@codeaurora.org": 1,
+      "android-usb": 1,
+      "aviraxp": 1,
+      "bgcngm": 6,
+      "bgcngm@gmail.com": 1,
+      "bvlj": 1,
+      "ceric@codeaurora.org": 1,
+      "ctwoon": 1,
+      "dgunturi@codeaurora.org": 1,
+      "erfanoabdi": 1,
+      "gopalb@codeaurora.org": 1,
+      "hansson@google.com": 1,
+      "hemantk@codeaurora.org": 2,
+      "imjyotiraditya": 1,
+      "invisiblek": 1,
+      "jefftinker": 1,
+      "jhenrique09": 6,
+      "kondors1995": 1,
+      "krasCGQ": 2,
+      "luca020400": 5,
+      "luk1337": 1,
+      "mdooley@google.com": 1,
+      "mikeNG": 4,
+      "msfjarvis": 1,
+      "ppabba@codeaurora.org": 2,
+      "prathampratap@codeaurora.org": 1,
+      "psonalik@codeaurora.org": 1,
+      "revathiu@codeaurora.org": 1,
+      "rpaluri@codeaurora.org": 1,
+      "rtrehan@codeaurora.org": 1,
+      "samyjain@codeaurora.org": 1,
+      "sashok@codeaurora.org": 1,
+      "sayan7848": 1,
+      "shalma@codeaurora.org": 1,
+      "spanic@codeaurora.org": 1,
+      "stephenli@codeaurora.org": 1,
+      "vladimiroltean": 1,
+      "wight554": 1
+    },
+    "n_commits": 90,
+    "n_contributors": 48
+  }
+}

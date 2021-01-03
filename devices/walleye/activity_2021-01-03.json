@@ -1,0 +1,49 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "Eamo5": 11,
+      "eamonpowell@outlook.com": 11
+    },
+    "n_commits": 11,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "Eamo5": 18,
+      "android-build-automerger-merge-worker@system.gserviceaccount.com": 10,
+      "android-build-merge-worker-robot": 10,
+      "android-build-team-robot@google.com": 30,
+      "android-gerrit@google.com": 5,
+      "asmundak": 2,
+      "asmundak@google.com": 2,
+      "byi@google.com": 3,
+      "chajasmine@google.com": 2,
+      "ciwrl": 3,
+      "cken@google.com": 2,
+      "cyrillee@google.com": 3,
+      "dbright@google.com": 5,
+      "delphij": 1,
+      "delphij@google.com": 1,
+      "eamonpowell@outlook.com": 11,
+      "flc@google.com": 5,
+      "intervigilium": 2,
+      "invisiblek": 1,
+      "javelinanddart": 1,
+      "javelinanddart@gmail.com": 1,
+      "jiyong@google.com": 4,
+      "jiyongp": 5,
+      "raymanfx": 1,
+      "silverneko": 1,
+      "treehugger-gerrit@google.com": 2,
+      "yihocheng@google.com": 2,
+      "yochiang@google.com": 1
+    },
+    "n_commits": 67,
+    "n_contributors": 28
+  }
+}

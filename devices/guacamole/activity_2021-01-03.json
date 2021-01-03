@@ -1,0 +1,82 @@
+{
+  "30": {
+    "contributors": {
+      "infra@lineageos.org": 2,
+      "lineageos-gerrit": 2
+    },
+    "n_commits": 2,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "Tempest-oneplus": 7,
+      "Tortel": 31,
+      "Tortel1210@gmail.com": 19,
+      "bellegarde-c": 3,
+      "dianlujitao": 3,
+      "infra@lineageos.org": 2,
+      "jesec": 3,
+      "joyyoung.huang@oneplus.com": 1,
+      "kim.ba@oneplus.com": 1,
+      "lineageos-gerrit": 2,
+      "luk1337": 44,
+      "op-codes": 2,
+      "pankaj.suryawanshi@oneplus.com": 1,
+      "priv.luk@gmail.com": 29,
+      "swinder.juneja@oneplus.com": 1,
+      "terry.zhong@oneplus.com": 1,
+      "toddkjos": 1,
+      "v-siba.prasad@oneplus.com": 2,
+      "willdeacon": 1
+    },
+    "n_commits": 35,
+    "n_contributors": 19
+  },
+  "365": {
+    "contributors": {
+      "1nfrag": 3,
+      "AlanStern": 1,
+      "Ashwin4RC": 18,
+      "BadDaemon": 8,
+      "Demon000": 3,
+      "Hikari-no-Tenshi": 15,
+      "Miccia94": 7,
+      "Tortel": 36,
+      "Tortel1210@gmail.com": 1,
+      "aaronqiuchiu": 10,
+      "anirudhgupta109": 9,
+      "anirudhgupta109@aosip.dev": 3,
+      "ashwin2001achu@gmail.com": 3,
+      "baddaemon87@gmail.com": 1,
+      "bellegarde-c": 6,
+      "bgcngm": 9,
+      "binson-xu": 5,
+      "binson.xu@oneplus.com": 2,
+      "bono.michele94@gmail.com": 4,
+      "cheneyni@google.com": 3,
+      "computersforpeace": 1,
+      "darkobas": 6,
+      "dianlujitao": 6,
+      "dianlujitao@lineageos.org": 3,
+      "dirkmueller": 1,
+      "erfanoabdi": 24,
+      "greghackmann": 1,
+      "hanetzer": 3,
+      "hansson@google.com": 3,
+      "kyryljan.serhij@gmail.com": 3,
+      "luca020400": 6,
+      "luk1337": 284,
+      "micky387": 3,
+      "mikeNG": 12,
+      "mkbestas@lineageos.org": 9,
+      "op-codes": 1,
+      "pbalwani@codeaurora.org": 3,
+      "priv.luk@gmail.com": 189,
+      "ted.lin@oneplus.com": 1,
+      "v-siba.prasad@oneplus.com": 9,
+      "v-xin.chen@oneplus.com": 1
+    },
+    "n_commits": 138,
+    "n_contributors": 41
+  }
+}

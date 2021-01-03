@@ -1,0 +1,50 @@
+{
+  "30": {
+    "contributors": {
+      "ArianK16a": 6,
+      "infra@lineageos.org": 2,
+      "koron393": 6,
+      "lineageos-gerrit": 2
+    },
+    "n_commits": 5,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "AdrianDC": 3,
+      "ArianK16a": 3,
+      "infra@lineageos.org": 14,
+      "lineageos-gerrit": 14,
+      "mikeNG": 9,
+      "mkbestas@lineageos.org": 6,
+      "radian.dc@gmail.com": 3
+    },
+    "n_commits": 12,
+    "n_contributors": 7
+  },
+  "365": {
+    "contributors": {
+      "AdrianDC": 3,
+      "ArianK16a": 9,
+      "BadDaemon": 2,
+      "Chippa-a": 1,
+      "ThEMarD": 8,
+      "arian.kulmer@web.de": 3,
+      "baddaemon87@gmail.com": 2,
+      "esver": 2,
+      "esver@free.fr": 1,
+      "haggertk": 2,
+      "javelinanddart": 1,
+      "jerpelea": 3,
+      "mikeNG": 15,
+      "mkbestas@lineageos.org": 15,
+      "ntPx82cggrape": 3,
+      "palaych": 3,
+      "radian.dc@gmail.com": 3,
+      "themard85@gmail.com": 7,
+      "z3ntu": 1
+    },
+    "n_commits": 20,
+    "n_contributors": 19
+  }
+}
