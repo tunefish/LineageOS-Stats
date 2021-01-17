@@ -1,0 +1,40 @@
+{
+  "30": {
+    "contributors": {
+      "infra@lineageos.org": 2,
+      "lineageos-gerrit": 2
+    },
+    "n_commits": 2,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "ArianK16a": 3,
+      "infra@lineageos.org": 15,
+      "lineageos-gerrit": 15,
+      "mikeNG": 9,
+      "mkbestas@lineageos.org": 6
+    },
+    "n_commits": 12,
+    "n_contributors": 5
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 1,
+      "Kra1o5": 5,
+      "ThEMarD": 8,
+      "baddaemon87@gmail.com": 1,
+      "code-review@localhost": 1,
+      "javelinanddart": 1,
+      "jenkins@bqbot.bq.local": 4,
+      "kra1o5x@gmail.com": 2,
+      "lnxbuild@localhost": 3,
+      "mikeNG": 15,
+      "mkbestas@lineageos.org": 15,
+      "oedesede@h4kamp.de": 1,
+      "themard85@gmail.com": 7
+    },
+    "n_commits": 18,
+    "n_contributors": 13
+  }
+}
