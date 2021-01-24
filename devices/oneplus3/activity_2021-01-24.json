@@ -1,0 +1,59 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "YumeMichi": 2,
+      "dianlujitao": 20,
+      "dianlujitao@lineageos.org": 17,
+      "infra@lineageos.org": 7,
+      "lineageos-gerrit": 7,
+      "npjohnson": 2,
+      "spanic@codeaurora.org": 3
+    },
+    "n_commits": 13,
+    "n_contributors": 7
+  },
+  "365": {
+    "contributors": {
+      "Ashwin4RC": 3,
+      "BadDaemon": 1,
+      "XSJoJo": 6,
+      "YaroST12": 3,
+      "ZVNexus": 3,
+      "aviraxp": 6,
+      "baddaemon87@gmail.com": 1,
+      "benedictwong@google.com": 3,
+      "bgcngm": 3,
+      "bings@codeaurora.org": 6,
+      "chinagar@codeaurora.org": 3,
+      "code-review@localhost": 27,
+      "dheech@codeaurora.org": 3,
+      "dianlujitao": 75,
+      "dianlujitao@gmail.com": 6,
+      "dianlujitao@lineageos.org": 51,
+      "divyash@codeaurora.org": 3,
+      "guiseny@codeaurora.org": 3,
+      "hangtian@codeaurora.org": 6,
+      "hansson@google.com": 3,
+      "jge@codeaurora.org": 6,
+      "lihual@codeaurora.org": 6,
+      "lnxbuild@localhost": 36,
+      "luk1337": 3,
+      "mikeNG": 6,
+      "minliu@codeaurora.org": 6,
+      "mkbestas@lineageos.org": 6,
+      "shrena@codeaurora.org": 6,
+      "torvalds": 3,
+      "vandja@codeaurora.org": 6,
+      "wilhuang@codeaurora.org": 6,
+      "x86cpu": 3,
+      "zhaoyang@codeaurora.org": 6
+    },
+    "n_commits": 53,
+    "n_contributors": 33
+  }
+}
