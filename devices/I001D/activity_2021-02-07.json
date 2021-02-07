@@ -1,0 +1,43 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "Austin_Tseng@asus.com": 1,
+      "OrdenKrieger": 12,
+      "OrdenKriegerEDR@googlemail.com": 11,
+      "PeterCxy": 1,
+      "Rashed97": 1,
+      "arter97": 3,
+      "bryanh@codeaurora.org": 1,
+      "hch@lst.de": 1,
+      "hnaz": 3,
+      "intervigilium": 1,
+      "kerneljasonxing@linux.alibaba.com": 1,
+      "kholk": 1,
+      "luca.stefani.ge1@gmail.com": 37,
+      "luca020400": 92,
+      "luk1337": 3,
+      "maco@android.com": 2,
+      "milesdotchen": 1,
+      "mwilck": 1,
+      "nickdesaulniers": 5,
+      "peterz@infradead.org": 1,
+      "pgynther@google.com": 4,
+      "robherring": 5,
+      "samitolvanen": 15,
+      "surenb@google.com": 2,
+      "thestinger": 1
+    },
+    "n_commits": 103,
+    "n_contributors": 25
+  }
+}
