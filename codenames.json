@@ -4272,7 +4272,7 @@
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
   "d803": {
-    "architecture": "arm64",
+    "architecture": "arm",
     "battery": {
       "capacity": 3000,
       "removable": false,
@@ -14866,7 +14866,8 @@
       13.0,
       14.1,
       15.1,
-      16.0
+      16.0,
+      17.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
