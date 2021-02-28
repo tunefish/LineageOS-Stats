@@ -1,0 +1,71 @@
+{
+  "30": {
+    "contributors": {
+      "416810799@qq.com": 2,
+      "aviraxp": 3,
+      "bgcngm": 1,
+      "dianlujitao": 1,
+      "dianlujitao@lineageos.org": 1,
+      "mankur@codeaurora.org": 1,
+      "npjohnson": 1
+    },
+    "n_commits": 5,
+    "n_contributors": 7
+  },
+  "180": {
+    "contributors": {
+      "416810799@qq.com": 9,
+      "YumeMichi": 2,
+      "arco": 2,
+      "aviraxp": 35,
+      "bgcngm": 1,
+      "dianlujitao": 1,
+      "dvdhrm": 8,
+      "haggertk": 3,
+      "haggertk@lineageos.org": 3,
+      "infra@lineageos.org": 7,
+      "kholk": 2,
+      "lineageos-gerrit": 7,
+      "npjohnson": 2,
+      "rmk+kernel@arm.linux.org.uk": 2,
+      "smore-lore": 2,
+      "utrace": 8,
+      "wildea01": 2
+    },
+    "n_commits": 27,
+    "n_contributors": 17
+  },
+  "365": {
+    "contributors": {
+      "416810799@qq.com": 24,
+      "ArianK16a": 2,
+      "Ashwin4RC": 3,
+      "BadDaemon": 4,
+      "ThEMarD": 2,
+      "aleasto": 8,
+      "arco": 2,
+      "ashaka@codeaurora.org": 2,
+      "aviraxp": 74,
+      "baddaemon87@gmail.com": 1,
+      "bgcngm": 2,
+      "chrmhoffmann": 2,
+      "dianlujitao": 2,
+      "frostid": 2,
+      "hansson@google.com": 2,
+      "intervigilium": 2,
+      "jerpelea": 3,
+      "luk1337": 3,
+      "maniac103": 2,
+      "mikeNG": 6,
+      "mkbestas@lineageos.org": 6,
+      "nichcream": 8,
+      "priv.luk@gmail.com": 3,
+      "ramjee@codeaurora.org": 2,
+      "spyffe": 2,
+      "vballa@codeaurora.org": 2,
+      "web-flow": 3
+    },
+    "n_commits": 42,
+    "n_contributors": 27
+  }
+}

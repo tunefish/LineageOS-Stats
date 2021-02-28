@@ -1,0 +1,33 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "DarkJoker360": 3,
+      "dianlujitao": 1,
+      "erfanoabdi": 1,
+      "luk1337": 1
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "365": {
+    "contributors": {
+      "DarkJoker360": 36,
+      "Dil3mm4": 4,
+      "Flex1911": 2,
+      "Haky86": 20,
+      "aagit": 2,
+      "hakamelassouad@gmail.com": 4,
+      "luk1337": 8,
+      "simoespo159@gmail.com": 22,
+      "tdm": 4,
+      "thestinger": 2
+    },
+    "n_commits": 26,
+    "n_contributors": 10
+  }
+}

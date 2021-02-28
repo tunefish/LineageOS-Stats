@@ -1,0 +1,25 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "yagya.parihar@gmail.com": 1,
+      "yagyaxt1034": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "invisiblek": 1,
+      "javelinanddart": 1,
+      "razorloves": 5,
+      "razorloves@gmail.com": 3
+    },
+    "n_commits": 5,
+    "n_contributors": 4
+  }
+}
