@@ -1,0 +1,42 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 2,
+      "Flex1911": 1,
+      "aleasto": 9,
+      "andrzej.p@samsung.com": 1,
+      "anilc@codeaurora.org": 1,
+      "arco": 4,
+      "bgcngm": 2,
+      "drusso@codeaurora.org": 3,
+      "hahariha@codeaurora.org": 1,
+      "haohuang@codeaurora.org": 1,
+      "itsHardStyl3r": 53,
+      "jlask": 1,
+      "johnnylittleplanet@gmail.com": 12,
+      "kyamada@codeaurora.org": 1,
+      "luk1337": 2,
+      "mchellad@codeaurora.org": 1,
+      "mikeNG": 1,
+      "nareshm@codeaurora.org": 1,
+      "rmk+kernel@arm.linux.org.uk": 1,
+      "rtrehan@codeaurora.org": 1,
+      "scott@cyngn.com": 1,
+      "ssrivast@codeaurora.org": 2,
+      "viro@ZenIV.linux.org.uk": 1,
+      "zhikait@codeaurora.org": 3
+    },
+    "n_commits": 53,
+    "n_contributors": 24
+  }
+}

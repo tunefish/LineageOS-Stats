@@ -1,0 +1,30 @@
+{
+  "30": {
+    "contributors": {
+      "SebaUbuntu": 1,
+      "althafvly": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "180": {
+    "contributors": {
+      "aleasto": 2,
+      "althafvly": 2
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "haggertk": 3,
+      "haggertk@lineageos.org": 3,
+      "jerpelea": 3,
+      "luk1337": 3,
+      "priv.luk@gmail.com": 3,
+      "web-flow": 3
+    },
+    "n_commits": 3,
+    "n_contributors": 6
+  }
+}
