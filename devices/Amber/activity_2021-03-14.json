@@ -1,0 +1,70 @@
+{
+  "30": {
+    "contributors": {
+      "infra@lineageos.org": 1,
+      "lineageos-gerrit": 1,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1
+    },
+    "n_commits": 2,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "ArianK16a": 3,
+      "PIPIPIG233666": 1,
+      "Vazguard": 1,
+      "bgcngm": 4,
+      "bgcngm@gmail.com": 1,
+      "infra@lineageos.org": 13,
+      "lineageos-gerrit": 13,
+      "mikeNG": 3,
+      "spanic@codeaurora.org": 1,
+      "trautamaki": 1,
+      "vasy@vasy.ru": 1,
+      "vm03": 2
+    },
+    "n_commits": 16,
+    "n_contributors": 12
+  },
+  "365": {
+    "contributors": {
+      "AnggaSP": 1,
+      "BadDaemon": 2,
+      "Flex1911": 2,
+      "HighwayStar": 1,
+      "amangupt@codeaurora.org": 1,
+      "baddaemon87@gmail.com": 1,
+      "benedictwong@google.com": 1,
+      "chiaweic@codeaurora.org": 1,
+      "daedroza": 1,
+      "dianlujitao": 3,
+      "infra@lineageos.org": 4,
+      "jilaiw@codeaurora.org": 1,
+      "jkalsi@codeaurora.org": 1,
+      "lineageos-gerrit": 4,
+      "liord-caf": 2,
+      "lokeshgidra@google.com": 1,
+      "luk1337": 3,
+      "mikeNG": 18,
+      "mkbestas@lineageos.org": 18,
+      "pbalwani@codeaurora.org": 1,
+      "pkushwah@codeaurora.org": 1,
+      "ppabba@codeaurora.org": 1,
+      "qimengp@codeaurora.org": 1,
+      "rhuang@codeaurora.org": 1,
+      "rpavan@codeaurora.org": 1,
+      "rpius@google.com": 1,
+      "rtrehan@codeaurora.org": 1,
+      "ruofeim@codeaurora.org": 1,
+      "sangutta@codeaurora.org": 3,
+      "srafeeqh@codeaurora.org": 1,
+      "subashab@codeaurora.org": 1,
+      "vasy@vasy.ru": 11,
+      "vm03": 46,
+      "xiaohuin@codeaurora.org": 1
+    },
+    "n_commits": 55,
+    "n_contributors": 34
+  }
+}
