@@ -1,0 +1,77 @@
+{
+  "30": {
+    "contributors": {
+      "Tortel": 4,
+      "Tortel1210@gmail.com": 4,
+      "infra@lineageos.org": 1,
+      "lineageos-gerrit": 1,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1
+    },
+    "n_commits": 6,
+    "n_contributors": 6
+  },
+  "180": {
+    "contributors": {
+      "Tempest-oneplus": 7,
+      "Tortel": 21,
+      "Tortel1210@gmail.com": 12,
+      "infra@lineageos.org": 2,
+      "jmtrivi": 2,
+      "joyyoung.huang@oneplus.com": 1,
+      "kim.ba@oneplus.com": 1,
+      "lineageos-gerrit": 2,
+      "luk1337": 24,
+      "pankaj.suryawanshi@oneplus.com": 1,
+      "priv.luk@gmail.com": 19,
+      "rago@google.com": 2,
+      "swinder.juneja@oneplus.com": 1,
+      "terry.zhong@oneplus.com": 1,
+      "toddkjos": 1,
+      "willdeacon": 1
+    },
+    "n_commits": 24,
+    "n_contributors": 16
+  },
+  "365": {
+    "contributors": {
+      "Ashwin4RC": 18,
+      "BadDaemon": 3,
+      "Demon000": 3,
+      "Hikari-no-Tenshi": 9,
+      "Miccia94": 7,
+      "Tortel": 46,
+      "Tortel1210@gmail.com": 9,
+      "aaronqiuchiu": 10,
+      "anirudhgupta109": 6,
+      "ashwin2001achu@gmail.com": 3,
+      "bellegarde-c": 9,
+      "bgcngm": 6,
+      "binson-xu": 1,
+      "bono.michele94@gmail.com": 4,
+      "computersforpeace": 1,
+      "darkobas": 6,
+      "dianlujitao": 3,
+      "dirkmueller": 1,
+      "erfanoabdi": 24,
+      "greghackmann": 1,
+      "hansson@google.com": 3,
+      "invisiblek": 3,
+      "jesec": 3,
+      "kyryljan.serhij@gmail.com": 3,
+      "luca020400": 6,
+      "luk1337": 184,
+      "micky387": 3,
+      "mikeNG": 12,
+      "mkbestas@lineageos.org": 9,
+      "npjohnson": 3,
+      "op-codes": 3,
+      "pbalwani@codeaurora.org": 3,
+      "priv.luk@gmail.com": 95,
+      "v-siba.prasad@oneplus.com": 11,
+      "v-xin.chen@oneplus.com": 1
+    },
+    "n_commits": 100,
+    "n_contributors": 35
+  }
+}

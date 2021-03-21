@@ -1,0 +1,75 @@
+{
+  "30": {
+    "contributors": {
+      "SebaUbuntu": 1,
+      "aleasto": 2,
+      "althafvly": 1,
+      "haggertk": 2
+    },
+    "n_commits": 3,
+    "n_contributors": 4
+  },
+  "180": {
+    "contributors": {
+      "ArianK16a": 2,
+      "Stricted": 2,
+      "YumeMichi": 2,
+      "aleasto": 72,
+      "ales.astone@gmail.com": 22,
+      "althafvly": 2,
+      "amir73il": 2,
+      "amit.pundir@linaro.org": 2,
+      "arabawy@google.com": 4,
+      "arco": 2,
+      "aviraxp": 10,
+      "bgcngm": 1,
+      "chil360": 2,
+      "davem330": 4,
+      "ebiederm": 3,
+      "edumazet@google.com": 25,
+      "jimmycmchen@google.com": 4,
+      "johnstultz-work": 3,
+      "jtlayton": 14,
+      "lcolitti": 4,
+      "lesl@google.com": 2,
+      "luk1337": 4,
+      "masatake": 2,
+      "mikeNG": 2,
+      "mleitner@redhat.com": 3,
+      "nocry22": 2,
+      "roy.qing.li@gmail.com": 6,
+      "rpius@google.com": 2,
+      "shemminger": 3,
+      "shemminger@vyatta.com": 3,
+      "shuoq@google.com": 3,
+      "smore-lore": 2,
+      "stephensmalley": 6,
+      "toddkjos": 3,
+      "torvalds": 3,
+      "vijaykv-google": 3
+    },
+    "n_commits": 71,
+    "n_contributors": 36
+  },
+  "365": {
+    "contributors": {
+      "BadDaemon": 6,
+      "Flex1911": 3,
+      "aleasto": 63,
+      "ales.astone@gmail.com": 24,
+      "arco": 12,
+      "arnaullv": 3,
+      "ashwinr64": 3,
+      "haggertk": 3,
+      "haggertk@lineageos.org": 3,
+      "javelinanddart": 3,
+      "jlask": 3,
+      "luk1337": 3,
+      "priv.luk@gmail.com": 3,
+      "scott@cyngn.com": 3,
+      "ssrivast@codeaurora.org": 3
+    },
+    "n_commits": 23,
+    "n_contributors": 15
+  }
+}

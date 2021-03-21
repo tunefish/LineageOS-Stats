@@ -1,0 +1,27 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "ArianK16a": 6,
+      "koron393": 6
+    },
+    "n_commits": 3,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "AdrianDC": 3,
+      "haggertk": 3,
+      "haggertk@lineageos.org": 3,
+      "luk1337": 3,
+      "priv.luk@gmail.com": 3,
+      "radian.dc@gmail.com": 3
+    },
+    "n_commits": 3,
+    "n_contributors": 6
+  }
+}
