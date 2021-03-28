@@ -1,0 +1,34 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 4,
+      "RenanQueiroz": 2,
+      "UtsavBalar1231": 2,
+      "Vachounet": 2,
+      "althafvly": 8,
+      "arco": 2,
+      "erfangplus@gmail.com": 2,
+      "erfanoabdi": 12,
+      "raymanfx": 2,
+      "toddkjos": 1
+    },
+    "n_commits": 10,
+    "n_contributors": 10
+  },
+  "365": {
+    "contributors": {
+      "Astridxx": 2,
+      "aleasto": 4,
+      "dianlujitao": 2,
+      "erfangplus@gmail.com": 6,
+      "erfanoabdi": 14
+    },
+    "n_commits": 7,
+    "n_contributors": 5
+  }
+}
