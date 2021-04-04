@@ -149,7 +149,7 @@
     "cpu_cores": "4",
     "cpu_freq": "2.26 GHz",
     "gpu": "Adreno 330",
-    "name": "FP2",
+    "name": "2",
     "network": [
       "2G GSM",
       "3G UMTS",
@@ -208,7 +208,7 @@
     "cpu_cores": "4",
     "cpu_freq": "1.8 GHz",
     "gpu": "Adreno 506",
-    "name": "FP3",
+    "name": "3",
     "network": [
       "2G GSM",
       "3G UMTS",
@@ -476,7 +476,8 @@
     "tree": "android_device_nokia_PL2",
     "vendor": "Nokia",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"
   },
@@ -1616,7 +1617,7 @@
     "cpu_cores": "8",
     "cpu_freq": "1.4 GHz",
     "gpu": "Adreno 505",
-    "name": "Moto E5 Plus",
+    "name": "Moto E5 Plus (XT1924-3/9)",
     "network": [
       "2G GSM",
       "3G UMTS",
@@ -2147,7 +2148,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"
   },
@@ -2339,7 +2341,8 @@
     "tree": "android_device_motorola_beckham",
     "vendor": "Motorola",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
   },
@@ -2457,7 +2460,8 @@
     "vendor": "Xiaomi",
     "versions": [
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
@@ -2589,7 +2593,78 @@
     "tree": "android_device_google_bonito",
     "vendor": "Google",
     "versions": [
-      17.1
+      17.1,
+      18.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+  },
+  "bramble": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3885,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "12.2 MP"
+      },
+      {
+        "flash": "",
+        "info": "16 MP ultrawide"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "bramble",
+    "cpu": "Kryo 475",
+    "cpu_cores": "8",
+    "cpu_freq": "1 x 2.4 GHz + 1 x 2.2 GHz + 6 x 1.8 GHz",
+    "gpu": "Adreno 620",
+    "name": "Pixel 4a 5G",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE",
+      "5G"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Barometer",
+      "BeiDou",
+      "Compass",
+      "Depth Sensor",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "USB OTG"
+    ],
+    "ram": "6 GB",
+    "release": "2020-10",
+    "screen": "160 mm (6.2 in)",
+    "screen_res": "2340x1080",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SM7250 Snapdragon 765G",
+    "tree": "android_device_google_bramble",
+    "vendor": "Google",
+    "versions": [
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -3069,7 +3144,8 @@
     "tree": "android_device_motorola_channel",
     "vendor": "Motorola",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
   },
@@ -3313,7 +3389,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, 2.4G/5G, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -3371,7 +3448,8 @@
     "tree": "android_device_motorola_chef",
     "vendor": "Motorola",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
   },
@@ -3511,7 +3589,8 @@
     "vendor": "Razer",
     "versions": [
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -3740,7 +3819,8 @@
     "tree": "android_device_google_coral",
     "vendor": "Google",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -4210,7 +4290,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -4269,7 +4350,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -4328,7 +4410,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -4387,7 +4470,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -4801,7 +4885,8 @@
     "vendor": "Xiaomi",
     "versions": [
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
@@ -4864,7 +4949,8 @@
     "versions": [
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n, dual band, Wi-Fi Direct, Hotspot"
   },
@@ -5043,7 +5129,8 @@
     "versions": [
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, 2.4G/5G, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -5305,7 +5392,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band"
   },
@@ -5370,7 +5458,8 @@
     "tree": "android_device_motorola_evert",
     "vendor": "Motorola",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
   },
@@ -5802,7 +5891,8 @@
     "tree": "android_device_google_flame",
     "vendor": "Google",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -5992,7 +6082,8 @@
     "tree": "android_device_asus_flox",
     "vendor": "Google",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n @ 2.4 GHz & 5 GHz"
   },
@@ -6170,7 +6261,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
@@ -6467,7 +6559,6 @@
     "network": [],
     "peripherals": [
       "Accelerometer",
-      "Compass",
       "GPS",
       "Gyroscope"
     ],
@@ -6481,7 +6572,8 @@
     "tree": "android_device_samsung_gta4xlwifi",
     "vendor": "Samsung",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -6855,7 +6947,8 @@
     "tree": "android_device_samsung_gts4lv",
     "vendor": "Samsung",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
   },
@@ -6906,7 +6999,8 @@
     "tree": "android_device_samsung_gts4lvwifi",
     "vendor": "Samsung",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
   },
@@ -7201,7 +7295,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -7264,7 +7359,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac"
   },
@@ -7394,7 +7490,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -7463,7 +7560,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -7534,7 +7632,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -7729,7 +7828,7 @@
     "cpu_cores": "8",
     "cpu_freq": "1.4 GHz",
     "gpu": "Adreno 505",
-    "name": "Moto E5 Plus",
+    "name": "Moto E5 Plus (XT1924-6/7/8)",
     "network": [
       "2G GSM",
       "2G CDMA",
@@ -8829,6 +8928,126 @@
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, Hotspot"
   },
+  "instantnoodle": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4300,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5.1"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "48 MP (wide) + 16 MP (ultrawide) + 2 MP (macro)"
+      },
+      {
+        "flash": "",
+        "info": "16 MP"
+      }
+    ],
+    "codename": "instantnoodle",
+    "cpu": "Kryo 585",
+    "cpu_cores": "8",
+    "cpu_freq": "1 x 2.84 GHz + 3 x 2.42 GHz + 4 x 1.8 GHz",
+    "gpu": "Adreno 650",
+    "name": "8",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE",
+      "5G"
+    ],
+    "peripherals": [
+      "Dual SIM",
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Light sensor",
+      "Proximity sensor",
+      "Compass",
+      "NFC",
+      "GPS"
+    ],
+    "ram": "8/12GB GB LPDDR4X",
+    "release": "2020-04",
+    "screen": "166.37 mm (6.55 in)",
+    "screen_res": "1080x2400",
+    "screen_tech": "Fluid AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "tree": "android_device_oneplus_instantnoodle",
+    "vendor": "OnePlus",
+    "versions": [
+      18.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+  },
+  "instantnoodlep": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4510,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5.1"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "48 MP (wide) + 8 MP (telephoto) + 48 MP (ultrawide) + 5 MP (color filter camera)"
+      },
+      {
+        "flash": "",
+        "info": "16 MP"
+      }
+    ],
+    "codename": "instantnoodlep",
+    "cpu": "Kryo 585",
+    "cpu_cores": "8",
+    "cpu_freq": "1 x 2.84 GHz + 3 x 2.42 GHz + 4 x 1.8 GHz",
+    "gpu": "Adreno 650",
+    "name": "8 Pro",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE",
+      "5G"
+    ],
+    "peripherals": [
+      "Dual SIM",
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Light sensor",
+      "Proximity sensor",
+      "Compass",
+      "NFC",
+      "GPS"
+    ],
+    "ram": "8/12GB GB LPDDR5",
+    "release": "2020-04",
+    "screen": "172.21 mm (6.78 in)",
+    "screen_res": "1440x3168",
+    "screen_tech": "Fluid AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "tree": "android_device_oneplus_instantnoodlep",
+    "vendor": "OnePlus",
+    "versions": [
+      18.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+  },
   "ivy": {
     "architecture": "arm64",
     "battery": {
@@ -9007,7 +9226,8 @@
     "vendor": "Samsung",
     "versions": [
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -9419,7 +9639,8 @@
     "versions": [
       14.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -9485,7 +9706,8 @@
     "vendor": "Samsung",
     "versions": [
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -9552,7 +9774,8 @@
     "versions": [
       14.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -9617,7 +9840,8 @@
     "versions": [
       14.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -9682,7 +9906,8 @@
     "versions": [
       14.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
   },
@@ -9912,6 +10137,66 @@
       16.0
     ],
     "wifi": "802.11 a/b/g/n/ac"
+  },
+  "kebab": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4500,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5.1"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "48 MP (wide) + 16 MP (ultrawide) + 5 MP (macro) + 2 MP (depth)"
+      },
+      {
+        "flash": "",
+        "info": "16 MP"
+      }
+    ],
+    "codename": "kebab",
+    "cpu": "Kryo 585",
+    "cpu_cores": "8",
+    "cpu_freq": "1 x 2.84 GHz + 3 x 2.42 GHz + 4 x 1.8 GHz",
+    "gpu": "Adreno 650",
+    "name": "8T",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE",
+      "5G"
+    ],
+    "peripherals": [
+      "Dual SIM",
+      "Fingerprint reader",
+      "Accelerometer",
+      "Gyroscope",
+      "Light sensor",
+      "Proximity sensor",
+      "Compass",
+      "NFC",
+      "GPS"
+    ],
+    "ram": "8/12GB GB LPDDR4X",
+    "release": "2020-10",
+    "screen": "166.37 mm (6.55 in)",
+    "screen_res": "1080x2400",
+    "screen_tech": "Fluid AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "tree": "android_device_oneplus_kebab",
+    "vendor": "OnePlus",
+    "versions": [
+      18.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
   "kenzo": {
     "architecture": "arm64",
@@ -10149,7 +10434,8 @@
     "tree": "android_device_sony_kirin",
     "vendor": "Sony",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n, dual band, Wi-Fi Direct, Hotspot"
   },
@@ -11007,7 +11293,8 @@
     "tree": "android_device_motorola_lake",
     "vendor": "Motorola",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
   },
@@ -11383,7 +11670,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
@@ -11512,7 +11800,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -12256,7 +12545,7 @@
     "cpu_cores": "8",
     "cpu_freq": "4 x 2.45 GHz + 4 x 1.9 GHz",
     "gpu": "Adreno 540",
-    "name": "Essential PH-1",
+    "name": "PH-1",
     "network": [
       "2G GSM",
       "2G CDMA",
@@ -12286,7 +12575,8 @@
     "vendor": "Essential",
     "versions": [
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -12401,7 +12691,8 @@
     "tree": "android_device_sony_mermaid",
     "vendor": "Sony",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n, dual band, Wi-Fi Direct, Hotspot"
   },
@@ -13093,7 +13384,8 @@
     "versions": [
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -13161,7 +13453,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
@@ -13393,7 +13686,8 @@
     "tree": "android_device_motorola_ocean",
     "vendor": "Motorola",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n, Wi-Fi Direct, Hotspot"
   },
@@ -13515,7 +13809,8 @@
     "tree": "android_device_xiaomi_onclite",
     "vendor": "Xiaomi",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, Hotspot"
   },
@@ -13650,7 +13945,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -13935,7 +14231,8 @@
     "versions": [
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
   },
@@ -14162,9 +14459,71 @@
     "versions": [
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n, Wi-Fi Direct, Hotspot"
+  },
+  "platina": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3350,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "12 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "5 MP"
+      },
+      {
+        "flash": "",
+        "info": "24 MP"
+      }
+    ],
+    "codename": "platina",
+    "cpu": "Kryo 260",
+    "cpu_cores": "8",
+    "cpu_freq": "1.8 GHz",
+    "gpu": "Adreno 512",
+    "name": "Mi 8 Lite",
+    "network": [
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Accelerometer",
+      "Proximity sensor",
+      "Compass",
+      "GPS"
+    ],
+    "ram": "4 GB / 6 GB (LPDDR4X)",
+    "release": "2018-09",
+    "screen": "159 mm (6.26 in)",
+    "screen_res": "2280x1080",
+    "screen_tech": "IPS LCD",
+    "sdcard": "up to 256 GB (hybrid SIM slot)",
+    "soc": "Qualcomm SDM660 Snapdragon 660",
+    "tree": "android_device_xiaomi_platina",
+    "vendor": "Xiaomi",
+    "versions": [
+      18.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
   },
   "pme": {
     "architecture": "arm64",
@@ -14277,7 +14636,8 @@
     "vendor": "Xiaomi",
     "versions": [
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
@@ -14460,7 +14820,8 @@
     "vendor": "F(x)tec",
     "versions": [
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, 2.4G/5G, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -14719,6 +15080,77 @@
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
   },
+  "redfin": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4080,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "12.2 MP"
+      },
+      {
+        "flash": "",
+        "info": "16 MP ultrawide"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "redfin",
+    "cpu": "Kryo 475",
+    "cpu_cores": "8",
+    "cpu_freq": "1 x 2.4 GHz + 1 x 2.2 GHz + 6 x 1.8 GHz",
+    "gpu": "Adreno 620",
+    "name": "Pixel 5",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE",
+      "5G"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Barometer",
+      "BeiDou",
+      "Compass",
+      "Depth Sensor",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "Qi wireless charging",
+      "USB OTG"
+    ],
+    "ram": "8 GB",
+    "release": "2020-10",
+    "screen": "150 mm (6 in)",
+    "screen_res": "2340x1080",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SM7250 Snapdragon 765G",
+    "tree": "android_device_google_redfin",
+    "vendor": "Google",
+    "versions": [
+      18.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+  },
   "rhannah": {
     "architecture": "arm64",
     "battery": {
@@ -14747,7 +15179,7 @@
     "cpu_cores": "4",
     "cpu_freq": "1.4 GHz",
     "gpu": "Adreno 308",
-    "name": "Moto E5 Plus",
+    "name": "Moto E5 Plus (XT1924-1/2/4/5)",
     "network": [
       "2G GSM",
       "3G UMTS",
@@ -14837,7 +15269,8 @@
     "vendor": "Motorola",
     "versions": [
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
   },
@@ -14940,7 +15373,8 @@
     "vendor": "LG",
     "versions": [
       15.1,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -15498,7 +15932,8 @@
     "tree": "android_device_google_sargo",
     "vendor": "Google",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -15562,7 +15997,8 @@
     "versions": [
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
@@ -15852,7 +16288,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac 2x2 (MIMO), Hotspot"
   },
@@ -16143,6 +16580,70 @@
       14.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+  },
+  "sunfish": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 3140,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "12.2 MP"
+      },
+      {
+        "flash": "",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "sunfish",
+    "cpu": "Kryo 470",
+    "cpu_cores": "8",
+    "cpu_freq": "2 x 2.2 GHz + 6 x 1.8 GHz",
+    "gpu": "Adreno 618",
+    "name": "Pixel 4a",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Accelerometer",
+      "Barometer",
+      "BeiDou",
+      "Compass",
+      "Fingerprint reader",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "USB OTG"
+    ],
+    "ram": "6 GB",
+    "release": "2020-08",
+    "screen": "147.57 mm (5.81 in)",
+    "screen_res": "2340x1080",
+    "screen_tech": "AMOLED",
+    "sdcard": "?",
+    "soc": "Qualcomm SDM730 Snapdragon 730G",
+    "tree": "android_device_google_sunfish",
+    "vendor": "Google",
+    "versions": [
+      18.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
   "surnia": {
     "architecture": "arm",
@@ -16483,7 +16984,8 @@
     "vendor": "Google",
     "versions": [
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -17320,7 +17822,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -17783,7 +18286,8 @@
     "versions": [
       14.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, DLNA, Hotspot"
   },
@@ -17905,7 +18409,8 @@
     "tree": "android_device_sony_voyager",
     "vendor": "Sony",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n, Wi-Fi Direct, Hotspot"
   },
@@ -18033,7 +18538,8 @@
     "vendor": "LG",
     "versions": [
       14.1,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
   },
@@ -18203,7 +18709,8 @@
     "vendor": "Google",
     "versions": [
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -18454,7 +18961,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -19228,7 +19736,8 @@
       14.1,
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   }
