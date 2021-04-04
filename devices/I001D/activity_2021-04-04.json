@@ -1,0 +1,34 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "OrdenKrieger": 11,
+      "OrdenKriegerEDR@googlemail.com": 11,
+      "hch@lst.de": 1,
+      "hnaz": 3,
+      "kerneljasonxing@linux.alibaba.com": 1,
+      "luca.stefani.ge1@gmail.com": 7,
+      "luca020400": 44,
+      "luk1337": 1,
+      "maco@android.com": 2,
+      "milesdotchen": 1,
+      "mwilck": 1,
+      "nickdesaulniers": 5,
+      "peterz@infradead.org": 1,
+      "pgynther@google.com": 4,
+      "samitolvanen": 15,
+      "surenb@google.com": 2
+    },
+    "n_commits": 55,
+    "n_contributors": 16
+  }
+}
