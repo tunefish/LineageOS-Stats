@@ -1,0 +1,75 @@
+{
+  "30": {
+    "contributors": {
+      "drmarble": 1,
+      "drmarble1@gmail.com": 1,
+      "infra@lineageos.org": 1,
+      "lineageos-gerrit": 1,
+      "mainey": 4,
+      "michaelbt@live.com": 4
+    },
+    "n_commits": 6,
+    "n_contributors": 6
+  },
+  "180": {
+    "contributors": {
+      "ArianK16a": 2,
+      "Daniel-Norman": 1,
+      "Grarak": 1,
+      "MacTavishAO": 1,
+      "PIPIPIG233666": 1,
+      "SebaUbuntu": 1,
+      "Stricted": 9,
+      "Vazguard": 1,
+      "aleasto": 2,
+      "althafvly": 3,
+      "bgcngm": 23,
+      "bgcngm@gmail.com": 9,
+      "bosconovic@gmail.com": 2,
+      "cryptomilk": 1,
+      "ezio84": 2,
+      "fcuzzocrea": 12,
+      "haggertk": 6,
+      "haggertk@lineageos.org": 3,
+      "infra@lineageos.org": 10,
+      "jhenrique09": 2,
+      "jmgao": 1,
+      "josip-k": 4,
+      "kamewang@google.com": 3,
+      "lineageos-gerrit": 10,
+      "luca020400": 4,
+      "mainey": 2,
+      "michaelbt@live.com": 2,
+      "mikeNG": 4,
+      "mkbestas@lineageos.org": 1,
+      "trautamaki": 1,
+      "weivincewang": 1
+    },
+    "n_commits": 61,
+    "n_contributors": 31
+  },
+  "365": {
+    "contributors": {
+      "Grarak": 9,
+      "Linux4": 12,
+      "Stricted": 39,
+      "asn@cryptomilk.org": 15,
+      "bosconovic@gmail.com": 9,
+      "cryptomilk": 42,
+      "enh-google": 2,
+      "fcuzzocrea": 9,
+      "haggertk": 3,
+      "haggertk@lineageos.org": 3,
+      "info@stricted.net": 10,
+      "infra@lineageos.org": 1,
+      "jc@lineageos.org": 21,
+      "jesec": 69,
+      "lineageos-gerrit": 1,
+      "mikeNG": 6,
+      "mkbestas@lineageos.org": 6,
+      "tim@linux4.de": 3
+    },
+    "n_commits": 55,
+    "n_contributors": 18
+  }
+}
