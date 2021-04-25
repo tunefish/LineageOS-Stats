@@ -1,0 +1,22 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "365": {
+    "contributors": {
+      "OrdenKrieger": 11,
+      "OrdenKriegerEDR@googlemail.com": 11,
+      "luca020400": 1,
+      "luk1337": 1
+    },
+    "n_commits": 12,
+    "n_contributors": 4
+  }
+}
