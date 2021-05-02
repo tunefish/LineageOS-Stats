@@ -1,0 +1,41 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "infra@lineageos.org": 3,
+      "lineageos-gerrit": 3
+    },
+    "n_commits": 3,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "arunks@codeaurora.org": 1,
+      "hch@lst.de": 1,
+      "hnaz": 3,
+      "infra@lineageos.org": 4,
+      "kerneljasonxing@linux.alibaba.com": 1,
+      "lineageos-gerrit": 4,
+      "luca.stefani.ge1@gmail.com": 13,
+      "luca020400": 55,
+      "luk1337": 1,
+      "maco@android.com": 2,
+      "maco@google.com": 1,
+      "mikeNG": 2,
+      "milesdotchen": 1,
+      "mkbestas@lineageos.org": 2,
+      "mwilck": 1,
+      "nickdesaulniers": 5,
+      "peterz@infradead.org": 1,
+      "pgynther@google.com": 4,
+      "samitolvanen": 18,
+      "surenb@google.com": 2
+    },
+    "n_commits": 61,
+    "n_contributors": 20
+  }
+}

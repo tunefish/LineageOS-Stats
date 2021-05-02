@@ -1,0 +1,32 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "YumeMichi": 2,
+      "bgcngm": 2,
+      "dianlujitao": 2,
+      "dianlujitao@lineageos.org": 1,
+      "infra@lineageos.org": 2,
+      "lineageos-gerrit": 2,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1,
+      "npjohnson": 3
+    },
+    "n_commits": 7,
+    "n_contributors": 9
+  },
+  "365": {
+    "contributors": {
+      "Ashwin4RC": 3,
+      "aviraxp": 3,
+      "infra@lineageos.org": 5,
+      "lineageos-gerrit": 5
+    },
+    "n_commits": 4,
+    "n_contributors": 4
+  }
+}

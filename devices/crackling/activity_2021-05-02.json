@@ -1,0 +1,41 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "115ek": 1,
+      "e.blosz@hotmail.de": 1
+    },
+    "n_commits": 1,
+    "n_contributors": 2
+  },
+  "365": {
+    "contributors": {
+      "115ek": 16,
+      "KhabarlakKonstantin": 1,
+      "aleasto": 1,
+      "arco": 1,
+      "aviraxp": 3,
+      "chil360": 1,
+      "drusso@codeaurora.org": 2,
+      "haggertk": 3,
+      "haggertk@lineageos.org": 3,
+      "hahariha@codeaurora.org": 1,
+      "intervigilium": 1,
+      "luk1337": 4,
+      "mchellad@codeaurora.org": 1,
+      "mikeNG": 1,
+      "nicknitewolf": 6,
+      "priv.luk@gmail.com": 3,
+      "radhakrishna@codeaurora.org": 1,
+      "scott@cyngn.com": 1,
+      "ssrivast@codeaurora.org": 2,
+      "zhikait@codeaurora.org": 4
+    },
+    "n_commits": 24,
+    "n_contributors": 20
+  }
+}

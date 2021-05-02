@@ -1,0 +1,56 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "ArianK16a": 1,
+      "DD3Boh": 1,
+      "Hamsi2k@freenet.de": 7,
+      "Quallenauge": 41,
+      "RyanMitch16": 1,
+      "Stricted": 1,
+      "Tortel": 1,
+      "aleasto": 1,
+      "arabawy@google.com": 3,
+      "arifhussain@codeaurora.org": 1,
+      "bgcngm": 1,
+      "chil360": 3,
+      "dianlujitao": 1,
+      "divyash@codeaurora.org": 1,
+      "drusso@codeaurora.org": 1,
+      "jimmycmchen@google.com": 2,
+      "luk1337": 4,
+      "marstj": 1,
+      "mnaganov@google.com": 1,
+      "ngeoffray@google.com": 1,
+      "rpavan@codeaurora.org": 1,
+      "rpius@google.com": 2,
+      "smore-lore": 1,
+      "subhajeetmuhuri": 1,
+      "vladimiroltean": 1,
+      "wdu@google.com": 1,
+      "z3DD3r": 1
+    },
+    "n_commits": 41,
+    "n_contributors": 27
+  },
+  "365": {
+    "contributors": {
+      "Hamsi2k@freenet.de": 3,
+      "Quallenauge": 10,
+      "aviraxp": 4,
+      "dianlujitao": 1,
+      "gopalb@codeaurora.org": 1,
+      "haggertk": 3,
+      "haggertk@lineageos.org": 3,
+      "luk1337": 3,
+      "nabrah@codeaurora.org": 1,
+      "priv.luk@gmail.com": 3
+    },
+    "n_commits": 9,
+    "n_contributors": 10
+  }
+}
