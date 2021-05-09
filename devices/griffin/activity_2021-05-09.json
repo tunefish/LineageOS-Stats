@@ -1,0 +1,66 @@
+{
+  "30": {
+    "contributors": {},
+    "n_commits": 0,
+    "n_contributors": 0
+  },
+  "180": {
+    "contributors": {
+      "ArianK16a": 2,
+      "BadDaemon": 4,
+      "DD3Boh": 1,
+      "Jleeblanch": 4,
+      "Quallenauge": 1,
+      "RyanMitch16": 1,
+      "Stricted": 1,
+      "SyberHexen": 2,
+      "UtsavBalar1231": 2,
+      "Vachounet": 2,
+      "arabawy@google.com": 3,
+      "bgcngm": 2,
+      "breadley@google.com": 2,
+      "chil360": 1,
+      "dianlujitao": 4,
+      "drosen@google.com": 2,
+      "drusso@codeaurora.org": 1,
+      "dysu@google.com": 1,
+      "elsk@google.com": 1,
+      "erfangplus@gmail.com": 6,
+      "erfanoabdi": 74,
+      "gfodi@codeaurora.org": 1,
+      "google@ix5.org": 1,
+      "intervigilium": 2,
+      "ix5": 1,
+      "jimmycmchen@google.com": 2,
+      "kchyn3": 1,
+      "kjp949": 2,
+      "luk1337": 8,
+      "marstj": 1,
+      "mikeNG": 2,
+      "mnaganov@google.com": 1,
+      "ngeoffray@google.com": 1,
+      "npjohnson": 1,
+      "rjsh": 1,
+      "rkir@google.com": 1,
+      "rpius@google.com": 2,
+      "smore-lore": 1,
+      "toddkjos": 2
+    },
+    "n_commits": 68,
+    "n_contributors": 39
+  },
+  "365": {
+    "contributors": {
+      "Astridxx": 2,
+      "RenanQueiroz": 2,
+      "aleasto": 4,
+      "althafvly": 8,
+      "arco": 2,
+      "erfangplus@gmail.com": 4,
+      "erfanoabdi": 12,
+      "raymanfx": 2
+    },
+    "n_commits": 9,
+    "n_contributors": 8
+  }
+}

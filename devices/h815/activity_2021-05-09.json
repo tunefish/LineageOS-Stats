@@ -1,0 +1,49 @@
+{
+  "30": {
+    "contributors": {
+      "MarijnS95": 1,
+      "c3po@review.lineageos.org": 1,
+      "infra@lineageos.org": 1,
+      "lineageos-gerrit": 2,
+      "vware": 1
+    },
+    "n_commits": 5,
+    "n_contributors": 5
+  },
+  "180": {
+    "contributors": {
+      "PIPIPIG233666": 1,
+      "Vazguard": 1,
+      "aleasto": 1,
+      "bgcngm": 4,
+      "bgcngm@gmail.com": 1,
+      "infra@lineageos.org": 8,
+      "johnsonnolen@gmail.com": 1,
+      "lineageos-gerrit": 8,
+      "mikeNG": 1,
+      "mkbestas@lineageos.org": 1,
+      "npjohnson": 2,
+      "trautamaki": 1
+    },
+    "n_commits": 21,
+    "n_contributors": 12
+  },
+  "365": {
+    "contributors": {
+      "ArianK16a": 3,
+      "haggertk": 3,
+      "haggertk@lineageos.org": 3,
+      "infra@lineageos.org": 11,
+      "lineageos-gerrit": 11,
+      "luk1337": 3,
+      "mikeNG": 15,
+      "mkbestas@lineageos.org": 12,
+      "npjohnson": 1,
+      "pavlaras": 2,
+      "priv.luk@gmail.com": 3,
+      "theodoroupaulos@gmail.com": 1
+    },
+    "n_commits": 19,
+    "n_contributors": 12
+  }
+}
