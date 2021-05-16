@@ -656,7 +656,68 @@
     "vendor": "Asus",
     "versions": [
       15.1,
-      16.0
+      16.0,
+      18.1
+    ],
+    "wifi": "802.11 b/g/n, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+  },
+  "X01AD": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4000,
+      "removable": false,
+      "tech": "Li-Ion"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP"
+      ],
+      "spec": "4.2"
+    },
+    "cameras": [
+      {
+        "flash": "LED",
+        "info": "13 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "2 MP"
+      },
+      {
+        "flash": "LED",
+        "info": "8 MP"
+      }
+    ],
+    "codename": "X01AD",
+    "cpu": "Kryo 250",
+    "cpu_cores": "8",
+    "cpu_freq": "1.8 GHz",
+    "gpu": "Adreno 506",
+    "name": "Zenfone Max M2",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE"
+    ],
+    "peripherals": [
+      "Fingerprint reader",
+      "Accelerometer",
+      "Proximity sensor",
+      "Compass",
+      "GPS",
+      "FM radio"
+    ],
+    "ram": "3/4 GB",
+    "release": "2018-12",
+    "screen": "159 mm (6.26 in)",
+    "screen_res": "720\u00d71520",
+    "screen_tech": "IPS LCD",
+    "sdcard": "up to 2 TB",
+    "soc": "Qualcomm SDM632 Snapdragon 632",
+    "tree": "android_device_asus_X01AD",
+    "vendor": "Asus",
+    "versions": [
+      18.1
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, Wi-Fi Display, Hotspot"
   },
@@ -716,7 +777,8 @@
     "tree": "android_device_asus_X01BD",
     "vendor": "Asus",
     "versions": [
-      16.0
+      16.0,
+      18.1
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, Wi-Fi Display, Hotspot"
   },
@@ -773,7 +835,8 @@
     "vendor": "Lenovo",
     "versions": [
       15.1,
-      16.0
+      16.0,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, hotspot"
   },
@@ -834,7 +897,8 @@
     "vendor": "Lenovo",
     "versions": [
       15.1,
-      16.0
+      16.0,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, hotspot"
   },
@@ -1642,7 +1706,8 @@
     "tree": "android_device_motorola_ahannah",
     "vendor": "Motorola",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 b/g/n, Hotspot"
   },
@@ -2189,17 +2254,20 @@
       "4G LTE"
     ],
     "peripherals": [
-      "Dual SIM",
-      "Fingerprint reader",
+      "A-GPS",
       "Accelerometer",
-      "Gyroscope",
-      "Light sensor",
-      "Proximity sensor",
       "Compass",
-      "Hall effect sensor",
-      "GPS",
+      "Dual SIM",
       "FM radio",
+      "Fingerprint reader",
+      "GLONASS",
+      "GPS",
+      "Galileo",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
       "NFC",
+      "Proximity sensor",
       "USB OTG"
     ],
     "ram": "3/4 GB LPDDR3",
@@ -2253,17 +2321,20 @@
       "4G LTE"
     ],
     "peripherals": [
-      "Dual SIM",
-      "Fingerprint reader",
+      "A-GPS",
       "Accelerometer",
-      "Gyroscope",
-      "Light sensor",
-      "Proximity sensor",
       "Compass",
-      "Hall effect sensor",
-      "GPS",
+      "Dual SIM",
       "FM radio",
+      "Fingerprint reader",
+      "GLONASS",
+      "GPS",
+      "Galileo",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
       "NFC",
+      "Proximity sensor",
       "USB OTG"
     ],
     "ram": "3/4 GB LPDDR3",
@@ -2528,7 +2599,8 @@
     "tree": "android_device_google_blueline",
     "vendor": "Google",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -2978,7 +3050,8 @@
     "tree": "android_device_motorola_cedric",
     "vendor": "Motorola",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n, Dual band, Wi-Fi Direct, Hotspot"
   },
@@ -3952,7 +4025,8 @@
     "tree": "android_device_google_crosshatch",
     "vendor": "Google",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
   },
@@ -5174,15 +5248,24 @@
       "4G LTE"
     ],
     "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
       "Dual SIM",
       "Fingerprint reader",
-      "Accelerometer",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
       "Gyroscope",
+      "Hall effect sensor",
       "Light sensor",
-      "Proximity sensor",
-      "Compass",
       "NFC",
-      "GPS"
+      "Proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
     ],
     "ram": "6/8 GB LPDDR4X",
     "release": "2018-04",
@@ -5619,15 +5702,24 @@
       "4G LTE"
     ],
     "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
       "Dual SIM",
       "Fingerprint reader",
-      "Accelerometer",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
       "Gyroscope",
+      "Hall effect sensor",
       "Light sensor",
-      "Proximity sensor",
-      "Compass",
       "NFC",
-      "GPS"
+      "Proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
     ],
     "ram": "6/8 GB LPDDR4X",
     "release": "2018-11",
@@ -7047,15 +7139,25 @@
       "4G LTE"
     ],
     "peripherals": [
-      "Dual SIM",
-      "Fingerprint reader",
+      "A-GPS",
       "Accelerometer",
-      "Gyroscope",
-      "Light sensor",
-      "Proximity sensor",
       "Compass",
+      "Dual SIM",
+      "Dual-frequency GNSS",
+      "Fingerprint reader",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
       "NFC",
-      "GPS"
+      "Ultrasound proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
     ],
     "ram": "6/8/12GB GB LPDDR4X",
     "release": "2019-05",
@@ -7108,15 +7210,25 @@
       "4G LTE"
     ],
     "peripherals": [
-      "Dual SIM",
-      "Fingerprint reader",
+      "A-GPS",
       "Accelerometer",
-      "Gyroscope",
-      "Light sensor",
-      "Proximity sensor",
       "Compass",
+      "Dual SIM",
+      "Dual-frequency GNSS",
+      "Fingerprint reader",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
       "NFC",
-      "GPS"
+      "Ultrasound proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
     ],
     "ram": "6/8 GB LPDDR4X",
     "release": "2019-05",
@@ -7864,7 +7976,8 @@
     "tree": "android_device_motorola_hannah",
     "vendor": "Motorola",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n, Dual band, Wi-Fi Direct, Hotspot"
   },
@@ -8575,15 +8688,25 @@
       "4G LTE"
     ],
     "peripherals": [
-      "Dual SIM",
-      "Fingerprint reader",
+      "A-GPS",
       "Accelerometer",
-      "Gyroscope",
-      "Light sensor",
-      "Proximity sensor",
       "Compass",
+      "Dual SIM",
+      "Dual-frequency GNSS",
+      "Fingerprint reader",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
       "NFC",
-      "GPS"
+      "Ultrasound proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
     ],
     "ram": "8/12GB GB LPDDR4X",
     "release": "2019-10",
@@ -8635,15 +8758,25 @@
       "4G LTE"
     ],
     "peripherals": [
-      "Dual SIM",
-      "Fingerprint reader",
+      "A-GPS",
       "Accelerometer",
-      "Gyroscope",
-      "Light sensor",
-      "Proximity sensor",
       "Compass",
+      "Dual SIM",
+      "Dual-frequency GNSS",
+      "Fingerprint reader",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
       "NFC",
-      "GPS"
+      "Ultrasound proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
     ],
     "ram": "8/12GB GB LPDDR4X",
     "release": "2019-09",
@@ -9037,15 +9170,25 @@
       "5G"
     ],
     "peripherals": [
-      "Dual SIM",
-      "Fingerprint reader",
+      "A-GPS",
       "Accelerometer",
-      "Gyroscope",
-      "Light sensor",
-      "Proximity sensor",
       "Compass",
+      "Dual SIM",
+      "Dual-frequency GNSS",
+      "Fingerprint reader",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
       "NFC",
-      "GPS"
+      "Proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
     ],
     "ram": "8/12GB GB LPDDR4X",
     "release": "2020-04",
@@ -9097,15 +9240,26 @@
       "5G"
     ],
     "peripherals": [
-      "Dual SIM",
-      "Fingerprint reader",
+      "A-GPS",
       "Accelerometer",
-      "Gyroscope",
-      "Light sensor",
-      "Proximity sensor",
       "Compass",
+      "Dual SIM",
+      "Dual-frequency GNSS",
+      "Fingerprint reader",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
       "NFC",
-      "GPS"
+      "Proximity sensor",
+      "Qi wireless charging",
+      "USB OTG",
+      "Wi-Fi Display"
     ],
     "ram": "8/12GB GB LPDDR5",
     "release": "2020-04",
@@ -10249,15 +10403,25 @@
       "5G"
     ],
     "peripherals": [
-      "Dual SIM",
-      "Fingerprint reader",
+      "A-GPS",
       "Accelerometer",
-      "Gyroscope",
-      "Light sensor",
-      "Proximity sensor",
       "Compass",
+      "Dual SIM",
+      "Dual-frequency GNSS",
+      "Fingerprint reader",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
       "NFC",
-      "GPS"
+      "Proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
     ],
     "ram": "8/12GB GB LPDDR4X",
     "release": "2020-10",
@@ -13056,7 +13220,8 @@
     "tree": "android_device_motorola_montana",
     "vendor": "Motorola",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n, Dual band, Wi-Fi Direct, Hotspot"
   },
@@ -15346,7 +15511,8 @@
     "tree": "android_device_motorola_rhannah",
     "vendor": "Motorola",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, Hotspot"
   },
