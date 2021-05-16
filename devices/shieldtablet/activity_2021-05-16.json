@@ -1,0 +1,54 @@
+{
+  "30": {
+    "contributors": {
+      "npjohnson": 2,
+      "webgeek1234": 3,
+      "webgeek1234@gmail.com": 1
+    },
+    "n_commits": 3,
+    "n_contributors": 3
+  },
+  "180": {
+    "contributors": {
+      "BadDaemon": 2,
+      "Electry": 1,
+      "Stricted": 2,
+      "XSJoJo": 4,
+      "amartinz": 1,
+      "bgcngm": 1,
+      "bylaws": 5,
+      "dianlujitao": 2,
+      "fcuzzocrea": 5,
+      "ghostrider-reborn": 1,
+      "johnsonnolen@gmail.com": 3,
+      "johnstultz-work": 1,
+      "mathieuchartier": 2,
+      "npjohnson": 24,
+      "oscardagrach": 1,
+      "pawin@google.com": 1,
+      "philipcuadra@google.com": 2,
+      "smore-lore": 1,
+      "stellirin": 2,
+      "webgeek1234": 43,
+      "webgeek1234@gmail.com": 29
+    },
+    "n_commits": 105,
+    "n_contributors": 21
+  },
+  "365": {
+    "contributors": {
+      "Alberto97": 1,
+      "arttttt": 1,
+      "bylaws": 4,
+      "javelinanddart": 1,
+      "johnsonnolen@gmail.com": 2,
+      "npjohnson": 9,
+      "oscardagrach": 2,
+      "thestinger": 1,
+      "webgeek1234": 12,
+      "webgeek1234@gmail.com": 3
+    },
+    "n_commits": 99,
+    "n_contributors": 10
+  }
+}
