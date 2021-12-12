@@ -18,7 +18,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -172,7 +172,7 @@
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -232,7 +232,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -299,7 +299,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -366,11 +366,15 @@
     },
     "cameras": [
       {
-        "flash": "LED flash",
-        "info": "48 MP (wide) + 13MP (ultrawide)"
+        "flash": "LED",
+        "info": "48 MP (wide)"
       },
       {
-        "flash": "",
+        "flash": "LED",
+        "info": "13 MP (ultrawide)"
+      },
+      {
+        "flash": "None",
         "info": "24 MP"
       }
     ],
@@ -433,12 +437,12 @@
     },
     "cameras": [
       {
-        "flash": "Dual-LED flash (Dual Tone)",
-        "info": "48 MP + 13MP"
+        "flash": "Dual LED (dual tone)",
+        "info": "48 MP"
       },
       {
-        "flash": "Dual-LED flash (Dual Tone)",
-        "info": "48 MP + 13MP"
+        "flash": "Dual LED (dual tone)",
+        "info": "13 MP"
       }
     ],
     "codename": "I01WD",
@@ -504,11 +508,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "5 / 8 MP"
+        "flash": "None",
+        "info": "5 MP or 8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -566,10 +570,10 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "16 MP "
+        "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -631,11 +635,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "16 MP (IMX398) f/1.7 + 2 MP Depth sensor (GC2375) f/2.4"
+        "info": "16 MP (w/ 2 MP depth sensor)"
       },
       {
-        "flash": "",
-        "info": "16 MP (IMX371) f/2.0"
+        "flash": "None",
+        "info": "16 MP"
       }
     ],
     "codename": "RMX1801",
@@ -697,11 +701,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "16 MP (IMX519) f/1.7 + 5 MP Depth sensor (GC5035) f/2.4"
+        "info": "16 MP (w/ 5 MP depth sensor)"
       },
       {
-        "flash": "",
-        "info": "25 MP (S5K2X5) f/2.0"
+        "flash": "None",
+        "info": "25 MP"
       }
     ],
     "codename": "RMX1851",
@@ -966,12 +970,12 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "Sunny DW9761B (back, 13 MP)"
+        "flash": "None",
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "QTech OV5695 (front, 5 MP)"
+        "flash": "None",
+        "info": "5 MP (front)"
       }
     ],
     "codename": "YTX703F",
@@ -1031,12 +1035,12 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "Sunny DW9761B (back, 13 MP)"
+        "flash": "None",
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "QTech OV5695 (front, 5 MP)"
+        "flash": "None",
+        "info": "5 MP (front)"
       }
     ],
     "codename": "YTX703L",
@@ -1107,7 +1111,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -1170,7 +1174,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -1231,7 +1235,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -1291,7 +1295,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -1365,8 +1369,8 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "5 MP, 13 MP Flash LED (ZD551KL)"
+        "flash": "None",
+        "info": "5 MP (ZD551KL: 13 MP w/ LED flash)"
       }
     ],
     "codename": "Z00T",
@@ -1435,16 +1439,16 @@
     },
     "cameras": [
       {
-        "flash": "Dual-LED flash (Dual Tone)",
-        "info": "12 MP (Primary) IMX363"
+        "flash": "Dual LED (dual tone)",
+        "info": "12 MP (Primary)"
       },
       {
-        "flash": "Dual-LED flash (Dual Tone)",
-        "info": "8 MP (Wide) OV8856"
+        "flash": "Dual LED (dual tone)",
+        "info": "8 MP (Wide)"
       },
       {
-        "flash": "",
-        "info": "8 MP (Selfie) OV8856"
+        "flash": "None",
+        "info": "8 MP (Selfie)"
       }
     ],
     "codename": "Z01R",
@@ -1519,7 +1523,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -1591,7 +1595,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -1661,7 +1665,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -1741,7 +1745,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -1810,7 +1814,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -2016,7 +2020,7 @@
         "info": "19 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -2083,7 +2087,7 @@
         "info": "19 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "13 MP"
       }
     ],
@@ -2146,7 +2150,7 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "12 MP, laser autofocus"
+        "info": "12 MP"
       },
       {
         "flash": "Dual LED (dual tone)",
@@ -2214,19 +2218,19 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "Main Sensor 48 MP"
+        "info": "48 MP (main)"
       },
       {
         "flash": "LED",
-        "info": "UltraWide Sensor 8 MP"
+        "info": "8 MP (ultrawide)"
       },
       {
         "flash": "LED",
-        "info": "Macro Sensor 5 MP"
+        "info": "5 MP (macro)"
       },
       {
-        "flash": "No",
-        "info": "Front 20 MP"
+        "flash": "None",
+        "info": "20 MP (front)"
       }
     ],
     "codename": "alioth",
@@ -2308,10 +2312,10 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "12.3 MP, laser autofocus"
+        "info": "12.3 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -2371,10 +2375,14 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "16 MP + 2 MP"
+        "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "LED",
+        "info": "2 MP"
+      },
+      {
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -2434,18 +2442,18 @@
     "cameras": [
       {
         "flash": "Dual LED",
-        "info": "64/108 MP or 16/32 MP"
+        "info": "64 MP (Mi 10T) or 64 MP (Mi 10T Pro) or 108 MP (K30S Ultra)"
       },
       {
         "flash": "Dual LED",
-        "info": "UltraWide Sensor 13 MP"
+        "info": "13 MP (ultrawide)"
       },
       {
         "flash": "Dual LED",
-        "info": "Macro Sensor 5 MP"
+        "info": "5 MP (macro)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "20 MP"
       }
     ],
@@ -2528,7 +2536,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.6 MP"
       }
     ],
@@ -2587,7 +2595,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -2644,11 +2652,11 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -2726,7 +2734,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "13 MP"
       }
     ],
@@ -2790,11 +2798,27 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "48 MP + 8 MP (Ultra Wide) + 5 MP (Depth) + 2 MP (Macro)"
+        "info": "48 MP"
       },
       {
-        "flash": "",
-        "info": "32 MP + 8 MP (Ultra Wide)"
+        "flash": "LED",
+        "info": "8 MP (Ultra Wide)"
+      },
+      {
+        "flash": "LED",
+        "info": "5 MP (Depth)"
+      },
+      {
+        "flash": "LED",
+        "info": "2 MP (Macro)"
+      },
+      {
+        "flash": "None",
+        "info": "32 MP"
+      },
+      {
+        "flash": "None",
+        "info": "8 MP (Ultra Wide)"
       }
     ],
     "codename": "avicii",
@@ -2855,15 +2879,15 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "16 MP (IMX519)"
+        "info": "16 MP"
       },
       {
-        "flash": "",
-        "info": "24 MP (S5K2X7SP)"
+        "flash": "None",
+        "info": "24 MP"
       },
       {
-        "flash": "",
-        "info": "16 MP, QCFA (S5K3P9SP04-FGX9)"
+        "flash": "None",
+        "info": "16 MP"
       }
     ],
     "codename": "axolotl",
@@ -2936,7 +2960,7 @@
         "info": "20 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -2999,7 +3023,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -3062,11 +3086,11 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
-        "info": "16 MP ultrawide"
+        "flash": "None",
+        "info": "16 MP (ultrawide)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -3131,12 +3155,12 @@
     },
     "cameras": [
       {
-        "flash": "Dual Tone LED",
-        "info": "16 MP, f/2.0"
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP"
       },
       {
         "flash": "LED",
-        "info": "8 MP, f/2.0"
+        "info": "8 MP"
       }
     ],
     "codename": "bardock",
@@ -3207,12 +3231,12 @@
     },
     "cameras": [
       {
-        "flash": "Dual Tone LED",
-        "info": "12 MP, f/1.8"
+        "flash": "Dual LED (dual tone)",
+        "info": "12 MP"
       },
       {
         "flash": "LED",
-        "info": "8 MP, f/2.0"
+        "info": "8 MP"
       }
     ],
     "codename": "bardockpro",
@@ -3288,10 +3312,10 @@
       },
       {
         "flash": "Dual LED (dual tone)",
-        "info": "Depth Sensor 5 MP"
+        "info": "5 MP (depth)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -3356,10 +3380,14 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP + 12 MP"
+        "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "LED",
+        "info": "12 MP"
+      },
+      {
+        "flash": "None",
         "info": "13 MP"
       }
     ],
@@ -3419,10 +3447,14 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "12 MP + 5 MP"
+        "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "5 MP"
+      },
+      {
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -3490,15 +3522,15 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.5-2.4"
+        "info": "12 MP"
       },
       {
         "flash": "LED",
-        "info": "16MP , f/2.2 ultrawide"
+        "info": "16 MP (ultrawide)"
       },
       {
-        "flash": "",
-        "info": "10 MP, f/1.9"
+        "flash": "None",
+        "info": "10 MP"
       }
     ],
     "codename": "beyond0lte",
@@ -3560,19 +3592,19 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.5-2.4"
+        "info": "12 MP"
       },
       {
         "flash": "LED",
-        "info": "12MP , f/2.4 telephoto"
+        "info": "12 MP (telephoto)"
       },
       {
         "flash": "LED",
-        "info": "16MP , f/2.2 ultrawide"
+        "info": "16 MP (ultrawide)"
       },
       {
-        "flash": "",
-        "info": "10 MP, f/1.9"
+        "flash": "None",
+        "info": "10 MP"
       }
     ],
     "codename": "beyond1lte",
@@ -3635,23 +3667,23 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.5-2.4"
+        "info": "12 MP"
       },
       {
         "flash": "LED",
-        "info": "12MP , f/2.4 telephoto"
+        "info": "12 MP (telephoto)"
       },
       {
         "flash": "LED",
-        "info": "16MP , f/2.2 ultrawide"
+        "info": "16 MP (ultrawide)"
       },
       {
-        "flash": "",
-        "info": "10 MP, f/1.9"
+        "flash": "None",
+        "info": "10 MP"
       },
       {
-        "flash": "",
-        "info": "8MP f/2.2 depth sensor"
+        "flash": "None",
+        "info": "8 MP (depth sensor)"
       }
     ],
     "codename": "beyond2lte",
@@ -3714,27 +3746,23 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.5-2.4"
+        "info": "12 MP"
       },
       {
         "flash": "LED",
-        "info": "12MP , f/2.4 telephoto"
+        "info": "12 MP (telephoto)"
       },
       {
         "flash": "LED",
-        "info": "16MP , f/2.2 ultrawide"
+        "info": "16 MP (ultrawide)"
       },
       {
-        "flash": "",
-        "info": "0.3MP , TOF 3D"
+        "flash": "None",
+        "info": "0.3 MP"
       },
       {
-        "flash": "",
-        "info": "10 MP, f/1.9"
-      },
-      {
-        "flash": "",
-        "info": "TOF 3D"
+        "flash": "None",
+        "info": "10 MP"
       }
     ],
     "codename": "beyondx",
@@ -3798,7 +3826,7 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -3870,7 +3898,7 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -3942,11 +3970,11 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
-        "info": "16 MP ultrawide"
+        "flash": "None",
+        "info": "16 MP (ultrawide)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -4012,10 +4040,10 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "12.3 MP, laser autofocus"
+        "info": "12.3 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -4085,11 +4113,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP Sony IMX135 Exmor RS (Mi 3) / 13 MP Sony IMX214 Exmor RS (Mi 4)"
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "2.07 MP  (Mi 3) / 7.99 MP (Mi 4)"
+        "flash": "None",
+        "info": "2.07 MP (Mi 3) or 7.99 MP (Mi 4)"
       }
     ],
     "codename": "cancro",
@@ -4168,7 +4196,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "4 MP"
       }
     ],
@@ -4231,11 +4259,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "8.1 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.2 MP"
       }
     ],
@@ -4299,11 +4327,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "8.1 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.2 MP"
       }
     ],
@@ -4367,7 +4395,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -4434,7 +4462,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -4496,7 +4524,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -4620,7 +4648,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -4684,10 +4712,14 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "40 MP + 20 MP"
+        "info": "40 MP"
       },
       {
-        "flash": "",
+        "flash": "LED",
+        "info": "20 MP"
+      },
+      {
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -4753,11 +4785,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "8 / 13 MP"
+        "info": "8 MP or 13 MP"
       },
       {
-        "flash": "",
-        "info": "2 / 5 MP"
+        "flash": "None",
+        "info": "2 MP or 5 MP"
       }
     ],
     "codename": "che10",
@@ -4834,8 +4866,8 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
-        "info": "16MP"
+        "flash": "None",
+        "info": "16 MP"
       }
     ],
     "codename": "cheeseburger",
@@ -4900,11 +4932,15 @@
     },
     "cameras": [
       {
-        "flash": "Dual-LED flash (Dual Tone)",
-        "info": "16 MP + 5MP"
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP"
       },
       {
-        "flash": "LED flash",
+        "flash": "Dual LED (dual tone)",
+        "info": "5 MP"
+      },
+      {
+        "flash": "LED",
         "info": "12 MP"
       }
     ],
@@ -4975,11 +5011,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "8 / 13 MP"
+        "info": "8 MP (4) or 13 MP (4X)"
       },
       {
-        "flash": "",
-        "info": "2 / 5 MP"
+        "flash": "None",
+        "info": "2 MP (4) or 5 MP (4X)"
       }
     ],
     "codename": "cherry",
@@ -5056,7 +5092,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -5128,7 +5164,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -5200,7 +5236,7 @@
         "info": "21 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -5245,7 +5281,7 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -5304,11 +5340,11 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -5383,7 +5419,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -5455,7 +5491,7 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -5524,15 +5560,15 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.5/2.4"
+        "info": "12 MP"
       },
       {
         "flash": "LED",
-        "info": "12 MP , f/2.4"
+        "info": "12 MP"
       },
       {
-        "flash": "",
-        "info": "8 MP, f/1.7"
+        "flash": "None",
+        "info": "8 MP"
       }
     ],
     "codename": "crownlte",
@@ -5596,19 +5632,19 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.5-2.4"
+        "info": "12 MP"
       },
       {
         "flash": "LED",
-        "info": "12MP , f/2.1 telephoto"
+        "info": "12 MP (telephoto)"
       },
       {
         "flash": "LED",
-        "info": "16MP , f/2.2 ultrawide"
+        "info": "16 MP (ultrawide)"
       },
       {
-        "flash": "",
-        "info": "10 MP, f/2.2"
+        "flash": "None",
+        "info": "10 MP"
       }
     ],
     "codename": "d1",
@@ -5664,11 +5700,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "8 MP w/ LED flash"
+        "flash": "LED",
+        "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.9 MP"
       }
     ],
@@ -5729,23 +5765,23 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.5-2.4"
+        "info": "12 MP"
       },
       {
         "flash": "LED",
-        "info": "12MP , f/2.1 telephoto"
+        "info": "12 MP (telephoto)"
       },
       {
         "flash": "LED",
-        "info": "16MP , f/2.2 ultrawide"
+        "info": "16 MP"
       },
       {
-        "flash": "",
-        "info": "0.3MP , TOF 3D"
+        "flash": "None",
+        "info": "0.3 MP (TOF 3D)"
       },
       {
-        "flash": "",
-        "info": "10 MP, f/2.2"
+        "flash": "None",
+        "info": "10 MP"
       }
     ],
     "codename": "d2s",
@@ -5803,11 +5839,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "8 MP w/ LED flash"
+        "flash": "LED",
+        "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.9 MP"
       }
     ],
@@ -5864,11 +5900,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "8 MP w/ LED flash"
+        "flash": "LED",
+        "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.9 MP"
       }
     ],
@@ -5924,11 +5960,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "8 MP w/ LED flash"
+        "flash": "LED",
+        "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.9 MP"
       }
     ],
@@ -5989,23 +6025,23 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.5-2.4"
+        "info": "12 MP"
       },
       {
         "flash": "LED",
-        "info": "12MP , f/2.1 telephoto"
+        "info": "12 MP (telephoto)"
       },
       {
         "flash": "LED",
-        "info": "16MP , f/2.2 ultrawide"
+        "info": "16 MP"
       },
       {
-        "flash": "",
-        "info": "0.3MP , TOF 3D"
+        "flash": "None",
+        "info": "0.3 MP (TOF 3D)"
       },
       {
-        "flash": "",
-        "info": "10 MP, f/2.2"
+        "flash": "None",
+        "info": "10 MP"
       }
     ],
     "codename": "d2x",
@@ -6071,7 +6107,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -6136,7 +6172,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -6201,7 +6237,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -6266,7 +6302,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -6331,7 +6367,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -6396,7 +6432,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -6461,7 +6497,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -6526,7 +6562,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -6600,7 +6636,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "20 MP"
       }
     ],
@@ -6662,11 +6698,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.2 MP"
       }
     ],
@@ -6724,7 +6760,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -6864,11 +6900,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13.1MP f/2.4"
+        "info": "13.1 MP"
       },
       {
-        "flash": "",
-        "info": "VGA"
+        "flash": "None",
+        "info": "0.3 MP"
       }
     ],
     "codename": "dogo",
@@ -6930,11 +6966,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "8 MP, f/2.4"
+        "flash": "None",
+        "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -6995,8 +7031,8 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
-        "info": "16MP"
+        "flash": "None",
+        "info": "16 MP"
       }
     ],
     "codename": "dumpling",
@@ -7061,10 +7097,14 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "16 MP + 20 MP (16 MP effective)"
+        "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "20 MP (16 MP effective)"
+      },
+      {
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -7146,11 +7186,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "15 MP "
+        "flash": "None",
+        "info": "15 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -7230,11 +7270,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "15 MP "
+        "flash": "None",
+        "info": "15 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -7298,11 +7338,11 @@
     },
     "cameras": [
       {
-        "flash": "LED (dual-tone)",
+        "flash": "Dual LED (dual tone)",
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -7372,7 +7412,7 @@
       },
       {
         "flash": "Dual LED (dual tone)",
-        "info": "Depth Sensor 5 MP"
+        "info": "5 MP (depth)"
       },
       {
         "flash": "LED",
@@ -7441,7 +7481,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -7508,7 +7548,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -7570,10 +7610,14 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "16 MP + 20 MP (16 MP effective)"
+        "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "20 MP (16 MP effective)"
+      },
+      {
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -7648,7 +7692,7 @@
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -7704,10 +7748,14 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP + 2 MP"
+        "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "LED",
+        "info": "2 MP"
+      },
+      {
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -7778,7 +7826,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -7864,11 +7912,11 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -7936,11 +7984,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.2 MP"
       }
     ],
@@ -7990,7 +8038,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.6 MP"
       }
     ],
@@ -8046,7 +8094,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.6 MP"
       }
     ],
@@ -8099,11 +8147,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.2 MP"
       }
     ],
@@ -8250,7 +8298,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -8311,7 +8359,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "4 MP"
       }
     ],
@@ -8381,7 +8429,7 @@
         "info": "10 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -8443,22 +8491,22 @@
     "cameras": [
       {
         "flash": "Dual LED",
-        "info": "48 MP or 12 MP"
+        "info": "48 MP (or 12 MP)"
       },
       {
         "flash": "Dual LED",
-        "info": "UltraWide Sensor 8 MP"
+        "info": "8 MP (ultrawide)"
       },
       {
         "flash": "Dual LED",
-        "info": "Macro Sensor 2 MP"
+        "info": "2 MP (macro)"
       },
       {
         "flash": "Dual LED",
-        "info": "Depth Sensor 2 MP"
+        "info": "2 MP (depth)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "13 MP"
       }
     ],
@@ -8534,7 +8582,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -8598,7 +8646,7 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "13 MP, laser autofocus, OIS"
+        "info": "13 MP"
       },
       {
         "flash": "LED",
@@ -8664,11 +8712,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -8721,11 +8769,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -8779,11 +8827,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -8841,11 +8889,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -8903,11 +8951,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -8963,11 +9011,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -9021,11 +9069,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -9082,11 +9130,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -9145,11 +9193,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -9205,10 +9253,18 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "48 MP (wide) + 8 MP (telephoto) + 16 MP (ultrawide)"
+        "info": "48 MP (wide)"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "8 MP (telephoto)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP (ultrawide)"
+      },
+      {
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -9281,10 +9337,14 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "48 MP (wide) + 5 MP (depth)"
+        "info": "48 MP (wide)"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "5 MP (depth)"
+      },
+      {
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -9358,7 +9418,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -9422,7 +9482,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -9490,7 +9550,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -9560,7 +9620,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -9631,7 +9691,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -9699,7 +9759,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -9776,7 +9836,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -9853,7 +9913,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -9925,11 +9985,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP, 1080p Full HD Video Recording @ 60fps"
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "2 MP, 1080p HD Video Recording @ 30fps"
+        "flash": "None",
+        "info": "2 MP"
       }
     ],
     "codename": "ha3g",
@@ -9988,10 +10048,10 @@
     "cameras": [
       {
         "flash": "Dual LED",
-        "info": "13 MP F/2.2"
+        "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -10053,7 +10113,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -10175,7 +10235,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -10235,10 +10295,10 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP f/2.4"
+        "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -10300,20 +10360,20 @@
     },
     "cameras": [
       {
-        "flash": "Dual-LED (Dual Tone)",
-        "info": "16 MP (Primary) IMX519"
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP (Primary)"
       },
       {
-        "flash": "Dual-LED (Dual Tone)",
-        "info": "24.8 MP (Secondary) IMX576"
+        "flash": "Dual LED (dual tone)",
+        "info": "24.8 MP (Secondary)"
       },
       {
-        "flash": "",
-        "info": "16 MP (Front Facing Primary) S5K3P9SX"
+        "flash": "None",
+        "info": "16 MP (Front Facing Primary)"
       },
       {
-        "flash": "Single-LED",
-        "info": "8 MP (Front Facing Infrared) S5KGD1"
+        "flash": "LED",
+        "info": "8 MP (Front Facing Infrared)"
       }
     ],
     "codename": "heart",
@@ -10373,11 +10433,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.7, 26mm"
+        "info": "12 MP"
       },
       {
-        "flash": "",
-        "info": "5 MP, f/1.7, 22mm"
+        "flash": "None",
+        "info": "5 MP"
       }
     ],
     "codename": "hero2lte",
@@ -10441,11 +10501,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.7, 26mm"
+        "info": "12 MP"
       },
       {
-        "flash": "",
-        "info": "5 MP, f/1.7, 22mm"
+        "flash": "None",
+        "info": "5 MP"
       }
     ],
     "codename": "herolte",
@@ -10509,11 +10569,11 @@
     },
     "cameras": [
       {
-        "flash": "Dual-LED",
+        "flash": "Dual LED",
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "4 MP"
       }
     ],
@@ -10578,7 +10638,7 @@
         "info": "20 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "4 MP"
       }
     ],
@@ -10645,7 +10705,7 @@
         "info": "20 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "4 MP"
       }
     ],
@@ -10711,11 +10771,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP, 2160p@30fps, 1080p@60fps"
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "2 MP, 1080p@30fps"
+        "flash": "None",
+        "info": "2 MP"
       }
     ],
     "codename": "hlte",
@@ -10783,11 +10843,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP, 2160p@30fps, 1080p@60fps"
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "2 MP, 1080p@30fps"
+        "flash": "None",
+        "info": "2 MP"
       }
     ],
     "codename": "hltechn",
@@ -10853,11 +10913,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP, 2160p@30fps, 1080p@60fps"
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "2 MP, 1080p@30fps"
+        "flash": "None",
+        "info": "2 MP"
       }
     ],
     "codename": "hltekor",
@@ -10923,11 +10983,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP, 2160p@30fps, 1080p@60fps"
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "2 MP, 1080p@30fps"
+        "flash": "None",
+        "info": "2 MP"
       }
     ],
     "codename": "hltetmo",
@@ -10993,10 +11053,18 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "48 MP (wide) + 8 MP (telephoto) + 16 MP (ultrawide)"
+        "info": "48 MP (wide)"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "8 MP (telephoto)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP (ultrawide)"
+      },
+      {
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -11068,10 +11136,18 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "48 MP (wide) + 12 MP (telephoto) + 16 MP (ultrawide)"
+        "info": "48 MP (wide)"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "12 MP (telephoto)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP (ultrawide)"
+      },
+      {
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -11142,11 +11218,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "8MP f/2.4"
+        "info": "8 MP"
       },
       {
-        "flash": "",
-        "info": "VGA"
+        "flash": "None",
+        "info": "0.3 MP"
       }
     ],
     "codename": "huashan",
@@ -11208,11 +11284,11 @@
     },
     "cameras": [
       {
-        "flash": "LED (dual-tone)",
+        "flash": "Dual LED (dual tone)",
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -11273,11 +11349,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "8 MP w/ LED-flash"
+        "flash": "LED",
+        "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.9 MP"
       }
     ],
@@ -11329,7 +11405,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.9 MP"
       }
     ],
@@ -11392,7 +11468,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.9 MP"
       }
     ],
@@ -11455,7 +11531,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -11528,10 +11604,18 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "48 MP (wide) + 16 MP (ultrawide) + 2 MP (macro)"
+        "info": "48 MP (wide)"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP (ultrawide)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "2 MP (macro)"
+      },
+      {
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -11603,10 +11687,22 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "48 MP (wide) + 8 MP (telephoto) + 48 MP (ultrawide) + 5 MP (color filter camera)"
+        "info": "48 MP (wide)"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "8 MP (telephoto)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "48 MP (ultrawide)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "5 MP (color filter camera)"
+      },
+      {
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -11680,11 +11776,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "20.7 MP F/2.0"
+        "info": "20.7 MP"
       },
       {
-        "flash": "",
-        "info": "5.1 MP F/2.4"
+        "flash": "None",
+        "info": "5.1 MP"
       }
     ],
     "codename": "ivy",
@@ -11810,7 +11906,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -11884,7 +11980,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -11942,7 +12038,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -11998,11 +12094,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -12053,11 +12149,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -12197,7 +12293,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -12269,7 +12365,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -12344,7 +12440,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -12418,7 +12514,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -12493,7 +12589,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -12566,7 +12662,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -12639,11 +12735,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "16 MP, 1080p Full HD Video Recording @ 60fps"
+        "info": "16 MP"
       },
       {
-        "flash": "",
-        "info": "2 MP, 1080p HD Video Recording @ 30fps"
+        "flash": "None",
+        "info": "2 MP"
       }
     ],
     "codename": "k3gxx",
@@ -12709,11 +12805,11 @@
         "info": "48 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "25 MP"
       }
     ],
@@ -12774,11 +12870,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "8.1 MP F/2.0"
+        "info": "8.1 MP"
       },
       {
-        "flash": "",
-        "info": "5.1 MP F/2.4"
+        "flash": "None",
+        "info": "5.1 MP"
       }
     ],
     "codename": "karin",
@@ -12836,11 +12932,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "8.1 MP F/2.0"
+        "info": "8.1 MP"
       },
       {
-        "flash": "",
-        "info": "5.1 MP F/2.4"
+        "flash": "None",
+        "info": "5.1 MP"
       }
     ],
     "codename": "karin_windy",
@@ -12894,7 +12990,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -12962,10 +13058,22 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "48 MP (wide) + 16 MP (ultrawide) + 5 MP (macro) + 2 MP (depth)"
+        "info": "48 MP (wide)"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP (ultrawide)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "5 MP (macro)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "2 MP (depth)"
+      },
+      {
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -13036,11 +13144,11 @@
     },
     "cameras": [
       {
-        "flash": "LED (dual-tone)",
+        "flash": "Dual LED (dual tone)",
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -13100,10 +13208,10 @@
     "cameras": [
       {
         "flash": "Dual LED",
-        "info": "16 MP F/2.2, OIS"
+        "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -13243,7 +13351,7 @@
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -13305,11 +13413,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP, f/2.0, 28mm"
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "5 MP, f/2.4, 22mm"
+        "flash": "None",
+        "info": "5 MP"
       }
     ],
     "codename": "kiwi",
@@ -13375,7 +13483,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -13430,7 +13538,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -13500,7 +13608,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -13566,7 +13674,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -13632,7 +13740,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -13705,7 +13813,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -13781,7 +13889,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -13854,7 +13962,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -13920,7 +14028,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -13986,7 +14094,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -14052,7 +14160,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -14113,12 +14221,12 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "13 MP, 1080p Full HD Video Recording @ 30fps"
+        "flash": "None",
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "2 MP, 1080p HD Video Recording @ 30fps"
+        "flash": "None",
+        "info": "2 MP"
       }
     ],
     "codename": "ks01lte",
@@ -14190,7 +14298,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -14268,10 +14376,10 @@
       },
       {
         "flash": "Dual LED (dual tone)",
-        "info": "Depth Sensor 5 MP"
+        "info": "5 MP (depth)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "12 MP"
       }
     ],
@@ -14340,7 +14448,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -14407,14 +14515,14 @@
     "cameras": [
       {
         "flash": "Dual LED",
-        "info": "48 MP or 12 MP"
+        "info": "48 MP (or 12 MP)"
       },
       {
         "flash": "Dual LED",
-        "info": "Depth Sensor 5 MP or 2 MP"
+        "info": "5 MP (or 2 MP, depth)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "13 MP"
       }
     ],
@@ -14484,10 +14592,22 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "48 MP (wide) + 8 MP (telephoto) + 50 MP (ultrawide) + 2 MP (monochrome)"
+        "info": "48 MP (wide)"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "8 MP (telephoto)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "50 MP (ultrawide)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "2 MP (monochrome)"
+      },
+      {
+        "flash": "None",
         "info": "16 MP"
       }
     ],
@@ -14561,7 +14681,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -14629,7 +14749,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -14696,10 +14816,10 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "13 MP, phase detection autofocus"
+        "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -14765,7 +14885,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -14831,10 +14951,22 @@
     "cameras": [
       {
         "flash": "Dual LED",
-        "info": "64 MP + 13MP (ultrawide) + 5MP (macro) + 2MP (bokeh) or 8MP (telephoto, zoom edition only)"
+        "info": "64 MP"
       },
       {
-        "flash": "",
+        "flash": "Dual LED",
+        "info": "13 MP (ultrawide)"
+      },
+      {
+        "flash": "Dual LED",
+        "info": "5 MP (macro)"
+      },
+      {
+        "flash": "Dual LED",
+        "info": "2 MP (bokeh) or 8 MP (telephoto, zoom edition only)"
+      },
+      {
+        "flash": "None",
         "info": "20 MP (front popup)"
       }
     ],
@@ -14920,7 +15052,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -14992,7 +15124,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -15061,11 +15193,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "3 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -15123,7 +15255,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -15172,7 +15304,7 @@
         "info": "21 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -15222,15 +15354,15 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP , f/1.9"
+        "info": "13 MP"
       },
       {
         "flash": "LED",
-        "info": "5 MP , f/2.2 ultrawide"
+        "info": "5 MP (ultrawide)"
       },
       {
-        "flash": "",
-        "info": "8 MP, f/2.0"
+        "flash": "None",
+        "info": "8 MP"
       }
     ],
     "codename": "m20lte",
@@ -15286,10 +15418,10 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP(LTE) or 8 MP(3G)"
+        "info": "13 MP (LTE) or 8 MP (3G)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP or 8 MP"
       }
     ],
@@ -15349,10 +15481,10 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "4 UP"
+        "info": "4 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -15412,10 +15544,10 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "4 UP"
+        "info": "4 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -15478,10 +15610,10 @@
     "cameras": [
       {
         "flash": "Dual LED",
-        "info": "Dual 4 MP"
+        "info": "4 MP (dual)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -15547,10 +15679,10 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "Dual 4 MP"
+        "info": "4 MP (dual)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -15618,7 +15750,7 @@
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -15676,7 +15808,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -15736,7 +15868,7 @@
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.9 MP"
       }
     ],
@@ -15795,7 +15927,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -15859,7 +15991,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -15924,10 +16056,10 @@
       },
       {
         "flash": "Dual LED (dual tone)",
-        "info": "Monochromatic 13 MP"
+        "info": "13 MP (monochromatic)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -16053,7 +16185,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -16118,7 +16250,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -16180,23 +16312,23 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "48 MP / 64 MP"
+        "info": "48 MP (Non-Pro) or 64 MP (Pro, Pro Max)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP (ultrawide)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP (macro)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP (bokeh)"
       },
       {
-        "flash": "",
-        "info": "16 MP / 32 MP (front punch-hole)"
+        "flash": "None",
+        "info": "16 MP or 32 MP (Pro Max)"
       }
     ],
     "codename": "miatoll",
@@ -16285,11 +16417,11 @@
     },
     "cameras": [
       {
-        "flash": "LED (dual-tone)",
+        "flash": "Dual LED (dual tone)",
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -16354,10 +16486,10 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP f/2.4"
+        "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -16420,7 +16552,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -16452,6 +16584,95 @@
       13.0
     ],
     "wifi": "Dual-band Wi-Fi 802.11 a/b/g/n/ac"
+  },
+  "monet": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4160,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5.1"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "48 MP"
+      },
+      {
+        "flash": "Dual LED",
+        "info": "8 MP"
+      },
+      {
+        "flash": "Dual LED",
+        "info": "2 MP"
+      },
+      {
+        "flash": "Dual LED",
+        "info": "2 MP"
+      },
+      {
+        "flash": "None",
+        "info": "16 MP"
+      }
+    ],
+    "codename": "monet",
+    "cpu": "Kryo 475",
+    "cpu_cores": "8",
+    "cpu_freq": "1 x 2.4 GHz + 1 x 2.2 GHz + 6 x 1.8 GHz",
+    "gpu": "Adreno 620",
+    "name": "Mi 10 Lite 5G",
+    "network": [
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "4G LTE",
+      "5G"
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
+      "Dual SIM",
+      "FM radio",
+      "Dual-frequency GNSS",
+      "Fingerprint reader",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
+    ],
+    "ram": "6/8 GB",
+    "release": "2020-05",
+    "screen": {
+      "density": 401,
+      "resolution": "1080x2340",
+      "size": "166.8 mm (6.57 in)",
+      "technology": "AMOLED"
+    },
+    "screen_res": "?",
+    "screen_tech": "?",
+    "sdcard": "?",
+    "soc": "Qualcomm SM7250 Snapdragon 765G",
+    "tree": "android_device_xiaomi_monet",
+    "vendor": "Xiaomi",
+    "versions": [
+      18.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
   "montana": {
     "architecture": "arm64",
@@ -16540,7 +16761,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.9 MP"
       }
     ],
@@ -16598,7 +16819,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -16660,7 +16881,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -16717,7 +16938,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -16767,8 +16988,8 @@
     },
     "cameras": [
       {
-        "flash": "Dual-mode LED",
-        "info": "Motorized Rotation, 16MP OmniVision OV16825 f/2.2"
+        "flash": "Dual LED",
+        "info": "16 MP"
       }
     ],
     "codename": "n3",
@@ -16815,11 +17036,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "5 MP, autofocus"
+        "flash": "None",
+        "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -16876,11 +17097,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "5 MP, autofocus"
+        "flash": "None",
+        "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -16934,11 +17155,11 @@
     },
     "cameras": [
       {
-        "flash": "",
-        "info": "5 MP, autofocus"
+        "flash": "None",
+        "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -17001,7 +17222,7 @@
       },
       {
         "flash": "Dual LED (dual tone)",
-        "info": "Monochromatic 12 MP"
+        "info": "12 MP (monochromatic)"
       },
       {
         "flash": "Dual LED (dual tone)",
@@ -17076,10 +17297,10 @@
       },
       {
         "flash": "Dual LED (dual tone)",
-        "info": "Monochromatic 16 MP"
+        "info": "16 MP (monochromatic)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "4 MP"
       }
     ],
@@ -17145,12 +17366,12 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
-        "info": "VGA"
+        "flash": "None",
+        "info": "0.3 MP"
       }
     ],
     "codename": "nicki",
@@ -17273,8 +17494,8 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
-        "info": "16MP"
+        "flash": "None",
+        "info": "16 MP"
       }
     ],
     "codename": "nx563j",
@@ -17335,19 +17556,19 @@
     },
     "cameras": [
       {
-        "flash": "PDAF",
+        "flash": "LED",
         "info": "64 MP"
       },
       {
-        "flash": "",
-        "info": "13 MP ultrawide"
+        "flash": "LED",
+        "info": "13 MP (ultrawide)"
       },
       {
         "flash": "Dual LED",
-        "info": "5 MP macro"
+        "info": "5 MP (macro)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "12 MP"
       }
     ],
@@ -17420,7 +17641,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -17486,11 +17707,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13MP f/2.4"
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "2MP"
+        "flash": "None",
+        "info": "2 MP"
       }
     ],
     "codename": "odin",
@@ -17553,11 +17774,15 @@
     "cameras": [
       {
         "flash": "Dual LED",
-        "info": "12MP + 2MP AI Dual Camera"
+        "info": "12 MP"
       },
       {
-        "flash": "",
-        "info": "8MP Selfie camera"
+        "flash": "Dual LED",
+        "info": "2 MP"
+      },
+      {
+        "flash": "None",
+        "info": "8 MP"
       }
     ],
     "codename": "onclite",
@@ -17620,11 +17845,11 @@
     "cameras": [
       {
         "flash": "Dual LED",
-        "info": "13 MP  F/2.0"
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "5 MP F/2.4"
+        "flash": "None",
+        "info": "5 MP"
       }
     ],
     "codename": "oneplus2",
@@ -17698,8 +17923,8 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
-        "info": "8MP (3) / 16MP (3T)"
+        "flash": "None",
+        "info": "8 MP (3; 3T: 16 MP)"
       }
     ],
     "codename": "oneplus3",
@@ -17772,7 +17997,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -17835,7 +18060,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -17891,12 +18116,12 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
-        "info": "VGA"
+        "flash": "None",
+        "info": "0.3 MP"
       }
     ],
     "codename": "otus",
@@ -18019,7 +18244,7 @@
       },
       {
         "flash": "Dual LED (dual tone)",
-        "info": "Monochromatic 12 MP"
+        "info": "12 MP (monochromatic)"
       },
       {
         "flash": "Dual LED (dual tone)",
@@ -18093,7 +18318,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -18154,7 +18379,7 @@
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -18214,7 +18439,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -18282,7 +18507,7 @@
         "info": "23 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -18353,7 +18578,7 @@
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "24 MP"
       }
     ],
@@ -18415,11 +18640,11 @@
     "cameras": [
       {
         "flash": "Dual LED",
-        "info": "12 MP , f/1.8, 26mm"
+        "info": "12 MP"
       },
       {
-        "flash": "",
-        "info": "5 MP, f/1.8, 23mm"
+        "flash": "None",
+        "info": "5 MP"
       }
     ],
     "codename": "pme",
@@ -18475,10 +18700,14 @@
     "cameras": [
       {
         "flash": "Dual LED (dual tone)",
-        "info": "12 MP + 12 MP"
+        "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "12 MP"
+      },
+      {
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -18543,11 +18772,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "8.1MP f/2.4"
+        "info": "8.1 MP"
       },
       {
-        "flash": "",
-        "info": "2.2MP"
+        "flash": "None",
+        "info": "2.2 MP"
       }
     ],
     "codename": "pollux",
@@ -18610,11 +18839,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "8.1MP f/2.4"
+        "info": "8.1 MP"
       },
       {
-        "flash": "",
-        "info": "2.2MP"
+        "flash": "None",
+        "info": "2.2 MP"
       }
     ],
     "codename": "pollux_windy",
@@ -18738,7 +18967,7 @@
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -18864,7 +19093,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -18934,7 +19163,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -19001,7 +19230,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -19067,18 +19296,18 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "64 MP (wide) + Depth Sensor (TOF 3D)"
+        "info": "64 MP (wide)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP (telephoto)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "16 MP (ultrawide)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "25 MP (wide)"
       }
     ],
@@ -19148,11 +19377,11 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
-        "info": "16 MP ultrawide"
+        "flash": "None",
+        "info": "16 MP (ultrawide)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -19288,10 +19517,10 @@
       },
       {
         "flash": "LED",
-        "info": "Depth Sensor 5 MP"
+        "info": "5 MP (depth)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -19405,7 +19634,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -19479,7 +19708,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -19544,7 +19773,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -19609,7 +19838,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -19674,7 +19903,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -19742,7 +19971,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -19816,7 +20045,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -19890,7 +20119,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -19961,7 +20190,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "12 MP"
       }
     ],
@@ -20033,7 +20262,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -20102,7 +20331,7 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -20174,7 +20403,7 @@
         "info": "22.5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -20241,7 +20470,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -20299,11 +20528,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "8 MP, 1080p Full HD Video Recording @ 30fps"
+        "info": "8 MP"
       },
       {
-        "flash": "",
-        "info": "1.9 MP, 720p HD Video Recording @ 30fps"
+        "flash": "None",
+        "info": "1.9 MP"
       }
     ],
     "codename": "serrano3gxx",
@@ -20365,11 +20594,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "8 MP, 1080p Full HD Video Recording @ 30fps"
+        "info": "8 MP"
       },
       {
-        "flash": "",
-        "info": "1.9 MP, 720p HD Video Recording @ 30fps"
+        "flash": "None",
+        "info": "1.9 MP"
       }
     ],
     "codename": "serranodsdd",
@@ -20431,11 +20660,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "8 MP, 1080p Full HD Video Recording @ 30fps"
+        "info": "8 MP"
       },
       {
-        "flash": "",
-        "info": "1.9 MP, 720p HD Video Recording @ 30fps"
+        "flash": "None",
+        "info": "1.9 MP"
       }
     ],
     "codename": "serranoltexx",
@@ -20499,8 +20728,8 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "2.1 MP "
+        "flash": "None",
+        "info": "2.1 MP"
       }
     ],
     "codename": "shamu",
@@ -20561,11 +20790,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -20623,7 +20852,7 @@
         "info": "20.7 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.2 MP"
       }
     ],
@@ -20692,7 +20921,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -20753,15 +20982,15 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.5/2.4"
+        "info": "12 MP"
       },
       {
         "flash": "LED",
-        "info": "12 MP , f/2.4"
+        "info": "12 MP"
       },
       {
-        "flash": "",
-        "info": "8 MP, f/1.7"
+        "flash": "None",
+        "info": "8 MP"
       }
     ],
     "codename": "star2lte",
@@ -20826,11 +21055,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "12 MP , f/1.5/2.4"
+        "info": "12 MP"
       },
       {
-        "flash": "",
-        "info": "8 MP, f/1.7"
+        "flash": "None",
+        "info": "8 MP"
       }
     ],
     "codename": "starlte",
@@ -20893,11 +21122,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "23 MP f/2.0"
+        "info": "23 MP"
       },
       {
-        "flash": "",
-        "info": "5.1 MP f/2.4"
+        "flash": "None",
+        "info": "5.1 MP"
       }
     ],
     "codename": "sumire",
@@ -20963,7 +21192,7 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -21025,12 +21254,12 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
-        "info": "VGA"
+        "flash": "None",
+        "info": "0.3 MP"
       }
     ],
     "codename": "surnia",
@@ -21093,7 +21322,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "20 MP"
       }
     ],
@@ -21161,11 +21390,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "23 MP f/2.0"
+        "info": "23 MP"
       },
       {
-        "flash": "",
-        "info": "5.1 MP f/2.4"
+        "flash": "None",
+        "info": "5.1 MP"
       }
     ],
     "codename": "suzuran",
@@ -21225,7 +21454,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.9 MP"
       }
     ],
@@ -21288,10 +21517,10 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "4 UP"
+        "info": "4 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -21354,10 +21583,10 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "4 UP"
+        "info": "4 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -21423,7 +21652,7 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -21492,11 +21721,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "8 MP f/2.4"
+        "info": "8 MP"
       },
       {
-        "flash": "",
-        "info": "VGA"
+        "flash": "None",
+        "info": "0.3 MP"
       }
     ],
     "codename": "taoshan",
@@ -21557,8 +21786,8 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
-        "info": "VGA"
+        "flash": "None",
+        "info": "0.3 MP"
       }
     ],
     "codename": "targa",
@@ -21616,7 +21845,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -21683,7 +21912,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -21750,7 +21979,7 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -21822,7 +22051,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -21878,10 +22107,10 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP F/2.2"
+        "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -21961,7 +22190,7 @@
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -22023,7 +22252,7 @@
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -22085,15 +22314,15 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "12 MP"
       }
     ],
@@ -22154,10 +22383,10 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13 MP f/2.4"
+        "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -22224,7 +22453,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -22287,15 +22516,15 @@
         "info": "12 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "20 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -22376,7 +22605,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -22441,7 +22670,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -22518,7 +22747,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -22582,7 +22811,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -22632,11 +22861,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "3.15 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -22681,11 +22910,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -22730,11 +22959,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -22784,11 +23013,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -22842,11 +23071,11 @@
     },
     "cameras": [
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -22905,19 +23134,19 @@
         "info": "48 MP"
       },
       {
-        "flash": "",
-        "info": "8MP (ultrawide)"
+        "flash": "None",
+        "info": "8 MP (ultrawide)"
       },
       {
-        "flash": "",
-        "info": "2MP (macro)"
+        "flash": "None",
+        "info": "2 MP (macro)"
       },
       {
-        "flash": "",
-        "info": "2MP (bokeh)"
+        "flash": "None",
+        "info": "2 MP (bokeh)"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "20 MP (front punch-hole)"
       }
     ],
@@ -22990,7 +23219,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -23060,11 +23289,11 @@
     "cameras": [
       {
         "flash": "Dual LED",
-        "info": "13 MP, 4128 x 3096 pixels, autofocus"
+        "info": "13 MP"
       },
       {
-        "flash": "",
-        "info": "2 MP, 1080p"
+        "flash": "None",
+        "info": "2 MP"
       }
     ],
     "codename": "victara",
@@ -23123,11 +23352,15 @@
     },
     "cameras": [
       {
-        "flash": "Dual-LED flash (Dual Tone)",
-        "info": "48 MP + 5MP"
+        "flash": "Dual LED (dual tone)",
+        "info": "48 MP"
       },
       {
-        "flash": "",
+        "flash": "Dual LED (dual tone)",
+        "info": "5 MP"
+      },
+      {
+        "flash": "None",
         "info": "13 MP"
       }
     ],
@@ -23199,7 +23432,7 @@
         "info": "23 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -23264,7 +23497,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.1 MP"
       }
     ],
@@ -23335,7 +23568,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -23405,7 +23638,7 @@
         "info": "5 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "0.3 MP"
       }
     ],
@@ -23466,7 +23699,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -23526,7 +23759,7 @@
         "info": "12.2 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -23744,7 +23977,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2 MP"
       }
     ],
@@ -23809,7 +24042,7 @@
         "info": "21 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -23874,7 +24107,7 @@
         "info": "8 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "1.3 MP"
       }
     ],
@@ -23939,7 +24172,7 @@
         "info": "19 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -24003,11 +24236,11 @@
     "cameras": [
       {
         "flash": "LED",
-        "info": "13.1MP f/2.4"
+        "info": "13.1 MP"
       },
       {
-        "flash": "",
-        "info": "2MP"
+        "flash": "None",
+        "info": "2 MP"
       }
     ],
     "codename": "yuga",
@@ -24073,7 +24306,7 @@
         "info": "13 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -24139,7 +24372,7 @@
         "info": "20.7 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.2 MP"
       }
     ],
@@ -24213,7 +24446,7 @@
         "info": "20.7 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "2.2 MP"
       }
     ],
@@ -24283,16 +24516,16 @@
     },
     "cameras": [
       {
-        "flash": "Dual Tone Dual LED",
-        "info": "12 MP, f/1.8, Dual Pixel PDAF"
+        "flash": "Dual LED (dual tone)",
+        "info": "12 MP"
       },
       {
-        "flash": "Dual Tone Dual LED",
-        "info": "5 MP, depth sensor"
+        "flash": "Dual LED (dual tone)",
+        "info": "5 MP (depth)"
       },
       {
         "flash": "LED",
-        "info": "8 MP, f/2.0"
+        "info": "8 MP"
       }
     ],
     "codename": "zangya",
@@ -24307,6 +24540,7 @@
       "4G LTE"
     ],
     "peripherals": [
+      "Depth Sensor",
       "Dual SIM",
       "Fingerprint reader",
       "Accelerometer",
@@ -24363,16 +24597,16 @@
     },
     "cameras": [
       {
-        "flash": "Dual Tone Dual LED",
-        "info": "12 MP, f/1.8, Dual Pixel PDAF"
+        "flash": "Dual LED (dual tone)",
+        "info": "12 MP"
       },
       {
-        "flash": "Dual Tone Dual LED",
-        "info": "5 MP, depth sensor"
+        "flash": "Dual LED (dual tone)",
+        "info": "5 MP (depth)"
       },
       {
         "flash": "LED",
-        "info": "8 MP, f/2.0"
+        "info": "8 MP"
       }
     ],
     "codename": "zangyapro",
@@ -24454,11 +24688,11 @@
     },
     "cameras": [
       {
-        "flash": "Dual-LED",
+        "flash": "Dual LED",
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
@@ -24538,7 +24772,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -24604,7 +24838,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "5 MP"
       }
     ],
@@ -24669,24 +24903,24 @@
     },
     "cameras": [
       {
-        "flash": "Dual-LED flash (Dual Tone)",
-        "info": "48 MP (Primary) S5KGM1"
+        "flash": "Dual LED (dual tone)",
+        "info": "48 MP (Primary)"
       },
       {
-        "flash": "Dual-LED flash (Dual Tone)",
-        "info": "8 MP (Telephoto) OV8865"
+        "flash": "Dual LED (dual tone)",
+        "info": "8 MP (Telephoto)"
       },
       {
-        "flash": "Dual-LED flash (Dual Tone)",
-        "info": "16 MP (Wide-angle) OV16885"
+        "flash": "Dual LED (dual tone)",
+        "info": "16 MP (Wide-angle)"
       },
       {
-        "flash": "Dual-LED flash (Dual Tone)",
-        "info": "2 MP (Dedicated video camera) OV02c20"
+        "flash": "Dual LED (dual tone)",
+        "info": "2 MP (Dedicated video camera)"
       },
       {
-        "flash": "",
-        "info": "32 MP (Front Facing) S5KGD1"
+        "flash": "None",
+        "info": "32 MP (Front Facing)"
       }
     ],
     "codename": "zippo",
@@ -24751,7 +24985,7 @@
         "info": "16 MP"
       },
       {
-        "flash": "",
+        "flash": "None",
         "info": "8 MP"
       }
     ],
