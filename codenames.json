@@ -8407,6 +8407,112 @@
     ],
     "wifi": "802.11 b/g/n, Wi-Fi Direct, DLNA, Hotspot"
   },
+  "gauguin": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4820,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX"
+      ],
+      "spec": "5.1"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "108 MP"
+      },
+      {
+        "flash": "Dual LED",
+        "info": "64 MP"
+      },
+      {
+        "flash": "Dual LED",
+        "info": "8 MP"
+      },
+      {
+        "flash": "Dual LED",
+        "info": "2 MP"
+      },
+      {
+        "flash": "Dual LED",
+        "info": "2 MP"
+      },
+      {
+        "flash": "None",
+        "info": "16 MP"
+      }
+    ],
+    "codename": "gauguin",
+    "cpu": "Kryo 570",
+    "cpu_cores": "8",
+    "cpu_freq": "2 x 2.2 GHz + 6 x 1.8 GHz",
+    "gpu": "Adreno 619",
+    "name": "Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G",
+    "network": [
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE",
+      "5G"
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
+      "Dual SIM",
+      "FM radio",
+      "Dual-frequency GNSS",
+      "Fingerprint reader",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "USB OTG",
+      "Wi-Fi Display"
+    ],
+    "ram": "6/8 GB",
+    "release": [
+      {
+        "Redmi Note 9 Pro 5G": "2020-12"
+      },
+      {
+        "Mi 10i": "2021-01"
+      },
+      {
+        "Mi 10T Lite": "2020-10"
+      }
+    ],
+    "screen": {
+      "density": 395,
+      "resolution": "2400x1080",
+      "size": "165.4 mm (6.67 in)",
+      "technology": "IPS LCD"
+    },
+    "screen_res": "?",
+    "screen_tech": "?",
+    "sdcard": {
+      "sizeMax": "512 GB"
+    },
+    "soc": "Qualcomm SM7225 Snapdragon 750G 5G",
+    "tree": "android_device_xiaomi_gauguin",
+    "vendor": "Xiaomi",
+    "versions": [
+      18.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
+  },
   "gemini": {
     "architecture": "arm64",
     "battery": {
@@ -14642,6 +14748,91 @@
       18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+  },
+  "lemonade": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 4500,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5.2"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "48 MP (main)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "50 MP (ultrawide)"
+      },
+      {
+        "flash": "Dual LED (dual tone)",
+        "info": "2 MP (monochrome)"
+      },
+      {
+        "flash": "None",
+        "info": "16 MP"
+      }
+    ],
+    "codename": "lemonade",
+    "cpu": "Kryo 680",
+    "cpu_cores": "8",
+    "cpu_freq": "1 x 2.84 GHz + 3 x 2.42 GHz + 4 x 1.8 GHz",
+    "gpu": "Adreno 660",
+    "name": "9",
+    "network": [
+      "2G GSM",
+      "3G UMTS",
+      "4G LTE",
+      "5G"
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
+      "Dual SIM",
+      "Dual-frequency GNSS",
+      "Fingerprint reader",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "SBAS",
+      "QZSS",
+      "Gyroscope",
+      "Hall effect sensor",
+      "Light sensor",
+      "NFC",
+      "Proximity sensor",
+      "Qi wireless charging",
+      "Qi reverse wireless charging",
+      "USB OTG",
+      "Wi-Fi Display"
+    ],
+    "ram": "8/12 GB LPDDR5",
+    "release": "2021-03",
+    "screen": {
+      "density": 402,
+      "resolution": "1080x2400",
+      "size": "166.37 mm (6.55 in)",
+      "technology": "Fluid AMOLED"
+    },
+    "screen_res": "?",
+    "screen_tech": "?",
+    "sdcard": "?",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "tree": "android_device_oneplus_lemonade",
+    "vendor": "OnePlus",
+    "versions": [
+      18.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
   },
   "lemonadep": {
     "architecture": "arm64",
