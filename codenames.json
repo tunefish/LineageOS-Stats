@@ -17728,6 +17728,102 @@
     ],
     "wifi": "802.11 a/b/g/n"
   },
+  "nio": {
+    "architecture": "arm64",
+    "battery": {
+      "capacity": 5000,
+      "removable": false,
+      "tech": "Li-Po"
+    },
+    "bluetooth": {
+      "profiles": [
+        "A2DP + aptX HD"
+      ],
+      "spec": "5.1"
+    },
+    "cameras": [
+      {
+        "flash": "Dual LED",
+        "info": "64 MP (wide)"
+      },
+      {
+        "flash": "None",
+        "info": "16 MP (ultrawide)"
+      },
+      {
+        "flash": "None",
+        "info": "2 MP (depth)"
+      },
+      {
+        "flash": "None",
+        "info": "0.3 MP (TOF 3D)"
+      },
+      {
+        "flash": "None",
+        "info": "16 MP (wide)"
+      },
+      {
+        "flash": "None",
+        "info": "8 MP (ultrawide)"
+      }
+    ],
+    "codename": "nio",
+    "cpu": "Kryo 585",
+    "cpu_cores": "8",
+    "cpu_freq": "1 x 3.2 GHz + 3 x 2.42 GHz + 4 x 1.8 GHz",
+    "gpu": "Adreno 650",
+    "name": "Edge S / Moto G100",
+    "network": [
+      "2G GSM",
+      "2G CDMA",
+      "3G UMTS",
+      "3G CDMA2000",
+      "4G LTE",
+      "5G"
+    ],
+    "peripherals": [
+      "A-GPS",
+      "Accelerometer",
+      "Compass",
+      "Depth Sensor",
+      "Dual SIM",
+      "Fingerprint reader",
+      "BeiDou",
+      "Galileo",
+      "GLONASS",
+      "GPS",
+      "Gyroscope",
+      "HDMI",
+      "Hall effect sensor",
+      "Light sensor",
+      "NFC",
+      "Pedometer",
+      "Proximity sensor",
+      "Sensor hub",
+      "USB OTG",
+      "Wi-Fi Display"
+    ],
+    "ram": "6/8 GB LPDDR5",
+    "release": "2021-02",
+    "screen": {
+      "density": 409,
+      "resolution": "1080x2520",
+      "size": "170.18 mm (6.7 in)",
+      "technology": "IPS LCD"
+    },
+    "screen_res": "?",
+    "screen_tech": "?",
+    "sdcard": {
+      "sizeMax": "1 TB"
+    },
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "tree": "android_device_motorola_nio",
+    "vendor": "Motorola",
+    "versions": [
+      18.1
+    ],
+    "wifi": "802.11 a/b/g/n/ac/ax, Dual-band, Wi-Fi Direct, Hotspot"
+  },
   "nx512j": {
     "architecture": "arm64",
     "battery": {
