@@ -16289,7 +16289,8 @@
     "versions": [
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"
   },
@@ -20577,7 +20578,8 @@
     "versions": [
       15.1,
       16.0,
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"
   },
