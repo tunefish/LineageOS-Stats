@@ -6866,10 +6866,7 @@
     },
     "screen_res": "?",
     "screen_tech": "?",
-    "sdcard": {
-      "sizeMax": "256 GB",
-      "slot": "hybrid"
-    },
+    "sdcard": "?",
     "soc": "Qualcomm SDM845 Snapdragon 845",
     "tree": "android_device_xiaomi_dipper",
     "vendor": "Xiaomi",
