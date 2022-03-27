@@ -8732,7 +8732,8 @@
     "tree": "android_device_xiaomi_ginkgo",
     "vendor": "Xiaomi",
     "versions": [
-      17.1
+      17.1,
+      18.1
     ],
     "wifi": "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
   },
